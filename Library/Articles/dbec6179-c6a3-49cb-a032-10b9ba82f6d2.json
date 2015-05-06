@@ -1,0 +1,56 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "dbec6179-c6a3-49cb-a032-10b9ba82f6d2"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "Using the TEAM Mentor Eclipse Plugin for Fortify"
+        ],
+        "Category": [
+          "User Guide"
+        ],
+        "Phase": [
+          "NA"
+        ],
+        "Technology": [
+          "Eclipse Plugin"
+        ],
+        "Type": [
+          "Documentation"
+        ],
+        "DirectLink": [
+          "Using the TEAM Mentor Eclipse Plugin for Fortify"
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "wikitext"
+        },
+        "Data": [
+          "Open Fortify Perspective and Findings\\\\\nIn this example we have a project with a simple, vulnerable, application. \n*Analyze the project by going to HP Fortify->Analyze Project \\\\\nor \\\\\n*Open an already saved analysis by going to HP Fortify -> Load Saved Audit Project or HP Fortify -> Open Audit Project \\\\\nThis brings up the Fortify Audit perspective \\\\ \\\\\n{{/Image/ecusn1.jpg}} \\\\ \n\nAs you can see TEAM Mentor guidance is automatically displayed whenever a Fortify finding is selected in the SCA Analysis Results view. \n\n\n\n"
+        ]
+      }
+    ]
+  }
+}

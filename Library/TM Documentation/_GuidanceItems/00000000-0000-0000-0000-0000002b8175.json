@@ -1,0 +1,56 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "00000000-0000-0000-0000-0000002b8175"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "TEAM Mentor Wiki Markup"
+        ],
+        "Category": [
+          "Editing"
+        ],
+        "Phase": [
+          "NA"
+        ],
+        "Technology": [
+          "TEAM Mentor"
+        ],
+        "Type": [
+          "Documentation"
+        ],
+        "DirectLink": [
+          "TEAM Mentor Wiki Markup"
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "html"
+        },
+        "Data": [
+          "<p>TEAM Mentor supports WikiCreole as its markup language for editing WikiText type articles. WikiCreole was developed by taking multiple wiki markup languages and choosing the best of the breed. &amp;nbsp;By using this easy to understand language, TEAM Mentor allows wider audiences, including users that don’t have explicit TEAM Mentor training, to contribute their knowledge.&amp;nbsp;</p>\n  <p>\n    <img src=\"/Image/tmwikimarkup-img01.jpg\" />\n  </p>\n  <h1>Related Items&amp;nbsp;</h1>\n  <div>\n    <div>For more in-depth information on WikiCreole language see:</div>\n    <div>\n      <a href=\"http://wikicreole.org/wiki/Creole1.0\">http://wikicreole.org/wiki/Creole1.0</a>\n    </div>\n  </div>\n  <div>\n    <br />\n  </div>"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,739 @@
+{
+  "id": "1eda3d77-43e0-474b-be99-9ba118408dd3",
+  "checksum": "01a669431da14ebe887e87a26b30b0edcb12b2a3",
+  "words": {
+    "welcome": [
+      "p",
+      "strong"
+    ],
+    "to": [
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "title"
+    ],
+    "team": [
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "title"
+    ],
+    "mentor": [
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "title"
+    ],
+    "is": [
+      "p",
+      "p",
+      "p"
+    ],
+    "an": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "interactive": [
+      "p"
+    ],
+    "application": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "security": [
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "library": [
+      "p"
+    ],
+    "also": [
+      "p"
+    ],
+    "referred": [
+      "p"
+    ],
+    "as": [
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "a": [
+      "p",
+      "ul",
+      "li",
+      "p"
+    ],
+    "knowledge": [
+      "p"
+    ],
+    "base": [
+      "p"
+    ],
+    "or": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "kb": [
+      "p"
+    ],
+    "containing": [
+      "p"
+    ],
+    "thousands": [
+      "p"
+    ],
+    "of": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "articles": [
+      "p"
+    ],
+    "that": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "describe": [
+      "p"
+    ],
+    "how": [
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "implement": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "controls": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "prevent": [
+      "p",
+      "p"
+    ],
+    "vulnerabilities": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "during": [
+      "p",
+      "p"
+    ],
+    "development": [
+      "p",
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "preventing": [
+      "p",
+      "p"
+    ],
+    "the": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "most": [
+      "p"
+    ],
+    "cost": [
+      "p"
+    ],
+    "effective": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "way": [
+      "p"
+    ],
+    "deal": [
+      "p"
+    ],
+    "with": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "software": [
+      "p",
+      "p"
+    ],
+    "–": [
+      "p"
+    ],
+    "by": [
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "them": [
+      "p"
+    ],
+    "in": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "first": [
+      "p"
+    ],
+    "place\nto": [
+      "p"
+    ],
+    "reduce": [
+      "p"
+    ],
+    "risk": [
+      "p"
+    ],
+    "introducing": [
+      "p"
+    ],
+    "use": [
+      "p",
+      "p"
+    ],
+    "for": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "reference": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "throughout": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "entire": [
+      "p"
+    ],
+    "lifecycle": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "exact": [
+      "p"
+    ],
+    "approach": [
+      "p"
+    ],
+    "different": [
+      "p",
+      "p"
+    ],
+    "applications": [
+      "p"
+    ],
+    "so": [
+      "p"
+    ],
+    "you": [
+      "p"
+    ],
+    "will": [
+      "p"
+    ],
+    "need": [
+      "p"
+    ],
+    "examine": [
+      "p"
+    ],
+    "your": [
+      "p",
+      "p",
+      "p"
+    ],
+    "application’s": [
+      "p"
+    ],
+    "architecture": [
+      "p"
+    ],
+    "identify": [
+      "p"
+    ],
+    "are": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "relevant": [
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "particular": [
+      "p"
+    ],
+    "once": [
+      "p"
+    ],
+    "have": [
+      "p",
+      "p"
+    ],
+    "been": [
+      "p",
+      "p"
+    ],
+    "identified": [
+      "p"
+    ],
+    "find": [
+      "p"
+    ],
+    "guidance": [
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "implementing": [
+      "p"
+    ],
+    "those": [
+      "p"
+    ],
+    "increase": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "level": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "assurance": [
+      "p"
+    ],
+    "look": [
+      "p",
+      "p"
+    ],
+    "at": [
+      "p",
+      "p"
+    ],
+    "list": [
+      "p"
+    ],
+    "common": [
+      "p"
+    ],
+    "described": [
+      "p",
+      "p"
+    ],
+    "review": [
+      "p"
+    ],
+    "describes": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "these": [
+      "p"
+    ],
+    "and": [
+      "p"
+    ],
+    "then": [
+      "p"
+    ],
+    "verify": [
+      "p"
+    ],
+    "implemented": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "successfully": [
+      "p"
+    ],
+    "application\nteam": [
+      "p"
+    ],
+    "can": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "be": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "used": [
+      "p"
+    ],
+    "multiple": [
+      "p"
+    ],
+    "ways": [
+      "p"
+    ],
+    "being": [
+      "ul",
+      "li"
+    ],
+    "applied": [
+      "ul",
+      "li"
+    ],
+    "effectively\nintegrated": [
+      "ul"
+    ],
+    "hp": [
+      "ul",
+      "li"
+    ],
+    "fortify": [
+      "ul",
+      "li"
+    ],
+    "checkmarx": [
+      "ul",
+      "li"
+    ],
+    "catnet": [
+      "ul",
+      "li"
+    ],
+    "static": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "code": [
+      "ul",
+      "li"
+    ],
+    "analysis": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "tools": [
+      "ul",
+      "li"
+    ],
+    "this": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "scenario": [
+      "ul",
+      "li"
+    ],
+    "report": [
+      "ul",
+      "li"
+    ],
+    "produced": [
+      "ul",
+      "li"
+    ],
+    "tool": [
+      "ul",
+      "li"
+    ],
+    "provides": [
+      "ul",
+      "li"
+    ],
+    "links": [
+      "ul",
+      "li"
+    ],
+    "remove": [
+      "ul",
+      "li"
+    ],
+    "vulnerability\nbrowsing": [
+      "ul"
+    ],
+    "content": [
+      "ul",
+      "li"
+    ],
+    "skill": [
+      "ul",
+      "li"
+    ],
+    "developers": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "libraries": [
+      "ul",
+      "li"
+    ],
+    "offer": [
+      "ul",
+      "li"
+    ],
+    "overview": [
+      "ul",
+      "li"
+    ],
+    "currently": [
+      "ul",
+      "li"
+    ],
+    "available": [
+      "ul",
+      "li"
+    ],
+    "information": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "view": [
+      "ul",
+      "li"
+    ],
+    "their": [
+      "ul",
+      "li"
+    ],
+    "overall": [
+      "ul",
+      "li"
+    ],
+    "understanding": [
+      "ul",
+      "li"
+    ],
+    "increases": [
+      "ul",
+      "li"
+    ],
+    "effectively": [
+      "li"
+    ],
+    "integrated": [
+      "li"
+    ],
+    "vulnerability": [
+      "li"
+    ],
+    "browsing": [
+      "li"
+    ],
+    "please": [
+      "p"
+    ],
+    "take": [
+      "p"
+    ],
+    "our": [
+      "p"
+    ],
+    "quick": [
+      "p",
+      "p",
+      "a"
+    ],
+    "start": [
+      "p",
+      "a"
+    ],
+    "guide": [
+      "p",
+      "a"
+    ],
+    "tips": [
+      "p"
+    ],
+    "on": [
+      "p"
+    ],
+    "getting": [
+      "p"
+    ],
+    "started": [
+      "p"
+    ],
+    "introduction": [
+      "title"
+    ]
+  },
+  "tags": {
+    "p": [
+      "Welcome to TEAM Mentor.",
+      "TEAM Mentor is an interactive Application Security library (also referred to as a knowledge base or KB) containing thousands of articles that describe how to implement Application Security controls to prevent vulnerabilities during application development. Preventing vulnerabilities during development is the most cost effective way to deal with software vulnerabilities – by preventing them in the first place.\nTo reduce the risk of introducing software vulnerabilities, use TEAM Mentor for reference throughout the entire development lifecycle. The exact approach is different for different applications, so you will need to examine your application’s architecture to identify the application security controls that are relevant to your particular application. Once the relevant controls have been identified, use TEAM Mentor to find the guidance for implementing those controls. To increase the level of assurance, look at the list of common vulnerabilities described in TEAM Mentor, review the guidance that describes how to prevent these vulnerabilities, and then verify that the controls described by the guidance have been implemented successfully in your application.\nTEAM Mentor can be used in multiple ways:",
+      "Please take a look at our Quick Start Guide for quick tips on getting started."
+    ],
+    "strong": [
+      "Welcome to TEAM Mentor."
+    ],
+    "br": [
+      ""
+    ],
+    "ul": [
+      "As a reference throughout the application development lifecycle. As application security controls are being implemented, TEAM Mentor guidance can be applied to implement the controls effectively.\nIntegrated with HP Fortify, Checkmarx or Cat.Net static code analysis tools. In this scenario, the report produced by the static analysis tool provides links to the relevant TEAM Mentor guidance that describes how to remove the vulnerability.\nBrowsing content to increase the skill level of the developers. TEAM Mentor libraries offer an effective overview of the currently available information security controls. As developers view this information, their overall understanding of application security controls increases."
+    ],
+    "li": [
+      "As a reference throughout the application development lifecycle. As application security controls are being implemented, TEAM Mentor guidance can be applied to implement the controls effectively.",
+      "Integrated with HP Fortify, Checkmarx or Cat.Net static code analysis tools. In this scenario, the report produced by the static analysis tool provides links to the relevant TEAM Mentor guidance that describes how to remove the vulnerability.",
+      "Browsing content to increase the skill level of the developers. TEAM Mentor libraries offer an effective overview of the currently available information security controls. As developers view this information, their overall understanding of application security controls increases."
+    ],
+    "a": [
+      "Quick Start Guide"
+    ]
+  },
+  "links": [
+    {
+      "href": "/article/0bfb008b-49c8-4526-bb6a-0a21d01eeb0e",
+      "text": "Quick Start Guide"
+    }
+  ],
+  "html": "<p><strong>Welcome to TEAM Mentor.</strong> <br>\n</p><p>\nTEAM Mentor is an interactive Application Security library (also referred to as a knowledge base or KB) containing thousands of articles that describe how to implement Application Security controls to prevent vulnerabilities during application development. Preventing vulnerabilities during development is the most cost effective way to deal with software vulnerabilities – by preventing them in the first place.\nTo reduce the risk of introducing software vulnerabilities, use TEAM Mentor for reference throughout the entire development lifecycle. The exact approach is different for different applications, so you will need to examine your application’s architecture to identify the application security controls that are relevant to your particular application. Once the relevant controls have been identified, use TEAM Mentor to find the guidance for implementing those controls. To increase the level of assurance, look at the list of common vulnerabilities described in TEAM Mentor, review the guidance that describes how to prevent these vulnerabilities, and then verify that the controls described by the guidance have been implemented successfully in your application.\nTEAM Mentor can be used in multiple ways:</p><ul>\n<li>As a reference throughout the application development lifecycle. As application security controls are being implemented, TEAM Mentor guidance can be applied to implement the controls effectively.</li>\n<li>Integrated with HP Fortify, Checkmarx or Cat.Net static code analysis tools. In this scenario, the report produced by the static analysis tool provides links to the relevant TEAM Mentor guidance that describes how to remove the vulnerability.</li>\n<li>Browsing content to increase the skill level of the developers. TEAM Mentor libraries offer an effective overview of the currently available information security controls. As developers view this information, their overall understanding of application security controls increases.</li>\n</ul><p>\nPlease take a look at our <a href=\"/article/0bfb008b-49c8-4526-bb6a-0a21d01eeb0e\">Quick Start Guide</a> for quick tips on getting started.\n</p>"
+}

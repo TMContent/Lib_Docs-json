@@ -1,0 +1,15 @@
+{
+  "id": "00000000-0000-0000-0000-0000006c87b2",
+  "checksum": "418d52b25516634d1af13943b2e085ee5e1946a1",
+  "words": {
+    "preview": [
+      "title"
+    ],
+    "pane": [
+      "title"
+    ]
+  },
+  "tags": {},
+  "links": [],
+  "html": "The preview pane displays the content of the currently selected article in the list. The purpose of the preview pane is to give the user an idea of what's inside while browsing the list to help find the right article.&nbsp;"
+}

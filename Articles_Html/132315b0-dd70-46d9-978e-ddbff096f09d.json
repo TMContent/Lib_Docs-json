@@ -1,0 +1,272 @@
+{
+  "id": "132315b0-dd70-46d9-978e-ddbff096f09d",
+  "checksum": "18afd5600fcd2e2f6c0ff40b9f61f0151e46c87d",
+  "words": {
+    "user_": [
+      "p",
+      "em"
+    ],
+    "data": [
+      "p",
+      "em"
+    ],
+    "directory": [
+      "p",
+      "p",
+      "p"
+    ],
+    "contains": [
+      "p"
+    ],
+    "information": [
+      "p",
+      "p",
+      "p"
+    ],
+    "about": [
+      "p"
+    ],
+    "user": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "credentials": [
+      "p"
+    ],
+    "and": [
+      "p",
+      "p"
+    ],
+    "configuration": [
+      "p",
+      "p",
+      "p"
+    ],
+    "of": [
+      "p",
+      "p"
+    ],
+    "this": [
+      "p",
+      "p",
+      "p"
+    ],
+    "instance": [
+      "p"
+    ],
+    "tm": [
+      "p"
+    ],
+    "if": [
+      "p"
+    ],
+    "enabled": [
+      "p"
+    ],
+    "for": [
+      "p",
+      "p",
+      "p"
+    ],
+    "user_data": [
+      "p",
+      "p",
+      "p",
+      "em",
+      "em",
+      "title"
+    ],
+    "team": [
+      "p"
+    ],
+    "mentor": [
+      "p"
+    ],
+    "will": [
+      "p",
+      "p",
+      "p"
+    ],
+    "automatically": [
+      "p"
+    ],
+    "create": [
+      "p",
+      "p"
+    ],
+    "a": [
+      "p"
+    ],
+    "git": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "title"
+    ],
+    "commit": [
+      "p"
+    ],
+    "every": [
+      "p"
+    ],
+    "change": [
+      "p",
+      "p"
+    ],
+    "to": [
+      "p",
+      "p",
+      "p"
+    ],
+    "includes": [
+      "p"
+    ],
+    "creation": [
+      "p"
+    ],
+    "deletion": [
+      "p"
+    ],
+    "in": [
+      "p",
+      "p"
+    ],
+    "activity": [
+      "p"
+    ],
+    "as": [
+      "p",
+      "p"
+    ],
+    "well": [
+      "p"
+    ],
+    "changes": [
+      "p"
+    ],
+    "by": [
+      "p"
+    ],
+    "default": [
+      "p"
+    ],
+    "integration": [
+      "p",
+      "p"
+    ],
+    "is": [
+      "p"
+    ],
+    "switched": [
+      "p"
+    ],
+    "off": [
+      "p"
+    ],
+    "enable": [
+      "p"
+    ],
+    "add": [
+      "p"
+    ],
+    "the": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "following": [
+      "p"
+    ],
+    "line": [
+      "p"
+    ],
+    "library_data\\xmldatabase\\user_data\\tmconfigconfig": [
+      "p",
+      "em"
+    ],
+    "file": [
+      "p"
+    ],
+    "between": [
+      "p"
+    ],
+    "git>": [
+      "p",
+      "em",
+      "pre"
+    ],
+    "/git>": [
+      "p",
+      "em",
+      "pre"
+    ],
+    "tags": [
+      "p"
+    ],
+    "autocommit_userdata>true</autocommit_userdata>": [
+      "pre"
+    ],
+    "under": [
+      "p"
+    ],
+    "\\library_data\\xmldatabase\\user_data": [
+      "p",
+      "em"
+    ],
+    "please": [
+      "p"
+    ],
+    "note": [
+      "p"
+    ],
+    "that": [
+      "p"
+    ],
+    "commits": [
+      "p"
+    ],
+    "remain": [
+      "p"
+    ],
+    "local": [
+      "p"
+    ],
+    "support": [
+      "title"
+    ]
+  },
+  "tags": {
+    "p": [
+      "User_ Data directory contains information about user credentials and configuration of this instance of TM.",
+      "",
+      "If enabled for User_Data, TEAM Mentor will automatically create a git commit for every change to user information. This includes user creation, deletion, change in user information and user activity as well as configuration changes.  By default User_Data git integration is switched off.  To enable git integration for User_Data add the following line to the Library_Data\\XmlDatabase\\User_Data\\TmConfig.config configuration file in between the <Git> </Git>  tags.",
+      "This will create the .git directory under \\Library_Data\\XmlDatabase\\User_Data directory.",
+      "",
+      "Please note that the git commits will remain local."
+    ],
+    "em": [
+      "User_ Data",
+      "User_Data",
+      "User_Data",
+      "Library_Data\\XmlDatabase\\User_Data\\TmConfig.config",
+      "<Git> </Git>",
+      "\\Library_Data\\XmlDatabase\\User_Data"
+    ],
+    "img": [
+      "",
+      ""
+    ],
+    "pre": [
+      "<Git>\n    <AutoCommit_UserData>true</AutoCommit_UserData>\n  </Git>"
+    ]
+  },
+  "links": [],
+  "html": "<p><em>User_ Data</em> directory contains information about user credentials and configuration of this instance of TM.\n</p><p>\n<img src=\"/Image/user_datadir1.jpg\">\n</p><p>\nIf enabled for User_Data, TEAM Mentor will automatically create a git commit for every change to user information. This includes user creation, deletion, change in user information and user activity as well as configuration changes.  By default <em>User_Data</em> git integration is switched off.  To enable git integration for <em>User_Data</em> add the following line to the <em>Library_Data\\XmlDatabase\\User_Data\\TmConfig.config</em> configuration file in between the <em>&lt;Git&gt; &lt;/Git&gt;</em>  tags.\n</p><pre>   &lt;Git&gt;\n    &lt;AutoCommit_UserData&gt;true&lt;/AutoCommit_UserData&gt;\n  &lt;/Git&gt;\n</pre><p>\nThis will create the .git directory under <em>\\Library_Data\\XmlDatabase\\User_Data</em> directory. \n</p><p>\n<img src=\"/Image/gitUser_DataDir1.jpg\">\n</p><p>\nPlease note that the git commits will remain local. \n</p>\n\n"
+}

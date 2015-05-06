@@ -1,0 +1,654 @@
+{
+  "id": "32a7e94c-5a14-4619-82aa-be368502f0dc",
+  "checksum": "04381fefdf01c8e580749e00f58caa9d6c4b653a",
+  "words": {
+    "30": [
+      "p"
+    ],
+    "this": [
+      "p"
+    ],
+    "article": [
+      "p",
+      "p",
+      "title"
+    ],
+    "shows": [
+      "p"
+    ],
+    "a": [
+      "p",
+      "h3",
+      "h3"
+    ],
+    "script": [
+      "p",
+      "h3"
+    ],
+    "that": [
+      "p",
+      "p",
+      "h3"
+    ],
+    "was": [
+      "p"
+    ],
+    "used": [
+      "p"
+    ],
+    "on": [
+      "p",
+      "h3"
+    ],
+    "the": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "release": [
+      "p"
+    ],
+    "to": [
+      "p",
+      "p",
+      "h3"
+    ],
+    "fix": [
+      "p",
+      "h3",
+      "title"
+    ],
+    "'duplicate": [
+      "p"
+    ],
+    "libraries": [
+      "p",
+      "p"
+    ],
+    "issue'": [
+      "p"
+    ],
+    "found": [
+      "p",
+      "pre",
+      "pre"
+    ],
+    "after": [
+      "p"
+    ],
+    "importing": [
+      "p"
+    ],
+    "multiple": [
+      "p",
+      "p"
+    ],
+    "have": [
+      "p"
+    ],
+    "with": [
+      "p"
+    ],
+    "same": [
+      "p"
+    ],
+    "guid": [
+      "p",
+      "pre"
+    ],
+    "first": [
+      "p"
+    ],
+    "code": [
+      "p"
+    ],
+    "samples": [
+      "p"
+    ],
+    "show": [
+      "p"
+    ],
+    "how": [
+      "p"
+    ],
+    "access": [
+      "p"
+    ],
+    "webservices": [
+      "p",
+      "p"
+    ],
+    "via": [
+      "p",
+      "pre"
+    ],
+    "c#": [
+      "p"
+    ],
+    "file": [
+      "p"
+    ],
+    "created": [
+      "p",
+      "title"
+    ],
+    "from": [
+      "p"
+    ],
+    "wsdl": [
+      "p"
+    ],
+    "get": [
+      "h3",
+      "h3"
+    ],
+    "guidanceitems": [
+      "h3",
+      "pre",
+      "pre"
+    ],
+    "and": [
+      "h3"
+    ],
+    "list": [
+      "h3",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "them": [
+      "h3"
+    ],
+    "treeview": [
+      "h3",
+      "pre"
+    ],
+    "var": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "tmwebservices": [
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "=": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "new": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "tm_webservices);\n\nvar": [
+      "pre",
+      "pre"
+    ],
+    "libraryname": [
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "\"net": [
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "35\";\n\nvar": [
+      "pre"
+    ],
+    "library": [
+      "pre",
+      "h3",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "title"
+    ],
+    "tmwebservicesgetlibrarybyname(libraryname);\nvar": [
+      "pre"
+    ],
+    "tmwebservicesgetguidanceitemsinlibrary(library.id.guid());\n\nvar": [
+      "pre",
+      "pre"
+    ],
+    "mappeditems": [
+      "pre"
+    ],
+    "dictionary": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "string": [
+      "pre"
+    ],
+    "tm_guidanceitem>();\n\nforeach(var": [
+      "pre"
+    ],
+    "guidanceitem": [
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "in": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "guidanceitems\n\tmappeditems.add(guidanceitem.title,": [
+      "pre"
+    ],
+    "guidanceitem;\n\t\nvar": [
+      "pre"
+    ],
+    "panelclear().add_treeview_with_propertygrid(false).sort();\nforeach(var": [
+      "pre"
+    ],
+    "mappeditem": [
+      "pre"
+    ],
+    "mappeditems\n\ttreeview.add_node(mappeditem.key)": [
+      "pre"
+    ],
+    "add_nodes(mappeditem.value);\n\t\n//return": [
+      "pre"
+    ],
+    "mappeditems\n\n//using": [
+      "pre"
+    ],
+    "o2securityinnovation.team": [
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "mentor//o2file:tm_webservices.cs\n//o2file:test_tm_config.cs\n//o2ref:system.web.services.dll": [
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "all": [
+      "h3"
+    ],
+    "views": [
+      "h3",
+      "pre",
+      "pre"
+    ],
+    "belong": [
+      "h3"
+    ],
+    "particular": [
+      "h3"
+    ],
+    "35\";\nvar": [
+      "pre"
+    ],
+    "libraryid": [
+      "pre",
+      "pre"
+    ],
+    "\"92718d53-36b2-47bc-b6f5-e60994385f46\"guid();": [
+      "pre",
+      "pre"
+    ],
+    "tmwebservicesgetlibrarybyname(libraryname);\n\nvar": [
+      "pre",
+      "pre"
+    ],
+    "tmwebservicesgetallviews();\nvar": [
+      "pre",
+      "pre"
+    ],
+    "viewsbylibrary": [
+      "pre",
+      "pre"
+    ],
+    "guidlist<": [
+      "pre",
+      "pre"
+    ],
+    "view_v3>();\nforeach(var": [
+      "pre",
+      "pre"
+    ],
+    "view": [
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "views\n\tviewsbylibrary.add(view.libraryid,": [
+      "pre",
+      "pre"
+    ],
+    "view;\n\nreturn": [
+      "pre"
+    ],
+    "viewsbylibrarylibraryid];\n\n//using": [
+      "pre"
+    ],
+    "complete": [
+      "h3"
+    ],
+    "duplicate": [
+      "h3",
+      "title"
+    ],
+    "guids": [
+      "h3",
+      "title"
+    ],
+    "tm_webservices);\n\naction<": [
+      "pre"
+    ],
+    "stringstring>": [
+      "pre"
+    ],
+    "login_as_user": [
+      "pre"
+    ],
+    "username,": [
+      "pre"
+    ],
+    "passwordhash=>{\t\t\n\t\t\t\t\ttmwebservices.cookiecontainer": [
+      "pre"
+    ],
+    "systemnet.cookiecontainer();\n\t\t\t\t\ttmwebservices.url": [
+      "pre"
+    ],
+    "test_tmtmwebservices;\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\tvar": [
+      "pre"
+    ],
+    "sessionid": [
+      "pre"
+    ],
+    "tmwebserviceslogin(username,": [
+      "pre"
+    ],
+    "passwordhash;\n\t\t\t\t};\n\nlogin_as_user(\"editor\",": [
+      "pre"
+    ],
+    "test_tmpasswordhash_editor);": [
+      "pre"
+    ],
+    "//var": [
+      "pre",
+      "pre"
+    ],
+    "35\";\n//var": [
+      "pre"
+    ],
+    "view;\n\nforeach(var": [
+      "pre"
+    ],
+    "tmwebservicesgetlibraries())\n{\n\t\">": [
+      "pre"
+    ],
+    "mapping": [
+      "pre"
+    ],
+    "{0}": [
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "\"info(library.caption);\t\n\t\n\tvar": [
+      "pre"
+    ],
+    "guidanceitemsinlibrary": [
+      "pre"
+    ],
+    "tmwebservicesgetguidanceitemsinlibrary(library.id).tolist();": [
+      "pre"
+    ],
+    "guidanceitemsbyid": [
+      "pre"
+    ],
+    "guidtm_guidanceitem>();\n\tforeach(var": [
+      "pre"
+    ],
+    "guidanceitemsinlibrary\n\t\tguidanceitemsbyid.add(guidanceitem.id,guidanceitem);\n\t\n\tvar": [
+      "pre"
+    ],
+    "guidanceitems_original_byid": [
+      "pre"
+    ],
+    "guidguid>();\n\tforeach(var": [
+      "pre"
+    ],
+    "guidanceitemsinlibrary\n\t\tif": [
+      "pre"
+    ],
+    "guidanceitem.id_original": [
+      "pre"
+    ],
+    "!=": [
+      "pre"
+    ],
+    "guidempty)\n\t\t\tguidanceitems_original_byid.add(guidanceitem.id_original,guidanceitem.id);": [
+      "pre"
+    ],
+    "viewsinlibrary": [
+      "pre"
+    ],
+    "viewsbylibrarylibrary.id];": [
+      "pre"
+    ],
+    "foreachvar": [
+      "pre"
+    ],
+    "viewinlibrary": [
+      "pre"
+    ],
+    "viewsinlibrary\n\t{\n\t\t\"mapping": [
+      "pre"
+    ],
+    "\"info(viewinlibrary.caption);\t\n\t\t\n\t\tvar": [
+      "pre"
+    ],
+    "guidanceitemstoadd": [
+      "pre"
+    ],
+    "guid();\n\t\tvar": [
+      "pre"
+    ],
+    "guidanceitemstoremove": [
+      "pre"
+    ],
+    "guid();\n\t\t\n\t\tforeach(var": [
+      "pre"
+    ],
+    "viewinlibraryguidanceitems.tolist())\n\t\t\tif(guidanceitemsbyid.haskey(guid).isfalse())\t\t\n\t\t\t{\n\t\t\t\tif": [
+      "pre"
+    ],
+    "guidanceitems_original_byid.haskey(guid))\n\t\t\t\t{\n\t\t\t\t\tvar": [
+      "pre"
+    ],
+    "originalguid": [
+      "pre"
+    ],
+    "guidanceitems_original_byidguid];\n\t\t//\t\t\t\"*****": [
+      "pre"
+    ],
+    "ok": [
+      "pre"
+    ],
+    "original": [
+      "pre"
+    ],
+    "-": [
+      "pre",
+      "title"
+    ],
+    "{1}\"debug(guid,": [
+      "pre"
+    ],
+    "originalguid;\n\t\t\t\t\tguidanceitemstoadd.add(originalguid);\n\t\t\t\t\tguidanceitemstoremove.add(guid);\t\t\t\n\t\t\t\t}\n\t\t\t\telse": [
+      "pre"
+    ],
+    "\"******guidanceitem": [
+      "pre"
+    ],
+    "not": [
+      "pre"
+    ],
+    "{0}\"error(guid);\n\t\t\t}\n\t\t\t\n\t\tif": [
+      "pre"
+    ],
+    "guidanceitemstoadd.size()": [
+      "pre"
+    ],
+    "0\n\t\t{\n\t\t\tvar": [
+      "pre"
+    ],
+    "result1": [
+      "pre"
+    ],
+    "tmwebservicesremoveguidanceitemsfromview(\tviewinlibrary.viewid,": [
+      "pre"
+    ],
+    "guidanceitemstoremovetoarray());\n\t\t\tvar": [
+      "pre"
+    ],
+    "result2": [
+      "pre",
+      "pre"
+    ],
+    "tmwebservicesaddguidanceitemstoview(\tviewinlibrary.viewid,": [
+      "pre"
+    ],
+    "guidanceitemstoaddtoarray());": [
+      "pre"
+    ],
+    "\"": [
+      "pre"
+    ],
+    "save": [
+      "pre"
+    ],
+    "result": [
+      "pre"
+    ],
+    "{1}": [
+      "pre"
+    ],
+    "removed": [
+      "pre"
+    ],
+    "{2}": [
+      "pre"
+    ],
+    "added": [
+      "pre"
+    ],
+    "{3}\"debug(result1,": [
+      "pre"
+    ],
+    "guidanceitemstoremovesize(),": [
+      "pre"
+    ],
+    "guidanceitemstoaddsize());\n\t\t}\n\t}": [
+      "pre"
+    ],
+    "}": [
+      "pre"
+    ],
+    "return": [
+      "pre"
+    ],
+    "\"all": [
+      "pre"
+    ],
+    "done\"\n\n//using": [
+      "pre"
+    ],
+    "case": [
+      "title"
+    ],
+    "study": [
+      "title"
+    ],
+    "by": [
+      "title"
+    ],
+    "split": [
+      "title"
+    ]
+  },
+  "tags": {
+    "p": [
+      "This article shows a script that was used on the 3.0 release to fix the 'duplicate libraries issue' found after importing multiple libraries that have multiple Article with the same GUID.",
+      "The first code samples show how to access the WebServices via the C# file created from the WebServices WSDL"
+    ],
+    "h3": [
+      "Get guidanceItems and list them on a treeview",
+      "Get all views that belong a particular library",
+      "Complete script (to fix duplicate GUIDs"
+    ],
+    "pre": [
+      "var tmWebServices = new TM_WebServices();\n\nvar libraryName = \".NET 3.5\";\n\nvar library = tmWebServices.GetLibraryByName(libraryName);\nvar guidanceItems = tmWebServices.GetGuidanceItemsInLibrary(library.id.guid());\n\nvar mappedItems = new Dictionary< string, List< TM_GuidanceItem>>();\n\nforeach(var guidanceItem in guidanceItems)\n\tmappedItems.add(guidanceItem.Title, guidanceItem);\n\t\nvar treeView = panel.clear().add_TreeView_with_PropertyGrid(false).sort();\nforeach(var mappedItem in mappedItems)\n\ttreeView.add_Node(mappedItem.Key)\n\t\t\t .add_Nodes(mappedItem.Value);\n\t\n//return mappedItems;\n\n//using O2.SecurityInnovation.TEAM Mentor\n//O2File:TM_WebServices.cs\n//O2File:Test_TM_Config.cs\n//O2Ref:System.Web.Services.dll",
+      "var tmWebServices = new TM_WebServices();\n\nvar libraryName = \".NET 3.5\";\nvar libraryId = \"92718d53-36b2-47bc-b6f5-e60994385f46\".guid();\n \nvar library = tmWebServices.GetLibraryByName(libraryName);\n\nvar guidanceItems = tmWebServices.GetGuidanceItemsInLibrary(library.id.guid());\n\nvar views = tmWebServices.GetAllViews();\nvar viewsByLibrary = new Dictionary< Guid,List< View_V3>>();\nforeach(var view in views)\n\tviewsByLibrary.add(view.libraryId, view);\n\nreturn viewsByLibrary[libraryId];\n\n//using O2.SecurityInnovation.TEAM Mentor\n//O2File:TM_WebServices.cs\n//O2File:Test_TM_Config.cs\n//O2Ref:System.Web.Services.dll",
+      "var tmWebServices = new TM_WebServices();\n\nAction< string,string> login_as_user = \n\t(username, passwordHash)=>{\t\t\n\t\t\t\t\ttmWebServices.CookieContainer = new System.Net.CookieContainer();\n\t\t\t\t\ttmWebServices.Url \t\t\t = Test_TM.tmWebServices;\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\tvar sessionID  \t\t\t\t =  tmWebServices.Login(username, passwordHash);\n\t\t\t\t};\n\nlogin_as_user(\"editor\", Test_TM.passwordHash_Editor);    \n\n\n//var libraryName = \".NET 3.5\";\n//var libraryId = \"92718d53-36b2-47bc-b6f5-e60994385f46\".guid();\n \n//var library = tmWebServices.GetLibraryByName(libraryName);\n\nvar views = tmWebServices.GetAllViews();\nvar viewsByLibrary = new Dictionary< Guid,List< View_V3>>();\nforeach(var view in views)\n\tviewsByLibrary.add(view.libraryId, view);\n\nforeach(var library in tmWebServices.GetLibraries())\n{\n\t\"> Mapping Library: {0} \".info(library.Caption);\t\n\t\n\tvar guidanceItemsInLibrary = tmWebServices.GetGuidanceItemsInLibrary(library.Id).toList(); \n\t\n\tvar guidanceItemsById = new Dictionary< Guid,TM_GuidanceItem>();\n\tforeach(var guidanceItem in guidanceItemsInLibrary)\n\t\tguidanceItemsById.Add(guidanceItem.Id,guidanceItem);\n\t\n\tvar guidanceItems_Original_ById = new Dictionary< Guid,Guid>();\n\tforeach(var guidanceItem in guidanceItemsInLibrary)\n\t\tif (guidanceItem.Id_Original != Guid.Empty)\n\t\t\tguidanceItems_Original_ById.Add(guidanceItem.Id_Original,guidanceItem.Id); \n\t\n\tvar viewsInLibrary = viewsByLibrary[library.Id]; \n\t\n\tforeach(var viewInLibrary in  viewsInLibrary)\n\t{\n\t\t\"Mapping view: {0} \".info(viewInLibrary.caption);\t\n\t\t\n\t\tvar guidanceItemsToAdd = new List< Guid>();\n\t\tvar guidanceItemsToRemove = new List< Guid>();\n\t\t\n\t\tforeach(var guid in viewInLibrary.guidanceItems.toList())\n\t\t\tif(guidanceItemsById.hasKey(guid).isFalse())\t\t\n\t\t\t{\n\t\t\t\tif (guidanceItems_Original_ById.hasKey(guid))\n\t\t\t\t{\n\t\t\t\t\tvar originalGuid = guidanceItems_Original_ById[guid];\n\t\t//\t\t\t\"***** guidanceItem OK via Original found: {0} -> {1}\".debug(guid, originalGuid);\n\t\t\t\t\tguidanceItemsToAdd.Add(originalGuid);\n\t\t\t\t\tguidanceItemsToRemove.Add(guid);\t\t\t\n\t\t\t\t}\n\t\t\t\telse \n\t\t\n\t\t\t\t\t\"******guidanceItem not found: {0}\".error(guid);\n\t\t\t}\n\t\t\t\n\t\tif (guidanceItemsToAdd.size() > 0)\n\t\t{\n\t\t\tvar result1 = tmWebServices.RemoveGuidanceItemsFromView(\tviewInLibrary.viewId, guidanceItemsToRemove.ToArray());\n\t\t\tvar result2 = tmWebServices.AddGuidanceItemsToView(\tviewInLibrary.viewId, guidanceItemsToAdd.ToArray()); \t \n\t\t\t\"   save result: {0} , {1} , removed: {2}, added: {3}\".debug(result1, result2, guidanceItemsToRemove.size(), guidanceItemsToAdd.size());\n\t\t}\n\t}\t\n }\n return \"all Done\";\n\n//using O2.SecurityInnovation.TEAM Mentor\n//O2File:TM_WebServices.cs\n//O2File:Test_TM_Config.cs\n//O2Ref:System.Web.Services.dll"
+    ]
+  },
+  "links": [],
+  "html": "<p>This article shows a script that was used on the 3.0 release to fix the 'duplicate libraries issue' found after importing multiple libraries that have multiple Article with the same GUID.\n</p><p>\nThe first code samples show how to access the WebServices via the C# file created from the WebServices WSDL\n</p><h3>Get guidanceItems and list them on a treeview</h3><pre>var tmWebServices = new TM_WebServices();\n\nvar libraryName = \".NET 3.5\";\n\nvar library = tmWebServices.GetLibraryByName(libraryName);\nvar guidanceItems = tmWebServices.GetGuidanceItemsInLibrary(library.id.guid());\n\nvar mappedItems = new Dictionary&lt; string, List&lt; TM_GuidanceItem&gt;&gt;();\n\nforeach(var guidanceItem in guidanceItems)\n\tmappedItems.add(guidanceItem.Title, guidanceItem);\n\t\nvar treeView = panel.clear().add_TreeView_with_PropertyGrid(false).sort();\nforeach(var mappedItem in mappedItems)\n\ttreeView.add_Node(mappedItem.Key)\n\t\t\t .add_Nodes(mappedItem.Value);\n\t\n//return mappedItems;\n\n//using O2.SecurityInnovation.TEAM Mentor\n//O2File:TM_WebServices.cs\n//O2File:Test_TM_Config.cs\n//O2Ref:System.Web.Services.dll\n</pre><h3>Get all views that belong a particular library</h3><pre>var tmWebServices = new TM_WebServices();\n\nvar libraryName = \".NET 3.5\";\nvar libraryId = \"92718d53-36b2-47bc-b6f5-e60994385f46\".guid();\n \nvar library = tmWebServices.GetLibraryByName(libraryName);\n\nvar guidanceItems = tmWebServices.GetGuidanceItemsInLibrary(library.id.guid());\n\nvar views = tmWebServices.GetAllViews();\nvar viewsByLibrary = new Dictionary&lt; Guid,List&lt; View_V3&gt;&gt;();\nforeach(var view in views)\n\tviewsByLibrary.add(view.libraryId, view);\n\nreturn viewsByLibrary[libraryId];\n\n//using O2.SecurityInnovation.TEAM Mentor\n//O2File:TM_WebServices.cs\n//O2File:Test_TM_Config.cs\n//O2Ref:System.Web.Services.dll\n</pre><h3>Complete script (to fix duplicate GUIDs</h3><pre>var tmWebServices = new TM_WebServices();\n\nAction&lt; string,string&gt; login_as_user = \n\t(username, passwordHash)=&gt;{\t\t\n\t\t\t\t\ttmWebServices.CookieContainer = new System.Net.CookieContainer();\n\t\t\t\t\ttmWebServices.Url \t\t\t = Test_TM.tmWebServices;\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\tvar sessionID  \t\t\t\t =  tmWebServices.Login(username, passwordHash);\n\t\t\t\t};\n\nlogin_as_user(\"editor\", Test_TM.passwordHash_Editor);    \n\n\n//var libraryName = \".NET 3.5\";\n//var libraryId = \"92718d53-36b2-47bc-b6f5-e60994385f46\".guid();\n \n//var library = tmWebServices.GetLibraryByName(libraryName);\n\nvar views = tmWebServices.GetAllViews();\nvar viewsByLibrary = new Dictionary&lt; Guid,List&lt; View_V3&gt;&gt;();\nforeach(var view in views)\n\tviewsByLibrary.add(view.libraryId, view);\n\nforeach(var library in tmWebServices.GetLibraries())\n{\n\t\"&gt; Mapping Library: {0} \".info(library.Caption);\t\n\t\n\tvar guidanceItemsInLibrary = tmWebServices.GetGuidanceItemsInLibrary(library.Id).toList(); \n\t\n\tvar guidanceItemsById = new Dictionary&lt; Guid,TM_GuidanceItem&gt;();\n\tforeach(var guidanceItem in guidanceItemsInLibrary)\n\t\tguidanceItemsById.Add(guidanceItem.Id,guidanceItem);\n\t\n\tvar guidanceItems_Original_ById = new Dictionary&lt; Guid,Guid&gt;();\n\tforeach(var guidanceItem in guidanceItemsInLibrary)\n\t\tif (guidanceItem.Id_Original != Guid.Empty)\n\t\t\tguidanceItems_Original_ById.Add(guidanceItem.Id_Original,guidanceItem.Id); \n\t\n\tvar viewsInLibrary = viewsByLibrary[library.Id]; \n\t\n\tforeach(var viewInLibrary in  viewsInLibrary)\n\t{\n\t\t\"Mapping view: {0} \".info(viewInLibrary.caption);\t\n\t\t\n\t\tvar guidanceItemsToAdd = new List&lt; Guid&gt;();\n\t\tvar guidanceItemsToRemove = new List&lt; Guid&gt;();\n\t\t\n\t\tforeach(var guid in viewInLibrary.guidanceItems.toList())\n\t\t\tif(guidanceItemsById.hasKey(guid).isFalse())\t\t\n\t\t\t{\n\t\t\t\tif (guidanceItems_Original_ById.hasKey(guid))\n\t\t\t\t{\n\t\t\t\t\tvar originalGuid = guidanceItems_Original_ById[guid];\n\t\t//\t\t\t\"***** guidanceItem OK via Original found: {0} -&gt; {1}\".debug(guid, originalGuid);\n\t\t\t\t\tguidanceItemsToAdd.Add(originalGuid);\n\t\t\t\t\tguidanceItemsToRemove.Add(guid);\t\t\t\n\t\t\t\t}\n\t\t\t\telse \n\t\t\n\t\t\t\t\t\"******guidanceItem not found: {0}\".error(guid);\n\t\t\t}\n\t\t\t\n\t\tif (guidanceItemsToAdd.size() &gt; 0)\n\t\t{\n\t\t\tvar result1 = tmWebServices.RemoveGuidanceItemsFromView(\tviewInLibrary.viewId, guidanceItemsToRemove.ToArray());\n\t\t\tvar result2 = tmWebServices.AddGuidanceItemsToView(\tviewInLibrary.viewId, guidanceItemsToAdd.ToArray()); \t \n\t\t\t\"   save result: {0} , {1} , removed: {2}, added: {3}\".debug(result1, result2, guidanceItemsToRemove.size(), guidanceItemsToAdd.size());\n\t\t}\n\t}\t\n }\n return \"all Done\";\n\n//using O2.SecurityInnovation.TEAM Mentor\n//O2File:TM_WebServices.cs\n//O2File:Test_TM_Config.cs\n//O2Ref:System.Web.Services.dll\n</pre>\n"
+}

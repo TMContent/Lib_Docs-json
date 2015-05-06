@@ -1,0 +1,56 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "132315b0-dd70-46d9-978e-ddbff096f09d"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "User_Data Git Support"
+        ],
+        "Category": [
+          "Administration"
+        ],
+        "Phase": [
+          "NA"
+        ],
+        "Technology": [
+          "TEAM Mentor"
+        ],
+        "Type": [
+          "Documentation"
+        ],
+        "DirectLink": [
+          "User_Data Git Support"
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "wikitext"
+        },
+        "Data": [
+          "//User_ Data// directory contains information about user credentials and configuration of this instance of TM.\n\n{{/Image/user_datadir1.jpg}}\n\nIf enabled for User_Data, TEAM Mentor will automatically create a git commit for every change to user information. This includes user creation, deletion, change in user information and user activity as well as configuration changes.  By default //User_Data// git integration is switched off.  To enable git integration for //User_Data// add the following line to the //Library_Data\\XmlDatabase\\User_Data\\TmConfig.config// configuration file in between the //<Git> </Git>//  tags.\n\n{{{\n   <Git>\n    <AutoCommit_UserData>true</AutoCommit_UserData>\n  </Git>\n}}}\n\nThis will create the .git directory under //\\Library_Data\\XmlDatabase\\User_Data// directory. \n\n{{/Image/gitUser_DataDir1.jpg}}\n\nPlease note that the git commits will remain local. \n\n\n"
+        ]
+      }
+    ]
+  }
+}

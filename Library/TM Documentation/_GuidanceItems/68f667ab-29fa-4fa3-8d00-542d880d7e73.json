@@ -1,0 +1,32 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "68f667ab-29fa-4fa3-8d00-542d880d7e73"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "Creating Library, Folder, Views and Articles"
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "wikitext"
+        },
+        "Data": [
+          "The TEAM Mentor client API provides a simple way to create Libraries, Folders, Views and Articles\n\nThe API_TEAM Mentor_Local.cs is a C# file that simplifies the consumption of TEAM Mentor WebServices (for example it automates the set-up of the CSRF token and provides a fluent API to TEAM Mentor exposed Web Methods)\n\n**Requirements**: Windows with .NET 4.0, [[https://github.com/o2platform/O2_Install | O2 Platform]], [[https://github.com/TEAM Mentor/UnitTests | TEAM Mentor Unit Tests]] GitHub Repository\n\n===Get libraries list:===\n{{{\nvar tmLocal = new API_TEAM Mentor_Local(); \nreturn tmLocal.libraries();\n}}}\n\n===get Library details (using name)===\n{{{\nvar tmLocal = new API_TEAM Mentor_Local(); \nreturn tmLocal.library(\"OWASP\");  \n}}}\n\n===get Library details (using GUID)===\n{{{\nvar tmLocal = new API_TEAM Mentor_Local(); \nreturn tmLocal.library(\"4738d445-bc9b-456c-8b35-a35057596c16\".guid());  \n}}}\n\n===Get Library's Folders===\n{{{\nvar tmLocal = new API_TEAM Mentor_Local(); \nvar library = tmLocal.library(\"OWASP\");  \nvar folders = library.folders();\nreturn folders;\n}}}\n\n===get folder views:===\n{{{\nvar tmLocal = new API_TEAM Mentor_Local(); \nvar library = tmLocal.library(\"OWASP\");  \nvar folders = library.folders();\nreturn folders[0].views();\n}}}\n\n===Get folder and view by name===\n{{{\nvar library = tmLocal.library(\"OWASP\");   \nvar folders = library.folders();    \nvar folder = library.folder(\"OWASP Top 10 -  2010\"); \nreturn folder.view(\"A01: Injection\");\n}}}\n\n===Get articles:===\n{{{\nvar library = tmLocal.library(\"OWASP\");    \nvar folder = library.folder(\"OWASP Top 10 -  2010\");   \nreturn folder.view(\"A01: Injection\").Articles;\n}}}"
+        ]
+      }
+    ]
+  }
+}

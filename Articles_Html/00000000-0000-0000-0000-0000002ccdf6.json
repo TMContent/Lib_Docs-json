@@ -1,0 +1,304 @@
+{
+  "id": "00000000-0000-0000-0000-0000002ccdf6",
+  "checksum": "3ff2531b14dfd57f66cbb547a623cecd48a75c8b",
+  "words": {
+    "35": [
+      "p",
+      "h1",
+      "p"
+    ],
+    "45": [
+      "p"
+    ],
+    "35.2": [
+      "h1"
+    ],
+    "release": [
+      "h1",
+      "h1",
+      "h1",
+      "p"
+    ],
+    "this": [
+      "p",
+      "p",
+      "title"
+    ],
+    "is": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "title"
+    ],
+    "a": [
+      "p",
+      "p"
+    ],
+    "hotfix": [
+      "p",
+      "p"
+    ],
+    "addressing": [
+      "p",
+      "p"
+    ],
+    "article": [
+      "p",
+      "p",
+      "p"
+    ],
+    "deletion": [
+      "p"
+    ],
+    "issue": [
+      "p"
+    ],
+    "in": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "title"
+    ],
+    "35\nminor": [
+      "p"
+    ],
+    "fixes": [
+      "p"
+    ],
+    "integration": [
+      "p",
+      "p"
+    ],
+    "with": [
+      "p"
+    ],
+    "team": [
+      "p",
+      "p"
+    ],
+    "professor": [
+      "p"
+    ],
+    "35.1": [
+      "h1"
+    ],
+    "some": [
+      "p"
+    ],
+    "minor": [
+      "p"
+    ],
+    "issues": [
+      "p"
+    ],
+    "application": [
+      "p",
+      "p"
+    ],
+    "changes\nthe": [
+      "p"
+    ],
+    "following": [
+      "p"
+    ],
+    "changes": [
+      "p"
+    ],
+    "are": [
+      "p",
+      "p"
+    ],
+    "included": [
+      "p"
+    ],
+    "major": [
+      "p"
+    ],
+    "improvements": [
+      "p"
+    ],
+    "-": [
+      "p"
+    ],
+    "markdown": [
+      "p"
+    ],
+    "support-": [
+      "p"
+    ],
+    "site": [
+      "p"
+    ],
+    "data": [
+      "p",
+      "p"
+    ],
+    "which": [
+      "p",
+      "p"
+    ],
+    "client": [
+      "p"
+    ],
+    "customization": [
+      "p"
+    ],
+    "and": [
+      "p",
+      "p"
+    ],
+    "user": [
+      "p"
+    ],
+    "config": [
+      "p"
+    ],
+    "users": [
+      "p"
+    ],
+    "information": [
+      "p"
+    ],
+    "now": [
+      "p",
+      "p",
+      "p"
+    ],
+    "separated-": [
+      "p"
+    ],
+    "virtual": [
+      "p"
+    ],
+    "articles": [
+      "p"
+    ],
+    "supported": [
+      "p"
+    ],
+    "for": [
+      "p",
+      "p"
+    ],
+    "redirecting": [
+      "p"
+    ],
+    "to": [
+      "p",
+      "p",
+      "p"
+    ],
+    "another": [
+      "p"
+    ],
+    "tm": [
+      "p"
+    ],
+    "instance\n-": [
+      "p"
+    ],
+    "checkmarx": [
+      "p",
+      "p"
+    ],
+    "native": [
+      "p"
+    ],
+    "gui-": [
+      "p"
+    ],
+    "direct": [
+      "p"
+    ],
+    "link": [
+      "p"
+    ],
+    "support": [
+      "p"
+    ],
+    "allows": [
+      "p"
+    ],
+    "/a/anyname>": [
+      "p",
+      "tt"
+    ],
+    "be": [
+      "p"
+    ],
+    "directly": [
+      "p"
+    ],
+    "mapped": [
+      "p"
+    ],
+    "an": [
+      "p"
+    ],
+    "minimum": [
+      "p"
+    ],
+    "requirements": [
+      "p"
+    ],
+    "note": [
+      "p"
+    ],
+    "that": [
+      "p"
+    ],
+    "mentor": [
+      "p"
+    ],
+    "requires": [
+      "p"
+    ],
+    "net": [
+      "p"
+    ],
+    "framework": [
+      "p"
+    ],
+    "what": [
+      "title"
+    ],
+    "new": [
+      "title"
+    ],
+    "release?": [
+      "title"
+    ]
+  },
+  "tags": {
+    "h1": [
+      "3.5.2 RELEASE",
+      "3.5.1 RELEASE",
+      "3.5 RELEASE"
+    ],
+    "p": [
+      "This is a hotfix addressing article deletion issue in 3.5\nMinor fixes in integration with TEAM Professor",
+      "This is a hotfix addressing some minor issues in 3.5",
+      "APPLICATION CHANGES:\nThe following application changes are included in 3.5 release",
+      "MAJOR IMPROVEMENTS",
+      "- Markdown support\n- Site Data, which is client customization, and User Data, which is config and Users information, are now separated\n- Virtual Articles is now supported for redirecting to another TM instance.\n- Checkmarx native integration for Checkmarx GUI\n- Direct Link article support, allows  /a/<anyname> to be directly mapped to an article",
+      "MINIMUM REQUIREMENTS",
+      "Note that TEAM Mentor now requires .NET Framework 4.5"
+    ],
+    "br": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tt": [
+      "/a/<anyname>"
+    ]
+  },
+  "links": [],
+  "html": "<h1>3.5.2 RELEASE</h1><p>This is a hotfix addressing article deletion issue in 3.5<br>\nMinor fixes in integration with TEAM Professor \n</p><h1>3.5.1 RELEASE</h1><p>This is a hotfix addressing some minor issues in 3.5\n</p>\n<h1>3.5 RELEASE</h1><p>APPLICATION CHANGES:\nThe following application changes are included in 3.5 release\n</p><p>\nMAJOR IMPROVEMENTS\n</p><p>\n- Markdown support<br>\n- Site Data, which is client customization, and User Data, which is config and Users information, are now separated<br>\n- Virtual Articles is now supported for redirecting to another TM instance.<br>\n- Checkmarx native integration for Checkmarx GUI<br>\n- Direct Link article support, allows  <tt>/a/&lt;anyname&gt;</tt> to be directly mapped to an article<br>\n</p>\n\n<p>\nMINIMUM REQUIREMENTS\n</p><p>\nNote that TEAM Mentor now requires .NET Framework 4.5</p>"
+}

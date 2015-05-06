@@ -1,0 +1,333 @@
+{
+  "id": "89f376b1-f1e0-41ba-9802-a2a5fc8e0a6d",
+  "checksum": "ea0c017328465380c412e276a39afd47a68df426",
+  "words": {
+    "1": [
+      "div",
+      "h2",
+      "span",
+      "title"
+    ],
+    "2": [
+      "div",
+      "h2",
+      "span"
+    ],
+    "3": [
+      "div",
+      "h2",
+      "span"
+    ],
+    "team": [
+      "xsl:stylesheet",
+      "xsl:output",
+      "xsl:template",
+      "html",
+      "head",
+      "title"
+    ],
+    "mentor": [
+      "xsl:stylesheet",
+      "xsl:output",
+      "xsl:template",
+      "html",
+      "head",
+      "title"
+    ],
+    "customer": [
+      "xsl:stylesheet",
+      "xsl:output",
+      "xsl:template",
+      "html",
+      "head",
+      "title"
+    ],
+    "download": [
+      "xsl:stylesheet",
+      "xsl:output",
+      "xsl:template",
+      "html",
+      "head",
+      "title"
+    ],
+    "1\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t2\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t3": [
+      "xsl:stylesheet",
+      "xsl:output",
+      "xsl:template",
+      "html",
+      "body",
+      "div",
+      "div",
+      "div"
+    ],
+    "xslt": [
+      "title"
+    ],
+    "landingpage": [
+      "title"
+    ],
+    "variation": [
+      "title"
+    ]
+  },
+  "tags": {
+    "xsl:stylesheet": [
+      "TEAM Mentor Customer Download\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\n\n\t\t\n\t\t\n\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n      \t\n      \t\n\t\t\n\t\t   \t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\n\t\t\t\t\t\t1\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t2\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t3"
+    ],
+    "xsl:output": [
+      "TEAM Mentor Customer Download\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\n\n\t\t\n\t\t\n\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n      \t\n      \t\n\t\t\n\t\t   \t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\n\t\t\t\t\t\t1\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t2\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t3"
+    ],
+    "xsl:template": [
+      "",
+      "TEAM Mentor Customer Download\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\n\n\t\t\n\t\t\n\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n      \t\n      \t\n\t\t\n\t\t   \t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\n\t\t\t\t\t\t1\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t2\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t3",
+      ""
+    ],
+    "xsl:apply-templates": [
+      "",
+      ""
+    ],
+    "html": [
+      "TEAM Mentor Customer Download\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\n\n\t\t\n\t\t\n\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n      \t\n      \t\n\t\t\n\t\t   \t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\n\t\t\t\t\t\t1\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t2\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t3"
+    ],
+    "head": [
+      "TEAM Mentor Customer Download"
+    ],
+    "base": [
+      ""
+    ],
+    "meta": [
+      "",
+      "",
+      ""
+    ],
+    "title": [
+      "TEAM Mentor Customer Download"
+    ],
+    "link": [
+      "",
+      "",
+      ""
+    ],
+    "script": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "body": [
+      "1\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t2\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t3"
+    ],
+    "div": [
+      "1\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t2\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t3",
+      "1\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t2\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t3",
+      "",
+      "",
+      "",
+      "1\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t2\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t3",
+      "1",
+      "2",
+      "3",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "img": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "h2": [
+      "",
+      "1",
+      "2",
+      "3",
+      "",
+      ""
+    ],
+    "xsl:value-of": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "br": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "p": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "span": [
+      "",
+      "",
+      "",
+      "",
+      "1",
+      "2",
+      "3",
+      "",
+      ""
+    ],
+    "a": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "xsl:attribute": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "h3": [
+      "",
+      "",
+      ""
+    ],
+    "ul": [
+      ""
+    ],
+    "li": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "i": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "links": [
+    {
+      "text": ""
+    },
+    {
+      "target": "_blank",
+      "text": ""
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t"
+    },
+    {
+      "rel": "gallery-set[1]",
+      "text": "\n\t\t\t\t\t\t    \t\t"
+    },
+    {
+      "rel": "gallery-set[1]",
+      "text": "\n\t\t\t\t\t\t\t\t"
+    },
+    {
+      "rel": "gallery-set[1]",
+      "text": "\n\t\t\t\t\t\t\t\t"
+    },
+    {
+      "rel": "gallery-set[1]",
+      "text": "\n\t\t\t\t\t\t\t\t"
+    },
+    {
+      "rel": "gallery-set[1]",
+      "text": "\n\t\t\t\t\t\t\t\t"
+    },
+    {
+      "rel": "gallery-set[1]",
+      "text": "\n\t\t\t\t\t\t\t\t"
+    }
+  ],
+  "html": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<xsl:stylesheet version=\"1.0\" xmlns:xsl=\"http://www.w3.org/1999/XSL/Transform\"\n    xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\" exclude-result-prefixes=\"msxsl\">\n    <xsl:output method=\"html\" indent=\"yes\"/>\n\n  <xsl:template match=\"/\">\n\t<xsl:apply-templates select=\"*\"/>\n  </xsl:template>\n\n \n  <xsl:template match=\"TEAM Mentor_LandingPage\">\n    <html>\n\t<head>\n\t\t<base href=\"http://customer.TEAMMentor.net\"/>\n\t\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n\t\t<title>TEAM Mentor Customer Download</title>\t\t\t\n\t\t<link rel=\"shortcut icon\" href=\"favicon.ico\"/>\n\t\t<meta name=\"description\" content=\"\" />\t\t\t\n\t\t<meta name=\"keywords\" content=\"\" />\t\t\t\n\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"css/layout.css\"/>\t\t\t\n\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"css/prettyphoto.css\"/>\n\n\t\t<!--[if IE 7]><link rel=\"stylesheet\" type=\"text/css\" href=\"css/ie7.css\" /><![endif]-->\n\t\t<!--[if IE 8]><link rel=\"stylesheet\" type=\"text/css\" href=\"css/ie8.css\" /><![endif]-->\n\n\t\t<script type=\"text/javascript\" src=\"lib/jquery-core.js\"></script>\n\t\t<script type=\"text/javascript\" src=\"lib/jquery-reveal.js\"></script>\n\t\t<script type=\"text/javascript\" src=\"lib/jquery-accordion.js\"></script>\n\t\t<script type=\"text/javascript\" src=\"lib/jquery-prettyphoto.js\"></script>\n\t\t<script type=\"text/javascript\" src=\"lib/jquery-form.js\"></script>\n\t\t<script type=\"text/javascript\" src=\"lib/jquery-enquire.js\"></script>\n      \t</head>\n      \t<body>\n\t\t<div id=\"wrapper\">\n\t\t   <div id=\"container\">\t\t\t\t\n\t\t\t<div class=\"navigation\">\n\t\t\t\t<img src=\"http://www.securityinnovation.com/_img/art/logo.png\" alt=\"Security Innovation\" height=\"38\" id ='siLogo' />\t\t\t\t\t\n\t\t\t</div>\t\n\t\t\t<div class=\"splash\">\n\t\t\t\t<div class=\"splash-content\">\n\t\t\t\t\t<h2><xsl:value-of select=\"SplashPanel_Data/@title\"/></h2>\n\t\t\t\t\t<br/>\n\t\t\t\t\t<p><xsl:apply-templates select=\"SplashPanel_Text\"/></p>\n\t\t\t\t\t<span class=\"call-to-action-1\">\n\t\t\t\t\t\t<a><xsl:attribute name=\"href\"><xsl:value-of select=\"SplashPanel_Data/@button_1_link\" /></xsl:attribute><xsl:value-of select=\"SplashPanel_Data/@button_1_text\" /></a>\n\t\t\t\t\t</span>\n\t\t\t\t\t<span class=\"call-to-action-2\">\n\t\t\t\t\t\t<a target=\"_blank\"><xsl:attribute name=\"href\"><xsl:value-of select=\"SplashPanel_Data/@button_1_link\" /></xsl:attribute><xsl:value-of select=\"SplashPanel_Data/@button_2_text\" /></a>\n\t\t\t\t\t</span>\n\t\t\t\t</div>\t\n\t\t\t\t<span class=\"splash-screenshot\">\n\t\t\t\t\t<img width=\"435\" height=\"274\" class=\"screenshot\" alt=\"example\"><xsl:attribute name=\"src\"><xsl:value-of select=\"SplashPanel_Data/@image\" /></xsl:attribute></img>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"clouds\"></span>\n\t\t\t</div>\n\n\t\t\t<!-- Features-->\n\n\t\t\t<div class=\"features\">\n\t\t\t\t\t<div class=\"feature-01\">\t\t\t\t\t\t\n\t\t\t\t\t\t<img width=\"238\" height=\"138\"  border=\"2\"><xsl:attribute name=\"src\"><xsl:value-of select=\"Feature_1  /@image\" /></xsl:attribute></img>\n\t\n\t\t\t\t\t\t<h2><span>1</span><xsl:value-of select=\"Feature_1  /@title\" /></h2>\t\t\t\t\t\t\n\t\t\t\t\t\t<h3><xsl:value-of select=\"Feature_1/@text\" /></h3>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"feature-02\">\n\t\t\t\t\t\t<img width=\"238\" height=\"138\"  border=\"2\"><xsl:attribute name=\"src\"><xsl:value-of select=\"Feature_2/@image\" /></xsl:attribute></img>\n\t\t\t\t\t\t<h2>\n\t\t\t\t\t\t\t<span>2</span><xsl:value-of select=\"Feature_2/@title\" /></h2>\n\t\t\t\t\t\t<h3><xsl:value-of select=\"Feature_2/@text\" /></h3>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"feature-03\">\n\t\t\t\t\t\t<img width=\"238\" height=\"138\"  border=\"2\"><xsl:attribute name=\"src\"><xsl:value-of select=\"Feature_3/@image\" /></xsl:attribute></img>\n\t\t\t\t\t\t<h2><span>3</span><xsl:value-of select=\"Feature_3/@title\" /></h2>\n\t\t\t\t\t\t<h3><xsl:value-of select=\"Feature_3/@text\" /></h3>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\n\t\t\t<!-- BigYellowBox-->\n\t\t\t\t<div class=\"download\">\n\t\t\t\t\t<h2><xsl:value-of select=\"BigYellowBox/@title\" /></h2>\n\t\t\t\t\t<span class=\"clear\"></span><br/><br/>\n\t\t\t\t\t<p><xsl:value-of select=\"BigYellowBox/@body_text\" /></p>\n\t\t\t\t\t<span class=\"call-to-action-1\">\n\t\t\t\t\t\t<a>\n\t\t\t\t\t\t\t<xsl:attribute name=\"href\"><xsl:value-of select=\"BigYellowBox/@button_href\" /></xsl:attribute>\n\t\t\t\t\t\t\t<xsl:value-of select=\"BigYellowBox/@button_text\" />\n\t\t\t\t\t\t</a>\n\t\t\t\t\t</span>\n\t\t\t\t</div>\t\n\n\t\t\t<!-- Gallery -->\n\n\t\t\t\t<div class=\"gallery\">\n\t\t\t\t\t<ul class=\"gallery-list\">\n\t\t\t\t\t\t<li><a rel=\"gallery-set[1]\"><xsl:attribute name=\"href\"><xsl:value-of select=\"Gallery/@image_1_href\" /></xsl:attribute>\n\t\t\t\t\t\t    \t\t<img width=\"128\" height=\"93\" ><xsl:attribute name=\"src\"><xsl:value-of select=\"Gallery/@image_1_href\" /></xsl:attribute></img></a></li>\n\n\t\t\t\t\t\t<li><a rel=\"gallery-set[1]\"><xsl:attribute name=\"href\"><xsl:value-of select=\"Gallery/@image_2_href\" /></xsl:attribute>\n\t\t\t\t\t\t\t\t<img width=\"128\" height=\"93\" ><xsl:attribute name=\"src\"><xsl:value-of select=\"Gallery/@image_2_href\" /></xsl:attribute></img></a></li>\n\n\t\t\t\t\t\t<li><a rel=\"gallery-set[1]\"><xsl:attribute name=\"href\"><xsl:value-of select=\"Gallery/@image_3_href\" /></xsl:attribute>\n\t\t\t\t\t\t\t\t<img width=\"128\" height=\"93\" ><xsl:attribute name=\"src\"><xsl:value-of select=\"Gallery/@image_3_href\" /></xsl:attribute></img></a></li>\n\n\t\t\t\t\t\t<li><a rel=\"gallery-set[1]\"><xsl:attribute name=\"href\"><xsl:value-of select=\"Gallery/@image_4_href\" /></xsl:attribute>\n\t\t\t\t\t\t\t\t<img width=\"128\" height=\"93\" ><xsl:attribute name=\"src\"><xsl:value-of select=\"Gallery/@image_4_href\" /></xsl:attribute></img></a></li>\n\n\t\t\t\t\t\t<li><a rel=\"gallery-set[1]\"><xsl:attribute name=\"href\"><xsl:value-of select=\"Gallery/@image_5_href\" /></xsl:attribute>\n\t\t\t\t\t\t\t\t<img width=\"128\" height=\"93\" ><xsl:attribute name=\"src\"><xsl:value-of select=\"Gallery/@image_5_href\" /></xsl:attribute></img></a></li>\n\n\t\t\t\t\t\t<li><a rel=\"gallery-set[1]\"><xsl:attribute name=\"href\"><xsl:value-of select=\"Gallery/@image_6_href\" /></xsl:attribute>\n\t\t\t\t\t\t\t\t<img width=\"128\" height=\"93\" ><xsl:attribute name=\"src\"><xsl:value-of select=\"Gallery/@image_6_href\" /></xsl:attribute></img></a></li>\n\t\t\t\t\t</ul>\n\t\t\t\t</div>\n\n\n\t\t<!-- Testimonials -->\n\n\t\t\t\t<div class=\"testimonials\">\n\n\t\t\t\t\t<h2><xsl:value-of select=\"Testimonials/@title\" /></h2>\n\t\t\t\t\t<br/>\n\t\t\t\t\t<p><i><xsl:value-of select=\"Testimonials/@slot_1_text\" /></i></p>\n\t\t\t\t\t<p class=\"testimonial-user\"><xsl:value-of select=\"Testimonials/@slot_1_company\" /></p>\n\t\t\t\t\t<br/>\n\t\t\t\t\t<p><i><xsl:value-of select=\"Testimonials/@slot_2_text\" /></i></p>\n\t\t\t\t\t<p class=\"testimonial-user\"><xsl:value-of select=\"Testimonials/@slot_2_company\" /></p>\n\t\t\t\t\t<br/>\n\t\t\t\t\t<p><i><xsl:value-of select=\"Testimonials/@slot_3_text\" /></i></p>\n\t\t\t\t\t<p class=\"testimonial-user\"><xsl:value-of select=\"Testimonials/@slot_3_company\" /></p>\n\t\t\t\t\t<br/>\n\t\t\t\t\t<p><i><xsl:value-of select=\"Testimonials/@slot_4_text\" /></i></p>\n\t\t\t\t\t<p class=\"testimonial-user\"><xsl:value-of select=\"Testimonials/@slot_4_company\" /></p>\n\n\t\t\t\t</div>\n\t\t\t<div class=\"clear\"></div>\n\t\t   </div>\n\t\t</div>\n\n\t<!-- Footer -->\n\t\t<div class=\"footer\">\n\t\t\t<div class=\"footer-content\">\n\t\t\t\t<p>  <xsl:value-of select=\"FooterText\"/></p>\n\t\t\t\t<div class=\"copyright\">\n\t\t\t\t\t<p class=\"left copyright-text\"><xsl:value-of select=\"FooterTextCopyright\"/></p>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"clear\"></div>\n\t\t\t</div>\n\t\t</div>\n       \t</body>\n    </html>\n  </xsl:template>\n\n  <xsl:template match=\"br\">\n  <br/>\n  </xsl:template>\n</xsl:stylesheet>"
+}

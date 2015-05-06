@@ -1,0 +1,1596 @@
+{
+  "id": "6e3221bf-08b8-4de1-bb3b-4edacc85fab6",
+  "checksum": "1d42aba7e0d42d0c420f61a4bfb41c81a475c30d",
+  "words": {
+    "1": [
+      "p",
+      "strong"
+    ],
+    "2": [
+      "p",
+      "strong"
+    ],
+    "3": [
+      "p",
+      "strong"
+    ],
+    "4": [
+      "p",
+      "p",
+      "strong"
+    ],
+    "5": [
+      "p",
+      "strong"
+    ],
+    "40": [
+      "p",
+      "p"
+    ],
+    "401": [
+      "p",
+      "strong"
+    ],
+    "by": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "default": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "team": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong"
+    ],
+    "mentor": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong"
+    ],
+    "uses": [
+      "p"
+    ],
+    "its": [
+      "p",
+      "p",
+      "strong",
+      "em"
+    ],
+    "xml-based": [
+      "p"
+    ],
+    "user": [
+      "p",
+      "p",
+      "p"
+    ],
+    "store": [
+      "p"
+    ],
+    "however": [
+      "p"
+    ],
+    "active": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "title"
+    ],
+    "directory": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "title"
+    ],
+    "integration": [
+      "p"
+    ],
+    "is": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "also": [
+      "p",
+      "p"
+    ],
+    "supported": [
+      "p"
+    ],
+    "can": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "use": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "ad": [
+      "p"
+    ],
+    "to": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong",
+      "ul",
+      "li"
+    ],
+    "authenticate": [
+      "p"
+    ],
+    "and": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "authorize": [
+      "p"
+    ],
+    "users": [
+      "p"
+    ],
+    "set-up": [
+      "h3"
+    ],
+    "these": [
+      "p",
+      "p",
+      "p"
+    ],
+    "are": [
+      "p",
+      "p",
+      "p"
+    ],
+    "the": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong",
+      "p"
+    ],
+    "steps": [
+      "p"
+    ],
+    "required": [
+      "p"
+    ],
+    "set": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "it": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong"
+    ],
+    "up": [
+      "p"
+    ],
+    "step": [
+      "p",
+      "strong",
+      "p",
+      "strong",
+      "p",
+      "p",
+      "strong",
+      "p",
+      "strong",
+      "p",
+      "strong"
+    ],
+    "configure": [
+      "p",
+      "strong",
+      "p",
+      "strong"
+    ],
+    "webconfig": [
+      "p",
+      "strong"
+    ],
+    "file": [
+      "p",
+      "strong",
+      "p",
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p"
+    ],
+    "in": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong",
+      "em"
+    ],
+    "this": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong",
+      "p"
+    ],
+    "which": [
+      "p",
+      "p"
+    ],
+    "you": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong",
+      "p",
+      "strong"
+    ],
+    "will": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "find": [
+      "p",
+      "p",
+      "p"
+    ],
+    "web": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "root": [
+      "p"
+    ],
+    "\\web": [
+      "p",
+      "em"
+    ],
+    "applications\\tm_website": [
+      "p",
+      "em"
+    ],
+    "need": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "make": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "following": [
+      "p",
+      "p"
+    ],
+    "changes": [
+      "p",
+      "p"
+    ],
+    "systemweb": [
+      "p"
+    ],
+    "identity": [
+      "p",
+      "p",
+      "em",
+      "pre",
+      "p"
+    ],
+    "element": [
+      "p",
+      "p"
+    ],
+    "impersonate": [
+      "p"
+    ],
+    "value": [
+      "p"
+    ],
+    "true": [
+      "p",
+      "em",
+      "strong",
+      "em",
+      "p"
+    ],
+    "false": [
+      "p",
+      "em",
+      "p"
+    ],
+    "impersonate=\"true\"</identity>": [
+      "p",
+      "em",
+      "pre"
+    ],
+    "authentication": [
+      "p",
+      "em",
+      "pre",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "mode": [
+      "p",
+      "p"
+    ],
+    "windows": [
+      "p",
+      "em",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "none<authentication": [
+      "p"
+    ],
+    "mode=\"windows\"</authentication>": [
+      "p",
+      "em",
+      "pre"
+    ],
+    "none": [
+      "em"
+    ],
+    "your": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "new": [
+      "p",
+      "p",
+      "p"
+    ],
+    "system.web>": [
+      "p",
+      "pre"
+    ],
+    "properties": [
+      "p"
+    ],
+    "should": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "have": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "values": [
+      "p",
+      "p",
+      "p"
+    ],
+    "..": [
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "/system.web>": [
+      "pre"
+    ],
+    "systemwebserver": [
+      "p"
+    ],
+    "section": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "add": [
+      "p",
+      "p"
+    ],
+    "tag\n<validation": [
+      "p"
+    ],
+    "validateintegratedmodeconfiguration=\"false\"</validation>": [
+      "p",
+      "em",
+      "pre"
+    ],
+    "validation": [
+      "em",
+      "pre"
+    ],
+    "modules": [
+      "p",
+      "em",
+      "pre"
+    ],
+    "runallmanagedmodulesforallrequest": [
+      "p"
+    ],
+    "true<modules": [
+      "p"
+    ],
+    "runallmanagedmodulesforallrequest=\"true\"</modules>": [
+      "p",
+      "em",
+      "pre"
+    ],
+    "system.webserver>": [
+      "p",
+      "pre"
+    ],
+    "/system.webserver>": [
+      "pre"
+    ],
+    "tmconfigconfig": [
+      "p",
+      "strong",
+      "p"
+    ],
+    "open": [
+      "p"
+    ],
+    "tmconfig": [
+      "p",
+      "p",
+      "em",
+      "p"
+    ],
+    "editor": [
+      "p"
+    ],
+    "clicking": [
+      "p"
+    ],
+    "on": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong",
+      "ul",
+      "li"
+    ],
+    "tbot": [
+      "p",
+      "em"
+    ],
+    "admin": [
+      "p",
+      "p",
+      "em",
+      "em"
+    ],
+    "menu": [
+      "p",
+      "p"
+    ],
+    "selecting": [
+      "p"
+    ],
+    "edit": [
+      "p",
+      "em",
+      "p"
+    ],
+    "from": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong",
+      "p"
+    ],
+    "-": [
+      "p",
+      "em"
+    ],
+    "config": [
+      "p",
+      "em"
+    ],
+    "row": [
+      "p"
+    ],
+    "enable": [
+      "p",
+      "p"
+    ],
+    "relevant": [
+      "p"
+    ],
+    "security": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong",
+      "p"
+    ],
+    "groups": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "so": [
+      "p"
+    ],
+    "enabled": [
+      "p",
+      "p"
+    ],
+    "change": [
+      "p"
+    ],
+    "readergroup": [
+      "p"
+    ],
+    "editorgroup": [
+      "p"
+    ],
+    "admingroup": [
+      "p"
+    ],
+    "match": [
+      "p"
+    ],
+    "group": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "names": [
+      "p",
+      "p"
+    ],
+    "look": [
+      "p",
+      "p"
+    ],
+    "something": [
+      "p"
+    ],
+    "similar": [
+      "p",
+      "p"
+    ],
+    "alternatively": [
+      "p"
+    ],
+    "same": [
+      "p"
+    ],
+    "actual": [
+      "p"
+    ],
+    "xml": [
+      "p"
+    ],
+    "if": [
+      "p",
+      "p",
+      "p"
+    ],
+    "necessary": [
+      "p",
+      "p"
+    ],
+    "library_data\\xmldatabase\\user_data": [
+      "p",
+      "em"
+    ],
+    "or": [
+      "p",
+      "p",
+      "p"
+    ],
+    "an": [
+      "p",
+      "p",
+      "p"
+    ],
+    "alternative": [
+      "p"
+    ],
+    "location": [
+      "p"
+    ],
+    "one": [
+      "p"
+    ],
+    "sure": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "that": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "correct": [
+      "p"
+    ],
+    "verify": [
+      "p"
+    ],
+    "information": [
+      "p",
+      "p"
+    ],
+    "instructions": [
+      "p"
+    ],
+    "settings": [
+      "p",
+      "p",
+      "strong"
+    ],
+    "below": [
+      "p"
+    ],
+    "windowsauthentication>\n\t\t\t<enabled>true</enabled>\n\t\t\t<readergroup>tmread</readergroup>\n\t\t\t<editorgroup>tmedit</editorgroup>\n\t\t\t<admingroup>tmadmin</admingroup>\n\t\t</windowsauthentication>": [
+      "pre"
+    ],
+    "disabling": [
+      "p",
+      "strong"
+    ],
+    "iis": [
+      "p",
+      "strong",
+      "p",
+      "p",
+      "strong",
+      "p",
+      "strong",
+      "p",
+      "strong",
+      "p",
+      "strong"
+    ],
+    "anonymous": [
+      "p",
+      "strong",
+      "p",
+      "p"
+    ],
+    "access": [
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p"
+    ],
+    "enabling": [
+      "p",
+      "strong"
+    ],
+    "already": [
+      "p"
+    ],
+    "installed": [
+      "p",
+      "p",
+      "p"
+    ],
+    "server": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong"
+    ],
+    "where": [
+      "p"
+    ],
+    "configuring": [
+      "p",
+      "p"
+    ],
+    "be": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "roles": [
+      "p",
+      "p"
+    ],
+    "features": [
+      "p"
+    ],
+    "manager": [
+      "p"
+    ],
+    "dashboard": [
+      "p"
+    ],
+    "read": [
+      "p",
+      "p"
+    ],
+    "more": [
+      "p",
+      "p"
+    ],
+    "about": [
+      "p"
+    ],
+    "how": [
+      "p",
+      "p"
+    ],
+    "install": [
+      "p",
+      "p"
+    ],
+    "here": [
+      "p"
+    ],
+    "http//www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication": [
+      "p",
+      "a"
+    ],
+    "screen": [
+      "p"
+    ],
+    "shows": [
+      "p"
+    ],
+    "once": [
+      "p"
+    ],
+    "has": [
+      "p",
+      "p",
+      "strong",
+      "em"
+    ],
+    "been": [
+      "p"
+    ],
+    "then": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "it's": [
+      "p"
+    ],
+    "for": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "current": [
+      "p"
+    ],
+    "site": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "disable": [
+      "p"
+    ],
+    "order": [
+      "p"
+    ],
+    "select": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "feature": [
+      "p"
+    ],
+    "disabled": [
+      "p"
+    ],
+    "application": [
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong",
+      "p",
+      "p"
+    ],
+    "pool": [
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong"
+    ],
+    "configuration": [
+      "p",
+      "strong"
+    ],
+    "when": [
+      "p",
+      "p",
+      "p",
+      "strong",
+      "p",
+      "strong"
+    ],
+    "internet": [
+      "p"
+    ],
+    "services": [
+      "p"
+    ],
+    "iis),": [
+      "p"
+    ],
+    "create": [
+      "p"
+    ],
+    "a": [
+      "p",
+      "p",
+      "p",
+      "strong",
+      "strong",
+      "p",
+      "p",
+      "strong",
+      "p",
+      "p",
+      "strong",
+      "strong",
+      "em",
+      "p",
+      "strong"
+    ],
+    "assign": [
+      "p",
+      "p"
+    ],
+    "existing": [
+      "p"
+    ],
+    "any": [
+      "p"
+    ],
+    "of": [
+      "p",
+      "p",
+      "strong"
+    ],
+    "those": [
+      "p"
+    ],
+    "cases": [
+      "p"
+    ],
+    "needs": [
+      "p",
+      "p"
+    ],
+    "configured": [
+      "p"
+    ],
+    "always": [
+      "p"
+    ],
+    "microsoft": [
+      "p",
+      "p"
+    ],
+    "net": [
+      "p",
+      "p"
+    ],
+    "framework": [
+      "p"
+    ],
+    "higher": [
+      "p"
+    ],
+    "managed": [
+      "p"
+    ],
+    "pipeline": [
+      "p"
+    ],
+    "integrated": [
+      "p",
+      "strong"
+    ],
+    "now": [
+      "p"
+    ],
+    "created": [
+      "p"
+    ],
+    "permissions": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "first": [
+      "p"
+    ],
+    "grant": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "with": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "discovering": [
+      "p"
+    ],
+    "format": [
+      "p"
+    ],
+    "apppool\\name": [
+      "p",
+      "strong"
+    ],
+    "pool.you": [
+      "p"
+    ],
+    "at": [
+      "p",
+      "p"
+    ],
+    "level": [
+      "p",
+      "p"
+    ],
+    "not": [
+      "p"
+    ],
+    "domain": [
+      "p"
+    ],
+    "there": [
+      "p",
+      "p"
+    ],
+    "called": [
+      "p"
+    ],
+    "teammentorreader": [
+      "p"
+    ],
+    "instance": [
+      "p"
+    ],
+    "used": [
+      "p"
+    ],
+    "just": [
+      "p"
+    ],
+    "readers": [
+      "p"
+    ],
+    "right": [
+      "p"
+    ],
+    "click": [
+      "p"
+    ],
+    "option": [
+      "p"
+    ],
+    "contextual": [
+      "p"
+    ],
+    "enter": [
+      "p"
+    ],
+    "name": [
+      "p"
+    ],
+    "adding": [
+      "p"
+    ],
+    "them": [
+      "p",
+      "p"
+    ],
+    "target": [
+      "p"
+    ],
+    "folder": [
+      "p",
+      "p"
+    ],
+    "write": [
+      "p"
+    ],
+    "troubleshoot": [
+      "h2"
+    ],
+    "q": [
+      "p",
+      "strong",
+      "p",
+      "strong"
+    ],
+    "get": [
+      "p",
+      "strong",
+      "p",
+      "strong"
+    ],
+    "error": [
+      "p",
+      "strong",
+      "p",
+      "strong"
+    ],
+    "connecting": [
+      "p",
+      "strong"
+    ],
+    "remote": [
+      "p",
+      "strong"
+    ],
+    "computer": [
+      "p",
+      "strong"
+    ],
+    "but": [
+      "p",
+      "strong"
+    ],
+    "works": [
+      "p",
+      "strong"
+    ],
+    "locally": [
+      "p",
+      "strong"
+    ],
+    "see": [
+      "p",
+      "p"
+    ],
+    "kb": [
+      "p"
+    ],
+    "workaround": [
+      "p"
+    ],
+    "http//support.microsoft.com/kb/871179": [
+      "p",
+      "a"
+    ],
+    "running": [
+      "p",
+      "strong",
+      "p"
+    ],
+    "fresh": [
+      "p",
+      "strong"
+    ],
+    "installation": [
+      "p",
+      "strong"
+    ],
+    "\"handler'\"webservicehandlerfactory-integrated'": [
+      "p",
+      "strong",
+      "em"
+    ],
+    "bad": [
+      "p",
+      "strong",
+      "em"
+    ],
+    "module": [
+      "p",
+      "p",
+      "strong",
+      "strong",
+      "em",
+      "em"
+    ],
+    "'managedpipelinehandler'": [
+      "p",
+      "strong",
+      "em"
+    ],
+    "list\"": [
+      "p",
+      "strong",
+      "em"
+    ],
+    "try": [
+      "p"
+    ],
+    "aspnet_regiisexe": [
+      "p",
+      "em"
+    ],
+    "-i": [
+      "p",
+      "em"
+    ],
+    "post": [
+      "p"
+    ],
+    "details": [
+      "p"
+    ],
+    "http//forums.iis.net/p/1149449/1869918.aspx": [
+      "p",
+      "a"
+    ],
+    "references": [
+      "h2"
+    ],
+    "why": [
+      "ul",
+      "li"
+    ],
+    "validateintegratedmodeconfiguration=false": [
+      "ul",
+      "li"
+    ],
+    "http//forums.iis.net/t/1187993.aspx": [
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "a"
+    ],
+    "installing": [
+      "ul",
+      "li"
+    ],
+    "http//www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication/providers/add</system.webserver></system.web>": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "http//www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication/providers/add": [
+      "a"
+    ],
+    "support": [
+      "title"
+    ]
+  },
+  "tags": {
+    "p": [
+      "By default TEAM Mentor uses its Xml-based User Store, however Active Directory integration is also supported.  TEAM Mentor can use AD to authenticate and authorize users.",
+      "These are the steps required to set it up",
+      "Step 1: Configure web.config file",
+      "In this file which you will find in the Web Root  \\Web Applications\\TM_Website you need to make the following changes:",
+      "In the system.web identity element:",
+      "Set the impersonate value to true, by default it is set to false, \n<identity impersonate=\"true\"></identity>",
+      "Set the authentication mode to Windows, by default it is set to None\n<authentication mode=\"Windows\"></authentication>",
+      "Your new <system.web> properties should have these values:",
+      "",
+      "In system.webServer section:",
+      "Add the this tag:\n<validation validateintegratedmodeconfiguration=\"false\"></validation>",
+      "Set the modules runAllManagedModulesForAllRequest to true\n<modules runallmanagedmodulesforallrequest=\"true\"></modules>",
+      "Your new <system.webserver> should have these values:",
+      "",
+      "Step 2: Configure TMConfig.Config file",
+      "Open the TMConfig editor by clicking on Tbot in the Admin menu and selecting Edit TMConfig from the Admin - Config  row. In the Windows Authentication section you need to Enable Windows Authentication and set the relevant security groups. By default Windows Authentication is set to false, so you will need to set the Enabled element to true and change the ReaderGroup, EditorGroup, AdminGroup values to match your Active Directory security group names. Your Windows Authentication section should look something similar to this.",
+      "",
+      "",
+      "Alternatively you can make the same changes in the actual TMConfig.Config xml file if necessary. This file you will find in the Library_Data\\XmlDatabase\\User_Data or an alternative location if you have set one. Make sure that the Active Directory groups names are correct. You can verify this information by following the instructions in Step 4: Security settings.",
+      "Your TMConfig file Windows Authentication section should look similar to the below.",
+      "",
+      "Step 3: Disabling IIS Anonymous access  and Enabling Windows Authentication",
+      "Make sure you have already installed Windows Authentication in the server where you are configuring TEAM Mentor to use Active Directory.   Windows Authentication can be installed from the Add Roles and Features from the Server Manager Dashboard. You can read more about how to install Windows Authentication here http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication",
+      "This is the server roles screen that shows how to install Windows Authentication:",
+      "",
+      "Once Windows Authentication has been installed, then it's necessary to enable it for the current Web site and then disable Anonymous access. \nIn order to to that, you need to select the TEAM Mentor Web site and then select the Authentication feature from the IIS group. Make sure Anonymous access is disabled and Windows Authentication is enabled for this Web site.",
+      "",
+      "Step 4: IIS Application Pool configuration",
+      "When configuring TEAM Mentor Web site in the Internet Information Services (IIS), you need to create a new Application Pool or assign it to an existing Application Pool. In any of those cases, this pool needs to be configured to always use the Microsoft .NET framework  4.0 or higher. Also the Managed pipeline mode needs to be Integrated.",
+      "Step 5: Security settings",
+      "Now that you have created the Web site, you need to assign security permissions. First you need grant the application pool identity with permissions on the Web Site. When discovering the user, you will need to use the format IIS AppPool\\[Name of the Application Pool].You need to find this user at the server level and not at the domain level.",
+      "Then you need to grant the Active Directory groups with permissions in the TEAM Mentor Web application. If there is an Active Directory group called TeamMentorReader for instance, which should be used just for readers, then you need to grant this group with permissions in the TEAM Mentor site. You need to select the Web site, right click on it, and select the Edit Permissions option from the contextual menu, from there you need to enter the group name.",
+      "",
+      "Make sure that the Active Directory groups have access to the TEAM Mentor Web Application by adding them to the target folder and grant them with read and write permissions.",
+      "Q: You get a 401 error when connecting to the IIS server from a remote computer, but it works locally",
+      "A:  See this Microsoft KB for a workaround http://support.microsoft.com/kb/871179",
+      "Q: You get this error when running TEAM Mentor on a fresh IIS installation: \"Handler'\"WebServiceHandlerFactory-Integrated' has a bad module 'ManagedPipelineHandler' in its module list.\"",
+      "A:  Try running aspnet_regiis.exe -i from the .Net 4.0 folder. See this post for more details: http://forums.iis.net/p/1149449/1869918.aspx"
+    ],
+    "h3": [
+      "Set-up"
+    ],
+    "strong": [
+      "Step 1: Configure web.config file",
+      "true",
+      "Windows",
+      "Step 2: Configure TMConfig.Config file",
+      "Step 3: Disabling IIS Anonymous access  and Enabling Windows Authentication",
+      "Step 4: IIS Application Pool configuration",
+      "Integrated",
+      "Step 5: Security settings",
+      "IIS AppPool\\[Name of the Application Pool]",
+      "Q: You get a 401 error when connecting to the IIS server from a remote computer, but it works locally",
+      "A:",
+      "Q: You get this error when running TEAM Mentor on a fresh IIS installation: \"Handler'\"WebServiceHandlerFactory-Integrated' has a bad module 'ManagedPipelineHandler' in its module list.\"",
+      "A:"
+    ],
+    "em": [
+      "\\Web Applications\\TM_Website",
+      "true",
+      "false",
+      "<identity impersonate=\"true\"></identity>",
+      "Windows",
+      "None",
+      "<authentication mode=\"Windows\"></authentication>",
+      "<validation validateintegratedmodeconfiguration=\"false\"></validation>",
+      "true",
+      "<modules runallmanagedmodulesforallrequest=\"true\"></modules>",
+      "Tbot",
+      "Admin",
+      "Edit TMConfig",
+      "Admin - Config",
+      "Library_Data\\XmlDatabase\\User_Data",
+      "\"Handler'\"WebServiceHandlerFactory-Integrated' has a bad module 'ManagedPipelineHandler' in its module list.\"",
+      "aspnet_regiis.exe -i"
+    ],
+    "br": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "pre": [
+      "<system.web>\n    ...\n    <identity impersonate=\"true\"></identity>\n    <authentication mode=\"Windows\"></authentication>\n    ... \n    </system.web>",
+      "<system.webserver>\n    ...\n    <validation validateintegratedmodeconfiguration=\"false\"></validation>\n    <modules runallmanagedmodulesforallrequest=\"true\"></modules>    \n    ...\t\n    </system.webserver>",
+      "<windowsauthentication>\n\t\t\t<enabled>true</enabled>\n\t\t\t<readergroup>TMREAD</readergroup>\n\t\t\t<editorgroup>TMEDIT</editorgroup>\n\t\t\t<admingroup>TMADMIN</admingroup>\n\t\t</windowsauthentication>"
+    ],
+    "img": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "a": [
+      "http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication",
+      "http://support.microsoft.com/kb/871179",
+      "http://forums.iis.net/p/1149449/1869918.aspx",
+      "http://forums.iis.net/t/1187993.aspx",
+      "http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication/providers/add"
+    ],
+    "h2": [
+      "Troubleshoot",
+      "References"
+    ],
+    "ul": [
+      "on why need to set validateIntegratedModeConfiguration=false\n http://forums.iis.net/t/1187993.aspx\n Installing Windows Authentication\n http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication/providers/add</system.webserver></system.web>",
+      "http://forums.iis.net/t/1187993.aspx",
+      "http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication/providers/add</system.webserver></system.web>"
+    ],
+    "li": [
+      "on why need to set validateIntegratedModeConfiguration=false\n http://forums.iis.net/t/1187993.aspx",
+      "http://forums.iis.net/t/1187993.aspx",
+      "Installing Windows Authentication\n http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication/providers/add</system.webserver></system.web>",
+      "http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication/providers/add</system.webserver></system.web>"
+    ]
+  },
+  "links": [
+    {
+      "href": "http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication",
+      "text": "http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication"
+    },
+    {
+      "href": "http://support.microsoft.com/kb/871179",
+      "text": "http://support.microsoft.com/kb/871179"
+    },
+    {
+      "href": "http://forums.iis.net/p/1149449/1869918.aspx",
+      "text": "http://forums.iis.net/p/1149449/1869918.aspx"
+    },
+    {
+      "href": "http://forums.iis.net/t/1187993.aspx",
+      "text": "http://forums.iis.net/t/1187993.aspx"
+    },
+    {
+      "href": "http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication/providers/add",
+      "text": "http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication/providers/add"
+    }
+  ],
+  "html": "<p>By default TEAM Mentor uses its Xml-based User Store, however Active Directory integration is also supported.  TEAM Mentor can use AD to authenticate and authorize users.\n</p><h3>Set-up</h3><p>These are the steps required to set it up\n</p><p>\n<strong>Step 1: Configure web.config file </strong>\n</p><p>\nIn this file which you will find in the Web Root  <em>\\Web Applications\\TM_Website</em> you need to make the following changes:\n</p><p>\nIn the system.web identity element:\n</p><p>\nSet the impersonate value to <em>true</em>, by default it is set to <em>false</em>, <br>\n<em>&lt;identity impersonate=\"<strong>true</strong>\"&gt;&lt;/identity&gt;</em>\n</p><p>\nSet the authentication mode to <em>Windows</em>, by default it is set to <em>None</em><br>\n<em>&lt;authentication mode=\"<strong>Windows</strong>\"&gt;&lt;/authentication&gt;</em>\n</p><p>\nYour new &lt;system.web&gt; properties should have these values:\n</p><pre>    &lt;system.web&gt;\n    ...\n    &lt;identity impersonate=\"true\"&gt;&lt;/identity&gt;\n    &lt;authentication mode=\"Windows\"&gt;&lt;/authentication&gt;\n    ... \n    &lt;/system.web&gt;\n</pre><p>\n<br>\n</p><p>\nIn system.webServer section:\n</p><p>\nAdd the this tag:\n<em>&lt;validation validateintegratedmodeconfiguration=\"false\"&gt;&lt;/validation&gt;</em>\n</p><p>\nSet the modules runAllManagedModulesForAllRequest to <em>true</em>\n<em>&lt;modules runallmanagedmodulesforallrequest=\"true\"&gt;&lt;/modules&gt;</em>\n</p><p>\nYour new &lt;system.webserver&gt; should have these values:\n</p><pre>   &lt;system.webserver&gt;\n    ...\n    &lt;validation validateintegratedmodeconfiguration=\"false\"&gt;&lt;/validation&gt;\n    &lt;modules runallmanagedmodulesforallrequest=\"true\"&gt;&lt;/modules&gt;    \n    ...\t\n    &lt;/system.webserver&gt;\n</pre>\n<p>\n<br>\n</p><p>\n<strong>Step 2: Configure TMConfig.Config file </strong>\n</p><p>\nOpen the TMConfig editor by clicking on <em>Tbot</em> in the <em>Admin</em> menu and selecting <em>Edit TMConfig</em> from the <em>Admin - Config </em> row. In the Windows Authentication section you need to Enable Windows Authentication and set the relevant security groups. By default Windows Authentication is set to false, so you will need to set the Enabled element to true and change the ReaderGroup, EditorGroup, AdminGroup values to match your Active Directory security group names. Your Windows Authentication section should look something similar to this.\n</p><p>\n<img src=\"/Image/tmcfg10.jpg\">\n</p><p>\n<br>\n</p><p>\nAlternatively you can make the same changes in the actual TMConfig.Config xml file if necessary. This file you will find in the <em>Library_Data\\XmlDatabase\\User_Data</em> or an alternative location if you have set one. Make sure that the Active Directory groups names are correct. You can verify this information by following the instructions in Step 4: Security settings.\n</p>\n<p>\nYour TMConfig file Windows Authentication section should look similar to the below. \n</p><pre>\t\t&lt;windowsauthentication&gt;\n\t\t\t&lt;enabled&gt;true&lt;/enabled&gt;\n\t\t\t&lt;readergroup&gt;TMREAD&lt;/readergroup&gt;\n\t\t\t&lt;editorgroup&gt;TMEDIT&lt;/editorgroup&gt;\n\t\t\t&lt;admingroup&gt;TMADMIN&lt;/admingroup&gt;\n\t\t&lt;/windowsauthentication&gt;\n\t\n</pre><p>\n<br>\n</p><p>\n<strong>Step 3: Disabling IIS Anonymous access  and Enabling Windows Authentication </strong>\n</p><p>\nMake sure you have already installed Windows Authentication in the server where you are configuring TEAM Mentor to use Active Directory.   Windows Authentication can be installed from the Add Roles and Features from the Server Manager Dashboard. You can read more about how to install Windows Authentication here <a href=\"http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication\">http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication</a>\n</p><p>\nThis is the server roles screen that shows how to install Windows Authentication:\n<img src=\"/Image/adins1.png\">\n</p><p>\n<br>\n</p><p>\nOnce Windows Authentication has been installed, then it's necessary to enable it for the current Web site and then disable Anonymous access. \nIn order to to that, you need to select the TEAM Mentor Web site and then select the Authentication feature from the IIS group. Make sure Anonymous access is disabled and Windows Authentication is enabled for this Web site.\n<img src=\"/Image/adins2.png\">\n</p><p>\n<br>\n</p><p>\n<strong>Step 4: IIS Application Pool configuration </strong>\n</p><p>\nWhen configuring TEAM Mentor Web site in the Internet Information Services (IIS), you need to create a new Application Pool or assign it to an existing Application Pool. In any of those cases, this pool needs to be configured to always use the Microsoft .NET framework  4.0 or higher. Also the Managed pipeline mode needs to be <strong>Integrated</strong>.\n</p><p>\n<strong>Step 5: Security settings </strong>\n</p><p>\nNow that you have created the Web site, you need to assign security permissions. First you need grant the application pool identity with permissions on the Web Site. When discovering the user, you will need to use the format <strong>IIS AppPool\\[Name of the Application Pool]</strong>.You need to find this user at the server level and not at the domain level.\n</p><p>\nThen you need to grant the Active Directory groups with permissions in the TEAM Mentor Web application. If there is an Active Directory group called TeamMentorReader for instance, which should be used just for readers, then you need to grant this group with permissions in the TEAM Mentor site. You need to select the Web site, right click on it, and select the Edit Permissions option from the contextual menu, from there you need to enter the group name.\n</p><p>\n<img src=\"/Image/adins3.png\">\n</p><p>\nMake sure that the Active Directory groups have access to the TEAM Mentor Web Application by adding them to the target folder and grant them with read and write permissions.\n<br>\n</p>\n<h2>Troubleshoot</h2><p><strong>Q: You get a 401 error when connecting to the IIS server from a remote computer, but it works locally</strong>\n</p><p>\n<strong>A: </strong> See this Microsoft KB for a workaround <a href=\"http://support.microsoft.com/kb/871179\">http://support.microsoft.com/kb/871179</a>\n</p><p>\n<strong>Q: You get this error when running TEAM Mentor on a fresh IIS installation: <em>\"Handler'\"WebServiceHandlerFactory-Integrated' has a bad module 'ManagedPipelineHandler' in its module list.\"</em></strong>\n</p><p>\n<strong>A: </strong> Try running <em>aspnet_regiis.exe -i</em> from the .Net 4.0 folder. See this post for more details: <a href=\"http://forums.iis.net/p/1149449/1869918.aspx\">http://forums.iis.net/p/1149449/1869918.aspx</a>\n</p>\n<h2>References</h2><ul><li> on why need to set validateIntegratedModeConfiguration=false<ul>\n<li> <a href=\"http://forums.iis.net/t/1187993.aspx\">http://forums.iis.net/t/1187993.aspx</a></li></ul></li>\n<li> Installing Windows Authentication<ul>\n<li> <a href=\"http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication/providers/add\">http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication/providers/add</a>&lt;/system.webserver&gt;&lt;/system.web&gt;</li></ul></li></ul>"
+}

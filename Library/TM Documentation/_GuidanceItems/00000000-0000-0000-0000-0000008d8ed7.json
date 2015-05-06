@@ -1,0 +1,62 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "76867994",
+      "Content_Hash": "993384098"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "00000000-0000-0000-0000-0000008d8ed7"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "Banner Pane"
+        ],
+        "Category": [
+          "User Interface"
+        ],
+        "Phase": [
+          "NA"
+        ],
+        "Technology": [
+          "TEAM Mentor"
+        ],
+        "Type": [
+          "Documentation"
+        ],
+        "DirectLink": [
+          ""
+        ],
+        "Tag": [
+          ""
+        ],
+        "Security_Demand": [
+          ""
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "true",
+          "DataType": "Html"
+        },
+        "Data": [
+          "The banner pane provides access to application controls, such as logging in, switching to edit mode, or opening the control panel."
+        ]
+      }
+    ]
+  }
+}

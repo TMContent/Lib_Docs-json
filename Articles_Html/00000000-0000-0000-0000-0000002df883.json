@@ -1,0 +1,474 @@
+{
+  "id": "00000000-0000-0000-0000-0000002df883",
+  "checksum": "098f1b44aa95710acd6dfea0503c22e3df684db9",
+  "words": {
+    "editing": [
+      "h1",
+      "p",
+      "a",
+      "p",
+      "a"
+    ],
+    "article": [
+      "h1",
+      "p",
+      "strong",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p",
+      "p",
+      "a",
+      "title"
+    ],
+    "metadata": [
+      "h1",
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "a",
+      "title"
+    ],
+    "guidance": [
+      "p",
+      "strong"
+    ],
+    "item": [
+      "p",
+      "strong"
+    ],
+    "each": [
+      "p"
+    ],
+    "has": [
+      "p"
+    ],
+    "the": [
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "following": [
+      "p"
+    ],
+    "meta-data": [
+      "p"
+    ],
+    "title": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "strong"
+    ],
+    "is": [
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "that": [
+      "ul",
+      "li"
+    ],
+    "displayed": [
+      "ul",
+      "li"
+    ],
+    "in": [
+      "ul",
+      "li",
+      "p",
+      "p",
+      "p"
+    ],
+    "list": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "technology": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "strong"
+    ],
+    "tag": [
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p"
+    ],
+    "reflects": [
+      "ul",
+      "li"
+    ],
+    "what": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "applies": [
+      "ul",
+      "li"
+    ],
+    "to": [
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "p",
+      "p"
+    ],
+    "phase": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "strong"
+    ],
+    "signifies": [
+      "ul",
+      "li"
+    ],
+    "which": [
+      "ul",
+      "li"
+    ],
+    "of": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p"
+    ],
+    "software": [
+      "ul",
+      "li"
+    ],
+    "development": [
+      "ul",
+      "li"
+    ],
+    "life-cycle": [
+      "ul",
+      "li"
+    ],
+    "relevant": [
+      "ul",
+      "li"
+    ],
+    "type": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "strong"
+    ],
+    "describes": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "category": [
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "strong"
+    ],
+    "kind": [
+      "ul",
+      "li"
+    ],
+    "security": [
+      "ul",
+      "li"
+    ],
+    "control": [
+      "ul",
+      "li"
+    ],
+    "about": [
+      "ul",
+      "li"
+    ],
+    "values": [
+      "p",
+      "p"
+    ],
+    "these": [
+      "p",
+      "p"
+    ],
+    "fields": [
+      "p"
+    ],
+    "create": [
+      "p"
+    ],
+    "filters": [
+      "p"
+    ],
+    "and": [
+      "p",
+      "p"
+    ],
+    "a": [
+      "p",
+      "p"
+    ],
+    "drop-down": [
+      "p"
+    ],
+    "items": [
+      "p",
+      "h1"
+    ],
+    "editor": [
+      "p",
+      "p"
+    ],
+    "can": [
+      "p"
+    ],
+    "be": [
+      "p"
+    ],
+    "change": [
+      "p",
+      "p"
+    ],
+    "wysiwing": [
+      "p"
+    ],
+    "window": [
+      "p"
+    ],
+    "use": [
+      "p"
+    ],
+    "drop": [
+      "p",
+      "p"
+    ],
+    "downs": [
+      "p"
+    ],
+    "articles": [
+      "p",
+      "p",
+      "p",
+      "a",
+      "p",
+      "p",
+      "a"
+    ],
+    "add": [
+      "p"
+    ],
+    "new": [
+      "p"
+    ],
+    "enter": [
+      "p"
+    ],
+    "down": [
+      "p"
+    ],
+    "field": [
+      "p"
+    ],
+    "click": [
+      "p"
+    ],
+    "“save": [
+      "p"
+    ],
+    "changes”": [
+      "p"
+    ],
+    "related": [
+      "h1"
+    ],
+    "for": [
+      "p",
+      "p",
+      "p"
+    ],
+    "more": [
+      "p"
+    ],
+    "information": [
+      "p",
+      "p",
+      "p"
+    ],
+    "on": [
+      "p",
+      "p",
+      "p"
+    ],
+    "see\nedit": [
+      "p"
+    ],
+    "edit": [
+      "a",
+      "title"
+    ],
+    "html": [
+      "p",
+      "p",
+      "a"
+    ],
+    "see\nediting": [
+      "p",
+      "p"
+    ],
+    "wikitext": [
+      "p",
+      "p",
+      "a"
+    ]
+  },
+  "tags": {
+    "h1": [
+      "Editing Article Metadata",
+      "Related Items"
+    ],
+    "p": [
+      "Guidance Item article Metadata",
+      "Each article has the following meta-data:",
+      "The values of these fields create the filters and a drop-down list items in the article editor. These values can be change in the WYSIWING editor window. Use the drop downs to change the metadata of the articles. To add a new tag, enter the tag in the drop down field and click “Save Changes”",
+      "",
+      "For more information on Article Metadata see:\nEdit Article Metadata",
+      "For information on editing HTML articles see:\nEditing HTML Articles",
+      "For information on editing WikiText articles see:\nEditing WikiText Articles"
+    ],
+    "strong": [
+      "Guidance Item article Metadata",
+      "Title",
+      "Technology",
+      "Phase",
+      "Type",
+      "Category"
+    ],
+    "ul": [
+      "Title:  The title is the title that is displayed in the article list\n Technology tag:  The technology tag reflects what technology the article applies to\n Phase tag:  The phase tag signifies which phase of the software development life-cycle the article is relevant to\n Type tag:  The type tag describes the type of the article\n Category tag:  The category tag describes what kind of security control the article is about"
+    ],
+    "li": [
+      "Title:  The title is the title that is displayed in the article list",
+      "Technology tag:  The technology tag reflects what technology the article applies to",
+      "Phase tag:  The phase tag signifies which phase of the software development life-cycle the article is relevant to",
+      "Type tag:  The type tag describes the type of the article",
+      "Category tag:  The category tag describes what kind of security control the article is about"
+    ],
+    "img": [
+      ""
+    ],
+    "br": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "a": [
+      "Edit Article Metadata",
+      "Editing HTML Articles",
+      "Editing WikiText Articles"
+    ]
+  },
+  "links": [
+    {
+      "href": "article/00000000-0000-0000-0000-0000002df883",
+      "text": "Edit Article Metadata"
+    },
+    {
+      "href": "article/00000000-0000-0000-0000-0000003ea057",
+      "text": "Editing HTML Articles"
+    },
+    {
+      "href": "article/00000000-0000-0000-0000-00000079da36",
+      "text": "Editing WikiText Articles"
+    }
+  ],
+  "html": "<h1>Editing Article Metadata</h1><p><strong>Guidance Item article Metadata</strong>\n</p><p>\nEach article has the following meta-data: \n</p><ul>\n<li> <strong>Title</strong>:  The title is the title that is displayed in the article list</li>\n<li> <strong>Technology</strong> tag:  The technology tag reflects what technology the article applies to</li>\n<li> <strong>Phase</strong> tag:  The phase tag signifies which phase of the software development life-cycle the article is relevant to</li>\n<li> <strong>Type</strong> tag:  The type tag describes the type of the article</li>\n<li> <strong>Category</strong> tag:  The category tag describes what kind of security control the article is about</li>\n</ul><p>\nThe values of these fields create the filters and a drop-down list items in the article editor. These values can be change in the WYSIWING editor window. Use the drop downs to change the metadata of the articles. To add a new tag, enter the tag in the drop down field and click “Save Changes”\n</p><p>\n<img src=\"/Image/editmetadata-img1.jpg\">\n</p><h1>Related Items</h1><p>For more information on Article Metadata see:<br>\n<a href=\"article/00000000-0000-0000-0000-0000002df883\">Edit Article Metadata</a><br>\n</p><p>\nFor information on editing HTML articles see:<br>\n<a href=\"article/00000000-0000-0000-0000-0000003ea057\">Editing HTML Articles</a><br>\n</p><p>\nFor information on editing WikiText articles see:<br>\n<a href=\"article/00000000-0000-0000-0000-00000079da36\">Editing WikiText Articles</a><br></p>"
+}

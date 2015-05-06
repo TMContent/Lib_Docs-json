@@ -1,0 +1,56 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "00000000-0000-0000-0000-00000025cc25"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "TEAM Mentor Technology"
+        ],
+        "Category": [
+          ""
+        ],
+        "Phase": [
+          "Draft"
+        ],
+        "Technology": [
+          ""
+        ],
+        "Type": [
+          ""
+        ],
+        "DirectLink": [
+          "TEAM Mentor Technology"
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "wikitext"
+        },
+        "Data": [
+          "<script>\ndocument.location = '/xsl/Table_of_Contents';\n</script>"
+        ]
+      }
+    ]
+  }
+}

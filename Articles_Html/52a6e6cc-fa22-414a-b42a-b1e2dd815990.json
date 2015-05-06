@@ -1,0 +1,326 @@
+{
+  "id": "52a6e6cc-fa22-414a-b42a-b1e2dd815990",
+  "checksum": "41b9ba026f7f67069600d4604c41802aa7b8e151",
+  "words": {
+    "team": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "title"
+    ],
+    "mentor": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "title"
+    ],
+    "currently": [
+      "p"
+    ],
+    "works": [
+      "p"
+    ],
+    "with": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "hp": [
+      "p",
+      "p",
+      "title"
+    ],
+    "fortify": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "title"
+    ],
+    "static": [
+      "p"
+    ],
+    "code": [
+      "p"
+    ],
+    "analyzer": [
+      "p"
+    ],
+    "product": [
+      "p"
+    ],
+    "integrates": [
+      "p"
+    ],
+    "sca": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "title"
+    ],
+    "ui": [
+      "p",
+      "p",
+      "title"
+    ],
+    "through": [
+      "p"
+    ],
+    "provided": [
+      "p"
+    ],
+    "custom": [
+      "p"
+    ],
+    "rules": [
+      "p"
+    ],
+    "interface": [
+      "p"
+    ],
+    "this": [
+      "p",
+      "p"
+    ],
+    "puts": [
+      "p"
+    ],
+    "relevant": [
+      "p",
+      "p"
+    ],
+    "security": [
+      "p",
+      "p"
+    ],
+    "guidance": [
+      "p",
+      "p"
+    ],
+    "at": [
+      "p"
+    ],
+    "the": [
+      "p",
+      "p",
+      "p"
+    ],
+    "user's": [
+      "p"
+    ],
+    "fingertips": [
+      "p"
+    ],
+    "directly": [
+      "p"
+    ],
+    "in": [
+      "p",
+      "p"
+    ],
+    "superior": [
+      "p"
+    ],
+    "information": [
+      "p"
+    ],
+    "and": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "remediation": [
+      "p",
+      "p"
+    ],
+    "strategies": [
+      "p"
+    ],
+    "as": [
+      "p",
+      "p"
+    ],
+    "close": [
+      "p"
+    ],
+    "possible": [
+      "p"
+    ],
+    "to": [
+      "p",
+      "p"
+    ],
+    "source": [
+      "p"
+    ],
+    "facilitates": [
+      "p"
+    ],
+    "quick": [
+      "p"
+    ],
+    "resolution": [
+      "p"
+    ],
+    "lowest": [
+      "p"
+    ],
+    "cost": [
+      "p"
+    ],
+    "of": [
+      "p"
+    ],
+    "allows": [
+      "p"
+    ],
+    "define": [
+      "p"
+    ],
+    "“custom": [
+      "p",
+      "p"
+    ],
+    "explanation”": [
+      "p"
+    ],
+    "recommendations”": [
+      "p"
+    ],
+    "for": [
+      "p"
+    ],
+    "finding": [
+      "p",
+      "p"
+    ],
+    "categories": [
+      "p"
+    ],
+    "subcategories": [
+      "p"
+    ],
+    "once": [
+      "p"
+    ],
+    "installed": [
+      "p"
+    ],
+    "when": [
+      "p"
+    ],
+    "a": [
+      "p"
+    ],
+    "is": [
+      "p"
+    ],
+    "clicked": [
+      "p"
+    ],
+    "if": [
+      "p"
+    ],
+    "available": [
+      "p"
+    ],
+    "will": [
+      "p",
+      "p"
+    ],
+    "be": [
+      "p"
+    ],
+    "displayed": [
+      "p"
+    ],
+    "those": [
+      "p"
+    ],
+    "fields": [
+      "p"
+    ],
+    "note": [
+      "p"
+    ],
+    "we": [
+      "p"
+    ],
+    "have": [
+      "p"
+    ],
+    "extensively": [
+      "p"
+    ],
+    "tested": [
+      "p"
+    ],
+    "integration": [
+      "p",
+      "title"
+    ],
+    "version": [
+      "p"
+    ],
+    "40.": [
+      "p"
+    ],
+    "however": [
+      "p"
+    ],
+    "it": [
+      "p"
+    ],
+    "work": [
+      "p"
+    ],
+    "other": [
+      "p"
+    ],
+    "versions": [
+      "p"
+    ],
+    "where": [
+      "p"
+    ],
+    "same": [
+      "p"
+    ],
+    "rule-set": [
+      "p"
+    ],
+    "files": [
+      "p"
+    ],
+    "are": [
+      "p"
+    ],
+    "used": [
+      "p"
+    ],
+    "about": [
+      "title"
+    ]
+  },
+  "tags": {
+    "p": [
+      "TEAM Mentor currently works with HP Fortify Static Code Analyzer product. TEAM Mentor integrates with Fortify SCA UI through Fortify provided Custom Rules interface. This puts TEAM Mentor relevant security guidance at the user's fingertips, directly in Fortify SCA UI. This superior security information and remediation strategies as close as possible  to the source facilitates quick resolution and lowest cost of remediation.",
+      "Fortify allows to define “Custom Explanation” and “Custom Recommendations” for Fortify Finding Categories and Subcategories.  Once installed, when a Fortify Finding is clicked, relevant TEAM Mentor guidance (if available) will be displayed in those fields.",
+      "Note: We have extensively tested TEAM Mentor integration with HP Fortify SCA version 4.0. However, it will work with other Fortify SCA versions where the same rule-set files are used."
+    ]
+  },
+  "links": [],
+  "html": "<p>TEAM Mentor currently works with HP Fortify Static Code Analyzer product. TEAM Mentor integrates with Fortify SCA UI through Fortify provided Custom Rules interface. This puts TEAM Mentor relevant security guidance at the user's fingertips, directly in Fortify SCA UI. This superior security information and remediation strategies as close as possible  to the source facilitates quick resolution and lowest cost of remediation. \n</p><p>\nFortify allows to define “Custom Explanation” and “Custom Recommendations” for Fortify Finding Categories and Subcategories.  Once installed, when a Fortify Finding is clicked, relevant TEAM Mentor guidance (if available) will be displayed in those fields.  \n</p><p>\nNote: We have extensively tested TEAM Mentor integration with HP Fortify SCA version 4.0. However, it will work with other Fortify SCA versions where the same rule-set files are used.</p>"
+}

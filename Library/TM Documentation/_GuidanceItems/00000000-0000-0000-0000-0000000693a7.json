@@ -1,0 +1,62 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "857244819",
+      "Content_Hash": "-776895914"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "00000000-0000-0000-0000-0000000693a7"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "Using the Control Panel"
+        ],
+        "Category": [
+          "User Interface"
+        ],
+        "Phase": [
+          "NA"
+        ],
+        "Technology": [
+          "TEAM Mentor"
+        ],
+        "Type": [
+          "Documentation"
+        ],
+        "DirectLink": [
+          ""
+        ],
+        "Tag": [
+          ""
+        ],
+        "Security_Demand": [
+          ""
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "true",
+          "DataType": "Html"
+        },
+        "Data": [
+          "\n<div>Administrators can manage TEAM Mentor users and perform various administrative operations via the Control Panel. The Control Panel can be accessed via the &quot;Control Panel&quot; link in the top right corner of the main user interface. The TEAM Mentor Control Panel\n is only available to Administrator users. The Control Panel has user management and back-end operations sections.</div>\n<div><br>\n</div>\n<div>The user management section consists of the following links: &quot;My Account&quot;, &quot;Manage Users&quot;, and &quot;Create Multiple Users&quot;. The &quot;My Account&quot; link opens a window that allows changing the properties of the current user account. The &quot;Manage Users&quot; link opens\n a page that allows managing all the users of the application. The &quot;Create Multiple Users&quot; link opens a page that allows creating multiple user accounts.</div>\n<div><br>\n</div>\n<div>The back-end operations section consists of the following links: &quot;Admin Tasks&quot; and &quot;TEAM Mentor Web Services&quot;. The &quot;Admin Tasks&quot; link opens a page that allows performing various administrative operations. The &quot;TEAM Mentor Web Services&quot; link opens a page\n that allows interacting with the web services back-end of TEAM Mentor directly.&nbsp;</div>\n<div><br>\n</div>\n<div>The following administrative operations are available via the &quot;Admin Tasks&quot; page:&nbsp;</div>\n<div>\n<ul>\n<li>Get time - this command gets the current server time.</li><li>View the configuration file - this command displays the contents of the configuration file.</li><li>Get library path - this command displays the location of the library files.</li><li>Set library path - this command allows setting the location of the library files during run-time. This command should not be used, rather the TMConfig.config file should be edited to set the location of the libraries.</li><li>Get library zips path - this command shows the location of the zip files, which contain the library files. TEAM Mentor is capable of unpacking zip files and loading libraries from them. However, it is recommended to unzip library files manually and set their\n location via the TMConfig.config file.</li><li>Set library zips path - this command allows setting the location of the zip files, which contain the library files, during run-time. TEAM Mentor is capable of unpacking zip files and loading libraries from them. However, it is recommended to unzip library\n files manually and set their location via the TMConfig.config file.</li><li>Get libraries - this command lists the currently available libraries.</li><li>Reload server cache - this command reloads the server cache, it is useful to make sure that changes to the libraries show up after doing things like changing library paths or installing new libraries.</li></ul>\n</div>\n<div><br>\n</div>\n<div>The web services exposed via the &quot;TEAM Mentor Web Services&quot; page should not be used during regular operation, but are provided to make modification of TEAM Mentor code simpler, if that is neccesary. There are far too many functions available via the &quot;TEAM Mentor\n Web Services&quot; page to list here.</div>\n<div><br>\n</div>\n<div>The TEAM Mentor Control Panel provides controls for managing users and performing administrative tasks. In addition to the Control Panel, some settings can be changed via the TMConfig.config file in the &quot;Web Application&quot; directory.</div>\n<div><br>\n</div>\n<div></div>\n"
+        ]
+      }
+    ]
+  }
+}

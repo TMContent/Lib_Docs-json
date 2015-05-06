@@ -1,0 +1,192 @@
+{
+  "id": "738f8545-5818-45fb-9494-92ea795af257",
+  "checksum": "066373647e1068cdb8e7ee8879d8545649398df8",
+  "words": {
+    "please": [
+      "p",
+      "p",
+      "p"
+    ],
+    "contact": [
+      "p",
+      "p"
+    ],
+    "security": [
+      "p",
+      "p",
+      "p"
+    ],
+    "innovation": [
+      "p",
+      "p",
+      "p"
+    ],
+    "support": [
+      "p",
+      "p",
+      "p",
+      "a"
+    ],
+    "for": [
+      "p",
+      "p"
+    ],
+    "help": [
+      "p"
+    ],
+    "upgrading": [
+      "p",
+      "title"
+    ],
+    "your": [
+      "p"
+    ],
+    "internal": [
+      "p"
+    ],
+    "instance": [
+      "p"
+    ],
+    "of": [
+      "p"
+    ],
+    "team": [
+      "p",
+      "title"
+    ],
+    "mentor": [
+      "p",
+      "title"
+    ],
+    "experts": [
+      "p"
+    ],
+    "will": [
+      "p",
+      "p",
+      "p"
+    ],
+    "work": [
+      "p"
+    ],
+    "with": [
+      "p"
+    ],
+    "you": [
+      "p"
+    ],
+    "to": [
+      "p",
+      "p",
+      "p"
+    ],
+    "ensure": [
+      "p"
+    ],
+    "a": [
+      "p"
+    ],
+    "smooth": [
+      "p"
+    ],
+    "upgrade": [
+      "p"
+    ],
+    "note": [
+      "p"
+    ],
+    "that": [
+      "p"
+    ],
+    "the": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "structure": [
+      "p"
+    ],
+    "storing": [
+      "p"
+    ],
+    "user": [
+      "p",
+      "p"
+    ],
+    "credentials": [
+      "p"
+    ],
+    "and": [
+      "p",
+      "p",
+      "p"
+    ],
+    "some": [
+      "p"
+    ],
+    "configuration": [
+      "p",
+      "p"
+    ],
+    "has": [
+      "p"
+    ],
+    "changed": [
+      "p"
+    ],
+    "as": [
+      "p"
+    ],
+    "explained": [
+      "p"
+    ],
+    "later.": [
+      "p"
+    ],
+    "import": [
+      "p",
+      "p"
+    ],
+    "old": [
+      "p"
+    ],
+    "users": [
+      "p"
+    ],
+    "user’s": [
+      "p"
+    ],
+    "password": [
+      "p"
+    ],
+    "remain": [
+      "p"
+    ],
+    "same": [
+      "p"
+    ],
+    "be": [
+      "p"
+    ],
+    "transparent": [
+      "p"
+    ]
+  },
+  "tags": {
+    "p": [
+      "Please contact Security Innovation support for help upgrading your internal instance of TEAM Mentor. Security Innovation support experts will work with you to ensure a smooth upgrade. Please note that the structure for storing user credentials and some configuration has changed (as explained later). Please contact Security Innovation support to import old users and configuration. The user’s password will remain the same and the import will be transparent to the user"
+    ],
+    "a": [
+      "support"
+    ]
+  },
+  "links": [
+    {
+      "href": "/article/323dae88-b74b-465c-a949-d48c33f4ac85",
+      "text": "support"
+    }
+  ],
+  "html": "<p>Please contact Security Innovation support for help upgrading your internal instance of TEAM Mentor. Security Innovation support experts will work with you to ensure a smooth upgrade. Please note that the structure for storing user credentials and some configuration has changed (as explained later). Please contact Security Innovation <a href=\"/article/323dae88-b74b-465c-a949-d48c33f4ac85\">support</a> to import old users and configuration. The user’s password will remain the same and the import will be transparent to the user</p>"
+}

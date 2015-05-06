@@ -1,0 +1,413 @@
+{
+  "id": "00000000-0000-0000-0000-000000410a3a",
+  "checksum": "7d23bf9337cb35a4d73c57a28a4c71312789e4b4",
+  "words": {
+    "75": [
+      "li"
+    ],
+    "minimum": [
+      "h1",
+      "title"
+    ],
+    "server": [
+      "h1"
+    ],
+    "requirements": [
+      "h1",
+      "h1",
+      "title"
+    ],
+    "the": [
+      "p",
+      "p",
+      "p"
+    ],
+    "following": [
+      "p",
+      "p"
+    ],
+    "hardware": [
+      "p"
+    ],
+    "and": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "software": [
+      "p"
+    ],
+    "is": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "required": [
+      "p",
+      "p"
+    ],
+    "to": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "run": [
+      "p",
+      "p"
+    ],
+    "team": [
+      "p",
+      "p",
+      "p"
+    ],
+    "mentor": [
+      "p",
+      "p",
+      "p"
+    ],
+    "windows": [
+      "ul",
+      "li"
+    ],
+    "2008/2012": [
+      "ul",
+      "li"
+    ],
+    "with": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "iis": [
+      "ul",
+      "li"
+    ],
+    "75\nnet": [
+      "ul"
+    ],
+    "framework": [
+      "ul",
+      "li"
+    ],
+    "45.1": [
+      "ul",
+      "li"
+    ],
+    "you": [
+      "ul",
+      "li"
+    ],
+    "can": [
+      "ul",
+      "li"
+    ],
+    "download": [
+      "ul",
+      "li"
+    ],
+    "this": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "version": [
+      "ul",
+      "li"
+    ],
+    "from": [
+      "ul",
+      "li"
+    ],
+    "http//www.microsoft.com/en-us/download/details.aspx?id=40779": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "\n2gb": [
+      "ul"
+    ],
+    "of": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "ram1gb": [
+      "ul"
+    ],
+    "storagessl": [
+      "ul"
+    ],
+    "certificate": [
+      "ul",
+      "li",
+      "p",
+      "p",
+      "p"
+    ],
+    "net": [
+      "li"
+    ],
+    "2gb": [
+      "li"
+    ],
+    "ram": [
+      "li",
+      "p"
+    ],
+    "1gb": [
+      "li"
+    ],
+    "storage": [
+      "li",
+      "p"
+    ],
+    "ssl": [
+      "li",
+      "p",
+      "p",
+      "p"
+    ],
+    "please": [
+      "p"
+    ],
+    "note": [
+      "p",
+      "p"
+    ],
+    "that": [
+      "p"
+    ],
+    "it": [
+      "p",
+      "p"
+    ],
+    "may": [
+      "p",
+      "p"
+    ],
+    "be": [
+      "p",
+      "p"
+    ],
+    "possible": [
+      "p",
+      "p"
+    ],
+    "less": [
+      "p"
+    ],
+    "however": [
+      "p",
+      "p"
+    ],
+    "performance": [
+      "p"
+    ],
+    "does": [
+      "p"
+    ],
+    "degrade": [
+      "p"
+    ],
+    "under": [
+      "p"
+    ],
+    "load": [
+      "p"
+    ],
+    "minimal": [
+      "p"
+    ],
+    "configuration": [
+      "p",
+      "p"
+    ],
+    "listed": [
+      "p"
+    ],
+    "above": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "recommended": [
+      "p"
+    ],
+    "for": [
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "production": [
+      "p"
+    ],
+    "environments": [
+      "p",
+      "p"
+    ],
+    "also": [
+      "p",
+      "p"
+    ],
+    "when": [
+      "p"
+    ],
+    "connecting": [
+      "p",
+      "p"
+    ],
+    "on": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "local": [
+      "p"
+    ],
+    "machine": [
+      "p"
+    ],
+    "\"localhost\"": [
+      "p"
+    ],
+    "not": [
+      "p"
+    ],
+    "disable": [
+      "p"
+    ],
+    "default": [
+      "p"
+    ],
+    "weaving": [
+      "p"
+    ],
+    "requirement": [
+      "p"
+    ],
+    "highly": [
+      "p"
+    ],
+    "discouraged": [
+      "p"
+    ],
+    "self-signed": [
+      "p"
+    ],
+    "used": [
+      "p"
+    ],
+    "test": [
+      "p"
+    ],
+    "client": [
+      "h1"
+    ],
+    "side": [
+      "h1"
+    ],
+    "browsers": [
+      "p"
+    ],
+    "platforms": [
+      "p"
+    ],
+    "are": [
+      "p"
+    ],
+    "supported": [
+      "p"
+    ],
+    "ie8": [
+      "ul",
+      "li"
+    ],
+    "or": [
+      "ul",
+      "li"
+    ],
+    "ie11": [
+      "ul",
+      "li"
+    ],
+    "administration\nfirefox": [
+      "ul"
+    ],
+    "chromesafari": [
+      "ul"
+    ],
+    "v6.1": [
+      "ul",
+      "li"
+    ],
+    "v70": [
+      "ul",
+      "li"
+    ],
+    "osx": [
+      "ul",
+      "li"
+    ],
+    "only": [
+      "ul",
+      "li"
+    ],
+    "administration": [
+      "li"
+    ],
+    "firefox": [
+      "li"
+    ],
+    "chrome": [
+      "li"
+    ],
+    "safari": [
+      "li"
+    ]
+  },
+  "tags": {
+    "h1": [
+      "Minimum Server Requirements",
+      "Client Side Requirements"
+    ],
+    "p": [
+      "The following hardware and software is required to run TEAM Mentor.",
+      "Please note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. It is also possible to disable the default SSL configuration, weaving the SSL certificate requirement, however this is highly discouraged. Self-signed certificate may be used for test environments.",
+      "Following browsers and platforms are supported:"
+    ],
+    "ul": [
+      "Windows 2008/2012 with IIS 7.5\nNET Framework 4.5.1 (You can download this version from http://www.microsoft.com/en-us/download/details.aspx?id=40779 )\n2GB of RAM\n1GB of Storage\nSSL Certificate",
+      "IE8 or above (IE11 for Administration)\nFirefox \nChrome\nSafari (v6.1 and v7.0 on OSX only)"
+    ],
+    "li": [
+      "Windows 2008/2012 with IIS 7.5",
+      "NET Framework 4.5.1 (You can download this version from http://www.microsoft.com/en-us/download/details.aspx?id=40779 )",
+      "2GB of RAM",
+      "1GB of Storage",
+      "SSL Certificate",
+      "IE8 or above (IE11 for Administration)",
+      "Firefox",
+      "Chrome",
+      "Safari (v6.1 and v7.0 on OSX only)"
+    ],
+    "a": [
+      "http://www.microsoft.com/en-us/download/details.aspx?id=40779"
+    ]
+  },
+  "links": [
+    {
+      "href": "http://www.microsoft.com/en-us/download/details.aspx?id=40779",
+      "text": "http://www.microsoft.com/en-us/download/details.aspx?id=40779"
+    }
+  ],
+  "html": "<h1>Minimum Server Requirements</h1><p>The following hardware and software is required to run TEAM Mentor.\n</p><ul>\n<li>Windows 2008/2012 with IIS 7.5</li>\n<li>NET Framework 4.5.1 (You can download this version from <a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=40779\">http://www.microsoft.com/en-us/download/details.aspx?id=40779</a> )</li>\n<li>2GB of RAM</li>\n<li>1GB of Storage</li>\n<li>SSL Certificate</li>\n</ul>\n<p>\nPlease note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. It is also possible to disable the default SSL configuration, weaving the SSL certificate requirement, however this is highly discouraged. Self-signed certificate may be used for test environments.\n</p>\n<h1>Client Side Requirements</h1><p>Following browsers and platforms are supported:</p><ul>\n<li>IE8 or above (IE11 for Administration)</li>\n<li>Firefox </li>\n<li>Chrome</li>\n<li>Safari (v6.1 and v7.0 on OSX only)</li>\n</ul>\n\n\n"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "2d4ea170-b4e1-41c4-9710-02f8345ac820",
+  "checksum": "b6f5e76bfe4a94ad06eadbfad716211925ad6b2d",
+  "words": {
+    "this": [
+      "p"
+    ],
+    "page": [
+      "p"
+    ],
+    "contains": [
+      "p"
+    ],
+    "links": [
+      "p"
+    ],
+    "to": [
+      "p",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "a",
+      "a"
+    ],
+    "tm": [
+      "p"
+    ],
+    "articles": [
+      "p"
+    ],
+    "currently": [
+      "p"
+    ],
+    "under": [
+      "p"
+    ],
+    "development": [
+      "p"
+    ],
+    "how": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "automatically": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "redirect": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "from": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "http": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "https": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "in": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "aspnet": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "content": [
+      "title"
+    ],
+    "research": [
+      "title"
+    ]
+  },
+  "tags": {
+    "p": [
+      "This page contains links to TM articles currently under development"
+    ],
+    "ul": [
+      "How to automatically redirect from HTTP to HTTPS in ASP.Net"
+    ],
+    "li": [
+      "How to automatically redirect from HTTP to HTTPS in ASP.Net"
+    ],
+    "a": [
+      "How to automatically redirect from HTTP to HTTPS in ASP.Net"
+    ]
+  },
+  "links": [
+    {
+      "href": "How to automatically redirect from HTTP to HTTPS in ASP.Net",
+      "text": "How to automatically redirect from HTTP to HTTPS in ASP.Net"
+    }
+  ],
+  "html": "<p>This page contains links to TM articles currently under development\n</p><ul>\n<li> <a href=\"How to automatically redirect from HTTP to HTTPS in ASP.Net\">How to automatically redirect from HTTP to HTTPS in ASP.Net</a></li></ul>"
+}

@@ -1,0 +1,47 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "4c2c621d-40c4-4305-a817-4e69985c2c1b"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "TEAM Mentor with Text Support"
+        ],
+        "Category": [
+          ""
+        ],
+        "Phase": [
+          ""
+        ],
+        "Technology": [
+          ""
+        ],
+        "Type": [
+          ""
+        ],
+        "DirectLink": [
+          "TEAM Mentor with Text Support"
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "wikitext"
+        },
+        "Data": [
+          "test<div><br></div><div>this is another test</div>"
+        ]
+      }
+    ]
+  }
+}

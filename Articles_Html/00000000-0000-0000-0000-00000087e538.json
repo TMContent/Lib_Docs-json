@@ -1,0 +1,15 @@
+{
+  "id": "00000000-0000-0000-0000-00000087e538",
+  "checksum": "8d5149c300ad14e3bc3911254f9fadb84e53b2ba",
+  "words": {
+    "filters": [
+      "title"
+    ],
+    "pane": [
+      "title"
+    ]
+  },
+  "tags": {},
+  "links": [],
+  "html": "The filters pane allows filtering content in the current library/folder/view based on applicable technology, development phase, article type, and subject matter category. Filters can be enabled or disabled by using the corresponding checkboxes."
+}

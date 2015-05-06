@@ -1,0 +1,56 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "f9db3370-b202-49b4-8e68-bc9c8f6042df"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "Using a Sample Vulnerable Application"
+        ],
+        "Category": [
+          ""
+        ],
+        "Phase": [
+          ""
+        ],
+        "Technology": [
+          ""
+        ],
+        "Type": [
+          ""
+        ],
+        "DirectLink": [
+          "Using a Sample Vulnerable Application"
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "wikitext"
+        },
+        "Data": [
+          "To see the TEAM Mentor Eclipse Plugin for Fortify at work you can scan a sample, purposely vulnerable application. For this we have chosen “BodgeIt Store” – A vulnerable web application aimed at people new to pen testing.  You can read more about the application here:\n\n\thttps://code.google.com/p/bodgeit/\n\n\\\\\nFollow these steps to download, import and scan the application:\n\n#We use SVN to checkout the latest source code version of the application. TortoiseSVN provides a nice graphical interface. The SVN source code repository is found here:\\\\ \\\\\nhttp://bodgeit.googlecode.com/svn/trunk/ \\\\ \\\\\n{{/Image/ftsmp1.jpg}} \\\\ \\\\ \\\\\n#TortoiseSVN will download the source code \\\\ \\\\\n{{/Image/ftsmp2.jpg}} \\\\ \\\\ \\\\\n#Open HP Fortify Audit Workbench.  Choose File->Scan Java Project. Now open the directory where you have stored the source code.  Choose Java Version to be 1.5. And take all the default scan settings. Then click on “Run Scan” \\\\ \\\\\n{{/Image/ftsmp3.jpg}} \\\\ \\\\ \\\\\n#Once the scan completes, you will see the findings on the left pane. \\\\ \\\\\n{{/Image/ftsmp4.jpg}} \\\\ \\\\ \\\\\n#Expand “Cross-Site Scripting: Persistent” folder in the category list on the right pane. Click on one of the findings.  Click on the Details tab on the bottom. You will see TEAM Mentor guidance show up in the “Custom Explanation” Field \\\\ \\\\\n{{/Image/ftsmp5.jpg}} \\\\ \\\\ \\\\\nYou will also see further TEAM Mentor guidance on the “Recommendations” Tab \\\\ \\\\\n{{/Image/ftsmp5-1.jpg}} \\\\ \\\\ \\\\\n#Expand the “Race Condition: Singleton Member Field” in the category on the right pane. Click on one finding. You will notice that there is no TEAM Mentor guidance available for this finding. You may use regular Fortify guidance available on the bottom pane.  \\\\ \\\\\n{{/Image/ftsmp6.jpg}} \\\\ \\\\\n{{/Image/ftsmp6-1.jpg}} \\\\ \\\\"
+        ]
+      }
+    ]
+  }
+}

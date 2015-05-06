@@ -1,0 +1,62 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "646619446",
+      "Content_Hash": "2118337598"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "00000000-0000-0000-0000-0000006647d6"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "Running TEAM Mentor locally (using Cassini)"
+        ],
+        "Category": [
+          "Administration"
+        ],
+        "Phase": [
+          "NA"
+        ],
+        "Technology": [
+          "TEAM Mentor"
+        ],
+        "Type": [
+          "Documentation"
+        ],
+        "DirectLink": [
+          "Running TEAM Mentor locally (using Cassini)"
+        ],
+        "Tag": [
+          ""
+        ],
+        "Security_Demand": [
+          ""
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "true",
+          "DataType": "Html"
+        },
+        "Data": [
+          "<div style=\"font-family:Arial,Verdana; font-style:normal; font-variant:normal; line-height:normal; font-weight:normal; font-size:10pt\">\nIf you want to use TEAM Mentor locally only, use Cassini. If you want to expose the TEAM Mentor on a web server to your team, use IIS.&amp;nbsp;</div>\n  <div style=\"font-family:Arial,Verdana; font-style:normal; font-variant:normal; line-height:normal; font-weight:normal; font-size:10pt\">\n    <br />\n  </div>\n  <div style=\"font-family:Arial,Verdana; font-style:normal; font-variant:normal; line-height:normal; font-weight:normal; font-size:10pt\">\nTo run TEAM Mentor locally, there is no installation needed, once the TEAM Mentor files are available locally, the only step required is to start the Cassini web server using the provided batch file. SSL certificate is not required when connecting to TEAM Mentor instance running on \"localhost\".<br /></div>\n  <div style=\"font-style:normal; font-variant:normal; line-height:normal; font-weight:normal; font-family:'Times New Roman'; font-size:medium\">\n    <span>\n      <br />\n    </span>\n  </div>\n  <div>\n    <ol>\n      <li>Copy TEAM Mentor files to local folder\n<ul><li><b>Download&amp;nbsp;the .zip</b>&amp;nbsp;file of TEAM Mentor and extract it</li><li>You can also do a&amp;nbsp;<b>Git Clone</b>&amp;nbsp;of the desired version of TEAM Mentor from GitHub<br /><br /></li></ul></li>\n      <li>\n        <b>The&amp;nbsp;TEAM Mentor root folder&amp;nbsp;</b>should contain the following folders:\n<ul><li>Docs<br /></li><li>Tools</li><li>Web Applications</li><li>Library_Data (Note: Only the zip file will have this \ndirectory, for TM cloned from GitHub this directory will automatically \nbe created on first run of TM)<br /><br /></li></ul></li>\n      <li>(Optional)<b> Set the local TEAM Mentor port</b><ul style=\"font-family:Arial,Verdana; font-size:10pt; font-style:normal; font-variant:normal; font-weight:normal; line-height:normal\"><li>Open the \"start webserver.bat\" file with a text editor.</li><li>Edit&amp;nbsp;the \"/port\" argument in the following line:\n<ul><li>start \"WebServer\" \"WebServer/CassiniDev.exe\" /port:<b>12345</b>&amp;nbsp;/portMode:Specific /path:\"Web Applications\\TM_Website\"</li></ul></li><li>Set same port on the next line\n<ul><li>start http://127.0.0.1:<b>12345<br /></b><br /></li></ul></li></ul></li>\n      <li style=\"font-family:Arial,Verdana; font-size:10pt; font-style:normal; font-variant:normal; font-weight:normal; line-height:normal\">\n        <b>Start local WebServer</b> (using batch file)\n<ul><li>Double-click on the \"start webserver.bat\" file to start the web server&amp;nbsp;on the defined port</li><li>The default web browser should open&amp;nbsp;automatically with the TEAM Mentor web site<br /></li></ul></li>\n    </ol>\n  </div>"
+        ]
+      }
+    ]
+  }
+}

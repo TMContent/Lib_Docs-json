@@ -1,0 +1,385 @@
+{
+  "id": "00000000-0000-0000-0000-000000579bb9",
+  "checksum": "e27797e9a68afac3e00a532797fdd7d403f9b11f",
+  "words": {
+    "editing": [
+      "div",
+      "title"
+    ],
+    "content": [
+      "div",
+      "div",
+      "div"
+    ],
+    "in": [
+      "div",
+      "div",
+      "div",
+      "div"
+    ],
+    "team": [
+      "div",
+      "div"
+    ],
+    "mentor": [
+      "div",
+      "div"
+    ],
+    "is": [
+      "div",
+      "div"
+    ],
+    "done": [
+      "div"
+    ],
+    "via": [
+      "div",
+      "div",
+      "div"
+    ],
+    "\"edit": [
+      "div",
+      "div",
+      "div",
+      "div"
+    ],
+    "mode\"": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div"
+    ],
+    "only": [
+      "div"
+    ],
+    "available": [
+      "div"
+    ],
+    "to": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div"
+    ],
+    "editors": [
+      "div"
+    ],
+    "and": [
+      "div",
+      "div",
+      "div",
+      "div"
+    ],
+    "administrators": [
+      "div"
+    ],
+    "access": [
+      "div"
+    ],
+    "login": [
+      "div"
+    ],
+    "as": [
+      "div"
+    ],
+    "either": [
+      "div"
+    ],
+    "an": [
+      "div",
+      "div"
+    ],
+    "administrator": [
+      "div"
+    ],
+    "or": [
+      "div"
+    ],
+    "editor": [
+      "div"
+    ],
+    "user": [
+      "div",
+      "div",
+      "div"
+    ],
+    "click": [
+      "div"
+    ],
+    "the": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div"
+    ],
+    "link": [
+      "div"
+    ],
+    "top": [
+      "div"
+    ],
+    "right": [
+      "div"
+    ],
+    "of": [
+      "div",
+      "div"
+    ],
+    "main": [
+      "div",
+      "div"
+    ],
+    "interface": [
+      "div",
+      "div"
+    ],
+    "two": [
+      "div"
+    ],
+    "ways": [
+      "div"
+    ],
+    "edit": [
+      "div",
+      "div",
+      "div"
+    ],
+    "folders": [
+      "div",
+      "div",
+      "div",
+      "title"
+    ],
+    "are": [
+      "div"
+    ],
+    "right-click": [
+      "div",
+      "div",
+      "div"
+    ],
+    "context": [
+      "div",
+      "div"
+    ],
+    "menu": [
+      "div",
+      "div",
+      "div"
+    ],
+    "drag": [
+      "div",
+      "div",
+      "div",
+      "div"
+    ],
+    "&": [
+      "div",
+      "div",
+      "div"
+    ],
+    "drop": [
+      "div",
+      "div",
+      "div"
+    ],
+    "operations": [
+      "div",
+      "div",
+      "div",
+      "div"
+    ],
+    "allow": [
+      "div",
+      "div",
+      "div"
+    ],
+    "managing": [
+      "div"
+    ],
+    "themselves": [
+      "div"
+    ],
+    "while": [
+      "div"
+    ],
+    "placing": [
+      "div",
+      "div"
+    ],
+    "inside": [
+      "div",
+      "div",
+      "div"
+    ],
+    "provides": [
+      "div"
+    ],
+    "following": [
+      "div"
+    ],
+    "options": [
+      "div"
+    ],
+    "\"add": [
+      "div",
+      "div",
+      "div",
+      "div"
+    ],
+    "view\"": [
+      "div",
+      "div"
+    ],
+    "folder\"": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div"
+    ],
+    "\"rename": [
+      "div",
+      "div"
+    ],
+    "\"delete": [
+      "div",
+      "div"
+    ],
+    "\"exit": [
+      "div",
+      "div"
+    ],
+    "creates": [
+      "div",
+      "div"
+    ],
+    "a": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div"
+    ],
+    "new": [
+      "div",
+      "div"
+    ],
+    "view": [
+      "div",
+      "div"
+    ],
+    "selected": [
+      "div",
+      "div"
+    ],
+    "folder": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div"
+    ],
+    "allows": [
+      "div"
+    ],
+    "renaming": [
+      "div"
+    ],
+    "current": [
+      "div"
+    ],
+    "deletes": [
+      "div"
+    ],
+    "clicked": [
+      "div"
+    ],
+    "returns": [
+      "div"
+    ],
+    "regular": [
+      "div"
+    ],
+    "mode": [
+      "div"
+    ],
+    "existing": [
+      "div"
+    ],
+    "views": [
+      "div"
+    ],
+    "move": [
+      "div"
+    ],
+    "into": [
+      "div",
+      "div"
+    ],
+    "it": [
+      "div"
+    ],
+    "destination": [
+      "div"
+    ],
+    "items": [
+      "div"
+    ],
+    "cannot": [
+      "div"
+    ],
+    "be": [
+      "div"
+    ],
+    "moved": [
+      "div"
+    ],
+    "across": [
+      "div"
+    ],
+    "libraries": [
+      "div"
+    ]
+  },
+  "tags": {
+    "div": [
+      "Editing content in TEAM Mentor is done via \"Edit Mode\". \"Edit Mode\" is only available to Editors and Administrators. To access \"Edit Mode\", login as either an Administrator or an Editor user and click the \"Edit Mode\" link in the top right of the main user\n interface.",
+      "",
+      "The two main ways to edit folders in TEAM Mentor are via the right-click context menu and via drag & drop operations. Right-click context menu operations allow managing the folders themselves, while drag & drop operations allow placing content inside of\n folders.",
+      "",
+      "The right-click content menu provides the following options: \"Add View\", \"Add Folder\", \"Rename Folder\", \"Delete Folder\", and \"Exit Edit Mode\". \"Add View\" creates a new view in the selected folder. \"Add Folder\" creates a new folder inside the selected folder.\n \"Rename Folder\" allows renaming the current folder. \"Delete Folder\" deletes the clicked folder. \"Exit Edit Mode\" returns the user interface to regular mode.",
+      "",
+      "Drag & drop operations allow placing existing views inside a folder. To move a view into a folder, drag it into the destination folder. Items cannot be moved across libraries.",
+      "",
+      ""
+    ],
+    "br": [
+      "",
+      "",
+      ""
+    ],
+    "font": [
+      ""
+    ]
+  },
+  "links": [],
+  "html": "\n<div>Editing content in TEAM Mentor is done via &quot;Edit Mode&quot;. &quot;Edit Mode&quot; is only available to Editors and Administrators. To access &quot;Edit Mode&quot;, login as either an Administrator or an Editor user and click the &quot;Edit Mode&quot; link in the top right of the main user\n interface.</div>\n<div><br>\n</div>\n<div>The two main ways to edit folders in TEAM Mentor are via the right-click context menu and via drag &amp; drop operations. Right-click context menu operations allow managing the folders themselves, while drag &amp; drop operations allow placing content inside of\n folders.</div>\n<div><br>\n</div>\n<div>The right-click content menu provides the following options: &quot;Add View&quot;, &quot;Add Folder&quot;, &quot;Rename Folder&quot;, &quot;Delete Folder&quot;, and &quot;Exit Edit Mode&quot;. &quot;Add View&quot; creates a new view in the selected folder. &quot;Add Folder&quot; creates a new folder inside the selected folder.\n &quot;Rename Folder&quot; allows renaming the current folder. &quot;Delete Folder&quot; deletes the clicked folder. &quot;Exit Edit Mode&quot; returns the user interface to regular mode.</div>\n<div><br>\n</div>\n<div>Drag &amp; drop operations allow placing existing views inside a folder. To move a view into a folder, drag it into the destination folder. Items cannot be moved across libraries.</div>\n<div><font size=\"2\"></font></div>\n<div></div>\n"
+}

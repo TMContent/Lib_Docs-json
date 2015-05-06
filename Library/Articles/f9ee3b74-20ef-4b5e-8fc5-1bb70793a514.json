@@ -1,0 +1,56 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "f9ee3b74-20ef-4b5e-8fc5-1bb70793a514"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "Configuring TEAM Mentor Eclipse Plugin for Fortify"
+        ],
+        "Category": [
+          "Administration"
+        ],
+        "Phase": [
+          "NA"
+        ],
+        "Technology": [
+          "Eclipse Plugin"
+        ],
+        "Type": [
+          "Documentation"
+        ],
+        "DirectLink": [
+          "Configuring TEAM Mentor Eclipse Plugin for Fortify"
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "wikitext"
+        },
+        "Data": [
+          "Currently the following configuration options are available.  These are accessed by clicking on TEAM Mentor->Open Properties page \\\\ \\\\ \n{{/Image/eccfg1.jpg}} \\\\ \\\\ \\\\\n\n**TEAM Mentor Server:\n\nIs the TEAM Mentor instance where the guidance articles are fetched from. Default is //https://vulnerabilities.TEAMMentor.net//\n\n**User name: \n\nThe username on the TEAM Mentor server that you want to link this plugin to \n\n**Password: \n\nThe password for the username above \n\n**SSO Token: \n\nIf you have purchased the plugin with the SSO configuration to a TEAM Mentor server this will be provided to you instead of the Username and Password.  Note that if you have chosen to purchase the plugin with a pre-configuration option, this is used to access your TEAM Mentor Server; however you do not need to change any configuration yourself. \n\n**SessionID: \n\nThis is the session ID that is used for connection to the TEAM Mentor server. This is provided for support information only. \n\n\\\\\n\n==Other configuration options:\n\nOther configuration options are available by expanding the TEAM Mentor Preferences and selecting “Config” \\\\ \\\\\n{{/Image/eccfg5.jpg}} \\\\ \\\\ \n\n**Open TEAM Mentor article in new window: \n\nThis controls whether each subsequent article will be opened in the same TEAM Mentor window or will be opened in the new window. Default is to open in the same window for easier usability.\n\n**Load Plugin on Startup:\n\nThis controls if TEAM Mentor plugin is loaded on Eclipse startup. Note that you must restart Eclipse for changes to take effect.\n\n**Show Advanced Mode Features:\n\nThis will make advanced mode features available on TEAM Mentor menu.  These are used for debugging and scripting purposes and are out of scope of this document.\n\n\n\n\n"
+        ]
+      }
+    ]
+  }
+}

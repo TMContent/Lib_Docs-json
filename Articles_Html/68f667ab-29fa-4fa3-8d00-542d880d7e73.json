@@ -1,0 +1,402 @@
+{
+  "id": "68f667ab-29fa-4fa3-8d00-542d880d7e73",
+  "checksum": "d2312ab761948948059c91a25553f792036125b2",
+  "words": {
+    "10": [
+      "pre",
+      "pre"
+    ],
+    "the": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "team": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "a"
+    ],
+    "mentor": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "a"
+    ],
+    "client": [
+      "p"
+    ],
+    "api": [
+      "p",
+      "p"
+    ],
+    "provides": [
+      "p",
+      "p"
+    ],
+    "a": [
+      "p",
+      "p",
+      "p"
+    ],
+    "simple": [
+      "p"
+    ],
+    "way": [
+      "p"
+    ],
+    "to": [
+      "p",
+      "p"
+    ],
+    "create": [
+      "p"
+    ],
+    "libraries": [
+      "p",
+      "h3"
+    ],
+    "folders": [
+      "p",
+      "h3",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "views": [
+      "p",
+      "h3",
+      "title"
+    ],
+    "and": [
+      "p",
+      "p",
+      "h3",
+      "title"
+    ],
+    "articles": [
+      "p",
+      "h3",
+      "title"
+    ],
+    "api_team": [
+      "p",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "mentor_localcs": [
+      "p"
+    ],
+    "is": [
+      "p"
+    ],
+    "c#": [
+      "p"
+    ],
+    "file": [
+      "p"
+    ],
+    "that": [
+      "p"
+    ],
+    "simplifies": [
+      "p"
+    ],
+    "consumption": [
+      "p"
+    ],
+    "of": [
+      "p",
+      "p"
+    ],
+    "webservices": [
+      "p"
+    ],
+    "for": [
+      "p"
+    ],
+    "example": [
+      "p"
+    ],
+    "it": [
+      "p"
+    ],
+    "automates": [
+      "p"
+    ],
+    "set-up": [
+      "p"
+    ],
+    "csrf": [
+      "p"
+    ],
+    "token": [
+      "p"
+    ],
+    "fluent": [
+      "p"
+    ],
+    "exposed": [
+      "p"
+    ],
+    "web": [
+      "p"
+    ],
+    "methods": [
+      "p"
+    ],
+    "requirements": [
+      "p",
+      "strong"
+    ],
+    "windows": [
+      "p"
+    ],
+    "with": [
+      "p"
+    ],
+    "net": [
+      "p"
+    ],
+    "40,": [
+      "p"
+    ],
+    "o2": [
+      "p",
+      "a"
+    ],
+    "platform": [
+      "p",
+      "a"
+    ],
+    "unit": [
+      "p",
+      "a"
+    ],
+    "tests": [
+      "p",
+      "a"
+    ],
+    "github": [
+      "p"
+    ],
+    "repository": [
+      "p"
+    ],
+    "get": [
+      "h3",
+      "h3",
+      "h3",
+      "h3",
+      "h3",
+      "h3",
+      "h3"
+    ],
+    "list": [
+      "h3"
+    ],
+    "var": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "tmlocal": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "=": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "new": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "mentor_local);": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "return": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "tmlocallibraries();": [
+      "pre"
+    ],
+    "library": [
+      "h3",
+      "h3",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "title"
+    ],
+    "details": [
+      "h3",
+      "h3"
+    ],
+    "using": [
+      "h3",
+      "h3"
+    ],
+    "name": [
+      "h3",
+      "h3"
+    ],
+    "tmlocallibrary(\"owasp\");": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "guid": [
+      "h3"
+    ],
+    "tmlocallibrary(\"4738d445-bc9b-456c-8b35-a35057596c16\".guid());": [
+      "pre"
+    ],
+    "library's": [
+      "h3"
+    ],
+    "libraryfolders();\nreturn": [
+      "pre",
+      "pre"
+    ],
+    "folder": [
+      "h3",
+      "h3",
+      "pre",
+      "pre",
+      "title"
+    ],
+    "folders0].views();": [
+      "pre"
+    ],
+    "view": [
+      "h3"
+    ],
+    "by": [
+      "h3"
+    ],
+    "libraryfolders();": [
+      "pre"
+    ],
+    "libraryfolder(\"owasp": [
+      "pre",
+      "pre"
+    ],
+    "top": [
+      "pre",
+      "pre"
+    ],
+    "-": [
+      "pre",
+      "pre"
+    ],
+    "2010\";": [
+      "pre",
+      "pre"
+    ],
+    "folderview(\"a01:": [
+      "pre",
+      "pre"
+    ],
+    "injection\";": [
+      "pre"
+    ],
+    "injection\".articles;": [
+      "pre"
+    ],
+    "creating": [
+      "title"
+    ]
+  },
+  "tags": {
+    "p": [
+      "The TEAM Mentor client API provides a simple way to create Libraries, Folders, Views and Articles",
+      "The API_TEAM Mentor_Local.cs is a C# file that simplifies the consumption of TEAM Mentor WebServices (for example it automates the set-up of the CSRF token and provides a fluent API to TEAM Mentor exposed Web Methods)",
+      "Requirements: Windows with .NET 4.0,  O2 Platform,  TEAM Mentor Unit Tests GitHub Repository"
+    ],
+    "strong": [
+      "Requirements"
+    ],
+    "a": [
+      "O2 Platform",
+      "TEAM Mentor Unit Tests"
+    ],
+    "h3": [
+      "Get libraries list:",
+      "get Library details (using name)",
+      "get Library details (using GUID)",
+      "Get Library's Folders",
+      "get folder views:",
+      "Get folder and view by name",
+      "Get articles:"
+    ],
+    "pre": [
+      "var tmLocal = new API_TEAM Mentor_Local(); \nreturn tmLocal.libraries();",
+      "var tmLocal = new API_TEAM Mentor_Local(); \nreturn tmLocal.library(\"OWASP\");",
+      "var tmLocal = new API_TEAM Mentor_Local(); \nreturn tmLocal.library(\"4738d445-bc9b-456c-8b35-a35057596c16\".guid());",
+      "var tmLocal = new API_TEAM Mentor_Local(); \nvar library = tmLocal.library(\"OWASP\");  \nvar folders = library.folders();\nreturn folders;",
+      "var tmLocal = new API_TEAM Mentor_Local(); \nvar library = tmLocal.library(\"OWASP\");  \nvar folders = library.folders();\nreturn folders[0].views();",
+      "var library = tmLocal.library(\"OWASP\");   \nvar folders = library.folders();    \nvar folder = library.folder(\"OWASP Top 10 -  2010\"); \nreturn folder.view(\"A01: Injection\");",
+      "var library = tmLocal.library(\"OWASP\");    \nvar folder = library.folder(\"OWASP Top 10 -  2010\");   \nreturn folder.view(\"A01: Injection\").Articles;"
+    ]
+  },
+  "links": [
+    {
+      "href": "https://github.com/o2platform/O2_Install ",
+      "text": " O2 Platform"
+    },
+    {
+      "href": "https://github.com/TEAM Mentor/UnitTests ",
+      "text": " TEAM Mentor Unit Tests"
+    }
+  ],
+  "html": "<p>The TEAM Mentor client API provides a simple way to create Libraries, Folders, Views and Articles\n</p><p>\nThe API_TEAM Mentor_Local.cs is a C# file that simplifies the consumption of TEAM Mentor WebServices (for example it automates the set-up of the CSRF token and provides a fluent API to TEAM Mentor exposed Web Methods)\n</p><p>\n<strong>Requirements</strong>: Windows with .NET 4.0, <a href=\"https://github.com/o2platform/O2_Install \"> O2 Platform</a>, <a href=\"https://github.com/TEAM Mentor/UnitTests \"> TEAM Mentor Unit Tests</a> GitHub Repository\n</p><h3>Get libraries list:</h3><pre>var tmLocal = new API_TEAM Mentor_Local(); \nreturn tmLocal.libraries();\n</pre><h3>get Library details (using name)</h3><pre>var tmLocal = new API_TEAM Mentor_Local(); \nreturn tmLocal.library(\"OWASP\");  \n</pre><h3>get Library details (using GUID)</h3><pre>var tmLocal = new API_TEAM Mentor_Local(); \nreturn tmLocal.library(\"4738d445-bc9b-456c-8b35-a35057596c16\".guid());  \n</pre><h3>Get Library's Folders</h3><pre>var tmLocal = new API_TEAM Mentor_Local(); \nvar library = tmLocal.library(\"OWASP\");  \nvar folders = library.folders();\nreturn folders;\n</pre><h3>get folder views:</h3><pre>var tmLocal = new API_TEAM Mentor_Local(); \nvar library = tmLocal.library(\"OWASP\");  \nvar folders = library.folders();\nreturn folders[0].views();\n</pre><h3>Get folder and view by name</h3><pre>var library = tmLocal.library(\"OWASP\");   \nvar folders = library.folders();    \nvar folder = library.folder(\"OWASP Top 10 -  2010\"); \nreturn folder.view(\"A01: Injection\");\n</pre><h3>Get articles:</h3><pre>var library = tmLocal.library(\"OWASP\");    \nvar folder = library.folder(\"OWASP Top 10 -  2010\");   \nreturn folder.view(\"A01: Injection\").Articles;\n</pre>"
+}

@@ -1,0 +1,1317 @@
+{
+  "id": "bfb6ca19-fbe5-47c2-9f73-183d52047877",
+  "checksum": "8588756e2bf061718f765de059151e4459a91925",
+  "words": {
+    "welcome": [
+      "font"
+    ],
+    "to": [
+      "font",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "span",
+      "span",
+      "span",
+      "span",
+      "span",
+      "span",
+      "span",
+      "font",
+      "font",
+      "font",
+      "font",
+      "font",
+      "font",
+      "font",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "team": [
+      "font",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "span",
+      "span",
+      "span",
+      "span",
+      "span",
+      "span",
+      "span",
+      "font",
+      "font",
+      "font",
+      "font",
+      "font",
+      "font",
+      "font",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "a",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "title"
+    ],
+    "mentor": [
+      "font",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "span",
+      "span",
+      "span",
+      "span",
+      "span",
+      "span",
+      "span",
+      "font",
+      "font",
+      "font",
+      "font",
+      "font",
+      "font",
+      "font",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "li",
+      "a",
+      "title"
+    ],
+    "integrated": [
+      "font"
+    ],
+    "into": [
+      "font"
+    ],
+    "visual": [
+      "font",
+      "div"
+    ],
+    "studio": [
+      "font",
+      "div"
+    ],
+    "and": [
+      "font",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "span",
+      "span",
+      "span",
+      "span",
+      "span",
+      "font",
+      "font",
+      "font",
+      "font",
+      "font",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "catnet.": [
+      "font"
+    ],
+    "catnet": [
+      "div",
+      "div"
+    ],
+    "is": [
+      "div",
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "a": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "span",
+      "span",
+      "font",
+      "font",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "binary": [
+      "div"
+    ],
+    "analysis": [
+      "div",
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "tool": [
+      "div"
+    ],
+    "that": [
+      "div",
+      "div",
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "finds": [
+      "div"
+    ],
+    "vulnerabilites": [
+      "div"
+    ],
+    "in": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div"
+    ],
+    "your": [
+      "div",
+      "div",
+      "div",
+      "div"
+    ],
+    "code": [
+      "div",
+      "div",
+      "div",
+      "div"
+    ],
+    "can": [
+      "div"
+    ],
+    "result": [
+      "div"
+    ],
+    "some": [
+      "div"
+    ],
+    "of": [
+      "div",
+      "div"
+    ],
+    "the": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "span",
+      "span",
+      "span",
+      "span",
+      "span",
+      "font",
+      "font",
+      "font",
+      "font",
+      "font",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "a"
+    ],
+    "most": [
+      "div"
+    ],
+    "common": [
+      "div"
+    ],
+    "attacks": [
+      "div"
+    ],
+    "such": [
+      "div"
+    ],
+    "as": [
+      "div",
+      "div",
+      "div"
+    ],
+    "cross-site": [
+      "div"
+    ],
+    "scripting": [
+      "div"
+    ],
+    "sql": [
+      "div"
+    ],
+    "injection": [
+      "div",
+      "div"
+    ],
+    "format": [
+      "div"
+    ],
+    "string": [
+      "div"
+    ],
+    "xpath": [
+      "div"
+    ],
+    "more": [
+      "div",
+      "div",
+      "div",
+      "span",
+      "span",
+      "font",
+      "font",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "provides": [
+      "div"
+    ],
+    "guidance": [
+      "div"
+    ],
+    "you": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "span",
+      "font",
+      "p"
+    ],
+    "need": [
+      "div"
+    ],
+    "understand": [
+      "div"
+    ],
+    "fix": [
+      "div"
+    ],
+    "these": [
+      "div"
+    ],
+    "vulnerabilities": [
+      "div",
+      "div"
+    ],
+    "use": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "span",
+      "span",
+      "span",
+      "span",
+      "font",
+      "font",
+      "font",
+      "font",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "build": [
+      "div"
+    ],
+    "scan": [
+      "div"
+    ],
+    "will": [
+      "div",
+      "div",
+      "div"
+    ],
+    "be": [
+      "div"
+    ],
+    "started": [
+      "div"
+    ],
+    "automatically": [
+      "div"
+    ],
+    "if": [
+      "div"
+    ],
+    "are": [
+      "div"
+    ],
+    "found": [
+      "div"
+    ],
+    "see": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "span",
+      "span",
+      "font",
+      "font",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "them": [
+      "div"
+    ],
+    "error": [
+      "div",
+      "div"
+    ],
+    "list": [
+      "div"
+    ],
+    "within": [
+      "div"
+    ],
+    "double": [
+      "div"
+    ],
+    "click": [
+      "div",
+      "div",
+      "a",
+      "a"
+    ],
+    "on": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "span",
+      "span",
+      "span",
+      "span",
+      "span",
+      "span",
+      "span",
+      "span",
+      "span",
+      "font",
+      "font",
+      "font",
+      "font",
+      "font",
+      "font",
+      "font",
+      "font",
+      "font",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "a",
+      "li",
+      "li",
+      "li"
+    ],
+    "an": [
+      "div"
+    ],
+    "information": [
+      "div",
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "vulnerability": [
+      "div"
+    ],
+    "this": [
+      "div"
+    ],
+    "page": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "span",
+      "span",
+      "span",
+      "font",
+      "font",
+      "font",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "title"
+    ],
+    "any": [
+      "div"
+    ],
+    "links": [
+      "div"
+    ],
+    "review": [
+      "div"
+    ],
+    "best": [
+      "div"
+    ],
+    "practice": [
+      "div"
+    ],
+    "guidelines": [
+      "div"
+    ],
+    "for": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "span",
+      "span",
+      "font",
+      "font",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "fixing": [
+      "div"
+    ],
+    "problem": [
+      "div"
+    ],
+    "well": [
+      "div"
+    ],
+    "checklists": [
+      "div"
+    ],
+    "checking": [
+      "div"
+    ],
+    "own": [
+      "div"
+    ],
+    "following": [
+      "div",
+      "span",
+      "font",
+      "p"
+    ],
+    "resources": [
+      "div",
+      "span",
+      "font",
+      "p"
+    ],
+    "help": [
+      "div",
+      "span",
+      "font",
+      "p"
+    ],
+    "familiarize": [
+      "div",
+      "span",
+      "font",
+      "p"
+    ],
+    "yourself": [
+      "div",
+      "span",
+      "font",
+      "p"
+    ],
+    "with": [
+      "div",
+      "div",
+      "span",
+      "span",
+      "font",
+      "font",
+      "p",
+      "ul",
+      "li"
+    ],
+    "mentor’s": [
+      "div",
+      "div",
+      "span",
+      "span",
+      "font",
+      "font",
+      "p",
+      "ul",
+      "li"
+    ],
+    "capabilities": [
+      "div",
+      "span",
+      "font",
+      "p"
+    ],
+    "cases": [
+      "div",
+      "div",
+      "span",
+      "span",
+      "font",
+      "font",
+      "p",
+      "ul",
+      "li"
+    ],
+    "&nbsp": [
+      "div",
+      "span",
+      "font",
+      "p"
+    ],
+    "view": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "video": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "tutorial": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "accompany": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "attached": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "reference": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "guide": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "how": [
+      "div",
+      "div",
+      "div",
+      "span",
+      "span",
+      "span",
+      "font",
+      "font",
+      "font",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "a",
+      "li"
+    ],
+    "get": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "vs-integrated": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "solution": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "installed": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "running&nbsp;click": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "here": [
+      "div",
+      "div",
+      "span",
+      "span",
+      "font",
+      "font",
+      "ul",
+      "ul",
+      "li",
+      "a",
+      "li",
+      "a"
+    ],
+    "read": [
+      "div",
+      "div",
+      "span",
+      "span",
+      "font",
+      "font",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "downloadable": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "components": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "power": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "new": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "static": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "integration&nbsp;click": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "up": [
+      "div",
+      "div",
+      "span",
+      "span",
+      "font",
+      "font",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "latest": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "functional": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "test": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "by": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "principal": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "architect": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "dinis": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "cruz": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "his&nbspblog.": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "vote": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "conversations": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "around": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "various": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "topics&nbsp;visit": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "our": [
+      "div",
+      "div",
+      "span",
+      "span",
+      "font",
+      "font",
+      "ul",
+      "ul",
+      "li",
+      "a",
+      "li"
+    ],
+    "community": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li",
+      "a"
+    ],
+    "reddit": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li",
+      "a"
+    ],
+    "internal": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "development": [
+      "div",
+      "div",
+      "span",
+      "span",
+      "font",
+      "font",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "a"
+    ],
+    "notes": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "details": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "visit&nbspthe": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "blog": [
+      "div",
+      "div",
+      "span",
+      "span",
+      "font",
+      "font",
+      "ul",
+      "ul",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a"
+    ],
+    "take": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "look": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "at": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "full": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "product": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "documentation": [
+      "div",
+      "div",
+      "span",
+      "span",
+      "font",
+      "font",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "a"
+    ],
+    "the&nbspteam": [
+      "div",
+      "div",
+      "span",
+      "span",
+      "font",
+      "font",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "what": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "lead": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "content": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "developer": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "serge": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li",
+      "a"
+    ],
+    "truth": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "posting": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "his&nbspserge": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "security": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li",
+      "a"
+    ],
+    "it": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li",
+      "a"
+    ],
+    "works": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li",
+      "a"
+    ],
+    "videos": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "pull": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li"
+    ],
+    "youtube": [
+      "div",
+      "span",
+      "font",
+      "ul",
+      "li",
+      "a"
+    ],
+    "visit": [
+      "a"
+    ],
+    "landing": [
+      "title"
+    ]
+  },
+  "tags": {
+    "font": [
+      "Welcome to TEAM Mentor integrated into Visual Studio and CAT.NET.",
+      "Use the following resources to help you familiarize yourself with TEAM Mentor’s capabilities and use cases:\n        &nbsp;\n        \n          To view a video tutorial to accompany the attached reference guide on how to get the VS-integrated solution installed and running,&nbsp;click here.\n          To read more on the downloadable components that power TEAM Mentor’s new static analysis integration,&nbsp;click here.\n          Read up on the latest functional test and use cases with TEAM Mentor by Principal Architect Dinis Cruz on his&nbsp;blog.\n          To see and vote on conversations around various TEAM Mentor topics,&nbsp;visit our community page on Reddit.\n          For internal development notes and details, visit&nbsp;The TEAM Mentor Development Blog.\n          Take a look at full product documentation information on the&nbsp;TEAM Mentor documentation page.\n          See what our lead content developer Serge Truth is posting on his&nbsp;Serge Security Blog.\n          \n            TEAM Mentor: How it Works\n          \n          For more videos on how to use TEAM Mentor, pull up the&nbsp;TEAM Mentor YouTube Page."
+    ],
+    "div": [
+      "",
+      "CAT.NET is a binary analysis tool that finds vulnerabilites in your code that can result in some of the most common attacks, such as Cross-Site Scripting, SQL Injection, Format String, XPath Injection and more.",
+      "",
+      "TEAM Mentor provides the guidance you need to understand and fix these vulnerabilities.",
+      "",
+      "To use TEAM Mentor, build your code and a CAT.NET scan will be started automatically. If vulnerabilities are found in your code, you will see them in the error list within Visual Studio. Double click on an error and you will see information on the vulnerability in this page. Click on any of the links to review best practice guidelines for fixing the problem as well as checklists for checking your own code.",
+      "",
+      "Use the following resources to help you familiarize yourself with TEAM Mentor’s capabilities and use cases:\n        &nbsp;\n        \n          To view a video tutorial to accompany the attached reference guide on how to get the VS-integrated solution installed and running,&nbsp;click here.\n          To read more on the downloadable components that power TEAM Mentor’s new static analysis integration,&nbsp;click here.\n          Read up on the latest functional test and use cases with TEAM Mentor by Principal Architect Dinis Cruz on his&nbsp;blog.\n          To see and vote on conversations around various TEAM Mentor topics,&nbsp;visit our community page on Reddit.\n          For internal development notes and details, visit&nbsp;The TEAM Mentor Development Blog.\n          Take a look at full product documentation information on the&nbsp;TEAM Mentor documentation page.\n          See what our lead content developer Serge Truth is posting on his&nbsp;Serge Security Blog.\n          \n            TEAM Mentor: How it Works\n          \n          For more videos on how to use TEAM Mentor, pull up the&nbsp;TEAM Mentor YouTube Page."
+    ],
+    "br": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "span": [
+      "Use the following resources to help you familiarize yourself with TEAM Mentor’s capabilities and use cases:\n        &nbsp;\n        \n          To view a video tutorial to accompany the attached reference guide on how to get the VS-integrated solution installed and running,&nbsp;click here.\n          To read more on the downloadable components that power TEAM Mentor’s new static analysis integration,&nbsp;click here.\n          Read up on the latest functional test and use cases with TEAM Mentor by Principal Architect Dinis Cruz on his&nbsp;blog.\n          To see and vote on conversations around various TEAM Mentor topics,&nbsp;visit our community page on Reddit.\n          For internal development notes and details, visit&nbsp;The TEAM Mentor Development Blog.\n          Take a look at full product documentation information on the&nbsp;TEAM Mentor documentation page.\n          See what our lead content developer Serge Truth is posting on his&nbsp;Serge Security Blog.\n          \n            TEAM Mentor: How it Works\n          \n          For more videos on how to use TEAM Mentor, pull up the&nbsp;TEAM Mentor YouTube Page."
+    ],
+    "p": [
+      "Use the following resources to help you familiarize yourself with TEAM Mentor’s capabilities and use cases:",
+      "&nbsp;"
+    ],
+    "ul": [
+      "To view a video tutorial to accompany the attached reference guide on how to get the VS-integrated solution installed and running,&nbsp;click here.\n          To read more on the downloadable components that power TEAM Mentor’s new static analysis integration,&nbsp;click here.\n          Read up on the latest functional test and use cases with TEAM Mentor by Principal Architect Dinis Cruz on his&nbsp;blog.\n          To see and vote on conversations around various TEAM Mentor topics,&nbsp;visit our community page on Reddit.\n          For internal development notes and details, visit&nbsp;The TEAM Mentor Development Blog.\n          Take a look at full product documentation information on the&nbsp;TEAM Mentor documentation page.\n          See what our lead content developer Serge Truth is posting on his&nbsp;Serge Security Blog.\n          \n            TEAM Mentor: How it Works\n          \n          For more videos on how to use TEAM Mentor, pull up the&nbsp;TEAM Mentor YouTube Page."
+    ],
+    "li": [
+      "To view a video tutorial to accompany the attached reference guide on how to get the VS-integrated solution installed and running,&nbsp;click here.",
+      "To read more on the downloadable components that power TEAM Mentor’s new static analysis integration,&nbsp;click here.",
+      "Read up on the latest functional test and use cases with TEAM Mentor by Principal Architect Dinis Cruz on his&nbsp;blog.",
+      "To see and vote on conversations around various TEAM Mentor topics,&nbsp;visit our community page on Reddit.",
+      "For internal development notes and details, visit&nbsp;The TEAM Mentor Development Blog.",
+      "Take a look at full product documentation information on the&nbsp;TEAM Mentor documentation page.",
+      "See what our lead content developer Serge Truth is posting on his&nbsp;Serge Security Blog.",
+      "TEAM Mentor: How it Works",
+      "For more videos on how to use TEAM Mentor, pull up the&nbsp;TEAM Mentor YouTube Page."
+    ],
+    "a": [
+      "click here",
+      "click here",
+      "blog",
+      "visit our community page on Reddit",
+      "The TEAM Mentor Development Blog",
+      "TEAM Mentor documentation page",
+      "Serge Security Blog",
+      "TEAM Mentor: How it Works",
+      "TEAM Mentor YouTube Page"
+    ]
+  },
+  "links": [
+    {
+      "href": "http://www.youtube.com/watch?v=QeI3POSpAvQ&noredirect=1",
+      "text": "click here"
+    },
+    {
+      "href": "http://www.reddit.com/r/TEAM Mentor/comments/xn651/TEAM Mentor_32_powertools_beta/",
+      "text": "click here"
+    },
+    {
+      "href": "http://diniscruz.blogspot.com/",
+      "text": "blog"
+    },
+    {
+      "href": "http://www.reddit.com/r/TEAM Mentor/",
+      "text": "visit our community page on Reddit"
+    },
+    {
+      "href": "http://TEAM Mentordevelopment.wordpress.com/",
+      "text": "The TEAM Mentor Development Blog"
+    },
+    {
+      "href": "http://docs.TEAMMentor.net/",
+      "text": "TEAM Mentor documentation page"
+    },
+    {
+      "href": "http://sergesecurity.wordpress.com/",
+      "text": "Serge Security Blog"
+    },
+    {
+      "href": "http://docs.TEAMMentor.net/xsl/Table_of_Contents",
+      "text": "TEAM Mentor: How it Works"
+    },
+    {
+      "href": "http://www.youtube.com/user/SITEAM Mentor?feature=watch",
+      "text": "TEAM Mentor YouTube Page"
+    }
+  ],
+  "html": "<font face=\"Arial, Verdana\" style=\"font-size: 10pt; \">Welcome to TEAM Mentor integrated into Visual Studio and CAT.NET.</font>\n  <div style=\"font-size: 10pt; font-family: Arial, Verdana; \">\n    <br />\n  </div>\n  <div style=\"font-size: 10pt; font-family: Arial, Verdana; \">CAT.NET is a binary analysis tool that finds vulnerabilites in your code that can result in some of the most common attacks, such as Cross-Site Scripting, SQL Injection, Format String, XPath Injection and more.</div>\n  <div style=\"font-size: 10pt; font-family: Arial, Verdana; \">\n    <br />\n  </div>\n  <div style=\"font-size: 10pt; font-family: Arial, Verdana; \">TEAM Mentor provides the guidance you need to understand and fix these vulnerabilities.</div>\n  <div style=\"font-size: 10pt; font-family: Arial, Verdana; \">\n    <br />\n  </div>\n  <div style=\"font-size: 10pt; font-family: Arial, Verdana; \">To use TEAM Mentor, build your code and a CAT.NET scan will be started automatically. If vulnerabilities are found in your code, you will see them in the error list within Visual Studio. Double click on an error and you will see information on the vulnerability in this page. Click on any of the links to review best practice guidelines for fixing the problem as well as checklists for checking your own code.</div>\n  <div style=\"font-size: 10pt; font-family: Arial, Verdana; \">\n    <br />\n  </div>\n  <div>\n    <span class=\"Apple-style-span\" style=\"border-collapse: separate; border-spacing: 0px; \">\n      <font size=\"2\" face=\"Arial\">\n        <p class=\"MsoNormal\" style=\"margin: 0in 0in 0.0001pt; \">Use the following resources to help you familiarize yourself with TEAM Mentor’s capabilities and use cases:</p>\n        <p class=\"MsoNormal\" style=\"margin: 0in 0in 0.0001pt; \">&amp;nbsp;</p>\n        <ul type=\"disc\" style=\"margin-bottom: 0in; margin-top: 0in; \">\n          <li class=\"MsoNormal\" style=\"margin: 0in 0in 0.0001pt; \">To view a video tutorial to accompany the attached reference guide on how to get the VS-integrated solution installed and running,&amp;nbsp;<a href=\"http://www.youtube.com/watch?v=QeI3POSpAvQ&amp;noredirect=1\">click here</a>.</li>\n          <li class=\"MsoNormal\" style=\"margin: 0in 0in 0.0001pt; \">To read more on the downloadable components that power TEAM Mentor’s new static analysis integration,&amp;nbsp;<a href=\"http://www.reddit.com/r/TEAM Mentor/comments/xn651/TEAM Mentor_32_powertools_beta/\">click here</a>.</li>\n          <li class=\"MsoNormal\" style=\"margin: 0in 0in 0.0001pt; \">Read up on the latest functional test and use cases with TEAM Mentor by Principal Architect Dinis Cruz on his&amp;nbsp;<a href=\"http://diniscruz.blogspot.com/\">blog</a>.</li>\n          <li class=\"MsoNormal\" style=\"margin: 0in 0in 0.0001pt; \">To see and vote on conversations around various TEAM Mentor topics,&amp;nbsp;<a href=\"http://www.reddit.com/r/TEAM Mentor/\">visit our community page on Reddit</a>.</li>\n          <li class=\"MsoNormal\" style=\"margin: 0in 0in 0.0001pt; \">For internal development notes and details, visit&amp;nbsp;<a href=\"http://TEAM Mentordevelopment.wordpress.com/\">The TEAM Mentor Development Blog</a>.</li>\n          <li class=\"MsoNormal\" style=\"margin: 0in 0in 0.0001pt; \">Take a look at full product documentation information on the&amp;nbsp;<a href=\"http://docs.TEAMMentor.net/\">TEAM Mentor documentation page</a>.</li>\n          <li class=\"MsoNormal\" style=\"margin: 0in 0in 0.0001pt; \">See what our lead content developer Serge Truth is posting on his&amp;nbsp;<a href=\"http://sergesecurity.wordpress.com/\">Serge Security Blog</a>.</li>\n          <li class=\"MsoNormal\" style=\"margin: 0in 0in 0.0001pt; \">\n            <a href=\"http://docs.TEAMMentor.net/xsl/Table_of_Contents\">TEAM Mentor: How it Works</a>\n          </li>\n          <li class=\"MsoNormal\" style=\"margin: 0in 0in 0.0001pt; \">For more videos on how to use TEAM Mentor, pull up the&amp;nbsp;<a href=\"http://www.youtube.com/user/SITEAM Mentor?feature=watch\">TEAM Mentor YouTube Page</a>.</li>\n        </ul>\n      </font>\n    </span>\n  </div>"
+}

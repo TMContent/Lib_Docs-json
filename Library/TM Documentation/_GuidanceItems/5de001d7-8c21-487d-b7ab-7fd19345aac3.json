@@ -1,0 +1,32 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "5de001d7-8c21-487d-b7ab-7fd19345aac3"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "TM SourceCode"
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "wikitext"
+        },
+        "Data": [
+          "TEAM Mentor uses [[http://git-scm.com/ | Git]] and [[https://github.com | GitHub]] as its Source-Code Version system/solution.\n\nThe latest version of TEAM Mentor is available on the public GitHub repositories of TEAM Mentor. There are a number of private repositories (forked from the public ones) that are used for the main TEAM Mentor customer release and its multiple customizations.\n\n===Test/Eval version===\nIf you are looking to test or evaluate TEAM Mentor and just want to get your hands on its code, then grab a clone/fork of one of these repositories:\n\n* [[https://github.com/TEAM Mentor-Owasp/Master]] - Latest stable release with OWASP Library\n* [[https://github.com/TEAM Mentor/TEAM Mentor-Documentation]] - Latest stable release with TEAM Mentor's documentation library (i.e. this website)\n\n===Development version===\nIf you want the latest development version this is the one to clone:\n\n* [[https://github.com/DinisCruz/TEAM Mentor-3.0-Release]]\n\n===Master version===\nIf you want to fork TEAM Mentor and manage your own libraries, the best one to use is the Master version:\n* [[https://github.com/TEAM Mentor/Master]]\nNote that it is this version that the other TEAM Mentor Forks use. New versions will always be pushed here, and then pulled into the other repositories (like the TEAM Mentor+SI_Library , TEAM Mentor+OWASP or TEAM Mentor+Documentation)\n\n==Bug tracking==\nThe current list of Bugs/Issues is at  [[https://github.com/TEAM Mentor/Master/issues]] (note that there is a large number of issues still need to be moved from the legacy repository: [[https://github.com/DinisCruz/TEAM Mentor-v3.0/issues]])"
+        ]
+      }
+    ]
+  }
+}

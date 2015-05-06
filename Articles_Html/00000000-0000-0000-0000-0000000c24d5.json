@@ -1,0 +1,18 @@
+{
+  "id": "00000000-0000-0000-0000-0000000c24d5",
+  "checksum": "10ea937c33f81dc273f7d2cc6a6793110b89db30",
+  "words": {
+    "article": [
+      "title"
+    ],
+    "list": [
+      "title"
+    ],
+    "pane": [
+      "title"
+    ]
+  },
+  "tags": {},
+  "links": [],
+  "html": "The article list pane displays the list of articles in the current library/folder/view in the navigation pane. The list of articles is filtered using the currently selected filters in the filters pane. The article list is the main control of the application.\n Selecting an article in the list updates the preview pane with the contents of the selected article. Double-clicking on an article opens it in a new window."
+}

@@ -1,0 +1,843 @@
+{
+  "id": "74102e10-efa4-4d8e-ba21-685c5b59fffa",
+  "checksum": "aa1fe67029e91293e1f8b9cfe4a5b2d63a083484",
+  "words": {
+    "31": [
+      "p"
+    ],
+    "32": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "team": [
+      "h1",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "ul",
+      "li",
+      "a",
+      "h3",
+      "h3",
+      "p"
+    ],
+    "mentor": [
+      "h1",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "ul",
+      "li",
+      "a",
+      "h3",
+      "h3",
+      "p"
+    ],
+    "technology": [
+      "h1"
+    ],
+    "this": [
+      "p",
+      "p",
+      "p"
+    ],
+    "section": [
+      "p"
+    ],
+    "contains": [
+      "p"
+    ],
+    "technical": [
+      "p"
+    ],
+    "details": [
+      "p"
+    ],
+    "on": [
+      "p"
+    ],
+    "how": [
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "li",
+      "a",
+      "li",
+      "a"
+    ],
+    "works": [
+      "p"
+    ],
+    "its": [
+      "p",
+      "p"
+    ],
+    "architecture": [
+      "p"
+    ],
+    "and": [
+      "p",
+      "ul",
+      "li",
+      "a"
+    ],
+    "to": [
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a"
+    ],
+    "consume/manipulate": [
+      "p"
+    ],
+    "data": [
+      "p",
+      "ul",
+      "li",
+      "a",
+      "ul",
+      "li",
+      "a"
+    ],
+    "note": [
+      "p"
+    ],
+    "we": [
+      "p"
+    ],
+    "are": [
+      "p"
+    ],
+    "currently": [
+      "p"
+    ],
+    "updating": [
+      "p"
+    ],
+    "content": [
+      "p"
+    ],
+    "for": [
+      "p"
+    ],
+    "the": [
+      "p"
+    ],
+    "forthcoming": [
+      "p"
+    ],
+    "release": [
+      "p"
+    ],
+    "if": [
+      "p"
+    ],
+    "you": [
+      "p"
+    ],
+    "see": [
+      "p"
+    ],
+    "something": [
+      "p"
+    ],
+    "wrong": [
+      "p"
+    ],
+    "please": [
+      "p"
+    ],
+    "contact": [
+      "p"
+    ],
+    "dinis": [
+      "p",
+      "a"
+    ],
+    "cruz": [
+      "p",
+      "a"
+    ],
+    "features": [
+      "h3"
+    ],
+    "consuming": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "web_services_api": [
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "a"
+    ],
+    "article": [
+      "ul",
+      "li",
+      "a",
+      "ul",
+      "li",
+      "a"
+    ],
+    "schema": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "rest": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "api": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "wikitext": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "support": [
+      "ul",
+      "ul",
+      "li",
+      "a",
+      "li",
+      "a"
+    ],
+    "active": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "directory": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "script": [
+      "h3"
+    ],
+    "examples": [
+      "h3"
+    ],
+    "creating": [
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a"
+    ],
+    "library": [
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a"
+    ],
+    "folder": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "views": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "articles": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "case": [
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a"
+    ],
+    "study": [
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a"
+    ],
+    "-": [
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a"
+    ],
+    "a": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "p"
+    ],
+    "cwe": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "a",
+      "li",
+      "li",
+      "a",
+      "a"
+    ],
+    "from": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a"
+    ],
+    "checkmarx": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "raw": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "xml": [
+      "ul",
+      "ul",
+      "li",
+      "a",
+      "li",
+      "a"
+    ],
+    "pci": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "other": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "libraries": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "direct": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "file": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "manipulation": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "fix": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a"
+    ],
+    "double": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "encoding": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "issue": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "duplicate": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "guids": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "created": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "by": [
+      "ul",
+      "li",
+      "a",
+      "p"
+    ],
+    "split": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "intra-article": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "broken": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "links": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "upload": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "files": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "or": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "images": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "control": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "via": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "ie": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "automation": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "testing/qa": [
+      "h3"
+    ],
+    "set-up": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "environment": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "unit": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "tests": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "user": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "scenario": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "matrix": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "qa": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "action": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "plan": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "security": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "testing": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "development": [
+      "h3",
+      "ul",
+      "li",
+      "a"
+    ],
+    "tm": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "sourcecode": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "site": [
+      "p"
+    ],
+    "is": [
+      "p"
+    ],
+    "powered": [
+      "p"
+    ],
+    "website": [
+      "p"
+    ],
+    "which": [
+      "p"
+    ],
+    "can": [
+      "p"
+    ],
+    "be": [
+      "p"
+    ],
+    "accessed": [
+      "p",
+      "a"
+    ],
+    "here": [
+      "p",
+      "a"
+    ],
+    "table": [
+      "title"
+    ],
+    "of": [
+      "title"
+    ],
+    "contents": [
+      "title"
+    ]
+  },
+  "tags": {
+    "h1": [
+      "TEAM Mentor Technology"
+    ],
+    "p": [
+      "This section contains technical details on how TEAM Mentor works, its architecture and how to consume/manipulate its data.",
+      "Note: We are currently updating this content for the forthcoming TEAM Mentor 3.1 release. If you see something wrong please contact  Dinis Cruz",
+      "This site is powered by a TEAM Mentor website, which can be  accessed here"
+    ],
+    "a": [
+      "Dinis Cruz",
+      "Consuming TEAM Mentor Data",
+      "Web_Services_API",
+      "TEAM Mentor Article Schema",
+      "TEAM Mentor REST API",
+      "WikiText Support",
+      "Active Directory Support",
+      "Creating Library, Folder, Views and Articles",
+      "Case Study - Creating a CWE Library from CheckMarx data",
+      "Case Study - Creating a CWE Library from CWE raw XML",
+      "Case Study - Creating a PCI Library from other Libraries",
+      "Case Study - Direct XML File Manipulation to Fix Double Encoding Issue",
+      "Case Study - Fix Duplicate Article GUIDs created by Library split",
+      "Case Study - Fix Intra-Article Broken Links",
+      "How to - Upload Files or Images",
+      "How to - Control TEAM Mentor via IE Automation",
+      "Set-up Environment",
+      "Unit Tests",
+      "User Scenario Matrix",
+      "QA Action Plan",
+      "Security Testing",
+      "TM SourceCode",
+      "3.2 Development",
+      "accessed here"
+    ],
+    "h3": [
+      "Features",
+      "Script Examples",
+      "TEAM Mentor Testing/QA",
+      "TEAM Mentor Development"
+    ],
+    "ul": [
+      "Consuming TEAM Mentor Data\n Web_Services_API\n TEAM Mentor Article Schema\n TEAM Mentor REST API\n WikiText Support\n Active Directory Support",
+      "Web_Services_API",
+      "Creating Library, Folder, Views and Articles\n Case Study - Creating a CWE Library from CheckMarx data\n Case Study - Creating a CWE Library from CWE raw XML\n Case Study - Creating a PCI Library from other Libraries\n Case Study - Direct XML File Manipulation to Fix Double Encoding Issue\n Case Study - Fix Duplicate Article GUIDs created by Library split\n Case Study - Fix Intra-Article Broken Links\n How to - Upload Files or Images\n How to - Control TEAM Mentor via IE Automation",
+      "Set-up Environment\n Unit Tests\n User Scenario Matrix\n QA Action Plan\n Security Testing",
+      "TM SourceCode\n 3.2 Development"
+    ],
+    "li": [
+      "Consuming TEAM Mentor Data\n Web_Services_API",
+      "Web_Services_API",
+      "TEAM Mentor Article Schema",
+      "TEAM Mentor REST API",
+      "WikiText Support",
+      "Active Directory Support",
+      "Creating Library, Folder, Views and Articles",
+      "Case Study - Creating a CWE Library from CheckMarx data",
+      "Case Study - Creating a CWE Library from CWE raw XML",
+      "Case Study - Creating a PCI Library from other Libraries",
+      "Case Study - Direct XML File Manipulation to Fix Double Encoding Issue",
+      "Case Study - Fix Duplicate Article GUIDs created by Library split",
+      "Case Study - Fix Intra-Article Broken Links",
+      "How to - Upload Files or Images",
+      "How to - Control TEAM Mentor via IE Automation",
+      "Set-up Environment",
+      "Unit Tests",
+      "User Scenario Matrix",
+      "QA Action Plan",
+      "Security Testing",
+      "TM SourceCode",
+      "3.2 Development"
+    ]
+  },
+  "links": [
+    {
+      "href": "mailto:dcruz@securityinnovation.com ",
+      "text": " Dinis Cruz"
+    },
+    {
+      "href": "Consuming TEAM Mentor Data",
+      "text": "Consuming TEAM Mentor Data"
+    },
+    {
+      "href": "Web_Services_API",
+      "text": "Web_Services_API"
+    },
+    {
+      "href": "TEAM Mentor Article Schema",
+      "text": "TEAM Mentor Article Schema"
+    },
+    {
+      "href": "TEAM Mentor REST API",
+      "text": "TEAM Mentor REST API"
+    },
+    {
+      "href": "WikiText Support",
+      "text": "WikiText Support"
+    },
+    {
+      "href": "Active Directory Support",
+      "text": "Active Directory Support"
+    },
+    {
+      "href": "Creating Library, Folder, Views and Articles",
+      "text": "Creating Library, Folder, Views and Articles"
+    },
+    {
+      "href": "Case Study - Creating a CWE Library from CheckMarx data",
+      "text": "Case Study - Creating a CWE Library from CheckMarx data"
+    },
+    {
+      "href": "Case Study - Creating a CWE Library from CWE raw XML",
+      "text": "Case Study - Creating a CWE Library from CWE raw XML"
+    },
+    {
+      "href": "Case Study - Creating a PCI Library from other Libraries",
+      "text": "Case Study - Creating a PCI Library from other Libraries"
+    },
+    {
+      "href": "Case Study - Direct XML File Manipulation to Fix Double Encoding Issue",
+      "text": "Case Study - Direct XML File Manipulation to Fix Double Encoding Issue"
+    },
+    {
+      "href": "Case Study - Fix Duplicate Article GUIDs created by Library split",
+      "text": "Case Study - Fix Duplicate Article GUIDs created by Library split"
+    },
+    {
+      "href": "Case Study - Fix Intra-Article Broken Links",
+      "text": "Case Study - Fix Intra-Article Broken Links"
+    },
+    {
+      "href": "How to - Upload Files or Images",
+      "text": "How to - Upload Files or Images"
+    },
+    {
+      "href": "How to - Control TEAM Mentor via IE Automation",
+      "text": "How to - Control TEAM Mentor via IE Automation"
+    },
+    {
+      "href": "Set-up Environment",
+      "text": "Set-up Environment"
+    },
+    {
+      "href": "Unit Tests",
+      "text": "Unit Tests"
+    },
+    {
+      "href": "User Scenario Matrix",
+      "text": "User Scenario Matrix"
+    },
+    {
+      "href": "QA Action Plan",
+      "text": "QA Action Plan"
+    },
+    {
+      "href": "Security Testing",
+      "text": "Security Testing"
+    },
+    {
+      "href": "TM SourceCode",
+      "text": "TM SourceCode"
+    },
+    {
+      "href": "3.2 Development",
+      "text": "3.2 Development"
+    },
+    {
+      "href": "/html_pages/Gui/TEAM Mentor.html ",
+      "text": " accessed here"
+    }
+  ],
+  "html": "<h1>TEAM Mentor Technology</h1><p>This section contains technical details on how TEAM Mentor works, its architecture and how to consume/manipulate its data.\n</p><p>\nNote: We are currently updating this content for the forthcoming TEAM Mentor 3.1 release. If you see something wrong please contact <a href=\"mailto:dcruz@securityinnovation.com \"> Dinis Cruz</a></p><h3>Features</h3><ul><li> <a href=\"Consuming TEAM Mentor Data\">Consuming TEAM Mentor Data</a><ul>\n<li> <a href=\"Web_Services_API\">Web_Services_API</a></li></ul></li>\n<li> <a href=\"TEAM Mentor Article Schema\">TEAM Mentor Article Schema</a></li>\n<li> <a href=\"TEAM Mentor REST API\">TEAM Mentor REST API</a></li>\n<li> <a href=\"WikiText Support\">WikiText Support</a></li>\n<li> <a href=\"Active Directory Support\">Active Directory Support</a></li>\n</ul><h3>Script Examples</h3><ul><li> <a href=\"Creating Library, Folder, Views and Articles\">Creating Library, Folder, Views and Articles</a></li>\n<li> <a href=\"Case Study - Creating a CWE Library from CheckMarx data\">Case Study - Creating a CWE Library from CheckMarx data</a></li>\n<li> <a href=\"Case Study - Creating a CWE Library from CWE raw XML\">Case Study - Creating a CWE Library from CWE raw XML</a></li>\n<li> <a href=\"Case Study - Creating a PCI Library from other Libraries\">Case Study - Creating a PCI Library from other Libraries</a></li>\n<li> <a href=\"Case Study - Direct XML File Manipulation to Fix Double Encoding Issue\">Case Study - Direct XML File Manipulation to Fix Double Encoding Issue</a></li>\n<li> <a href=\"Case Study - Fix Duplicate Article GUIDs created by Library split\">Case Study - Fix Duplicate Article GUIDs created by Library split</a></li>\n<li> <a href=\"Case Study - Fix Intra-Article Broken Links\">Case Study - Fix Intra-Article Broken Links</a></li>\n<li> <a href=\"How to - Upload Files or Images\">How to - Upload Files or Images</a></li>\n<li> <a href=\"How to - Control TEAM Mentor via IE Automation\">How to - Control TEAM Mentor via IE Automation</a></li>\n</ul>\n<h3>TEAM Mentor Testing/QA</h3><ul><li> <a href=\"Set-up Environment\">Set-up Environment</a></li>\n<li> <a href=\"Unit Tests\">Unit Tests</a></li>\n<li> <a href=\"User Scenario Matrix\">User Scenario Matrix</a></li>\n<li> <a href=\"QA Action Plan\">QA Action Plan</a></li>\n<li> <a href=\"Security Testing\">Security Testing</a></li>\n</ul><h3>TEAM Mentor Development</h3><ul><li> <a href=\"TM SourceCode\">TM SourceCode</a></li>\n<li> <a href=\"3.2 Development\">3.2 Development</a></li>\n</ul><p>\nThis site is powered by a TEAM Mentor website, which can be <a href=\"/html_pages/Gui/TEAM Mentor.html \"> accessed here</a></p>"
+}

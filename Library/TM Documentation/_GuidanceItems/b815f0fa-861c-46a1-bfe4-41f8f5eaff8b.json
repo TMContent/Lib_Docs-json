@@ -1,0 +1,47 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "b815f0fa-861c-46a1-bfe4-41f8f5eaff8b"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "Case Study - Creating a CWE Library from CheckMarx data"
+        ],
+        "Category": [
+          ""
+        ],
+        "Phase": [
+          ""
+        ],
+        "Technology": [
+          ""
+        ],
+        "Type": [
+          ""
+        ],
+        "DirectLink": [
+          "Case Study - Creating a CWE Library from CheckMarx data"
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "wikitext"
+        },
+        "Data": [
+          "This article shows an script example on how a custom CWE Library was created using TEAM Mentor's WebServices API, using as source material the CWE HTML files distributed with Checkmarx\n\n**Requirements**: Windows with .NET 4.0, [[https://github.com/o2platform/O2_Install | O2 Platform]], [[https://github.com/TEAM Mentor/UnitTests | TEAM Mentor Unit Tests]] GitHub Repository\n\n===Connect to a instance of TEAM Mentor and and login===\n\n{{{\nvar teamMentor = new API_TEAM Mentor_WebServices(\"http://localhost:3186/\"); \nteamMentor.login(\"admin\", adminPwd);\nreturn teamMentor.loggedIn();\n//using SecurityInnovation.TEAM Mentor;\n//O2File:..\\TEAM Mentor-UnitTests\\APIs\\API_TEAM Mentor_WebServices.cs\n}}}\n\n===Connect to a instance of TEAM Mentor and and login===\n\n{{{\nvar teamMentor = new API_TEAM Mentor_WebServices(\"http://localhost:3186/\"); \nteamMentor.login(\"admin\", adminPwd);\nreturn teamMentor.loggedIn();\n}}}\n\n===Create Checkmarx library===\n{{{\nvar teamMentor = new API_TEAM Mentor_WebServices(\"http://localhost:3186/\"); \nteamMentor.login(\"admin\", adminPwd);\nvar library = teamMentor.library(\"Checkmarx\");\nreturn library;\n}}}\n\n===Create/Get View:===\n{{{\nvar teamMentor = new API_TEAM Mentor_WebServices(\"http://localhost:3186/\"); \nteamMentor.login(\"admin\", adminPwd);\nvar library = teamMentor.library(\"Checkmarx\");\nreturn library.view(\"CWE Data\");\n}}}\n\n===Create/Get Article===\n{{{\nteamMentor.login(\"admin\", adminPwd); \nvar library = teamMentor.library(\"Checkmarx\"); \nvar view = library.view(\"CWE Data\");\nreturn view.article(\"test article 3\");\n}}}\n\n===Create Article with Metadata===\n{{{\nvar library = teamMentor.library(\"Checkmarx\"); \n\nvar view = library.view(\"CWE Data\");\n \nvar title = \"XYZ topic\";\nvar content = \"<h1>Article on XYZ</h1>With some content here\";\nvar technology  = \"Any\";\nvar phase = \"Design\";\nvar type = \"Principle\";\nvar category = \"AppSec\";\n\nreturn view.add_Article(title, content, technology, phase, type, category);\n}}}\n\n===Add one article===\n{{{\nvar teamMentor = new API_TEAM Mentor_WebServices(\"http://localhost.:3186/\");  \nteamMentor.login(\"admin\", adminPwd); \n\nvar library = teamMentor.library(\"Checkmarx\").delete().library(\"Checkmarx\");\nvar view = library.view(\"CWE Data\");\n\n//load Checkmarx CWE data\nvar checkMark_XmlDumps = \"_CheckMark_XmlDumps\".tempDir(false); \nvar xRoot = \"cweData\".o2Cache[XElement](()=] checkMark_XmlDumps.pathCombine(\"CWE.xml\").xRoot());\n\nvar cweEntry = xRoot.elements().second();\n\n//add entry as TM article\nvar cweId = cweEntry.elements().first().value();\nvar cweHtml = cweEntry.elements().second().value();\n \n \nvar title = cweId;\nvar content = cweHtml;\nvar technology  = \"Any\"; \nvar phase = \"Report\"; \nvar type = \"Chexkmarx\";\nvar category  = \"CWE\";\n\nreturn view.add_Article(title, content, technology, phase, type, category);\n}}}\n\n\n\n===Add all articles===\n{{{\nvar teamMentor = new API_TEAM Mentor_WebServices(tmSite);  \nteamMentor.login(\"admin\", adminPwd); \n\nvar library = teamMentor.library(\"Checkmarx\").delete().library(\"Checkmarx\");\nvar view = library.view(\"CWE Data\");\n\n//load Checkmarx CWE data\nvar checkMark_XmlDumps = \"_CheckMark_XmlDumps\".tempDir(false); \nvar xRoot = \"cweData\".o2Cache[XElement](()=] checkMark_XmlDumps.pathCombine(\"CWE.xml\").xRoot());\n\nvar count = 0;\n\nvar cweEntries = xRoot.elements().toList();\nforeach(var cweEntry in cweEntries)\n{\n\t//add entry as TM article\n\tvar cweId = cweEntry.elements().first().value();\n\tvar cweHtml = cweEntry.elements().second().value();\n\tvar technology  = \"Any\"; \n\tvar phase = \"Report\"; \n\tvar type = \"CWE\";\n\tvar category  = \"CheckMarx DB\";\n\tvar title = cweId;\n\tvar content = cweHtml;\n\tif (cweId==\"-1\") \t// handle special case where they embeded the css on the item with id -1\n\t{\n\t\ttype = \"css\";\n\t\ttitle = \"main.css\";\n\t\tcweHtml =  cweHtml.subString_After(\"[style]\").trim();\n\t}\n\tview.add_Article(title, content, technology, phase, type, category);\n\tif (count++.mod0(20))\n\t\t\"[{0} / {1}]\".debug(count, cweEntries.size());\n}\nreturn \"Created {0} TEAM Mentor articles\".format(count).info();\n\n}}}\n\n===Script to mass change Checkmark CWE table to point into TM content:===\n\n{{{\nvar vistaDb = new API_VistaDB();\nvar serverIp = \"xx.xx.xx.xx\";\nvar htmlRedirectTemplate = \"&lt;\" + @\"html&gt;<meta http-equiv=\"\" refresh\"\"=\"\" content=\"\" 0;=\"\" url=\"http://{0}/html/{1}&quot;&quot;\">\";\n\n\"starting update\".info();\nvar rows = vistaDb.table(\"CWE\").dataTable().Rows;\nvar count = 0;\nforeach(DataRow row in rows) \n{\n\tvar cweId = row.ItemArray[0].str().info(); \n\tvar htmlRedirect = htmlRedirectTemplate.format(serverIp, cweId);\n\tvistaDb.executeScalar(\"UPDATE CWE SET Description = '{1}' where CweId ='{0}'\".format(cweId, htmlRedirect)); \n\tvistaDb.executeScalar(\"select Description from CWE where CweId ='{0}'\".format(cweId));\n\tif (count++.mod0(25))\n\t\t\"[{0}/{1}\".debug(count, rows.size());\n }\n\"update complete\".info();\nreturn vistaDb;\n}}}\n"
+        ]
+      }
+    ]
+  }
+}

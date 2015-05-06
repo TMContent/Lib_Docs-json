@@ -1,0 +1,263 @@
+{
+  "id": "dbec6179-c6a3-49cb-a032-10b9ba82f6d2",
+  "checksum": "80607aea5b2b4f5f2e8d8aac81d8ed2908075ed1",
+  "words": {
+    "open": [
+      "p",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "fortify": [
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "p",
+      "title"
+    ],
+    "perspective": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "and": [
+      "p"
+    ],
+    "findingsin": [
+      "p"
+    ],
+    "this": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "example": [
+      "p"
+    ],
+    "we": [
+      "p"
+    ],
+    "have": [
+      "p"
+    ],
+    "a": [
+      "p",
+      "p",
+      "p"
+    ],
+    "project": [
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "with": [
+      "p"
+    ],
+    "simple": [
+      "p"
+    ],
+    "vulnerable": [
+      "p"
+    ],
+    "application": [
+      "p"
+    ],
+    "analyze": [
+      "ul",
+      "li"
+    ],
+    "the": [
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "p",
+      "title"
+    ],
+    "by": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "going": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "to": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "hp": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "fortify-analyze": [
+      "ul",
+      "li"
+    ],
+    "or": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "an": [
+      "ul",
+      "li"
+    ],
+    "already": [
+      "ul",
+      "li"
+    ],
+    "saved": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "analysis": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "-": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "load": [
+      "ul",
+      "li"
+    ],
+    "audit": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "brings": [
+      "ul",
+      "li"
+    ],
+    "up": [
+      "ul",
+      "li"
+    ],
+    "as": [
+      "p"
+    ],
+    "you": [
+      "p"
+    ],
+    "can": [
+      "p"
+    ],
+    "see": [
+      "p"
+    ],
+    "team": [
+      "p",
+      "title"
+    ],
+    "mentor": [
+      "p",
+      "title"
+    ],
+    "guidance": [
+      "p"
+    ],
+    "is": [
+      "p",
+      "p"
+    ],
+    "automatically": [
+      "p"
+    ],
+    "displayed": [
+      "p"
+    ],
+    "whenever": [
+      "p"
+    ],
+    "finding": [
+      "p"
+    ],
+    "selected": [
+      "p"
+    ],
+    "in": [
+      "p"
+    ],
+    "sca": [
+      "p"
+    ],
+    "results": [
+      "p"
+    ],
+    "view": [
+      "p"
+    ],
+    "using": [
+      "title"
+    ],
+    "eclipse": [
+      "title"
+    ],
+    "plugin": [
+      "title"
+    ],
+    "for": [
+      "title"
+    ]
+  },
+  "tags": {
+    "p": [
+      "Open Fortify Perspective and Findings\nIn this example we have a project with a simple, vulnerable, application.",
+      "As you can see TEAM Mentor guidance is automatically displayed whenever a Fortify finding is selected in the SCA Analysis Results view."
+    ],
+    "br": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ul": [
+      "Analyze the project by going to HP Fortify->Analyze Project \nor \nOpen an already saved analysis by going to HP Fortify -> Load Saved Audit Project or HP Fortify -> Open Audit Project \nThis brings up the Fortify Audit perspective"
+    ],
+    "li": [
+      "Analyze the project by going to HP Fortify->Analyze Project \nor",
+      "Open an already saved analysis by going to HP Fortify -> Load Saved Audit Project or HP Fortify -> Open Audit Project \nThis brings up the Fortify Audit perspective"
+    ],
+    "img": [
+      ""
+    ]
+  },
+  "links": [],
+  "html": "<p>Open Fortify Perspective and Findings<br>\nIn this example we have a project with a simple, vulnerable, application. </p><ul>\n<li>Analyze the project by going to HP Fortify-&gt;Analyze Project <br>\nor <br></li>\n<li>Open an already saved analysis by going to HP Fortify -&gt; Load Saved Audit Project or HP Fortify -&gt; Open Audit Project <br>\nThis brings up the Fortify Audit perspective <br> <br>\n<img src=\"/Image/ecusn1.jpg\"> <br> </li>\n</ul><p>\nAs you can see TEAM Mentor guidance is automatically displayed whenever a Fortify finding is selected in the SCA Analysis Results view. \n</p>\n\n\n"
+}

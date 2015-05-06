@@ -1,0 +1,56 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "84942fa8-c29e-49b1-9509-2392aaab2faa"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "WhatsNew-OLD"
+        ],
+        "Category": [
+          "Administration"
+        ],
+        "Phase": [
+          "Draft"
+        ],
+        "Technology": [
+          "TEAM Mentor"
+        ],
+        "Type": [
+          "Documentation"
+        ],
+        "DirectLink": [
+          "WhatsNew"
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "wikitext"
+        },
+        "Data": [
+          "=3.4.1 RELEASE=\n\nTEAM Mentor release 3.4.1 includes a number of back-end and front end enhancements gathered from customer feedback and requirements. This includes custom user fields in signup form, and user approval workflow, better activity logging and reporting, single sign on enhancements as well as a number of bug fixes and performance enhancements. Content changes include .NET 2.0 Library update,  .NET 3.5 Library Update, and updates to the Vulnerability library.\n\n\n**APPLICATION CHANGES**\\\\\nThe following main application changes are included in 3.4.1 release.\n\n- User signup approval flow, where admin can now approve new users via email\\\\\n- Custom defined fields in the user registration form\\\\\n- Improvements in controlling what is shown to anonymous (non-logged in users)\\\\\n- Overhaul of the admin interface\\\\\n- Centralized logging using Firebase\\\\\n- Improved User Activity tracking and reporting\\\\\n- Email template improvements\\\\\n- AD integration fixes\\\\\n- SSO improvements and integration with TEAM Professor\\\\\n- Bulk user import using CSV file\\\\\n- Branding changes\\\\\n\n\n**CONTENT CHANGES**\\\\\nThe TeamMentor 3.4.1 release includes the following content changes:\n\nVulnerability Library Update\n\nA number of articles to the new Vulnerability library has been added to aid integration with code vulnerability scanners. A vulnerability type article directs the user to the guidance for implementing the relevant countermeasures and course materials for background information. The Vulnerability pages are designed to be used from a code scanner, but can be used independently. The Vulnerability library currently has 221 articles and it is growing rapidly.\n\n.NET 2.0 Library Update\n\n921 items have been removed to optimize the reading experience.\nPrevious versions include \"Question and Answer\" type articles that are essentially the same in function as \"Checklist Item\" type articles. Additionally, many \"Checklist Item\" type articles were nearly identical. The result was that the library was difficult to navigate because of many similar articles. The redundant articles have been removed and the quality of the remaining articles has been improved.\n\n.NET 3.5 Library Update\n\n943 items have been removed to optimize the reading experience.\nPrevious versions include \"Question and Answer\" type articles, that are essentially the same in function as \"Checklist Item\" type articles. Additionally, many \"Checklist Item\" type articles were nearly identical. The result was that the library was difficult to navigate because of many similar articles. The redundant articles have been removed and the quality of the remaining articles has been improved.\n\n.NET 4.0 Library Update\n\n8 items have been added to facilitate scanner integration.\nGuidelines and Checklist Items have been added to support integration with the Fortify scanner.\n\nJava Library Update\n\n16 items have been added to facilitate scanner integration.\nGuidelines and Checklist Items have been added to support integration with the Fortify scanner.\n\nC++ Library Update\n\n16 items have been added to facilitate scanner integration.\nGuidelines and Checklist Items have been added to support integration with the Fortify scanner.\n\nPHP Library Update\n\n22 items have been added to facilitate scanner integration. \nGuidelines and Checklist Items have been added to support integration with the Fortify scanner.\n\n\\\\\n\n=3.4 RELEASE=\nThe TeamMentor 3.4 release includes new and updated content and a number of user experience and back-end bug fixes. Content libraries covering HTML5 and Scala security have been added and multiple fixes have been made to content. New \"Vulnerability\" had been introduced to facilitate integration with vulnerability scanners, such as Checkmarx, Fortify and others.  \n\n**CONTENT CHANGES**\\\\\nThe TeamMentor 3.4 release includes the following content changes:\\\\\n+ New SCALA library - an exclusive SCALA secure application development library. There are very few resources focused on SCALA security at the moment, so this is one of the first.\\\\\n+ New HTML5 Library - a new library that describes important aspects of writing secure HTML5 applications. Both server-side and client-side issues are considered and guidance is provided on how to prevent or fix them.\\\\\n+ New Vulnerability Library - a new library used to interface with vulnerability scanners. The Vulnerability library is a set of pages that describe most common vulnerabilities and leads to guidance on how to prevent or fix these vulnerabilities.\\\\\n+ Multiple content fixes - most importantly, the recommended way to store passwords is to use iterative hashing now and the content has been updated to reflect this in ASP.NET 4.0, Java, PHP and C++ libraries. Multiple minor fixes have been made, such as removing outdated links from the ASP.NET 4.0 library.\\\\\n\n\n\\\\\n\n=3.3 RELEASE=\nThe TEAM Mentor 3.3 release includes both new application security content and new web application capabilities. \nThe update includes over 100 new articles added to multiple libraries to facilitate integration with code analysis tools.\n\n**APPLICATION CHANGES**\\\\\nThe TEAM Mentor 3.3 release includes the following new application features:\n*New XML Database directory structure to simplify configuration and improve security\n**New structure separates Libraries, Application Logs, User Data and Configuration\n*GIT support – native capability to store TM Libraries and User Data in GIT.\n**Enables collaboration and version control of authored content using GIT\n**Simplifies merging any local changes with updated TEAM Mentor content\n**Decouples content updates from application updates\n*Self-service password reset capability for forgotten passwords\n**TEAM Mentor will send a one-time password via email to the user when they click the new Forgot Password link on the login prompt box. Email details must be configured for this new feature.\n*Google Analytics support – both server side and client side integrations with Google Analytics for collecting analytics to track the usage of your TEAM Mentor installation\n\n**CONTENT CHANGES**\\\\\nThe new articles in this release include vulnerability based Landing Pages. These pages simplify navigation and are designed to be included in reports produced by automated application security assessment tools. The new articles are in the following libraries:\n*.NET 4 – 72 new articles\n*Java – 33 new articles\n*PHP – 27 new articles\n\n**UPGRADING FROM PREVIOUS VERSION OF TEAMMENTOR**\\\\\nDue to the new XML database structure, Security Innovation support will work with each customer to perform upgrades. When you are ready, please contact us at support@securityinnovation.com to schedule an upgrade. This service is included with your TEAM Mentor license and support.\n\n**LOCAL WEBSITE**\\\\\nTo run TEAM Mentor locally run \"start TEAM Mentor.bat\" which will start a local WebServer (Cassini) on a high port: http://127.0.0.1:12120 <http: 127.0.0.1:12120=\"\"></http:> \n\n\\\\\n\n=3.2 RELEASE=\nThe TEAM Mentor 3.2 release includes new content and new application code. Stability improvements have been made to the application and features have been added. Content libraries covering mobile platform security have been added and multiple fixes have been made to content.\n\n**APPLICATION CHANGES**\\\\\nThe TM3.2 release includes the following application changes:\n*Visual Studio code analysis plug-in.\n*WikiText article mark-up support (with Syntax Highlight)\n*Support for setting filters via the URL.\n*Support for controlling the UI via the URL.\n*Pinned Filters\n*Easy download and install of Libraries (to/from Zip files)\n*Improve Article search (by title and on all articles)\n*GZip compression and Client size cache (reduced data transfers by 50%) \n*Multiple minor bug fixes\n\n**CONTENT CHANGES**\\\\\nThe TM3.2 release includes the following content changes:\n*Android and iOS libraries have been added.\n*Broken links have been fixed throughout all libraries.\n*Major improvements to articles applicable to \"Any\" technology.\n\n**LOCAL WEBSITE**\\\\\nTo run TEAM Mentor locally run \"start TEAM Mentor.bat\" which will start a local WebServer (Cassini) on a high port: http://127.0.0.1:12120 <http: 127.0.0.1:12120=\"\"></http:> \n\n\\\\\n=3.1 RELEASE=\nThe TEAM Mentor 3.1 release includes both new content and new application code. Major stability and usability improvements have been made to the application. A new content library has been added and numerous content fixes have been made based on feedback by a new editor - the TM content is periodically reviewed by different information security professionals.\n\n**APPLICATION CHANGES**\\\\\nThe TM3.1 release includes the following changes:\n*New article schema (with more metadata and better content formatting).\n*Active Directory support.\n*New Link structure.\n*Xml and XSLT support (client and server side).\n*REST API to access articles in multiple formats (raw, xml, jsonp) with ability to find article by GUID or title.\n*New C# WebServices API.\n*TM Technology pages providing technical details on TM APIs.\n*New WebServices Methods that simplify the creation of TM Content.\n*Multiple GUI and performance fixes.\n*Gaug.es support.\n*Upgrade to .NET 4.0.\n\n**CONTENT CHANGES**\\\\\nThe 2012Q1 TM content release has the following updates:\n*The new \"CWE\" library. A new library based on the CWE Top 25 Vulnerabilities list has been added. The articles are based heavily on the original CWE text. A few minor changes have been made to the original text by a team of reviewers. Additional material has been added in places where the original CWE content was too short. The CWE library is a stand-alone library and has 110 articles.\n*The updated \"PCI DSS Compliance\" library. The PCI DSS library has been edited to be clearer and to improve the browsing experience. New articles have been added to have a one-to-one correspondence of Guideline and Checklist items. The content has been reviewed by one more editor and numerous minor fixes have been made. The meta-data tags have been edited to simplify navigation. The new PCI DSS library is a stand-alone library and includes 331 articles.\n \n\n"
+        ]
+      }
+    ]
+  }
+}

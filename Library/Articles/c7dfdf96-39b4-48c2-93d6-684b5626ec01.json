@@ -1,0 +1,56 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "c7dfdf96-39b4-48c2-93d6-684b5626ec01"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "Using a Sample Vulnerable Application"
+        ],
+        "Category": [
+          "User Guide"
+        ],
+        "Phase": [
+          "NA"
+        ],
+        "Technology": [
+          "Eclipse Plugin"
+        ],
+        "Type": [
+          "Documentation"
+        ],
+        "DirectLink": [
+          "Using a Sample Vulnerable Application"
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "wikitext"
+        },
+        "Data": [
+          "To see the TEAM Mentor Eclipse Plugin for Fortify at work you can scan a sample, purposely vulnerable application. For this we have chosen “BodgeIt Store” – A vulnerable web application aimed at people new to pen testing.  You can read more about the application here:\n\n\thttps://code.google.com/p/bodgeit/\n\n\\\\\nFollow these steps to download, import and scan the application:\n\n#We use SVN to checkout the latest source code version of the application. TortoiseSVN provides a nice graphical interface. The SVN source code repository is found here:\\\\ \\\\\nhttp://bodgeit.googlecode.com/svn/trunk/ \\\\ \\\\\n{{/Image/ecsa1.jpg}} \\\\ \\\\ \\\\\n#TortoiseSVN will download the source code \\\\ \\\\\n{{/Image/ecsa2.jpg}} \\\\ \\\\ \\\\\n#Once download is complete, create a new Java project in your eclipse workspace.  Goto “File”->”New”->”Java Project”.  Give the project a name, say “BodgeIt”, and click “Finish” \\\\ \\\\\n{{/Image/ecsa3.jpg}} \\\\ \\\\ \\\\\n#Right Click on the newly created project in the Package Explorer, and click on “Import…”. In the “Import” dialog box that comes up, expand “General” and select “File System”. Click “Next”. \\\\ \\\\\n{{/Image/ecsa4.jpg}} \\\\ \\\\ \\\\\n#In the “File System” dialog browse to the root of the directory where you have downloaded the source code.  Select the directory, to import all the source code and click “Finish” \\\\ \\\\\n{{/Image/ecsa5.jpg}} \\\\ \\\\ \\\\\n#Now you should see the project source code imported in your package explorer.  Disregard any errors you see in the com.thebodgeitstore.selenium.tests package. \\\\ \\\\\n{{/Image/ecsa6.jpg}} \\\\ \\\\ \\\\\n#Select the BodgeIt project in the package explorer, click on HP Fortify -> Analyze Project. HP Fortify will start analysis of the application. \\\\ \\\\\n{{/Image/ecsa7.jpg}} \\\\ \\\\ \nIgnore the warnings about reference Java classes.  For the purposes of this test they are irrelevant. However, when testing your application you may want to pay closer attention to any warnings you may see. \n{{/Image/ecsa71.jpg}} \\\\ \\\\ \\\\\n#Now you should see the Fortify Perspective with TEAM Mentor Guidance automatically displayed for a selected finding. For example expand “Cross-Site Scripting: Persistent” folder in the category list on the left pane. Click on one of the findings.  You will see TEAM Mentor guidance show up on the right pane. \\\\ \\\\\n{{/Image/ecsa8.jpg}} \\\\ \\\\ \\\\\n#Expand the “Race Condition: Singleton Member Field” in the category on the right pane. Click on one finding. You will notice that there is no TEAM Mentor guidance available for this finding. (As seen by the message on the right). TEAM Mentor displays regular Fortify recommendation.  You may also use regular Fortify guidance available on the bottom pane. \\\\ \\\\ \n{{/Image/ecsa9.jpg}} \\\\ \\\\ \\\\\n\n"
+        ]
+      }
+    ]
+  }
+}

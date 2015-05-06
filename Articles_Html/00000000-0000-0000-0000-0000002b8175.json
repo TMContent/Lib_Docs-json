@@ -1,0 +1,222 @@
+{
+  "id": "00000000-0000-0000-0000-0000002b8175",
+  "checksum": "9c2463598d28659c67bb607c1f8a8e37d53fbf81",
+  "words": {
+    "team": [
+      "p",
+      "p",
+      "p",
+      "title"
+    ],
+    "mentor": [
+      "p",
+      "p",
+      "p",
+      "title"
+    ],
+    "supports": [
+      "p"
+    ],
+    "wikicreole": [
+      "p",
+      "p",
+      "div",
+      "div"
+    ],
+    "as": [
+      "p"
+    ],
+    "its": [
+      "p"
+    ],
+    "markup": [
+      "p",
+      "p",
+      "title"
+    ],
+    "language": [
+      "p",
+      "p",
+      "div",
+      "div"
+    ],
+    "for": [
+      "p",
+      "div",
+      "div"
+    ],
+    "editing": [
+      "p"
+    ],
+    "wikitext": [
+      "p"
+    ],
+    "type": [
+      "p"
+    ],
+    "articles": [
+      "p"
+    ],
+    "was": [
+      "p"
+    ],
+    "developed": [
+      "p"
+    ],
+    "by": [
+      "p"
+    ],
+    "taking": [
+      "p"
+    ],
+    "multiple": [
+      "p"
+    ],
+    "wiki": [
+      "p",
+      "title"
+    ],
+    "languages": [
+      "p"
+    ],
+    "and": [
+      "p"
+    ],
+    "choosing": [
+      "p"
+    ],
+    "the": [
+      "p",
+      "p"
+    ],
+    "best": [
+      "p"
+    ],
+    "of": [
+      "p"
+    ],
+    "breed": [
+      "p"
+    ],
+    "&nbspby": [
+      "p"
+    ],
+    "using": [
+      "p"
+    ],
+    "this": [
+      "p"
+    ],
+    "easy": [
+      "p"
+    ],
+    "to": [
+      "p",
+      "p"
+    ],
+    "understand": [
+      "p"
+    ],
+    "allows": [
+      "p"
+    ],
+    "wider": [
+      "p"
+    ],
+    "audiences": [
+      "p"
+    ],
+    "including": [
+      "p"
+    ],
+    "users": [
+      "p"
+    ],
+    "that": [
+      "p"
+    ],
+    "don’t": [
+      "p"
+    ],
+    "have": [
+      "p"
+    ],
+    "explicit": [
+      "p"
+    ],
+    "training": [
+      "p"
+    ],
+    "contribute": [
+      "p"
+    ],
+    "their": [
+      "p"
+    ],
+    "knowledge&nbsp;": [
+      "p"
+    ],
+    "related": [
+      "h1"
+    ],
+    "items&nbsp": [
+      "h1"
+    ],
+    "more": [
+      "div",
+      "div"
+    ],
+    "in-depth": [
+      "div",
+      "div"
+    ],
+    "information": [
+      "div",
+      "div"
+    ],
+    "on": [
+      "div",
+      "div"
+    ],
+    "see": [
+      "div",
+      "div"
+    ],
+    "http//wikicreole.org/wiki/creole1.0": [
+      "div",
+      "div",
+      "a"
+    ]
+  },
+  "tags": {
+    "p": [
+      "TEAM Mentor supports WikiCreole as its markup language for editing WikiText type articles. WikiCreole was developed by taking multiple wiki markup languages and choosing the best of the breed. &nbsp;By using this easy to understand language, TEAM Mentor allows wider audiences, including users that don’t have explicit TEAM Mentor training, to contribute their knowledge.&nbsp;",
+      ""
+    ],
+    "img": [
+      ""
+    ],
+    "h1": [
+      "Related Items&nbsp;"
+    ],
+    "div": [
+      "For more in-depth information on WikiCreole language see:\n    \n      http://wikicreole.org/wiki/Creole1.0",
+      "For more in-depth information on WikiCreole language see:",
+      "http://wikicreole.org/wiki/Creole1.0",
+      ""
+    ],
+    "a": [
+      "http://wikicreole.org/wiki/Creole1.0"
+    ],
+    "br": [
+      ""
+    ]
+  },
+  "links": [
+    {
+      "href": "http://wikicreole.org/wiki/Creole1.0",
+      "text": "http://wikicreole.org/wiki/Creole1.0"
+    }
+  ],
+  "html": "<p>TEAM Mentor supports WikiCreole as its markup language for editing WikiText type articles. WikiCreole was developed by taking multiple wiki markup languages and choosing the best of the breed. &amp;nbsp;By using this easy to understand language, TEAM Mentor allows wider audiences, including users that don’t have explicit TEAM Mentor training, to contribute their knowledge.&amp;nbsp;</p>\n  <p>\n    <img src=\"/Image/tmwikimarkup-img01.jpg\" />\n  </p>\n  <h1>Related Items&amp;nbsp;</h1>\n  <div>\n    <div>For more in-depth information on WikiCreole language see:</div>\n    <div>\n      <a href=\"http://wikicreole.org/wiki/Creole1.0\">http://wikicreole.org/wiki/Creole1.0</a>\n    </div>\n  </div>\n  <div>\n    <br />\n  </div>"
+}

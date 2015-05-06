@@ -1,0 +1,289 @@
+{
+  "id": "00000000-0000-0000-0000-00000008578b",
+  "checksum": "ce2ad9d827759545b2bbcd3428d96efc44ce5c8a",
+  "words": {
+    "users": [
+      "p"
+    ],
+    "can": [
+      "p",
+      "p"
+    ],
+    "create": [
+      "p",
+      "p"
+    ],
+    "new": [
+      "p",
+      "p"
+    ],
+    "team": [
+      "p",
+      "p",
+      "p"
+    ],
+    "mentor": [
+      "p",
+      "p",
+      "p"
+    ],
+    "accounts": [
+      "p",
+      "title"
+    ],
+    "via": [
+      "p"
+    ],
+    "the": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "\"sign": [
+      "p",
+      "p",
+      "p"
+    ],
+    "up\"": [
+      "p",
+      "p",
+      "p"
+    ],
+    "window": [
+      "p",
+      "p",
+      "p"
+    ],
+    "is": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "available": [
+      "p",
+      "p"
+    ],
+    "in": [
+      "p",
+      "p"
+    ],
+    "\"preview": [
+      "p"
+    ],
+    "pane\"": [
+      "p"
+    ],
+    "of": [
+      "p",
+      "p"
+    ],
+    "when": [
+      "p"
+    ],
+    "administrator": [
+      "p",
+      "p"
+    ],
+    "has": [
+      "p",
+      "p"
+    ],
+    "enabled": [
+      "p",
+      "p"
+    ],
+    "evaluation": [
+      "p"
+    ],
+    "accouts": [
+      "p"
+    ],
+    "these": [
+      "p"
+    ],
+    "are": [
+      "p",
+      "p"
+    ],
+    "trhough": [
+      "p"
+    ],
+    "evalaccounts_enabled": [
+      "p"
+    ],
+    "option": [
+      "p"
+    ],
+    "config": [
+      "p"
+    ],
+    "file": [
+      "p"
+    ],
+    "input": [
+      "p"
+    ],
+    "fields": [
+      "p"
+    ],
+    "for": [
+      "p",
+      "p",
+      "title"
+    ],
+    "username": [
+      "p"
+    ],
+    "password": [
+      "p"
+    ],
+    "e-mail": [
+      "p"
+    ],
+    "address": [
+      "p"
+    ],
+    "first": [
+      "p",
+      "p"
+    ],
+    "name": [
+      "p",
+      "p"
+    ],
+    "and": [
+      "p",
+      "p"
+    ],
+    "last": [
+      "p"
+    ],
+    "three": [
+      "p"
+    ],
+    "mandatory": [
+      "p"
+    ],
+    "to": [
+      "p",
+      "p"
+    ],
+    "an": [
+      "p"
+    ],
+    "account": [
+      "p",
+      "p"
+    ],
+    "clicking": [
+      "p"
+    ],
+    "button": [
+      "p"
+    ],
+    "submits": [
+      "p"
+    ],
+    "entered": [
+      "p"
+    ],
+    "information": [
+      "p",
+      "p"
+    ],
+    "if": [
+      "p"
+    ],
+    "submitted": [
+      "p"
+    ],
+    "valid": [
+      "p"
+    ],
+    "a": [
+      "p"
+    ],
+    "created": [
+      "p"
+    ],
+    "be": [
+      "p",
+      "p"
+    ],
+    "used": [
+      "p"
+    ],
+    "access": [
+      "p",
+      "p"
+    ],
+    "application": [
+      "p",
+      "p"
+    ],
+    "will": [
+      "p"
+    ],
+    "amount": [
+      "p"
+    ],
+    "days": [
+      "p"
+    ],
+    "configured": [
+      "p",
+      "p"
+    ],
+    "by": [
+      "p"
+    ],
+    "this": [
+      "p"
+    ],
+    "through": [
+      "p"
+    ],
+    "evalaccounts_day": [
+      "p"
+    ],
+    "configuration": [
+      "p"
+    ],
+    "parameter": [
+      "p"
+    ],
+    "signing": [
+      "title"
+    ],
+    "up": [
+      "title"
+    ],
+    "regular": [
+      "title"
+    ]
+  },
+  "tags": {
+    "p": [
+      "Users can create new TEAM Mentor accounts via the \"Sign Up\" window. The TEAM Mentor \"Sign Up\" window is available in the \"preview pane\" of TEAM Mentor when the administrator has enabled Evaluation Accouts. These are enabled trhough EvalAccounts_Enabled option in the config file. The window has input fields for the username, the password, the e-mail address, the first name, and the last name; the first three are mandatory to create an account. Clicking the \"Sign Up\" button submits the entered information. If the submitted information is valid, a new account is created and can be used to access the application. The application access will be available for the amount of days configured by the administrator. This is configured through EvalAccounts_Day configuration parameter."
+    ]
+  },
+  "links": [],
+  "html": "<p>Users can create new TEAM Mentor accounts via the \"Sign Up\" window. The TEAM Mentor \"Sign Up\" window is available in the \"preview pane\" of TEAM Mentor when the administrator has enabled Evaluation Accouts. These are enabled trhough EvalAccounts_Enabled option in the config file. The window has input fields for the username, the password, the e-mail address, the first name, and the last name; the first three are mandatory to create an account. Clicking the \"Sign Up\" button submits the entered information. If the submitted information is valid, a new account is created and can be used to access the application. The application access will be available for the amount of days configured by the administrator. This is configured through EvalAccounts_Day configuration parameter. </p>"
+}

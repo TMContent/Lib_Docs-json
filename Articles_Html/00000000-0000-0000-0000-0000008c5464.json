@@ -1,0 +1,633 @@
+{
+  "id": "00000000-0000-0000-0000-0000008c5464",
+  "checksum": "3b60f71b039b926d7d71cbaae15b766e624c06b7",
+  "words": {
+    "the": [
+      "font",
+      "font",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "ul",
+      "li",
+      "a",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "a",
+      "a",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a"
+    ],
+    "team": [
+      "font",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "font",
+      "b",
+      "div",
+      "font",
+      "b",
+      "div",
+      "ul",
+      "li",
+      "a",
+      "title"
+    ],
+    "mentor": [
+      "font",
+      "div",
+      "div",
+      "div",
+      "font",
+      "b",
+      "div",
+      "font",
+      "b",
+      "div",
+      "ul",
+      "li",
+      "a",
+      "title"
+    ],
+    "documentation": [
+      "font",
+      "title"
+    ],
+    "is": [
+      "font"
+    ],
+    "organized": [
+      "font"
+    ],
+    "into": [
+      "font"
+    ],
+    "following": [
+      "font"
+    ],
+    "areas": [
+      "font"
+    ],
+    "01": [
+      "div",
+      "b"
+    ],
+    "-": [
+      "div",
+      "b",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "font",
+      "b",
+      "div",
+      "font",
+      "b",
+      "div",
+      "font",
+      "b",
+      "div",
+      "font",
+      "b",
+      "title"
+    ],
+    "ui": [
+      "div",
+      "b"
+    ],
+    "elements": [
+      "div",
+      "b",
+      "li",
+      "a"
+    ],
+    "using": [
+      "div",
+      "ul",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a"
+    ],
+    "control": [
+      "div",
+      "ul",
+      "li",
+      "a"
+    ],
+    "panelidentifying": [
+      "div",
+      "ul"
+    ],
+    "main": [
+      "div",
+      "ul",
+      "li",
+      "a"
+    ],
+    "user": [
+      "div",
+      "ul",
+      "li",
+      "a"
+    ],
+    "interface": [
+      "div",
+      "ul",
+      "li",
+      "a"
+    ],
+    "elementssigning": [
+      "div",
+      "ul"
+    ],
+    "up": [
+      "div",
+      "ul",
+      "li",
+      "a"
+    ],
+    "for": [
+      "div",
+      "ul",
+      "li",
+      "a"
+    ],
+    "regular": [
+      "div",
+      "ul",
+      "li",
+      "a"
+    ],
+    "accounts\n\n02": [
+      "div"
+    ],
+    "reading": [
+      "div",
+      "div",
+      "div",
+      "font",
+      "b"
+    ],
+    "guidance": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "font",
+      "b",
+      "div",
+      "font",
+      "b"
+    ],
+    "items\n\nbrowsing": [
+      "div",
+      "div"
+    ],
+    "folders": [
+      "div",
+      "div",
+      "div",
+      "ul",
+      "li",
+      "a",
+      "li",
+      "a"
+    ],
+    "and": [
+      "div",
+      "div",
+      "div",
+      "ul",
+      "li",
+      "a"
+    ],
+    "views": [
+      "div",
+      "div",
+      "div",
+      "ul",
+      "li",
+      "a",
+      "div",
+      "ul",
+      "li",
+      "a"
+    ],
+    "in": [
+      "div",
+      "div",
+      "div",
+      "ul",
+      "li",
+      "a"
+    ],
+    "navigation": [
+      "div",
+      "div",
+      "div",
+      "ul",
+      "li",
+      "a"
+    ],
+    "paneopening": [
+      "div",
+      "div",
+      "div",
+      "ul"
+    ],
+    "an": [
+      "div",
+      "div",
+      "div",
+      "ul",
+      "li",
+      "a"
+    ],
+    "articleusing": [
+      "div",
+      "div",
+      "div",
+      "ul"
+    ],
+    "filtersusing": [
+      "div",
+      "div",
+      "div",
+      "ul"
+    ],
+    "search": [
+      "div",
+      "div",
+      "div",
+      "ul",
+      "li",
+      "a"
+    ],
+    "function\n\n\n\n\n\n03": [
+      "div",
+      "div"
+    ],
+    "editing": [
+      "div",
+      "div",
+      "div",
+      "font",
+      "b",
+      "div",
+      "ul",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a"
+    ],
+    "items\n\nediting": [
+      "div",
+      "div"
+    ],
+    "articlesediting": [
+      "div",
+      "div",
+      "div",
+      "ul"
+    ],
+    "foldersediting": [
+      "div",
+      "div",
+      "div",
+      "ul"
+    ],
+    "librariesediting": [
+      "div",
+      "div",
+      "div",
+      "ul"
+    ],
+    "views\n\n04": [
+      "div",
+      "div"
+    ],
+    "customizing": [
+      "div",
+      "div",
+      "div",
+      "font",
+      "b"
+    ],
+    "mentor\n\n\n\n05": [
+      "div",
+      "div"
+    ],
+    "installing": [
+      "div",
+      "div",
+      "div",
+      "font",
+      "b"
+    ],
+    "mentor\n\ninstall": [
+      "div",
+      "div"
+    ],
+    "from": [
+      "div",
+      "div",
+      "div",
+      "ul",
+      "li",
+      "a"
+    ],
+    "a": [
+      "div",
+      "div",
+      "div",
+      "ul",
+      "li",
+      "a"
+    ],
+    "github": [
+      "div",
+      "div",
+      "div",
+      "ul",
+      "li",
+      "a"
+    ],
+    "repository": [
+      "div",
+      "div",
+      "div",
+      "ul",
+      "li",
+      "a"
+    ],
+    "accounts": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "panel": [
+      "li",
+      "a"
+    ],
+    "identifying": [
+      "li",
+      "a"
+    ],
+    "signing": [
+      "li",
+      "a"
+    ],
+    "02": [
+      "div",
+      "div",
+      "font",
+      "b"
+    ],
+    "items": [
+      "div",
+      "font",
+      "b",
+      "div",
+      "font",
+      "b"
+    ],
+    "browsing": [
+      "div",
+      "ul",
+      "li",
+      "a"
+    ],
+    "function": [
+      "div",
+      "ul",
+      "li",
+      "a"
+    ],
+    "pane": [
+      "li",
+      "a"
+    ],
+    "opening": [
+      "li",
+      "a"
+    ],
+    "article": [
+      "li",
+      "a"
+    ],
+    "filters": [
+      "li",
+      "a"
+    ],
+    "03": [
+      "div",
+      "font",
+      "b"
+    ],
+    "articles": [
+      "li",
+      "a"
+    ],
+    "libraries": [
+      "li",
+      "a"
+    ],
+    "04": [
+      "div",
+      "font",
+      "b"
+    ],
+    "05": [
+      "div",
+      "font",
+      "b"
+    ],
+    "install": [
+      "div",
+      "ul",
+      "li",
+      "a"
+    ],
+    "table": [
+      "title"
+    ],
+    "of": [
+      "title"
+    ],
+    "contents": [
+      "title"
+    ]
+  },
+  "tags": {
+    "div": [
+      "",
+      "",
+      "01 - UI Elements",
+      "Using the Control PanelIdentifying Main User Interface Elements\nSigning Up for Regular Accounts\n\n\n02 - Reading Guidance Items\n\n\nBrowsing the Folders and the Views in the Navigation PaneOpening an Article\nUsing the Filters\nUsing the Search Function\n\n\n\n\n\n\n03 - Editing Guidance Items\n\n\nEditing Articles\nEditing FoldersEditing LibrariesEditing Views\n\n\n04 - Customizing TEAM Mentor\n\n\n\n\n05 - Installing TEAM Mentor\n\n\nInstall TEAM Mentor from a GitHub Repository",
+      "02 - Reading Guidance Items\n\n\nBrowsing the Folders and the Views in the Navigation PaneOpening an Article\nUsing the Filters\nUsing the Search Function\n\n\n\n\n\n\n03 - Editing Guidance Items\n\n\nEditing Articles\nEditing FoldersEditing LibrariesEditing Views\n\n\n04 - Customizing TEAM Mentor\n\n\n\n\n05 - Installing TEAM Mentor\n\n\nInstall TEAM Mentor from a GitHub Repository",
+      "02 - Reading Guidance Items",
+      "Browsing the Folders and the Views in the Navigation PaneOpening an Article\nUsing the Filters\nUsing the Search Function",
+      "",
+      "03 - Editing Guidance Items",
+      "Editing Articles\nEditing FoldersEditing LibrariesEditing Views",
+      "04 - Customizing TEAM Mentor",
+      "",
+      "05 - Installing TEAM Mentor",
+      "Install TEAM Mentor from a GitHub Repository",
+      "",
+      ""
+    ],
+    "font": [
+      "",
+      "The TEAM Mentor Documentation is organized into the following areas:",
+      "02 - Reading Guidance Items",
+      "",
+      "03 - Editing Guidance Items",
+      "04 - Customizing TEAM Mentor",
+      "",
+      "05 - Installing TEAM Mentor",
+      ""
+    ],
+    "br": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "b": [
+      "01 - UI Elements",
+      "02 - Reading Guidance Items",
+      "03 - Editing Guidance Items",
+      "04 - Customizing TEAM Mentor",
+      "05 - Installing TEAM Mentor"
+    ],
+    "ul": [
+      "Using the Control PanelIdentifying Main User Interface Elements\nSigning Up for Regular Accounts",
+      "Browsing the Folders and the Views in the Navigation PaneOpening an Article\nUsing the Filters\nUsing the Search Function",
+      "Editing Articles\nEditing FoldersEditing LibrariesEditing Views",
+      "Install TEAM Mentor from a GitHub Repository"
+    ],
+    "li": [
+      "Using the Control Panel",
+      "Identifying Main User Interface Elements",
+      "Signing Up for Regular Accounts",
+      "Browsing the Folders and the Views in the Navigation Pane",
+      "Opening an Article",
+      "Using the Filters",
+      "Using the Search Function",
+      "Editing Articles",
+      "Editing Folders",
+      "Editing Libraries",
+      "Editing Views",
+      "Install TEAM Mentor from a GitHub Repository"
+    ],
+    "a": [
+      "Using the Control Panel",
+      "Identifying Main User Interface Elements",
+      "Signing Up for Regular Accounts",
+      "Browsing the Folders and the Views in the Navigation Pane",
+      "Opening an Article",
+      "Using the Filters",
+      "Using the Search Function",
+      "Editing Articles",
+      "Editing Folders",
+      "Editing Libraries",
+      "Editing Views",
+      "Install TEAM Mentor from a GitHub Repository"
+    ]
+  },
+  "links": [
+    {
+      "href": "?#ruledisplay:00000000-0000-0000-0000-0000000693a7",
+      "text": "Using the Control Panel"
+    },
+    {
+      "href": "?#ruledisplay:00000000-0000-0000-0000-00000061eb3b",
+      "text": "Identifying Main User Interface Elements"
+    },
+    {
+      "href": "?#ruledisplay:00000000-0000-0000-0000-00000008578b",
+      "text": "Signing Up for Regular Accounts"
+    },
+    {
+      "href": "?#ruledisplay:00000000-0000-0000-0000-000000803568",
+      "text": "Browsing the Folders and the Views in the Navigation Pane"
+    },
+    {
+      "href": "?#ruledisplay:00000000-0000-0000-0000-00000024fdb5",
+      "text": "Opening an Article"
+    },
+    {
+      "href": "?#ruledisplay:00000000-0000-0000-0000-0000001a9296",
+      "text": "Using the Filters"
+    },
+    {
+      "href": "?#ruledisplay:00000000-0000-0000-0000-00000018204d",
+      "text": "Using the Search Function"
+    },
+    {
+      "href": "?#ruledisplay:00000000-0000-0000-0000-00000001f6f7",
+      "text": "Editing Articles"
+    },
+    {
+      "href": "?#ruledisplay:00000000-0000-0000-0000-000000579bb9",
+      "text": "Editing Folders"
+    },
+    {
+      "href": "?#ruledisplay:00000000-0000-0000-0000-00000060462d",
+      "text": "Editing Libraries"
+    },
+    {
+      "href": "?#ruledisplay:00000000-0000-0000-0000-0000008e9fb0",
+      "text": "Editing Views"
+    },
+    {
+      "href": "?#ruledisplay:00000000-0000-0000-0000-00000017c916",
+      "text": "Install TEAM Mentor from a GitHub Repository"
+    }
+  ],
+  "html": "\n<div><font face=\"Arial, Verdana\" size=\"2\" style=\"font-family:Arial,Verdana; font-size:10pt; font-style:normal; font-variant:normal; font-weight:normal; line-height:normal\"><br>\n</font></div>\n<font face=\"Arial, Verdana\" size=\"2\" style=\"font-family:Arial,Verdana; font-size:10pt; font-style:normal; font-variant:normal; font-weight:normal; line-height:normal\">The TEAM Mentor Documentation is organized into the following areas:\n</font>\n<div style=\"font-family:Arial,Verdana; font-size:10pt; font-style:normal; font-variant:normal; font-weight:normal; line-height:normal\">\n<br>\n</div>\n<div style=\"font-weight:normal; font-family:Arial,Verdana; font-size:10pt; font-style:normal; font-variant:normal; line-height:normal\">\n<b>01 - UI Elements</b></div>\n<div>\n<ul style=\"font-family:Arial,Verdana; font-style:normal; font-variant:normal; font-weight:normal; line-height:normal; font-size:10pt\">\n<li><a href=\"?#ruledisplay:00000000-0000-0000-0000-0000000693a7\">Using the Control Panel</a></li><li><a href=\"?#ruledisplay:00000000-0000-0000-0000-00000061eb3b\">Identifying Main User Interface Elements</a>\n</li><li><a href=\"?#ruledisplay:00000000-0000-0000-0000-00000008578b\">Signing Up for Regular Accounts</a></li></ul>\n<div>\n<div style=\"font-family:Arial,Verdana; font-size:10pt; font-style:normal; font-variant:normal; font-weight:normal; line-height:normal\">\n<font face=\"Arial, Verdana\" size=\"2\"><b>02 - Reading Guidance Items</b></font></div>\n<div style=\"font-family:Arial,Verdana; font-style:normal; font-variant:normal; font-weight:normal; line-height:normal; font-size:10pt\">\n<ul>\n<li><a href=\"?#ruledisplay:00000000-0000-0000-0000-000000803568\">Browsing the Folders and the Views in the Navigation Pane</a></li><li><a href=\"?#ruledisplay:00000000-0000-0000-0000-00000024fdb5\">Opening an Article</a>\n</li><li><a href=\"?#ruledisplay:00000000-0000-0000-0000-0000001a9296\">Using the Filters</a>\n</li><li><a href=\"?#ruledisplay:00000000-0000-0000-0000-00000018204d\">Using the Search Function</a>\n</li></ul>\n</div>\n<div style=\"font-family:Arial,Verdana; font-size:10pt; font-style:normal; font-variant:normal; font-weight:normal; line-height:normal\">\n<font face=\"Arial, Verdana\" size=\"2\"><br>\n</font></div>\n<div style=\"font-weight:normal; font-family:Arial,Verdana; font-size:10pt; font-style:normal; font-variant:normal; line-height:normal\">\n<font face=\"Arial, Verdana\" size=\"2\"><b>03 - Editing Guidance Items</b></font></div>\n<div style=\"font-family:Arial,Verdana; font-style:normal; font-variant:normal; font-weight:normal; line-height:normal; font-size:10pt\">\n<ul>\n<li><a href=\"?#ruledisplay:00000000-0000-0000-0000-00000001f6f7\">Editing Articles</a>\n</li><li><a href=\"?#ruledisplay:00000000-0000-0000-0000-000000579bb9\">Editing Folders</a></li><li><a href=\"?#ruledisplay:00000000-0000-0000-0000-00000060462d\">Editing Libraries</a></li><li><a href=\"?#ruledisplay:00000000-0000-0000-0000-0000008e9fb0\">Editing Views</a></li></ul>\n</div>\n<div style=\"font-family:Arial,Verdana; font-size:10pt; font-style:normal; font-variant:normal; line-height:normal\">\n<font face=\"Arial, Verdana\" size=\"2\"><b>04 - Customizing TEAM Mentor</b></font></div>\n<div style=\"font-family:Arial,Verdana; font-size:10pt; font-style:normal; font-variant:normal; font-weight:normal; line-height:normal\">\n<font face=\"Arial, Verdana\" size=\"2\"><br>\n</font></div>\n<div style=\"font-family:Arial,Verdana; font-size:10pt; font-style:normal; font-variant:normal; line-height:normal\">\n<font face=\"Arial, Verdana\" size=\"2\"><b>05 - Installing TEAM Mentor</b></font></div>\n<div>\n<ul>\n<li><a href=\"?#ruledisplay:00000000-0000-0000-0000-00000017c916\">Install TEAM Mentor from a GitHub Repository</a><font face=\"Arial, Verdana\" size=\"2\">\n</font></li></ul>\n</div>\n</div>\n<div style=\"font-family:Arial,Verdana; font-size:10pt; font-style:normal; font-variant:normal; font-weight:normal; line-height:normal\">\n<br>\n</div>\n<div style=\"font-family:Arial,Verdana; font-size:10pt; font-style:normal; font-variant:normal; font-weight:normal; line-height:normal\">\n<br>\n</div>\n</div>\n"
+}

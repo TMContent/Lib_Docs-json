@@ -1,0 +1,745 @@
+{
+  "id": "c5f8177f-e6cd-46db-a108-d4736120afa5",
+  "checksum": "75bad47d3a80b141bcbf9dabc1d7007988fbd956",
+  "words": {
+    "10": [
+      "p",
+      "strong"
+    ],
+    "after": [
+      "p"
+    ],
+    "we": [
+      "p"
+    ],
+    "have": [
+      "p"
+    ],
+    "a": [
+      "p",
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "strong",
+      "strong",
+      "pre",
+      "title"
+    ],
+    "normalized": [
+      "p"
+    ],
+    "cwe": [
+      "p",
+      "p",
+      "strong",
+      "pre",
+      "p",
+      "strong",
+      "title",
+      "title"
+    ],
+    "xml": [
+      "p",
+      "p",
+      "strong",
+      "title"
+    ],
+    "file": [
+      "p",
+      "p",
+      "strong"
+    ],
+    "lets": [
+      "p"
+    ],
+    "create": [
+      "p",
+      "pre",
+      "p",
+      "strong"
+    ],
+    "the": [
+      "p",
+      "p"
+    ],
+    "team": [
+      "p"
+    ],
+    "mentor": [
+      "p",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "project": [
+      "p"
+    ],
+    "logging": [
+      "p",
+      "strong"
+    ],
+    "in": [
+      "p",
+      "strong",
+      "p",
+      "strong",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "into": [
+      "p",
+      "strong"
+    ],
+    "teammentor": [
+      "p",
+      "strong",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "var": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "=": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "new": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "api_team": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "mentor_webservices\"http://localhost:12115\");\n\nteammentor.login(\"editor\",editorpwd).str();\nreturn": [
+      "pre"
+    ],
+    "teammentorisloggedin();\n//using": [
+      "pre"
+    ],
+    "securityinnovationteam": [
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "//o2file...\\tm_unittests\\apis\\api_team": [
+      "pre",
+      "pre"
+    ],
+    "mentor_webservicescs\n//o2ref:system.web.services.dll": [
+      "pre"
+    ],
+    "get": [
+      "p",
+      "strong"
+    ],
+    "current": [
+      "p",
+      "strong",
+      "pre"
+    ],
+    "user": [
+      "p",
+      "strong"
+    ],
+    "roles": [
+      "p",
+      "strong"
+    ],
+    "mentor_webservices\"http://127.0.0.1:12115\");": [
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "teammentorlogin(\"editor\",editorpwd).str();\nreturn": [
+      "pre"
+    ],
+    "teammentorcurrentuser_roles();\nget": [
+      "pre"
+    ],
+    "librariesvar": [
+      "pre"
+    ],
+    "teammentorlogin(\"editor\",editorpwd).str();\n\nreturn": [
+      "pre"
+    ],
+    "teammentorlibraries();": [
+      "pre"
+    ],
+    "create/get": [
+      "p",
+      "strong"
+    ],
+    "library": [
+      "p",
+      "strong",
+      "title"
+    ],
+    "teammentorlogin(\"editor\",editorpwd).str();\n\nvar": [
+      "pre"
+    ],
+    "cwelibrary": [
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "teammentorlibrary(\"cwe\");\n\nreturn": [
+      "pre"
+    ],
+    "cwelibrary\nget": [
+      "pre"
+    ],
+    "-": [
+      "pre",
+      "pre",
+      "title"
+    ],
+    "delete": [
+      "pre"
+    ],
+    "libraryvar": [
+      "pre"
+    ],
+    "teammentorlibrary(\"cwe\")": [
+      "pre"
+    ],
+    "delete()": [
+      "pre"
+    ],
+    "library(\"cwe\");\n\nreturn": [
+      "pre"
+    ],
+    "cwelibrary\ncreate": [
+      "pre"
+    ],
+    "view\nvar": [
+      "pre"
+    ],
+    "teammentorlibrary(\"cwe\").delete().library(\"cwe\");\nvar": [
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "cweweakness": [
+      "pre",
+      "pre"
+    ],
+    "cwelibraryadd_view(\"weaknesses\");\nreturn": [
+      "pre"
+    ],
+    "loading": [
+      "p",
+      "strong"
+    ],
+    "data": [
+      "p",
+      "strong",
+      "p"
+    ],
+    "from": [
+      "p",
+      "strong",
+      "title"
+    ],
+    "editorpwd": [
+      "pre"
+    ],
+    "\"123qwe\"\n\nvar": [
+      "pre"
+    ],
+    "targetdir": [
+      "pre",
+      "pre"
+    ],
+    "\"_cwe_data\"tempdir(false);\nvar": [
+      "pre",
+      "pre"
+    ],
+    "mappedxml": [
+      "pre",
+      "pre"
+    ],
+    "targetdirpathcombine(\"cwe_data.xml\");\nvar": [
+      "pre",
+      "pre"
+    ],
+    "cwedata": [
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "mappedxmlload<cwe_data>();\n\n\nvar": [
+      "pre"
+    ],
+    "mentor_webservices\"http://localhost:12115\");\nteammentor.login(\"editor\",editorpwd).str();\n\n//using": [
+      "pre"
+    ],
+    "mentor_webservicescs\n//o2file:cwe_data.cs\n//o2ref:system.web.services.dll": [
+      "pre",
+      "pre"
+    ],
+    "creating": [
+      "p",
+      "strong",
+      "p",
+      "strong",
+      "p",
+      "title"
+    ],
+    "articles": [
+      "p",
+      "strong"
+    ],
+    "weaknesses": [
+      "p",
+      "strong"
+    ],
+    "view": [
+      "p",
+      "strong",
+      "p",
+      "p",
+      "strong",
+      "pre"
+    ],
+    "mappedxmlload<cwe_data>();\n\nvar": [
+      "pre",
+      "pre"
+    ],
+    "mentor_webservices\"http://localhost:12115\");\nteammentor.login(\"editor\",editorpwd).str();\n\nvar": [
+      "pre"
+    ],
+    "tmlibrary": [
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "tmview": [
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "tmlibraryadd_view(\"weaknesses\");\n\nforeach(var": [
+      "pre"
+    ],
+    "weakness": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "cwedataweaknesses.take(10))\n{\n\ttmview.add_article(weakness.title,": [
+      "pre"
+    ],
+    "weaknesscontent);\n}\nreturn": [
+      "pre"
+    ],
+    "\"done\"\ntesting": [
+      "pre"
+    ],
+    "populating": [
+      "pre",
+      "p",
+      "strong"
+    ],
+    "metadata": [
+      "pre",
+      "p",
+      "strong"
+    ],
+    "fields": [
+      "pre"
+    ],
+    "and": [
+      "pre"
+    ],
+    "viewing": [
+      "pre"
+    ],
+    "tm": [
+      "pre"
+    ],
+    "site": [
+      "pre"
+    ],
+    "browser": [
+      "pre"
+    ],
+    "windowforeach(var": [
+      "pre"
+    ],
+    "cwedataweaknesses.take(10))\n{\n\ttmview.add_article(weakness.title,weakness.content,": [
+      "pre",
+      "pre"
+    ],
+    "\"1\"\"2\",\"3\",\"4\");\n}\npanel.clear().add_webbrowser_control().open(tmsite);": [
+      "pre"
+    ],
+    "foreachvar": [
+      "pre",
+      "pre"
+    ],
+    "weaknesstechnology,weakness.phase,": [
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "weaknesstype,": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "weaknesscategory);\n}\n\n**adding": [
+      "pre"
+    ],
+    "all": [
+      "pre",
+      "pre"
+    ],
+    "articles**{{{\nvar": [
+      "pre"
+    ],
+    "tmlibraryadd_view(\"weaknesses\");\nvar": [
+      "pre"
+    ],
+    "itemsprocessed": [
+      "pre",
+      "pre"
+    ],
+    "0\nforeach(var": [
+      "pre",
+      "pre"
+    ],
+    "cwedataweaknesses)\n{\n\ttmview.add_article(weakness.title,weakness.content,": [
+      "pre"
+    ],
+    "weaknesscategory);\n\tif": [
+      "pre",
+      "pre"
+    ],
+    "itemsprocessed++.mod0(30))\n\t\t\"[{0}/{1}]\".info(itemsprocessed,": [
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "cwedataweaknesses.size());": [
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "}": [
+      "pre",
+      "pre"
+    ],
+    "folder": [
+      "p",
+      "strong",
+      "p",
+      "strong"
+    ],
+    "mapped": [
+      "p",
+      "strong"
+    ],
+    "by": [
+      "p",
+      "strong",
+      "p",
+      "pre"
+    ],
+    "phase": [
+      "p",
+      "strong",
+      "pre",
+      "p",
+      "strong",
+      "pre"
+    ],
+    "start": [
+      "p"
+    ],
+    "filtered": [
+      "p"
+    ],
+    "of": [
+      "p"
+    ],
+    "weakness_by_phase": [
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "dictionarystring,list<cwe_weakness>>();\nforeach(var": [
+      "pre",
+      "pre"
+    ],
+    "cwedataweaknesses)\n{\n\tforeach(var": [
+      "pre",
+      "pre"
+    ],
+    "weaknessphase.split(\",\"))\n\t\tweakness_by_phase.add(phase.trim(),": [
+      "pre",
+      "pre"
+    ],
+    "weakness;\n}\n\nreturn": [
+      "pre"
+    ],
+    "to": [
+      "p",
+      "strong"
+    ],
+    "hold": [
+      "p",
+      "strong"
+    ],
+    "per": [
+      "p",
+      "strong"
+    ],
+    "item": [
+      "pre",
+      "pre"
+    ],
+    "weakness_by_phase\n{\n\tvar": [
+      "pre",
+      "pre"
+    ],
+    "tmfolderadd_view(item.key);\n\tforeach(var": [
+      "pre",
+      "pre"
+    ],
+    "itemvalue)\n\t\ttmview.add_article(weakness.title,weakness.content,": [
+      "pre",
+      "pre"
+    ],
+    "weaknesstechnology,": [
+      "pre",
+      "pre"
+    ],
+    "itemkey,": [
+      "pre",
+      "pre"
+    ],
+    "weaknesscategory);\n\t\t\n\tif": [
+      "pre",
+      "pre"
+    ],
+    "}\npanel.clear().add_webbrowser_control().open(tmsite);": [
+      "pre",
+      "pre"
+    ],
+    "complete": [
+      "p",
+      "strong"
+    ],
+    "script": [
+      "p",
+      "strong"
+    ],
+    "which": [
+      "p",
+      "strong"
+    ],
+    "creates": [
+      "p",
+      "strong"
+    ],
+    "two": [
+      "p",
+      "strong"
+    ],
+    "libraries": [
+      "p",
+      "strong"
+    ],
+    "tmsite": [
+      "pre"
+    ],
+    "\"http//localhost.:12115\";\nvar": [
+      "pre"
+    ],
+    "mentor_webservicestmsite);\n\n\nteammentor.login(\"editor\",editorpwd).str();": [
+      "pre"
+    ],
+    "teammentorlibrary(\"cwe_by_phase\").delete().library(\"cwe_by_phase\");\n\nvar": [
+      "pre"
+    ],
+    "weakness;\n}\nvar": [
+      "pre"
+    ],
+    "tmfolder": [
+      "pre"
+    ],
+    "tmlibraryadd_folder(\"weakness": [
+      "pre"
+    ],
+    "phase\";\n\nvar": [
+      "pre"
+    ],
+    "0\n\nforeach(var": [
+      "pre"
+    ],
+    "//creating": [
+      "pre"
+    ],
+    "with": [
+      "pre"
+    ],
+    "itemstmlibrary": [
+      "pre"
+    ],
+    "teammentorlibrary(\"cwe_all\").delete().library(\"cwe_all\");\nvar": [
+      "pre"
+    ],
+    "_tmview": [
+      "pre"
+    ],
+    "tmlibraryadd_view(\"weaknesses\");\nitemsprocessed": [
+      "pre"
+    ],
+    "cwedataweaknesses)\n{\n\t_tmview.add_article(weakness.title,weakness.content,": [
+      "pre"
+    ],
+    "return": [
+      "pre"
+    ],
+    "\"done\"\n//using": [
+      "pre"
+    ],
+    "//o2file..\\tm_unittests\\apis\\api_team": [
+      "pre"
+    ],
+    "case": [
+      "title"
+    ],
+    "study": [
+      "title"
+    ],
+    "raw": [
+      "title"
+    ]
+  },
+  "tags": {
+    "p": [
+      "After  we have a normalized CWE XML file lets create the TEAM Mentor project",
+      "Logging in into teamMentor:",
+      "Get Current User roles:",
+      "Create/Get CWE Library",
+      "Loading CWE Data (from XML file)",
+      "Creating 10 articles in Weaknesses View",
+      "Populating metadata",
+      "Creating a Folder mapped by Phase:",
+      "Start by creating a filtered view of the data:",
+      "Create a folder to hold a view per phase:",
+      "Complete script which creates two libraries:"
+    ],
+    "strong": [
+      "Logging in into teamMentor:",
+      "Get Current User roles:",
+      "Create/Get CWE Library",
+      "Loading CWE Data (from XML file)",
+      "Creating 10 articles in Weaknesses View",
+      "Populating metadata",
+      "Creating a Folder mapped by Phase:",
+      "Create a folder to hold a view per phase:",
+      "Complete script which creates two libraries:"
+    ],
+    "pre": [
+      "var teamMentor = new API_TEAM Mentor_WebServices(\"http://localhost:12115\");\n\nteamMentor.login(\"editor\",editorPwd).str();\nreturn teamMentor.isLoggedIn();\n//using SecurityInnovation.TEAM Mentor \n//O2File:...\\TM_UnitTests\\APIs\\API_TEAM Mentor_WebServices.cs\n//O2Ref:System.Web.Services.dll",
+      "var teamMentor = new API_TEAM Mentor_WebServices(\"http://127.0.0.1:12115\"); \n\nteamMentor.login(\"editor\",editorPwd).str();\nreturn teamMentor.currentUser_Roles();\nget Current Libraries\nvar teamMentor = new API_TEAM Mentor_WebServices(\"http://127.0.0.1:12115\"); \nteamMentor.login(\"editor\",editorPwd).str();\n\nreturn teamMentor.libraries();",
+      "var teamMentor = new API_TEAM Mentor_WebServices(\"http://127.0.0.1:12115\"); \nteamMentor.login(\"editor\",editorPwd).str();\n\nvar cweLibrary = teamMentor.library(\"CWE\");\n\nreturn cweLibrary;\nGet -> Delete -> Create CWE library\nvar cweLibrary = teamMentor.library(\"CWE\")\n\t\t\t\t\t\t   .delete()\n\t\t\t\t\t\t   .library(\"CWE\");\n\nreturn cweLibrary;\nCreate View:\nvar cweLibrary = teamMentor.library(\"CWE\").delete().library(\"CWE\");\nvar cweWeakness = cweLibrary.add_View(\"Weaknesses\");\nreturn cweWeakness;",
+      "var editorPwd = \"123qwe\";\n\nvar targetDir = \"_CWE_Data\".tempDir(false);\nvar mappedXml = targetDir.pathCombine(\"Cwe_data.xml\");\nvar cweData = mappedXml.load<CWE_Data>();\n\n\nvar teamMentor = new API_TEAM Mentor_WebServices(\"http://localhost:12115\");\nteamMentor.login(\"editor\",editorPwd).str();\n\n//using SecurityInnovation.TEAM Mentor \n//O2File:...\\TM_UnitTests\\APIs\\API_TEAM Mentor_WebServices.cs\n//O2File:CWE_Data.cs\n//O2Ref:System.Web.Services.dll",
+      "var cweData = mappedXml.load<CWE_Data>();\n\nvar teamMentor = new API_TEAM Mentor_WebServices(\"http://localhost:12115\");\nteamMentor.login(\"editor\",editorPwd).str();\n\nvar tmLibrary = teamMentor.library(\"CWE\").delete().library(\"CWE\");\nvar tmView = tmLibrary.add_View(\"Weaknesses\");\n\nforeach(var weakness in cweData.Weaknesses.Take(10))\n{\n\ttmView.add_Article(weakness.Title, weakness.Content);\n}\nreturn \"done\";\ntesting populating metadata fields and viewing TM site in browser window\nforeach(var weakness in cweData.Weaknesses.Take(10))\n{\n\ttmView.add_Article(weakness.Title,weakness.Content, \"1\",\"2\",\"3\",\"4\");\n}\npanel.clear().add_WebBrowser_Control().open(tmSite);",
+      "foreach(var weakness in cweData.Weaknesses.Take(10))\n{\n\ttmView.add_Article(weakness.Title,weakness.Content, weakness.Technology,weakness.Phase, weakness.Type, weakness.Category);\n}\n\n**Adding all articles**\n{{{\nvar tmLibrary = teamMentor.library(\"CWE\").delete().library(\"CWE\");\nvar tmView = tmLibrary.add_View(\"Weaknesses\");\nvar itemsProcessed = 0;\nforeach(var weakness in cweData.Weaknesses)\n{\n\ttmView.add_Article(weakness.Title,weakness.Content, weakness.Technology,weakness.Phase, weakness.Type, weakness.Category);\n\tif (itemsProcessed++.mod0(30))\n\t\t\"[{0}/{1}]\".info(itemsProcessed, cweData.Weaknesses.size()); \n}",
+      "var tmLibrary = teamMentor.library(\"CWE\").delete().library(\"CWE\");\nvar weakness_By_Phase = new Dictionary<string,List<CWE_Weakness>>();\nforeach(var weakness in cweData.Weaknesses)\n{\n\tforeach(var phase in weakness.Phase.split(\",\"))\n\t\tweakness_By_Phase.add(phase.trim(), weakness);\n}\n\nreturn weakness_By_Phase;",
+      "foreach(var item in weakness_By_Phase)\n{\n\tvar tmView = tmFolder.add_View(item.Key);\n\tforeach(var weakness in item.Value)\n\t\ttmView.add_Article(weakness.Title,weakness.Content, weakness.Technology, item.Key, weakness.Type, weakness.Category);\n\t\t\n\tif (itemsProcessed++.mod0(30))\n\t\t\"[{0}/{1}]\".info(itemsProcessed, cweData.Weaknesses.size()); \n\t\n }\n\npanel.clear().add_WebBrowser_Control().open(tmSite);",
+      "var targetDir = \"_CWE_Data\".tempDir(false);\nvar mappedXml = targetDir.pathCombine(\"Cwe_data.xml\");\nvar cweData = mappedXml.load<CWE_Data>();\n\nvar tmSite = \"http://localhost.:12115\";\nvar teamMentor = new API_TEAM Mentor_WebServices(tmSite);\n\n\nteamMentor.login(\"editor\",editorPwd).str(); \n \nvar tmLibrary = teamMentor.library(\"CWE_by_Phase\").delete().library(\"CWE_by_Phase\");\n\nvar weakness_By_Phase = new Dictionary<string,List<CWE_Weakness>>();\nforeach(var weakness in cweData.Weaknesses)\n{\n\tforeach(var phase in weakness.Phase.split(\",\"))\n\t\tweakness_By_Phase.add(phase.trim(), weakness);\n}\nvar tmFolder = tmLibrary.add_Folder(\"Weakness by Phase\");\n\nvar itemsProcessed = 0;\n\nforeach(var item in weakness_By_Phase)\n{\n\tvar tmView = tmFolder.add_View(item.Key);\n\tforeach(var weakness in item.Value)\n\t\ttmView.add_Article(weakness.Title,weakness.Content, weakness.Technology, item.Key, weakness.Type, weakness.Category);\n\t\t\n\tif (itemsProcessed++.mod0(30))\n\t\t\"[{0}/{1}]\".info(itemsProcessed, cweData.Weaknesses.size()); \n\t\n }\n \n//Creating a view with all Items\ntmLibrary = teamMentor.library(\"CWE_All\").delete().library(\"CWE_All\");\nvar _tmView = tmLibrary.add_View(\"Weaknesses\");\nitemsProcessed = 0;\nforeach(var weakness in cweData.Weaknesses)\n{\n\t_tmView.add_Article(weakness.Title,weakness.Content, weakness.Technology,weakness.Phase, weakness.Type, weakness.Category);\n\tif (itemsProcessed++.mod0(30))\n\t\t\"[{0}/{1}]\".info(itemsProcessed, cweData.Weaknesses.size()); \n}\n\npanel.clear().add_WebBrowser_Control().open(tmSite); \n\n\n\nreturn \"done\";\n//using SecurityInnovation.TEAM Mentor \n//O2File:..\\TM_UnitTests\\APIs\\API_TEAM Mentor_WebServices.cs\n//O2File:CWE_Data.cs\n//O2Ref:System.Web.Services.dll"
+    ]
+  },
+  "links": [],
+  "html": "<p>After  we have a normalized CWE XML file lets create the TEAM Mentor project\n</p>\n<p>\n<strong>Logging in into teamMentor:</strong></p><pre>var teamMentor = new API_TEAM Mentor_WebServices(\"http://localhost:12115\");\n\nteamMentor.login(\"editor\",editorPwd).str();\nreturn teamMentor.isLoggedIn();\n//using SecurityInnovation.TEAM Mentor \n//O2File:...\\TM_UnitTests\\APIs\\API_TEAM Mentor_WebServices.cs\n//O2Ref:System.Web.Services.dll\n</pre><p>\n<strong>Get Current User roles:</strong></p><pre>var teamMentor = new API_TEAM Mentor_WebServices(\"http://127.0.0.1:12115\"); \n\nteamMentor.login(\"editor\",editorPwd).str();\nreturn teamMentor.currentUser_Roles();\nget Current Libraries\nvar teamMentor = new API_TEAM Mentor_WebServices(\"http://127.0.0.1:12115\"); \nteamMentor.login(\"editor\",editorPwd).str();\n\nreturn teamMentor.libraries();\n</pre><p>\n<strong>Create/Get CWE Library</strong></p><pre>var teamMentor = new API_TEAM Mentor_WebServices(\"http://127.0.0.1:12115\"); \nteamMentor.login(\"editor\",editorPwd).str();\n\nvar cweLibrary = teamMentor.library(\"CWE\");\n\nreturn cweLibrary;\nGet -&gt; Delete -&gt; Create CWE library\nvar cweLibrary = teamMentor.library(\"CWE\")\n\t\t\t\t\t\t   .delete()\n\t\t\t\t\t\t   .library(\"CWE\");\n\nreturn cweLibrary;\nCreate View:\nvar cweLibrary = teamMentor.library(\"CWE\").delete().library(\"CWE\");\nvar cweWeakness = cweLibrary.add_View(\"Weaknesses\");\nreturn cweWeakness;\n</pre><p>\n<strong>Loading CWE Data (from XML file)</strong></p><pre>var editorPwd = \"123qwe\";\n\nvar targetDir = \"_CWE_Data\".tempDir(false);\nvar mappedXml = targetDir.pathCombine(\"Cwe_data.xml\");\nvar cweData = mappedXml.load&lt;CWE_Data&gt;();\n\n\nvar teamMentor = new API_TEAM Mentor_WebServices(\"http://localhost:12115\");\nteamMentor.login(\"editor\",editorPwd).str();\n\n//using SecurityInnovation.TEAM Mentor \n//O2File:...\\TM_UnitTests\\APIs\\API_TEAM Mentor_WebServices.cs\n//O2File:CWE_Data.cs\n//O2Ref:System.Web.Services.dll\n</pre><p>\n<strong>Creating 10 articles in Weaknesses View</strong></p><pre>\n\nvar cweData = mappedXml.load&lt;CWE_Data&gt;();\n\nvar teamMentor = new API_TEAM Mentor_WebServices(\"http://localhost:12115\");\nteamMentor.login(\"editor\",editorPwd).str();\n\nvar tmLibrary = teamMentor.library(\"CWE\").delete().library(\"CWE\");\nvar tmView = tmLibrary.add_View(\"Weaknesses\");\n\nforeach(var weakness in cweData.Weaknesses.Take(10))\n{\n\ttmView.add_Article(weakness.Title, weakness.Content);\n}\nreturn \"done\";\ntesting populating metadata fields and viewing TM site in browser window\nforeach(var weakness in cweData.Weaknesses.Take(10))\n{\n\ttmView.add_Article(weakness.Title,weakness.Content, \"1\",\"2\",\"3\",\"4\");\n}\npanel.clear().add_WebBrowser_Control().open(tmSite);\n</pre><p>\n<strong>Populating metadata</strong></p><pre>foreach(var weakness in cweData.Weaknesses.Take(10))\n{\n\ttmView.add_Article(weakness.Title,weakness.Content, weakness.Technology,weakness.Phase, weakness.Type, weakness.Category);\n}\n\n**Adding all articles**\n{{{\nvar tmLibrary = teamMentor.library(\"CWE\").delete().library(\"CWE\");\nvar tmView = tmLibrary.add_View(\"Weaknesses\");\nvar itemsProcessed = 0;\nforeach(var weakness in cweData.Weaknesses)\n{\n\ttmView.add_Article(weakness.Title,weakness.Content, weakness.Technology,weakness.Phase, weakness.Type, weakness.Category);\n\tif (itemsProcessed++.mod0(30))\n\t\t\"[{0}/{1}]\".info(itemsProcessed, cweData.Weaknesses.size()); \n}\n</pre><p>\n<strong>Creating a Folder mapped by Phase: </strong>\n</p><p>\nStart by creating a filtered view of the data:\n</p><pre>var tmLibrary = teamMentor.library(\"CWE\").delete().library(\"CWE\");\nvar weakness_By_Phase = new Dictionary&lt;string,List&lt;CWE_Weakness&gt;&gt;();\nforeach(var weakness in cweData.Weaknesses)\n{\n\tforeach(var phase in weakness.Phase.split(\",\"))\n\t\tweakness_By_Phase.add(phase.trim(), weakness);\n}\n\nreturn weakness_By_Phase;\n</pre><p>\n<strong>Create a folder to hold a view per phase:</strong></p><pre>foreach(var item in weakness_By_Phase)\n{\n\tvar tmView = tmFolder.add_View(item.Key);\n\tforeach(var weakness in item.Value)\n\t\ttmView.add_Article(weakness.Title,weakness.Content, weakness.Technology, item.Key, weakness.Type, weakness.Category);\n\t\t\n\tif (itemsProcessed++.mod0(30))\n\t\t\"[{0}/{1}]\".info(itemsProcessed, cweData.Weaknesses.size()); \n\t\n }\n\npanel.clear().add_WebBrowser_Control().open(tmSite); \n</pre><p>\n<strong>Complete script which creates two libraries:</strong>\n</p><pre>\n\nvar targetDir = \"_CWE_Data\".tempDir(false);\nvar mappedXml = targetDir.pathCombine(\"Cwe_data.xml\");\nvar cweData = mappedXml.load&lt;CWE_Data&gt;();\n\nvar tmSite = \"http://localhost.:12115\";\nvar teamMentor = new API_TEAM Mentor_WebServices(tmSite);\n\n\nteamMentor.login(\"editor\",editorPwd).str(); \n \nvar tmLibrary = teamMentor.library(\"CWE_by_Phase\").delete().library(\"CWE_by_Phase\");\n\nvar weakness_By_Phase = new Dictionary&lt;string,List&lt;CWE_Weakness&gt;&gt;();\nforeach(var weakness in cweData.Weaknesses)\n{\n\tforeach(var phase in weakness.Phase.split(\",\"))\n\t\tweakness_By_Phase.add(phase.trim(), weakness);\n}\nvar tmFolder = tmLibrary.add_Folder(\"Weakness by Phase\");\n\nvar itemsProcessed = 0;\n\nforeach(var item in weakness_By_Phase)\n{\n\tvar tmView = tmFolder.add_View(item.Key);\n\tforeach(var weakness in item.Value)\n\t\ttmView.add_Article(weakness.Title,weakness.Content, weakness.Technology, item.Key, weakness.Type, weakness.Category);\n\t\t\n\tif (itemsProcessed++.mod0(30))\n\t\t\"[{0}/{1}]\".info(itemsProcessed, cweData.Weaknesses.size()); \n\t\n }\n \n//Creating a view with all Items\ntmLibrary = teamMentor.library(\"CWE_All\").delete().library(\"CWE_All\");\nvar _tmView = tmLibrary.add_View(\"Weaknesses\");\nitemsProcessed = 0;\nforeach(var weakness in cweData.Weaknesses)\n{\n\t_tmView.add_Article(weakness.Title,weakness.Content, weakness.Technology,weakness.Phase, weakness.Type, weakness.Category);\n\tif (itemsProcessed++.mod0(30))\n\t\t\"[{0}/{1}]\".info(itemsProcessed, cweData.Weaknesses.size()); \n}\n\npanel.clear().add_WebBrowser_Control().open(tmSite); \n\n\n\nreturn \"done\";\n//using SecurityInnovation.TEAM Mentor \n//O2File:..\\TM_UnitTests\\APIs\\API_TEAM Mentor_WebServices.cs\n//O2File:CWE_Data.cs\n//O2Ref:System.Web.Services.dll\n</pre>\n"
+}

@@ -1,0 +1,402 @@
+{
+  "id": "95b853d1-8484-48f8-b321-a367443ddeec",
+  "checksum": "babbacf45238139b5f29347f45ddceab580c149b",
+  "words": {
+    "team": [
+      "p",
+      "pre",
+      "pre",
+      "p",
+      "a",
+      "title"
+    ],
+    "mentor's": [
+      "p"
+    ],
+    "article": [
+      "p",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "p",
+      "a",
+      "title"
+    ],
+    "data": [
+      "p"
+    ],
+    "are": [
+      "p"
+    ],
+    "stored": [
+      "p"
+    ],
+    "in": [
+      "p",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "xml": [
+      "p"
+    ],
+    "files": [
+      "p"
+    ],
+    "with": [
+      "p"
+    ],
+    "the": [
+      "p",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "following": [
+      "p"
+    ],
+    "schema": [
+      "p",
+      "p",
+      "p",
+      "title"
+    ],
+    "mentor_article": [
+      "pre",
+      "pre"
+    ],
+    "metadata_hash=\"1136375728\"": [
+      "pre"
+    ],
+    "content_hash=\"-1237407265\"\n\n\t<metadata>\t\n\t\t\t<id>00000000-0000-0000-0000-00000024fdb5</id>\n\t\t\t<library_id>eb39d862-f752-4d1c-ab6e-14ed697397c0</library_id>\n\t\t\t<title>opening": [
+      "pre"
+    ],
+    "an": [
+      "pre",
+      "p",
+      "a"
+    ],
+    "article/title>\n\t\t\t<category>reading</category>\n\t\t\t<phase>na</phase>\n\t\t\t<technology>team": [
+      "pre"
+    ],
+    "mentor/technology>\n\t\t\t<type>documentation</type>\n\t\t\t<directlink></directlink>\n\t\t\t<tag></tag>\n\t\t\t<security_demand></security_demand>\n\t\t\t<author></author>\n\t\t\t<priority></priority>\n\t\t\t<status></status>\n\t</metadata>\n\t<content": [
+      "pre"
+    ],
+    "datatype=\"html\"": [
+      "pre"
+    ],
+    "sanitized=\"true\"\n\t\t<data>\n\t\t\t<b>some": [
+      "pre"
+    ],
+    "title": [
+      "pre",
+      "pre"
+    ],
+    "bold/b>": [
+      "pre"
+    ],
+    "articles": [
+      "pre"
+    ],
+    "can": [
+      "pre",
+      "pre",
+      "p"
+    ],
+    "be": [
+      "pre",
+      "pre"
+    ],
+    "opened": [
+      "pre"
+    ],
+    "from": [
+      "pre",
+      "p"
+    ],
+    "list": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "pane": [
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "is": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "main": [
+      "pre"
+    ],
+    "mentor": [
+      "pre",
+      "p",
+      "a",
+      "title"
+    ],
+    "user": [
+      "pre",
+      "pre"
+    ],
+    "interface": [
+      "pre",
+      "pre"
+    ],
+    "component": [
+      "pre"
+    ],
+    "and": [
+      "pre",
+      "pre"
+    ],
+    "located": [
+      "pre"
+    ],
+    "bottom": [
+      "pre"
+    ],
+    "center": [
+      "pre"
+    ],
+    "by": [
+      "pre",
+      "pre",
+      "p"
+    ],
+    "default": [
+      "pre"
+    ],
+    "browsing": [
+      "pre"
+    ],
+    "navigation": [
+      "pre"
+    ],
+    "on": [
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "left": [
+      "pre"
+    ],
+    "using": [
+      "pre",
+      "p"
+    ],
+    "filters": [
+      "pre"
+    ],
+    "middle": [
+      "pre"
+    ],
+    "of": [
+      "pre",
+      "pre"
+    ],
+    "changes": [
+      "pre"
+    ],
+    "that": [
+      "pre"
+    ],
+    "displayed": [
+      "pre"
+    ],
+    "window": [
+      "pre",
+      "pre"
+    ],
+    "once": [
+      "pre"
+    ],
+    "desired": [
+      "pre"
+    ],
+    "sight": [
+      "pre"
+    ],
+    "it": [
+      "pre",
+      "pre"
+    ],
+    "previewed": [
+      "pre"
+    ],
+    "single-clicking": [
+      "pre"
+    ],
+    "its": [
+      "pre"
+    ],
+    "to": [
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "open": [
+      "pre"
+    ],
+    "a": [
+      "pre",
+      "p"
+    ],
+    "new": [
+      "pre",
+      "pre"
+    ],
+    "double-click": [
+      "pre"
+    ],
+    "another": [
+      "pre"
+    ],
+    "option": [
+      "pre"
+    ],
+    "use": [
+      "pre"
+    ],
+    "\"open": [
+      "pre"
+    ],
+    "window\"": [
+      "pre"
+    ],
+    "button": [
+      "pre"
+    ],
+    "right": [
+      "pre"
+    ],
+    "\"selected": [
+      "pre"
+    ],
+    "guidance": [
+      "pre"
+    ],
+    "item\"": [
+      "pre"
+    ],
+    "text": [
+      "pre"
+    ],
+    "preview": [
+      "pre"
+    ],
+    "]\n\t\t</data>\n\t</content>\n</team": [
+      "pre"
+    ],
+    "you": [
+      "p"
+    ],
+    "see": [
+      "p"
+    ],
+    "current": [
+      "p"
+    ],
+    "file": [
+      "p"
+    ],
+    "simple": [
+      "p"
+    ],
+    "rest": [
+      "p",
+      "a"
+    ],
+    "api": [
+      "p",
+      "a"
+    ],
+    "call": [
+      "p"
+    ],
+    "for": [
+      "p"
+    ],
+    "example": [
+      "p"
+    ],
+    "shown": [
+      "p"
+    ],
+    "above": [
+      "p"
+    ],
+    "was": [
+      "p"
+    ],
+    "taken": [
+      "p"
+    ],
+    "/raw/opening": [
+      "p",
+      "a"
+    ],
+    "page": [
+      "p"
+    ]
+  },
+  "tags": {
+    "p": [
+      "TEAM Mentor's article data are stored in XML files with the following schema:",
+      "You can see the current schema file by using the a simple TEAM Mentor REST API call. For example, the schema shown above was taken from the /raw/Opening an Article page"
+    ],
+    "pre": [
+      "<TEAM Mentor_article metadata_hash=\"1136375728\" content_hash=\"-1237407265\">\n\n\t<metadata>\t\n\t\t\t<id>00000000-0000-0000-0000-00000024fdb5</id>\n\t\t\t<library_id>eb39d862-f752-4d1c-ab6e-14ed697397c0</library_id>\n\t\t\t<title>Opening an Article</title>\n\t\t\t<category>Reading</category>\n\t\t\t<phase>NA</phase>\n\t\t\t<technology>TEAM Mentor</technology>\n\t\t\t<type>Documentation</type>\n\t\t\t<directlink></directlink>\n\t\t\t<tag></tag>\n\t\t\t<security_demand></security_demand>\n\t\t\t<author></author>\n\t\t\t<priority></priority>\n\t\t\t<status></status>\n\t</metadata>\n\t<content datatype=\"Html\" sanitized=\"true\">\n\t\t<data>\n\t\t\t<b>some title in bold</b>\n\t        \t Articles can be opened from the article list pane. The article list pane is the main TEAM Mentor user interface component and is located in the bottom center by default. Browsing the navigation pane on the left and using the filters in the middle of the user interface changes the list that is displayed in the article list window. Once the desired article is in sight, it can be previewed by single-clicking on its title. To open the article in a new window, double-click on it in the list. Another option is to use the \"Open in New Window\" button to the right of the \"Selected Guidance Item\" text in the preview pane.\n\t       \t\t\t]]\n\t\t</data>\n\t</content>\n</TEAM Mentor_article>"
+    ],
+    "a": [
+      "TEAM Mentor REST API",
+      "/raw/Opening an Article"
+    ]
+  },
+  "links": [
+    {
+      "href": "TEAM Mentor REST API",
+      "text": "TEAM Mentor REST API"
+    },
+    {
+      "href": "/raw/Opening an Article",
+      "text": "/raw/Opening an Article"
+    }
+  ],
+  "html": "<p>TEAM Mentor's article data are stored in XML files with the following schema:\n</p><pre>&lt;TEAM Mentor_article metadata_hash=\"1136375728\" content_hash=\"-1237407265\"&gt;\n\n\t&lt;metadata&gt;\t\n\t\t\t&lt;id&gt;00000000-0000-0000-0000-00000024fdb5&lt;/id&gt;\n\t\t\t&lt;library_id&gt;eb39d862-f752-4d1c-ab6e-14ed697397c0&lt;/library_id&gt;\n\t\t\t&lt;title&gt;Opening an Article&lt;/title&gt;\n\t\t\t&lt;category&gt;Reading&lt;/category&gt;\n\t\t\t&lt;phase&gt;NA&lt;/phase&gt;\n\t\t\t&lt;technology&gt;TEAM Mentor&lt;/technology&gt;\n\t\t\t&lt;type&gt;Documentation&lt;/type&gt;\n\t\t\t&lt;directlink&gt;&lt;/directlink&gt;\n\t\t\t&lt;tag&gt;&lt;/tag&gt;\n\t\t\t&lt;security_demand&gt;&lt;/security_demand&gt;\n\t\t\t&lt;author&gt;&lt;/author&gt;\n\t\t\t&lt;priority&gt;&lt;/priority&gt;\n\t\t\t&lt;status&gt;&lt;/status&gt;\n\t&lt;/metadata&gt;\n\t&lt;content datatype=\"Html\" sanitized=\"true\"&gt;\n\t\t&lt;data&gt;\n\t\t\t&lt;b&gt;some title in bold&lt;/b&gt;\n\t        \t Articles can be opened from the article list pane. The article list pane is the main TEAM Mentor user interface component and is located in the bottom center by default. Browsing the navigation pane on the left and using the filters in the middle of the user interface changes the list that is displayed in the article list window. Once the desired article is in sight, it can be previewed by single-clicking on its title. To open the article in a new window, double-click on it in the list. Another option is to use the \"Open in New Window\" button to the right of the \"Selected Guidance Item\" text in the preview pane.\n\t       \t\t\t]]\n\t\t&lt;/data&gt;\n\t&lt;/content&gt;\n&lt;/TEAM Mentor_article&gt;\n</pre>\n<p>\nYou can see the current schema file by using the a simple <a href=\"TEAM Mentor REST API\">TEAM Mentor REST API</a> call. For example, the schema shown above was taken from the <a href=\"/raw/Opening an Article\">/raw/Opening an Article</a> page</p>"
+}

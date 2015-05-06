@@ -1,0 +1,56 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "0bfb008b-49c8-4526-bb6a-0a21d01eeb0e"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "Quick Start Guide"
+        ],
+        "Category": [
+          "Administration"
+        ],
+        "Phase": [
+          "NA"
+        ],
+        "Technology": [
+          "TEAM Mentor"
+        ],
+        "Type": [
+          "Documentation"
+        ],
+        "DirectLink": [
+          "Quick Start Guide"
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "wikitext"
+        },
+        "Data": [
+          "==Signing Up==\r\nDepending on how your administrator had set up your instance of TEAM Mentor you may need to create an account. Security Innovation allows 2 weeks of free access to [[https://www.TEAMMentor.net]] - a full version of TEAM Mentor. \r\n\r\nTo create a TEAM Mentor account, fill in the bolded Username, Password and E-Mail in the Selected Article pane and click Sign Up. \r\nNote that while creating your account you will be required to use a complex password that must fulfill the following requirements:\r\n*At least 8 characters in length\r\n*Have at least one decimal\r\n*Have at least one letter\r\n*Have at least one non-alphanumeric character\r\n\r\nHere’s additional detail on what are considered alphanumeric and non-alphanumeric characters:\r\n*Alphanumeric characters (word characters): a-z; A-Z; 0-9; _ (underscore); space\r\n*Non-alphanumeric (symbols): ~`!@#$%^&*()+-_=[]\\{}|;’:”,./<>?\r\n\r\n{{/Image/signup1.jpg}}\r\n\r\n\\\\\r\n\r\n==Accessing TEAM Mentor==\r\n\r\nTo access TEAM Mentor content, click the Login link in the top right corner. \r\n\r\n{{/Image/qsg01.jpg}}\r\n\r\nEnter your user account credentials in the Login into TEAM Mentor pop up that appears. After successfully authenticating, you will be able to access TEAM Mentor content. \r\n\r\n{{/Image/login2.jpg}}\r\n\r\nIf you have forgotten your password, click on the Forgot your password? link, fill in your email address and then a password reset email will be sent to you.\r\n\r\n{{/Image/forgotpassword2.jpg}}\r\n\r\n\\\\\r\n\r\n==Using TEAM Mentor==\r\n\r\nThe simplest way to navigate TEAM Mentor content is via the navigation pane on the left. The navigation pane shows a tree representation of the available libraries as folders and views. This tree can be navigated in a manner similar to playlists in a music player, such as iTunes. \r\nTEAM Mentor content is organized in a manner similar to playlists. All the articles are located in the library. Views are references to sub-sets of these files. Folders are a way to organize the views. An article may appear in multiple views and folders, but there is still only one copy of the article - the views and folders display references to it.\r\nArticles can be opened from the article list pane. Navigating the folders and views in the navigation pane changes the list of articles presented in the article list pane. The list of articles can be further narrowed down by using filters. Once the desired articles have been located, they can be previewed in the preview pane on the right by single-clicking on the article title in the list. To open the article in a new window, double-click on the article title in the list. \r\n\r\n{{/Image/nav1.jpg}}\r\n\r\n\\\\\r\n\r\n=Example #1 – Find Information about Cross-Site Scripting==\r\n\r\nIn the navigation pane, select the library that corresponds to the technology used by your application. For this example, we are going to use .NET 4.0 Guidance Library. Enter “Cross-Site Scripting” in the search box and click the magnifying glass search icon.\r\n\r\n{{/Image/example1.jpg}}\r\n\r\nThe search query returns 16 results. We can read all these articles, or we can narrow the results down using filters. Let’s look for code examples by checking Code Example in the Type filter list.\r\n\r\n{{/Image/example1-1.jpg}}\r\n\r\nDouble clicking the article will open the article in a new window:\r\n\r\n{{/Image/example1-2.jpg}}\r\n\r\n\\\\\r\n\r\n==Example #2 – Discover Authentication Best Practices for ASP.NET 4.0==\r\n\r\nNow let’s practice using filters. In this example, we will identify the authentication best practices for ASP.NET 4.0. It’s very simple, all we have to do is select the .NET 4.0 library and check Authentication in the Category filter list.\r\n\r\n{{/Image/example2.jpg}}\r\n\r\nThe query returns 61 results. We can further narrow this down to show just How To articles by checking How To in the Type filter list:\r\n\r\n{{/Image/example2-1.jpg}}\r\n\r\nThis returns a more easily managed number of items to review. Select the specific phase of development that you are currently engaged in such as Implementation or Test to narrow the results further.\r\n\r\n{{/Image/example2-3.jpg}}\r\n\r\n\\\\\r\n\r\n==Example #3 – Finding Information on a Vulnerability (SQL Injection Example)==\r\nOne example of how you can use TEAM Mentor is to look for information you need regarding specific software vulnerabilities. This may be because you wish to avoid this vulnerability in your code, you have been assigned to fix a vulnerability, or are just looking for information on the topic. To do this, after you have successfully authenticated, Click on the //Vulnerabilities// Library in the Navigation Pane\r\n\r\n{{/Image/example3-1.jpg}}\r\n\r\nSelect the technology from the Filters Pane. We use Java for this example. Note that the Applied Filters had been updated with your selection.\r\n\r\n{{/Image/example3-2.jpg}}\r\n\r\nSearch for “SQL Injection” in the Search bar and hit <enter>. Note the Applied Filters was updated with your search criteria and that Article List Pane is now showing articles matching your filter selection and search criteria. Click on SQL Injection article. It will appear in the Preview Pane. Look over the description and make sure this what you are looking for. \r\n\r\n{{/Image/example3-3.jpg}}\r\n\r\nDouble click on the article to open it in the full article view.\r\n\r\n{{/Image/example3-4.jpg}}\r\n\r\nRead through the article and choose the countermeasures you want to read more about. In this case we chose to read more on Using Parametarized APIs for Data Access. Click on the link to open the article.\r\n\r\n{{/Image/example3-5.jpg}}\r\n\r\nRead through the article for specific information on how to fix the vulnerability.\r\n\r\n\\\\\r\n\r\n==Sharing information on vulnerability==\r\nYou may wish to share this information once you found it for collaboration on a fix, testing, or using the information to avoid that vulnerability in your code. Once you have opened a vulnerability (of any other) article you would like to share, simply copy the URL on the URL bar\r\n\r\n{{/Image/share01.jpg}}\r\n\r\n\\\\\r\n\r\n==Saving information on vulnerability==\r\nIf you would like to save an article for later reference, after you’ve opened the article in full view, simply use your browser’s bookmarking feature to bookmark the article. The URL of articles do not change, so when you use the bookmark you will be taken right to the article. If you are not logged in, you will have to log in to see the article\r\n\r\n\\\\\r\n\r\n==Sharing a set of documents==\r\nAs you may know, content in TEAM Mentor is organized similar to playlists in music playing software. There are libraries, which contain folders, which in turn contain views. A view is a set of articles that are all related to the same topic, which is the title of the view. If you found a particular view of interest, you can focus just on the particular set of articles by using the Reading View. Simply right click on the view that you want to focus on and choose Show Reading View Link\r\n\r\n{{/Image/share02.jpg}}\r\n\r\nThe screen will re-arrange to show the Reading View for this set of articles.\r\n\r\n{{/Image/share03.jpg}}\r\n\r\nYou can share this view with others by simply selecting and copying the URL\r\n\r\n{{/Image/share04.jpg}}\r\n\r\nAnd pasting it into an email. When a person receives the link, when they open it they will see exactly the same set of articles, once they have logged in.\r\n\r\n\\\\\r\n\r\n==Saving a set of articles==\r\nIf you would like to save a set of articles for later reference, you can simply use your browsers functionality to bookmark the reading view.\r\n\r\n\\\\\r\n\r\n==Save filter search setting for re-use==\r\nIf you created a complex search using filters, you can save it for later reuse to get back to the same information.  Once you have selected the necessary filters. Use the pin button next to the filter in the Applied Filters box. \r\n\r\n{{/Image/share05.jpg}}\r\n\r\nClicking the button shades the pin in solid color and updates the URL in the address bar with the selected filter.\r\n\r\n{{/Image/share06.jpg}}\r\n\r\n{{/Image/share07.jpg}}\r\n\r\nUse your browser to bookmark the URL,  which saves the filters for future re-use. When you click on the bookmark, it will open TEAM Mentor with the same search and filters and thus display the same set of articles.\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+        ]
+      }
+    ]
+  }
+}

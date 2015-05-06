@@ -1,0 +1,588 @@
+{
+  "id": "4f236f52-24f7-46a0-a8bd-09789baa8a43",
+  "checksum": "a223e4921b13d862cb6ee419b5f17b96e4ab3e87",
+  "words": {
+    "this": [
+      "p"
+    ],
+    "article": [
+      "p"
+    ],
+    "shows": [
+      "p"
+    ],
+    "how": [
+      "p",
+      "title"
+    ],
+    "to": [
+      "p",
+      "p",
+      "h3",
+      "title"
+    ],
+    "programatically": [
+      "p"
+    ],
+    "uploading": [
+      "p",
+      "h3",
+      "h3",
+      "h3"
+    ],
+    "files": [
+      "p",
+      "h3",
+      "title"
+    ],
+    "or": [
+      "p",
+      "title"
+    ],
+    "images": [
+      "p",
+      "title"
+    ],
+    "an": [
+      "p",
+      "h3",
+      "h3",
+      "h3"
+    ],
+    "team": [
+      "p",
+      "p",
+      "a"
+    ],
+    "mentor": [
+      "p",
+      "p",
+      "a"
+    ],
+    "instance": [
+      "p",
+      "h3"
+    ],
+    "via": [
+      "p",
+      "h3"
+    ],
+    "its": [
+      "p"
+    ],
+    "webservices": [
+      "p"
+    ],
+    "requirements": [
+      "p",
+      "strong"
+    ],
+    "windows": [
+      "p"
+    ],
+    "with": [
+      "p"
+    ],
+    "net": [
+      "p"
+    ],
+    "40,": [
+      "p"
+    ],
+    "o2": [
+      "p",
+      "a"
+    ],
+    "platform": [
+      "p",
+      "a"
+    ],
+    "unit": [
+      "p",
+      "a"
+    ],
+    "tests": [
+      "p",
+      "a"
+    ],
+    "github": [
+      "p"
+    ],
+    "repository": [
+      "p"
+    ],
+    "config": [
+      "h3"
+    ],
+    "target": [
+      "h3"
+    ],
+    "tm": [
+      "h3"
+    ],
+    "var": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "teammentor": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "=": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "new": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "api_team": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "mentor_webservices\"localhost\",3187);\nreturn": [
+      "pre"
+    ],
+    "teammentorping();": [
+      "pre"
+    ],
+    "//using": [
+      "pre"
+    ],
+    "securityinnovationteam": [
+      "pre"
+    ],
+    "mentor//o2file:...l\\_team": [
+      "pre"
+    ],
+    "mentor\\team": [
+      "pre"
+    ],
+    "mentor-unittests\\apis\\api_team": [
+      "pre"
+    ],
+    "mentor_webservicescs\n//o2ref:system.web.services.dll": [
+      "pre"
+    ],
+    "login": [
+      "h3"
+    ],
+    "adminpwd": [
+      "pre"
+    ],
+    "\"*****\"\nvar": [
+      "pre"
+    ],
+    "mentor_webservices\"localhost\",3187);\nteammentor.login(\"admin\",adminpwd);\nreturn": [
+      "pre"
+    ],
+    "teammentorloggedin();": [
+      "pre"
+    ],
+    "get": [
+      "h3"
+    ],
+    "upload": [
+      "h3",
+      "h3",
+      "h3",
+      "h3",
+      "title"
+    ],
+    "token": [
+      "h3"
+    ],
+    "mentor_webservices\"localhost\",3187);\nteammentor.login(\"admin\",adminpwd);\nvar": [
+      "pre"
+    ],
+    "uploadtoken": [
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "teammentorwebservices.getuploadtoken();\nreturn": [
+      "pre"
+    ],
+    "uploadtokenstr();": [
+      "pre",
+      "pre"
+    ],
+    "upload/create": [
+      "h3"
+    ],
+    "a": [
+      "h3",
+      "h3"
+    ],
+    "text": [
+      "h3"
+    ],
+    "file": [
+      "h3",
+      "pre",
+      "h3"
+    ],
+    "mentor_webservices\"localhost.\",3187);\nteammentor.login(\"admin\",adminpwd);\n\nvar": [
+      "pre"
+    ],
+    "teammentorwebservices.getuploadtoken();\nvar": [
+      "pre"
+    ],
+    "targetfile": [
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "\"filenametxt\";\nvar": [
+      "pre"
+    ],
+    "filecontents": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "\"this": [
+      "pre"
+    ],
+    "is": [
+      "pre"
+    ],
+    "the": [
+      "pre",
+      "h3"
+    ],
+    "contents\"\n\nvar": [
+      "pre"
+    ],
+    "requestparams": [
+      "pre",
+      "pre"
+    ],
+    "\"/aspx_pages/file_uploadashx?uploadtoken={0}&qqfile={1}\".format(uploadtoken,": [
+      "pre",
+      "pre"
+    ],
+    "targetfile;\nvar": [
+      "pre",
+      "pre"
+    ],
+    "uploadhandler": [
+      "pre",
+      "pre"
+    ],
+    "teammentorwebsite_url.append(requestparams);\n\nreturn": [
+      "pre",
+      "pre"
+    ],
+    "uploadhandlerpost(filecontents);": [
+      "pre"
+    ],
+    "image": [
+      "h3",
+      "h3",
+      "h3",
+      "pre"
+    ],
+    "mentor_webservices\"localhost.\",3187);\nteammentor.login(\"admin\",adminpwd);": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "teammentorwebservices.getuploadtoken();": [
+      "pre"
+    ],
+    "\"o2_logogif\";\nvar": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "targetfilelocal().filecontents_asbytearray();\n\nvar": [
+      "pre"
+    ],
+    "uploadhandlerpost(filecontents);\n\nreturn": [
+      "pre"
+    ],
+    "simpler": [
+      "h3"
+    ],
+    "version": [
+      "h3"
+    ],
+    "of": [
+      "h3"
+    ],
+    "targetfilelocal().filecontents_asbytearray();\n\t\t\t\nreturn": [
+      "pre"
+    ],
+    "teammentoruploadfile(targetfile,": [
+      "pre"
+    ],
+    "filecontents;": [
+      "pre"
+    ],
+    "that": [
+      "h3"
+    ],
+    "can": [
+      "h3"
+    ],
+    "then": [
+      "h3"
+    ],
+    "be": [
+      "h3"
+    ],
+    "retrieved": [
+      "h3"
+    ],
+    "urls": [
+      "h3"
+    ],
+    "filename": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "filenamelocal().filecontents_asbytearray();\t\t\t\nvar": [
+      "pre",
+      "pre"
+    ],
+    "libraryid": [
+      "pre",
+      "pre"
+    ],
+    "\"daa1ebc4-d488-46ba-81cf-32e280b5d885\"guid();\n\nreturn": [
+      "pre"
+    ],
+    "teammentorwebservices.upload_file_to_library(libraryid": [
+      "pre"
+    ],
+    ";": [
+      "pre"
+    ],
+    "specific": [
+      "h3"
+    ],
+    "directory": [
+      "h3"
+    ],
+    "filenamelocal().filecontents_asbytearray();\t\t\t\n\nvar": [
+      "pre"
+    ],
+    "library": [
+      "pre",
+      "pre"
+    ],
+    "teammentorlibrary(\"owasp\");\n\nteammentor.webservices.upload_file_to_library(library.id": [
+      "pre",
+      "pre"
+    ],
+    ";\n\nvar": [
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "imageurl": [
+      "pre",
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "teammentorwebsite_url.append(\"/image/{0}/{1}\".format(library.id,": [
+      "pre",
+      "pre"
+    ],
+    "filename);": [
+      "pre"
+    ],
+    "and": [
+      "h3"
+    ],
+    "viewing": [
+      "h3"
+    ],
+    "it": [
+      "h3"
+    ],
+    "\"daa1ebc4-d488-46ba-81cf-32e280b5d885\"guid();\n\nteammentor.webservices.upload_file_to_library(libraryid": [
+      "pre"
+    ],
+    "teammentorwebsite_url.append(\"/image/{0}/{1}\".format(libraryid,": [
+      "pre"
+    ],
+    "filename);\npanel.clear().add_webbrowser_control().open(imageurl.str());\n\nreturn": [
+      "pre"
+    ],
+    "from": [
+      "h3"
+    ],
+    "clipboard": [
+      "h3"
+    ],
+    "tmpfolder=": [
+      "pre"
+    ],
+    "\"_tmpimages\"tempdir();\n\nvar": [
+      "pre"
+    ],
+    "tmpfoldersaveimagefromclipboardtofolder();": [
+      "pre"
+    ],
+    "imagefilename();\nvar": [
+      "pre"
+    ],
+    "imagefilecontents_asbytearray();\t\t\t\n\nvar": [
+      "pre"
+    ],
+    "filename);\npanel.clear().add_webbrowser_control().open(imageurl.str());": [
+      "pre"
+    ],
+    "-": [
+      "title"
+    ]
+  },
+  "tags": {
+    "p": [
+      "This article shows how to programatically uploading files or images to an TEAM Mentor instance via its WebServices",
+      "Requirements: Windows with .NET 4.0,  O2 Platform,  TEAM Mentor Unit Tests GitHub Repository"
+    ],
+    "strong": [
+      "Requirements"
+    ],
+    "a": [
+      "O2 Platform",
+      "TEAM Mentor Unit Tests"
+    ],
+    "h3": [
+      "Config target TM instance",
+      "Login",
+      "Get Upload Token",
+      "Upload/create a text file",
+      "Uploading an Image",
+      "Simpler version of upload file",
+      "Upload files that can then be retrieved via urls",
+      "Upload to a specific directory",
+      "Uploading an Image and viewing it",
+      "Uploading an image from the Clipboard"
+    ],
+    "pre": [
+      "var teamMentor = new API_TEAM Mentor_WebServices(\"localhost\",3187);\nreturn teamMentor.ping(); \n\n//using SecurityInnovation.TEAM Mentor\n//O2File:...l\\_TEAM Mentor\\TEAM Mentor-UnitTests\\APIs\\API_TEAM Mentor_WebServices.cs\n//O2Ref:System.Web.Services.dll",
+      "var adminPwd = \"*****\";\nvar teamMentor = new API_TEAM Mentor_WebServices(\"localhost\",3187);\nteamMentor.login(\"admin\",adminPwd);\nreturn teamMentor.loggedIn();",
+      "var teamMentor = new API_TEAM Mentor_WebServices(\"localhost\",3187);\nteamMentor.login(\"admin\",adminPwd);\nvar uploadToken = teamMentor.webServices.GetUploadToken();\nreturn uploadToken.str();",
+      "var teamMentor = new API_TEAM Mentor_WebServices(\"localhost.\",3187);\nteamMentor.login(\"admin\",adminPwd);\n\nvar uploadToken = teamMentor.webServices.GetUploadToken();\nvar targetFile = \"filename.txt\";\nvar fileContents = \"This is the file contents\";\n\nvar requestParams = \"/Aspx_Pages/File_Upload.ashx?uploadToken={0}&qqfile={1}\".format(uploadToken, targetFile);\nvar uploadHandler = teamMentor.WebSite_Url.append(requestParams);\n\nreturn uploadHandler.POST(fileContents);",
+      "var teamMentor = new API_TEAM Mentor_WebServices(\"localhost.\",3187);\nteamMentor.login(\"admin\",adminPwd); \n\nvar uploadToken = teamMentor.webServices.GetUploadToken(); \nvar targetFile = \"O2_Logo.gif\";\nvar fileContents = targetFile.local().fileContents_AsByteArray();\n\nvar requestParams = \"/Aspx_Pages/File_Upload.ashx?uploadToken={0}&qqfile={1}\".format(uploadToken, targetFile);\nvar uploadHandler = teamMentor.WebSite_Url.append(requestParams);\n\nreturn uploadHandler.POST(fileContents);\n\nreturn uploadToken.str();",
+      "var teamMentor = new API_TEAM Mentor_WebServices(\"localhost.\",3187);\nteamMentor.login(\"admin\",adminPwd); \n\nvar targetFile = \"O2_Logo.gif\";\nvar fileContents = targetFile.local().fileContents_AsByteArray();\n\t\t\t\nreturn teamMentor.uploadFile(targetFile, fileContents);",
+      "var teamMentor = new API_TEAM Mentor_WebServices(\"localhost.\",3187);\nteamMentor.login(\"admin\",adminPwd); \n \nvar filename = \"O2_Logo.gif\";\nvar fileContents = filename.local().fileContents_AsByteArray();\t\t\t\nvar libraryId = \"daa1ebc4-d488-46ba-81cf-32e280b5d885\".guid();\n\nreturn teamMentor.webServices.Upload_File_To_Library(libraryId ,filename , fileContents );",
+      "var teamMentor = new API_TEAM Mentor_WebServices(\"localhost.\",3187);\nteamMentor.login(\"admin\",adminPwd); \n \nvar filename = \"O2_Logo.gif\";\nvar fileContents = filename.local().fileContents_AsByteArray();\t\t\t\n\nvar library = teamMentor.library(\"OWASP\");\n\nteamMentor.webServices.Upload_File_To_Library(library.Id ,filename , fileContents );\n\nvar imageUrl = teamMentor.WebSite_Url.append(\"/Image/{0}/{1}\".format(library.Id, filename));",
+      "var teamMentor = new API_TEAM Mentor_WebServices(\"localhost.\",3187);\nteamMentor.login(\"admin\",adminPwd); \n \nvar filename = \"O2_Logo.gif\";\nvar fileContents = filename.local().fileContents_AsByteArray();\t\t\t\nvar libraryId = \"daa1ebc4-d488-46ba-81cf-32e280b5d885\".guid();\n\nteamMentor.webServices.Upload_File_To_Library(libraryId ,filename , fileContents );\n\nvar imageUrl = teamMentor.WebSite_Url.append(\"/Image/{0}/{1}\".format(libraryId, filename));\npanel.clear().add_WebBrowser_Control().open(imageUrl.str());\n\nreturn imageUrl;",
+      "var teamMentor = new API_TEAM Mentor_WebServices(\"localhost.\",3187);\nteamMentor.login(\"admin\",adminPwd); \n \nvar tmpFolder= \"_tmpImages\".tempDir();\n\nvar image = tmpFolder.saveImageFromClipboardToFolder(); \n\nvar filename = image.fileName();\nvar fileContents = image.fileContents_AsByteArray();\t\t\t\n\nvar library = teamMentor.library(\"OWASP\");\n\nteamMentor.webServices.Upload_File_To_Library(library.Id ,filename , fileContents );\n\nvar imageUrl = teamMentor.WebSite_Url.append(\"/Image/{0}/{1}\".format(library.Id, filename));\npanel.clear().add_WebBrowser_Control().open(imageUrl.str());"
+    ]
+  },
+  "links": [
+    {
+      "href": "https://github.com/o2platform/O2_Install ",
+      "text": " O2 Platform"
+    },
+    {
+      "href": "https://github.com/TEAM Mentor/UnitTests ",
+      "text": " TEAM Mentor Unit Tests"
+    }
+  ],
+  "html": "<p>This article shows how to programatically uploading files or images to an TEAM Mentor instance via its WebServices\n</p><p>\n<strong>Requirements</strong>: Windows with .NET 4.0, <a href=\"https://github.com/o2platform/O2_Install \"> O2 Platform</a>, <a href=\"https://github.com/TEAM Mentor/UnitTests \"> TEAM Mentor Unit Tests</a> GitHub Repository\n</p><h3>Config target TM instance</h3><pre>var teamMentor = new API_TEAM Mentor_WebServices(\"localhost\",3187);\nreturn teamMentor.ping(); \n\n//using SecurityInnovation.TEAM Mentor\n//O2File:...l\\_TEAM Mentor\\TEAM Mentor-UnitTests\\APIs\\API_TEAM Mentor_WebServices.cs\n//O2Ref:System.Web.Services.dll\n</pre><h3>Login</h3><pre>var adminPwd = \"*****\";\nvar teamMentor = new API_TEAM Mentor_WebServices(\"localhost\",3187);\nteamMentor.login(\"admin\",adminPwd);\nreturn teamMentor.loggedIn();\n</pre><h3>Get Upload Token</h3><pre>var teamMentor = new API_TEAM Mentor_WebServices(\"localhost\",3187);\nteamMentor.login(\"admin\",adminPwd);\nvar uploadToken = teamMentor.webServices.GetUploadToken();\nreturn uploadToken.str();\n</pre><h3>Upload/create a text file</h3><pre>var teamMentor = new API_TEAM Mentor_WebServices(\"localhost.\",3187);\nteamMentor.login(\"admin\",adminPwd);\n\nvar uploadToken = teamMentor.webServices.GetUploadToken();\nvar targetFile = \"filename.txt\";\nvar fileContents = \"This is the file contents\";\n\nvar requestParams = \"/Aspx_Pages/File_Upload.ashx?uploadToken={0}&amp;qqfile={1}\".format(uploadToken, targetFile);\nvar uploadHandler = teamMentor.WebSite_Url.append(requestParams);\n\nreturn uploadHandler.POST(fileContents);\n</pre><h3>Uploading an Image</h3><pre>var teamMentor = new API_TEAM Mentor_WebServices(\"localhost.\",3187);\nteamMentor.login(\"admin\",adminPwd); \n\nvar uploadToken = teamMentor.webServices.GetUploadToken(); \nvar targetFile = \"O2_Logo.gif\";\nvar fileContents = targetFile.local().fileContents_AsByteArray();\n\nvar requestParams = \"/Aspx_Pages/File_Upload.ashx?uploadToken={0}&amp;qqfile={1}\".format(uploadToken, targetFile);\nvar uploadHandler = teamMentor.WebSite_Url.append(requestParams);\n\nreturn uploadHandler.POST(fileContents);\n\nreturn uploadToken.str();\n</pre><h3>Simpler version of upload file</h3><pre>var teamMentor = new API_TEAM Mentor_WebServices(\"localhost.\",3187);\nteamMentor.login(\"admin\",adminPwd); \n\nvar targetFile = \"O2_Logo.gif\";\nvar fileContents = targetFile.local().fileContents_AsByteArray();\n\t\t\t\nreturn teamMentor.uploadFile(targetFile, fileContents);\n</pre><h3>Upload files that can then be retrieved via urls</h3><pre>var teamMentor = new API_TEAM Mentor_WebServices(\"localhost.\",3187);\nteamMentor.login(\"admin\",adminPwd); \n \nvar filename = \"O2_Logo.gif\";\nvar fileContents = filename.local().fileContents_AsByteArray();\t\t\t\nvar libraryId = \"daa1ebc4-d488-46ba-81cf-32e280b5d885\".guid();\n\nreturn teamMentor.webServices.Upload_File_To_Library(libraryId ,filename , fileContents );\n</pre><h3>Upload to a specific directory</h3><pre>var teamMentor = new API_TEAM Mentor_WebServices(\"localhost.\",3187);\nteamMentor.login(\"admin\",adminPwd); \n \nvar filename = \"O2_Logo.gif\";\nvar fileContents = filename.local().fileContents_AsByteArray();\t\t\t\n\nvar library = teamMentor.library(\"OWASP\");\n\nteamMentor.webServices.Upload_File_To_Library(library.Id ,filename , fileContents );\n\nvar imageUrl = teamMentor.WebSite_Url.append(\"/Image/{0}/{1}\".format(library.Id, filename));\n</pre><h3>Uploading an Image and viewing it</h3><pre>var teamMentor = new API_TEAM Mentor_WebServices(\"localhost.\",3187);\nteamMentor.login(\"admin\",adminPwd); \n \nvar filename = \"O2_Logo.gif\";\nvar fileContents = filename.local().fileContents_AsByteArray();\t\t\t\nvar libraryId = \"daa1ebc4-d488-46ba-81cf-32e280b5d885\".guid();\n\nteamMentor.webServices.Upload_File_To_Library(libraryId ,filename , fileContents );\n\nvar imageUrl = teamMentor.WebSite_Url.append(\"/Image/{0}/{1}\".format(libraryId, filename));\npanel.clear().add_WebBrowser_Control().open(imageUrl.str());\n\nreturn imageUrl;\n</pre><h3>Uploading an image from the Clipboard</h3><pre>var teamMentor = new API_TEAM Mentor_WebServices(\"localhost.\",3187);\nteamMentor.login(\"admin\",adminPwd); \n \nvar tmpFolder= \"_tmpImages\".tempDir();\n\nvar image = tmpFolder.saveImageFromClipboardToFolder(); \n\nvar filename = image.fileName();\nvar fileContents = image.fileContents_AsByteArray();\t\t\t\n\nvar library = teamMentor.library(\"OWASP\");\n\nteamMentor.webServices.Upload_File_To_Library(library.Id ,filename , fileContents );\n\nvar imageUrl = teamMentor.WebSite_Url.append(\"/Image/{0}/{1}\".format(library.Id, filename));\npanel.clear().add_WebBrowser_Control().open(imageUrl.str());\n</pre>"
+}

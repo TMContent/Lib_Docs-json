@@ -1,0 +1,30 @@
+{
+  "id": "00000000-0000-0000-0000-00000024fdb5",
+  "checksum": "b8a4525aff22571f69dc68fd595c2f9e46441927",
+  "words": {
+    "opening": [
+      "title"
+    ],
+    "an": [
+      "title"
+    ],
+    "article": [
+      "title"
+    ]
+  },
+  "tags": {
+    "br": [
+      "",
+      ""
+    ],
+    "div": [
+      "",
+      ""
+    ],
+    "font": [
+      ""
+    ]
+  },
+  "links": [],
+  "html": "Articles can be opened from the article list pane. The article list pane is the main TEAM Mentor user interface component and is located in the bottom center by default. Browsing the navigation pane on the left and using the filters in the middle of the\n user interface changes the list that is displayed in the article list window. Once the desired article is in sight, it can be previewed by single-clicking on its title. To open the article in a new window, double-click on it in the list. Another option is\n to use the &quot;Open in New Window&quot; button to the right of the &quot;Selected Guidance Item&quot; text in the preview pane.\n<br>\n<br>\n<div><font size=\"2\"></font></div>\n<div></div>\n"
+}

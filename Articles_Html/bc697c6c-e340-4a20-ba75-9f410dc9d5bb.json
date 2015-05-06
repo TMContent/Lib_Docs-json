@@ -1,0 +1,216 @@
+{
+  "id": "bc697c6c-e340-4a20-ba75-9f410dc9d5bb",
+  "checksum": "2bee4171830ab31422064b7fe0a6a9b6af6798b9",
+  "words": {
+    "team": [
+      "p",
+      "p",
+      "p"
+    ],
+    "mentor": [
+      "p",
+      "p",
+      "p"
+    ],
+    "now": [
+      "p"
+    ],
+    "has": [
+      "p"
+    ],
+    "ability": [
+      "p"
+    ],
+    "to": [
+      "p",
+      "p"
+    ],
+    "integrate": [
+      "p"
+    ],
+    "with": [
+      "p"
+    ],
+    "google": [
+      "p",
+      "p",
+      "p",
+      "title"
+    ],
+    "analytics": [
+      "p",
+      "p",
+      "p",
+      "title"
+    ],
+    "there": [
+      "p"
+    ],
+    "are": [
+      "p"
+    ],
+    "two": [
+      "p"
+    ],
+    "integration": [
+      "p",
+      "p",
+      "p"
+    ],
+    "points": [
+      "p"
+    ],
+    "one": [
+      "p"
+    ],
+    "is": [
+      "p",
+      "p"
+    ],
+    "on": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "the": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "server": [
+      "p",
+      "p"
+    ],
+    "side": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "and": [
+      "p",
+      "p",
+      "p"
+    ],
+    "other": [
+      "p"
+    ],
+    "client": [
+      "p",
+      "p"
+    ],
+    "collects": [
+      "p",
+      "p"
+    ],
+    "analytic": [
+      "p"
+    ],
+    "information": [
+      "p",
+      "p",
+      "p"
+    ],
+    "usage": [
+      "p"
+    ],
+    "of": [
+      "p"
+    ],
+    "by": [
+      "p"
+    ],
+    "a": [
+      "p"
+    ],
+    "particular": [
+      "p"
+    ],
+    "user": [
+      "p",
+      "p"
+    ],
+    "invoked": [
+      "p"
+    ],
+    "when": [
+      "p"
+    ],
+    "main": [
+      "p"
+    ],
+    "page": [
+      "p"
+    ],
+    "loads": [
+      "p"
+    ],
+    "basic": [
+      "p"
+    ],
+    "statistic": [
+      "p"
+    ],
+    "about": [
+      "p"
+    ],
+    "environment": [
+      "p"
+    ],
+    "geoip": [
+      "p"
+    ],
+    "browser": [
+      "p"
+    ],
+    "similar": [
+      "p"
+    ],
+    "please": [
+      "p"
+    ],
+    "contact": [
+      "p"
+    ],
+    "security": [
+      "p"
+    ],
+    "innovation": [
+      "p"
+    ],
+    "support": [
+      "p",
+      "a"
+    ],
+    "implement": [
+      "p"
+    ],
+    "your": [
+      "p"
+    ],
+    "site": [
+      "p"
+    ]
+  },
+  "tags": {
+    "p": [
+      "TEAM Mentor now has ability to integrate with Google Analytics. There are two Google Analytics integration points. One is on the server side and the other on the client side. The server side integration collects analytic information on the usage of TEAM Mentor by a particular user.  The client side integration is invoked when the main TEAM Mentor page loads and collects basic statistic information about the user environment, geoip, browser and similar information.  Please contact Security Innovation support to implement Google Analytics on your site."
+    ],
+    "a": [
+      "support"
+    ]
+  },
+  "links": [
+    {
+      "href": "/article/323dae88-b74b-465c-a949-d48c33f4ac85",
+      "text": "support"
+    }
+  ],
+  "html": "<p>TEAM Mentor now has ability to integrate with Google Analytics. There are two Google Analytics integration points. One is on the server side and the other on the client side. The server side integration collects analytic information on the usage of TEAM Mentor by a particular user.  The client side integration is invoked when the main TEAM Mentor page loads and collects basic statistic information about the user environment, geoip, browser and similar information.  Please contact Security Innovation <a href=\"/article/323dae88-b74b-465c-a949-d48c33f4ac85\">support</a> to implement Google Analytics on your site.</p>"
+}

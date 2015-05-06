@@ -1,0 +1,176 @@
+{
+  "id": "00000000-0000-0000-0000-000000825831",
+  "checksum": "c6269c04c63ca7b6fd7211a6b86937be142fa8c2",
+  "words": {
+    "libraries": [
+      "p",
+      "p",
+      "title"
+    ],
+    "can": [
+      "p",
+      "p",
+      "p"
+    ],
+    "be": [
+      "p",
+      "p",
+      "p"
+    ],
+    "removed": [
+      "p",
+      "p"
+    ],
+    "by": [
+      "p",
+      "p",
+      "p"
+    ],
+    "deleting": [
+      "p"
+    ],
+    "the": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "corresponding": [
+      "p"
+    ],
+    "library": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "folders": [
+      "p",
+      "p"
+    ],
+    "found": [
+      "p"
+    ],
+    "in": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "location": [
+      "p",
+      "p"
+    ],
+    "configured": [
+      "p"
+    ],
+    "tmconfigconfig": [
+      "p",
+      "p"
+    ],
+    "or": [
+      "p"
+    ],
+    "\"library_data\\xmldatabase\\tm_libraries\"": [
+      "p"
+    ],
+    "folder": [
+      "p"
+    ],
+    "relative": [
+      "p"
+    ],
+    "to": [
+      "p"
+    ],
+    "team": [
+      "p"
+    ],
+    "mentor": [
+      "p"
+    ],
+    "installation": [
+      "p"
+    ],
+    "path": [
+      "p"
+    ],
+    "default": [
+      "p"
+    ],
+    "setting": [
+      "p"
+    ],
+    "for": [
+      "p"
+    ],
+    "file": [
+      "p"
+    ],
+    "is": [
+      "p"
+    ],
+    "xmllibrariespath": [
+      "p"
+    ],
+    "also": [
+      "p"
+    ],
+    "\"edit": [
+      "p"
+    ],
+    "mode\"": [
+      "p"
+    ],
+    "right": [
+      "p"
+    ],
+    "clicking": [
+      "p"
+    ],
+    "on": [
+      "p"
+    ],
+    "and": [
+      "p"
+    ],
+    "choosing": [
+      "p"
+    ],
+    "\"delete": [
+      "p"
+    ],
+    "library\"": [
+      "p"
+    ],
+    "option": [
+      "p"
+    ],
+    "from": [
+      "p"
+    ],
+    "context": [
+      "p"
+    ],
+    "menu": [
+      "p"
+    ],
+    "removing": [
+      "title"
+    ]
+  },
+  "tags": {
+    "p": [
+      "Libraries can be removed by deleting the corresponding library folders. Library folders can be found in the location configured in TMConfig.Config or in the \"Library_Data\\XmlDatabase\\TM_Libraries\" folder relative to the TEAM Mentor installation path by\n default. The setting for the library location in the TMConfig.Config file is XmlLibrariesPath.",
+      "Libraries can also be removed in \"Edit Mode\" by right clicking on the library and choosing \"Delete Library\" option from the context menu."
+    ]
+  },
+  "links": [],
+  "html": "<p>Libraries can be removed by deleting the corresponding library folders. Library folders can be found in the location configured in TMConfig.Config or in the \"Library_Data\\XmlDatabase\\TM_Libraries\" folder relative to the TEAM Mentor installation path by\n default. The setting for the library location in the TMConfig.Config file is XmlLibrariesPath.\n</p><p>\nLibraries can also be removed in \"Edit Mode\" by right clicking on the library and choosing \"Delete Library\" option from the context menu. </p>"
+}

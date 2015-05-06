@@ -1,0 +1,62 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "-531678571",
+      "Content_Hash": "610153971"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "00000000-0000-0000-0000-00000008578b"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "Signing Up for Regular Accounts"
+        ],
+        "Category": [
+          "User Interface"
+        ],
+        "Phase": [
+          "NA"
+        ],
+        "Technology": [
+          "TEAM Mentor"
+        ],
+        "Type": [
+          "Documentation"
+        ],
+        "DirectLink": [
+          "Signing Up for Regular Accounts"
+        ],
+        "Tag": [
+          ""
+        ],
+        "Security_Demand": [
+          ""
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "true",
+          "DataType": "wikitext"
+        },
+        "Data": [
+          "Users can create new TEAM Mentor accounts via the \"Sign Up\" window. The TEAM Mentor \"Sign Up\" window is available in the \"preview pane\" of TEAM Mentor when the administrator has enabled Evaluation Accouts. These are enabled trhough EvalAccounts_Enabled option in the config file. The window has input fields for the username, the password, the e-mail address, the first name, and the last name; the first three are mandatory to create an account. Clicking the \"Sign Up\" button submits the entered information. If the submitted information is valid, a new account is created and can be used to access the application. The application access will be available for the amount of days configured by the administrator. This is configured through EvalAccounts_Day configuration parameter. "
+        ]
+      }
+    ]
+  }
+}

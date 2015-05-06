@@ -1,0 +1,32 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "5d82524c-3414-4c4a-a71c-5304ac8ff3d8"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "QA Action Plan"
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "wikitext"
+        },
+        "Data": [
+          "This is the current TEAM Mentor testing/QA plan:\n\n*for a number of TM repositories  (TM +SI , TM +OWASP, TM + TM Docs, TM + AD Support  )\n** download, run locally, run on IIS, open in Visual Studio, run from Visual Studio (using .git distribution)\n** run through the scenarios in [[User Scenario Matrix]]\n** run available Unit Test (both .NET and JS)\n** create a custom Library based on test content (via GUI)\n** create a custom Library using the WebServices Interfaces and TM APIs      \n** create a custom version of TM's GUI (change logos, add extra text, etc..)\n\n* Update/Improve [[User Scenario Matrix]] as much as possible\n** Review TM Documentation: http:docs.TEAMMentor.net (update/improve them as much as possible)\n** Perform Security review on TM WebServices and TM GUI Javascripts\n** Provide recommendations on TM usability and customizability"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "f62b23af-b964-499d-833f-87190803fcc0",
+  "checksum": "40d685f4cd2b19bb2a6db830b0969e9a1637018d",
+  "words": {
+    "pages": [
+      "p",
+      "title"
+    ],
+    "ed": [
+      "p",
+      "title"
+    ],
+    "is": [
+      "p"
+    ],
+    "currently": [
+      "p"
+    ],
+    "working": [
+      "p",
+      "title"
+    ],
+    "on": [
+      "p"
+    ],
+    "team": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "mentor": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "artifacts": [
+      "ul",
+      "li",
+      "a"
+    ]
+  },
+  "tags": {
+    "p": [
+      "Pages Ed is currently working on:"
+    ],
+    "ul": [
+      "TEAM Mentor Artifacts"
+    ],
+    "li": [
+      "TEAM Mentor Artifacts"
+    ],
+    "a": [
+      "TEAM Mentor Artifacts"
+    ]
+  },
+  "links": [
+    {
+      "href": "TEAM Mentor Artifacts",
+      "text": "TEAM Mentor Artifacts"
+    }
+  ],
+  "html": "<p>Pages Ed is currently working on:\n</p><ul>\n<li> <a href=\"TEAM Mentor Artifacts\">TEAM Mentor Artifacts</a></li></ul>"
+}

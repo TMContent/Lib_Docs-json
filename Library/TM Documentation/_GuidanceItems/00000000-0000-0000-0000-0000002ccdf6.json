@@ -1,0 +1,56 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "00000000-0000-0000-0000-0000002ccdf6"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "What is new in this release?"
+        ],
+        "Category": [
+          "Administration"
+        ],
+        "Phase": [
+          "NA"
+        ],
+        "Technology": [
+          "TEAM Mentor"
+        ],
+        "Type": [
+          "Documentation"
+        ],
+        "DirectLink": [
+          "WhatsNew"
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "wikitext"
+        },
+        "Data": [
+          "=3.5.2 RELEASE\nThis is a hotfix addressing article deletion issue in 3.5\\\\\nMinor fixes in integration with TEAM Professor \n\n=3.5.1 RELEASE\nThis is a hotfix addressing some minor issues in 3.5\n\n\n= 3.5 RELEASE\nAPPLICATION CHANGES:\nThe following application changes are included in 3.5 release\n\nMAJOR IMPROVEMENTS\n\n- Markdown support\\\\\n- Site Data, which is client customization, and User Data, which is config and Users information, are now separated\\\\\n- Virtual Articles is now supported for redirecting to another TM instance.\\\\\n- Checkmarx native integration for Checkmarx GUI\\\\\n- Direct Link article support, allows  {{{/a/<anyname>}}} to be directly mapped to an article\\\\\n\n\n\nMINIMUM REQUIREMENTS\n\nNote that TEAM Mentor now requires .NET Framework 4.5"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "6a0e9a1b-05b3-4b31-8c69-b08122a33060"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "Test Landing Page"
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "xml"
+        },
+        "Data": [
+          "<?xml-stylesheet type=\"text/xsl\" href=\"/xml/xslt_LandingPage\"?>\n<TEAM Mentor_LandingPage>\n\n\t<!-- Splash Content-->\n\t<SplashPanel_Data\ttitle\t\t\t= \"TEAM Mentor (TEST page)\"\n\t\t\t\t\timage\t\t= \"TM_Images/TM_GUI.jpg\" \n\t\t\t\t\t\n\t\t\t\t\tbutton_1_text\t= \"Download Now\"\n\t\t\t\t\tbutton_link\t\t= \"https://github.com/downloads/TEAM Mentor/Master/TEAM Mentor%20(with-SI-Library)%20-%203.0%20Release.zip\"\n\t\t\t\t\tbutton_2_text \t= \"Ask for Help\"\n\t\t\t\t\tbutton_2_link\t=\"http://www.securityinnovation.com/products/secure-development-knowledgebase/request-a-tm-demo.html\" />\n\n\t<SplashPanel_Text>\n\t\t\t\t\tPlease use the button below to start the download of the latest version of TEAM Mentor <br/> <br/>\n\t\t\t\t      \tOur objective is to make the installation so easy that even TOM's mum can do it\n\t</SplashPanel_Text>\t\n\n\n\t<Feature_1  \ttitle = \"Unzip\" \n\t\t\t  \timage =\"/tm_images/UnZip_TM.jpg\"\n\t\t\t  \ttext =\"The TEAM Mentor download is a password-protected zip file that contains all files needed to run or install TEAM Mentor (you should have been given a password from your Sales Rep) \"/>\n\n\t<Feature_2\ttitle = \"Run locally\" \n\t\t\t  \timage =\"/tm_images/Run_Locally.jpg\"\n\t\t\t  \ttext=\" If you want to run TEAM Mentor from your computer, you just need to click on the 'Start WebServer.bat' file to launch a version of TEAM Mentor hosted by a local WebServer (included on the downloads).\"/>\n\n\t<Feature_3  \ttitle = \"Run on IIS\"\n\t\t\t\timage =\"/tm_images/IIS.jpg\"\n\t\t\t\ttext=\" To run TEAM Mentor on IIS usually you only need to create an IIS website and point it to the /Web Applications/TM_Website folder\" />\n\n\n\t<BigYellowBox \ttitle \t\t  = \"Looking for a TEAM Mentor Manual?\"\n\t\t\t \tbody_text \t  = \"If you need more help, or want to read all about what you can do with TEAM Mentor, we have a site for you \"\n\t\t\t\tbutton_text = \"View Documentation\"\n\t\t\t\tbutton_href = \"http://docs.TEAMMentor.net\"/> \t \n\n\t<Gallery\t\timage_1_href = \"http://docs.TEAMMentor.net/Image/Edit%20mode%20-%20context%20menu%20item.jpg\"\n\t\t\t\timage_2_href = \"http://docs.TEAMMentor.net/Image/GuidanceItem%20Editor%20-%20In%20browser.jpg\"\n\t\t\t\timage_3_href = \"http://docs.TEAMMentor.net/Image/Link%20to%20Guidance%20Items%20Editor.jpg\"\n\t\t\t\timage_4_href = \"http://docs.TEAMMentor.net/Image/GuidanceItem%20Editor%20-%20popup%20window.jpg\"\n\t\t\t\timage_5_href = \"http://docs.TEAMMentor.net/Image/Edit%20Mode%20Buttons.jpg\"\n\t\t\t\timage_6_href = \"http://docs.TEAMMentor.net/Image/Edit%20link%20(top%20right).jpg\"   />\n\n\t<Testimonials \ttitle \t\t \t = \"See what others are saying\"\n\t\t\t\tslot_1_text \t = \"We're deploying TEAM Mentor to our worldwide team of developers.\"\n\t\t\t\tslot_1_company = \"Mr Corporate - Company Y\"\n\t\t\t\tslot_2_text \t = \"We were able to add a great Knowledge base to our product.\"\n\t\t\t\tslot_2_company = \"Joe Inventor - Tool X\"\n\t\t\t\tslot_3_text \t = \"I think TEAM Mentor is great, I use it for every thing, specially my cooking recipes..\"\n\t\t\t\tslot_3_company = \"Ed's Mum\"\n\t\t\t\tslot_4_text \t = \"Yeah, TEAM Mentor, it's that thing we use to Mentor Teams, right?.\"\n\t\t\t\tslot_4_company = \"XYZ's Friend - Somewhere in the world\" />\n\t\n\n\t<FooterText>TEAM Mentor is a real-time reference guide, the industry's largest repository of secure software development knowledge \n\t\t\t    that provides software developers secure coding checklists and relevant examples, at the time they need it.\n\t</FooterText>\n\t<FooterTextCopyright>Copyright 2012 Security Innovation.</FooterTextCopyright>\n\n</TEAM Mentor_LandingPage>"
+        ]
+      }
+    ]
+  }
+}

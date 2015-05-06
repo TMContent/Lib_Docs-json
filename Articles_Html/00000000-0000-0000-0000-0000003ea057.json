@@ -1,0 +1,490 @@
+{
+  "id": "00000000-0000-0000-0000-0000003ea057",
+  "checksum": "0409c5e4ab5c24d38245ec2150800fa45745a447",
+  "words": {
+    "editing": [
+      "h1",
+      "h1",
+      "p",
+      "p",
+      "p",
+      "a",
+      "p",
+      "a",
+      "title"
+    ],
+    "html": [
+      "h1",
+      "p",
+      "p",
+      "p",
+      "h1",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "a",
+      "title"
+    ],
+    "articles": [
+      "h1",
+      "h1",
+      "p",
+      "p",
+      "a",
+      "p",
+      "p",
+      "a",
+      "title"
+    ],
+    "in": [
+      "h1",
+      "p",
+      "p",
+      "h1",
+      "p",
+      "p",
+      "p"
+    ],
+    "edit": [
+      "h1",
+      "p",
+      "p",
+      "a"
+    ],
+    "mode": [
+      "h1",
+      "p"
+    ],
+    "double": [
+      "p"
+    ],
+    "clicking": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "on": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "an": [
+      "p"
+    ],
+    "article": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "a"
+    ],
+    "“edit": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "mode”": [
+      "p",
+      "h1",
+      "p"
+    ],
+    "brings": [
+      "p"
+    ],
+    "up": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "the": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "built-in": [
+      "p"
+    ],
+    "wysiwyg": [
+      "p",
+      "p"
+    ],
+    "editor": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "you": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "can": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "click": [
+      "p",
+      "p",
+      "p"
+    ],
+    "“view": [
+      "p",
+      "h1",
+      "p",
+      "p",
+      "p"
+    ],
+    "source": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "icon”": [
+      "p",
+      "p"
+    ],
+    "to": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "code": [
+      "p",
+      "p"
+    ],
+    "metadata": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "a"
+    ],
+    "such": [
+      "p",
+      "p"
+    ],
+    "as": [
+      "p",
+      "p"
+    ],
+    "title": [
+      "p",
+      "p"
+    ],
+    "technology": [
+      "p",
+      "p"
+    ],
+    "phase": [
+      "p",
+      "p"
+    ],
+    "type": [
+      "p",
+      "p",
+      "p"
+    ],
+    "and": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "category": [
+      "p",
+      "p"
+    ],
+    "etc": [
+      "p",
+      "p"
+    ],
+    "also": [
+      "p",
+      "p"
+    ],
+    "be": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "modified": [
+      "p",
+      "p"
+    ],
+    "this": [
+      "p",
+      "p"
+    ],
+    "see": [
+      "p",
+      "p"
+    ],
+    "related": [
+      "p",
+      "p",
+      "h1"
+    ],
+    "items": [
+      "p",
+      "p",
+      "h1"
+    ],
+    "for": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "more": [
+      "p",
+      "p"
+    ],
+    "details": [
+      "p",
+      "p"
+    ],
+    "accomplished": [
+      "p"
+    ],
+    "by": [
+      "p",
+      "p"
+    ],
+    "ether": [
+      "p"
+    ],
+    "wysiwyg”": [
+      "p"
+    ],
+    "or": [
+      "p"
+    ],
+    "source”": [
+      "p",
+      "p"
+    ],
+    "buttons": [
+      "p"
+    ],
+    "wysiwing”": [
+      "p"
+    ],
+    "will": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "bring": [
+      "p",
+      "p",
+      "p"
+    ],
+    "already": [
+      "p"
+    ],
+    "familiar": [
+      "p"
+    ],
+    "window": [
+      "p"
+    ],
+    "further": [
+      "p"
+    ],
+    "save": [
+      "p"
+    ],
+    "changes": [
+      "p",
+      "p"
+    ],
+    "your": [
+      "p",
+      "p"
+    ],
+    "edits": [
+      "p"
+    ],
+    "“save": [
+      "p",
+      "p"
+    ],
+    "changes”": [
+      "p",
+      "p"
+    ],
+    "button": [
+      "p"
+    ],
+    "article”": [
+      "p"
+    ],
+    "view": [
+      "p",
+      "p"
+    ],
+    "however": [
+      "p"
+    ],
+    "not": [
+      "p"
+    ],
+    "saved": [
+      "p"
+    ],
+    "unless": [
+      "p"
+    ],
+    "go": [
+      "p"
+    ],
+    "back": [
+      "p"
+    ],
+    "a": [
+      "p"
+    ],
+    "different": [
+      "p"
+    ],
+    "here": [
+      "p"
+    ],
+    "modify": [
+      "p"
+    ],
+    "change": [
+      "p"
+    ],
+    "data": [
+      "p",
+      "p"
+    ],
+    "currently": [
+      "p"
+    ],
+    "wikitext": [
+      "p",
+      "p",
+      "p",
+      "a"
+    ],
+    "types": [
+      "p"
+    ],
+    "are": [
+      "p"
+    ],
+    "supported": [
+      "p"
+    ],
+    "information": [
+      "p",
+      "p",
+      "p"
+    ],
+    "see\nedit": [
+      "p"
+    ],
+    "see\nediting": [
+      "p",
+      "p"
+    ]
+  },
+  "tags": {
+    "h1": [
+      "Editing HTML Articles in Edit Mode",
+      "Editing HTML Articles in “View Mode”",
+      "Related Items"
+    ],
+    "p": [
+      "Double clicking on an HTML article in “Edit Mode” brings up the built-in WYSIWYG HTML editor. You can click on the “view source icon”   to edit HTML source code. Article metadata, such as title, technology, phase, type and category etc. can also be modified in this editor. See Related Items for more details.",
+      "",
+      "In “view mode”, article editing can be accomplished by clicking on ether the “Edit WYSIWYG” or “Edit Source” buttons.",
+      "",
+      "Clicking on “Edit WYSIWING” will bring up the already familiar WYSIWYG editor window. You can click on the “view source icon”   to edit HTML source code. Article metadata, such as title, technology, phase, type and category etc. can also be modified in this editor. See Related Items  for further details.\n Save changes to your edits by clicking the “Save Changes” Button. Clicking “View Article” will bring up the article in view mode, however, your changes will not be saved unless you go back to editing the article and click  on “Save Changes”",
+      "",
+      "Clicking on “Edit Source” will bring up a different HTML source view editor. Here you can modify HTML and change the article data type. Currently HTML and WikiText article data types are supported.",
+      "",
+      "For more information on Article Metadata see:\nEdit Article Metadata",
+      "For information on editing HTML articles see:\nEditing HTML Articles",
+      "For information on editing WikiText articles see:\nEditing WikiText Articles"
+    ],
+    "img": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "br": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "a": [
+      "Edit Article Metadata",
+      "Editing HTML Articles",
+      "Editing WikiText Articles"
+    ]
+  },
+  "links": [
+    {
+      "href": "article/00000000-0000-0000-0000-0000002df883",
+      "text": "Edit Article Metadata"
+    },
+    {
+      "href": "article/00000000-0000-0000-0000-0000003ea057",
+      "text": "Editing HTML Articles"
+    },
+    {
+      "href": "article/00000000-0000-0000-0000-00000079da36",
+      "text": "Editing WikiText Articles"
+    }
+  ],
+  "html": "<h1>Editing HTML Articles in Edit Mode</h1><p>Double clicking on an HTML article in “Edit Mode” brings up the built-in WYSIWYG HTML editor. You can click on the “view source icon”   to edit HTML source code. Article metadata, such as title, technology, phase, type and category etc. can also be modified in this editor. See Related Items for more details.\n</p><p>\n<img src=\"/Image/editinghtml-img1.jpg\">\n</p><h1>Editing HTML Articles in “View Mode”</h1><p>In “view mode”, article editing can be accomplished by clicking on ether the “Edit WYSIWYG” or “Edit Source” buttons.\n</p><p>\n<img src=\"/Image/editinghtml-img2.jpg\">\n</p> <p>\nClicking on “Edit WYSIWING” will bring up the already familiar WYSIWYG editor window. You can click on the “view source icon”   to edit HTML source code. Article metadata, such as title, technology, phase, type and category etc. can also be modified in this editor. See Related Items  for further details.\n Save changes to your edits by clicking the “Save Changes” Button. Clicking “View Article” will bring up the article in view mode, however, your changes will not be saved unless you go back to editing the article and click  on “Save Changes”\n</p><p>\n<img src=\"/Image/editinghtml-img3.jpg\">\n</p> <p>\nClicking on “Edit Source” will bring up a different HTML source view editor. Here you can modify HTML and change the article data type. Currently HTML and WikiText article data types are supported. \n</p> <p>\n<img src=\"/Image/editinghtml-img4.jpg\">\n</p><h1>Related Items</h1><p>For more information on Article Metadata see:<br>\n<a href=\"article/00000000-0000-0000-0000-0000002df883\">Edit Article Metadata</a><br>\n</p><p>\nFor information on editing HTML articles see:<br>\n<a href=\"article/00000000-0000-0000-0000-0000003ea057\">Editing HTML Articles</a><br>\n</p><p>\nFor information on editing WikiText articles see:<br>\n<a href=\"article/00000000-0000-0000-0000-00000079da36\">Editing WikiText Articles</a><br></p>"
+}

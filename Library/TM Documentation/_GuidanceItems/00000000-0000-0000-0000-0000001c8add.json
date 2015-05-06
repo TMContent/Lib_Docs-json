@@ -1,0 +1,62 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "-1126743425",
+      "Content_Hash": "-1131677681"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "00000000-0000-0000-0000-0000001c8add"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "Managing Users"
+        ],
+        "Category": [
+          "Administration"
+        ],
+        "Phase": [
+          "NA"
+        ],
+        "Technology": [
+          "TEAM Mentor"
+        ],
+        "Type": [
+          "Documentation"
+        ],
+        "DirectLink": [
+          "Managing Users"
+        ],
+        "Tag": [
+          ""
+        ],
+        "Security_Demand": [
+          ""
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "true",
+          "DataType": "wikitext"
+        },
+        "Data": [
+          "Administrators can manage TEAM Mentor users via the Tbot. Tbot can be accessed via the \"Tbot\" link in the top right corner of the main user interface. The TEAM Mentor Tbot is only available to Administrator users. \r\n\r\nThe user management section is under \"Users\" row in Tbot and of consists of the following links: \"Current Users\", \"New User\", and \"SSO Token\". The \"Users\" link opens a section that lists all current users and their vital statistics.\r\n\r\n\r\n\r\n{{/Image/tmcfg12.jpg}}\r\n\r\nClicking further on a user name allows changing the properties of the current user account. \r\n\r\n{{/Image/tmcfg13.jpg}}\r\n\r\n\r\nThe \"New User\" link opens a page that allows creating a new user. \r\n\r\n{{/Image/tmcfg15.jpg}}\r\n\r\n\r\nAnother user management section is available under \"Users - Import\". This consists of \"Import Legacy Users\", \"Users in CSV\",  and \"User Import CSV\". \"Import Legacy Users\" will help in importing users from TEAM Mentor versions prior to 3.3. \"Users in CSV\" will output a list of users in the CSV format. \"User Import CSV\" will allow importing a large amount of users in bulk from a CSV file. \r\n\r\n\r\nUser reporting is available throuth \"Users - Analysis\" row in Tbot. At this time the following reports are available. \"All Users Activities\", \"All Users Tags\", \"Users Accounts Expiration\", and \"Users Mapped by Email\". \"All Users Activities\" provides filterable information on logged user events. These events include user login/logout, and \"view article\". \"All Users Tags\" show a filtrable list of users and their associated custom tags (see below). \"Users Accounts Expiration\" shows a list of users grouped by \"No Expiration Date\" - users with no expiration date, \"Not Expired\" - users with expiration date in the future, \"Not Enabled\" - user accounts which are disabled,  \"Empty Email\" - Users which have no email in the email field. Note that these mostly would be legacy users from prior to 3.3 where email was not a required field. \r\n\r\n\\\\\r\n\r\n==Custom Tags==\r\n\r\nIt is possible to tag a user with any Key/Value pair tag. This becomes very useful when an organization has a custom user account scheme that is used to identify the user. For example an organization may have user keys such as \"Department\", or \"Location ID\", or \"Product Unit\" for example. And the corresponding values maybe \"Engineering\", \"NYC-53d\" and \"Real Time Feed\". You may add any key value pair in the \"Edit \" screen\" \r\n\r\n{{/Image/tmcfg14.jpg}}\r\n\r\n\\\\\r\n\r\n==Preventing Users From Signing Up==\r\nAt the moment when ShowContentToAnonymousUsers is set to false, TEAM Mentor displays the user sign up page. By default any user can sign up for access. Upon successful sign up the user access is restricted only by the following two parameters:\r\n\r\n*EvalAccounts_Enabled(true) This setting specifies if unauthenticated users will be able to create accounts on the system for Evaluation purposes (only works if ShowContentToAnonymousUsers=false) (note: due to current limitation, if set to \"false\" users are still able to create accounts on the system which will not expire)\r\n*EvalAccounts_Days(15) This specifies the duration, in days, that self-created account will have read access to the content (only works if ShowContentToAnonymousUsers=false). \r\n\r\nRegardless if the the access is allowed for evaluation or not, anonymous user sign-up may not be the desired behavior.  To work around the current limitation, please set **EvalAccounts_Enabled** to **true** and **EvalAccounts_Days** to **-1**. This will still allow users to create accounts, however they will not be usable. If this workaround is implemented only the administrator will be able to create user accounts.\r\n\r\n\\\\\r\n\r\n==Enabling User Approval Workflow==\r\nAlternatively to **Preventing Users From Signing Up**, you may want to enable self signup but have the capability of approving each user. If enabled, right after a user signs up, he or she will get an email from TEAM Mentor stating that their account is in the process of being approved. \r\n\r\n{{/Image/tmcfg16.jpg}}\r\n\r\nAt the same time TM administrator will get an email requesting user approval.\r\n\r\n{{/Image/tmcfg17.jpg}}\r\n\r\nTo approve the user, TM administrator will need to click on the relevant link in an email. To disapprove the user, administrator can ether ignore the email or specifically go into account management section of Tbot and delete the user. One the TM adminstrator approves the user, the user will get an email stating that their account had been approved and that they can now use the service. \r\n\r\n\r\n \"New Accounts Enabled\" setting under TM Security in TMConfig  is the main setting that controls this functionality. Access TMConfig by clicking on //Tbot// in the //Admin// menu and selecting //Edit TMConfig// under //Admin - Config// row. UNCHECK the \"New Accounts Enabled\" button and \"Show Content to Anonymous Users\" in order to ENABLE the User Approval Workflow. You may also choose to set the newly created user accounts to never expire, in that case tick \"New Accounts Don't Expire\" checkbox. Alternatively the \"Eval Accounts Days\" option controls the expiration date. If the option is set to 30 days for example, the newly created user account will have an expiration date of 30 days from now. \r\n\r\n{{/Image/tmcfg11.jpg}}\r\n\r\nYou must also configure the email correctly. See [[/article/d0b2bade-6d25-4c61-8ae3-94ae0110f959|Configuring Email]] for further information.\r\n \r\n\\\\\r\n\r\n==User Account Structure and User Activity Log==\r\nUser accounts now stored in XML structure that is specific to the user. Each user is stored in a file under //\\Library_Data\\XmlDatabase\\User_Data\\Users directory// with a file name that begins with a user name followed by the user GUID.   The file contains user information, expiration date and other meta information. The file also contains user activity. Activity is updated when user clicks on an article and the article is viewed in ether a preview pane or in full view.\r\n\r\n{{/Image/userfile1.jpg}}\r\n\r\n{{/Image/useractivity1.jpg}}\r\n\r\n"
+        ]
+      }
+    ]
+  }
+}

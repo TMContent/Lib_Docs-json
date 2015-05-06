@@ -1,0 +1,174 @@
+{
+  "id": "b2a202b5-8026-47a2-a4c5-7a72c47486b2",
+  "checksum": "7ccf9fc09cf882e9d9c8db8d9a14fa059dbf2a5c",
+  "words": {
+    "this": [
+      "p"
+    ],
+    "page": [
+      "p"
+    ],
+    "contains": [
+      "p"
+    ],
+    "the": [
+      "p",
+      "p"
+    ],
+    "areas": [
+      "p"
+    ],
+    "of": [
+      "p"
+    ],
+    "focus": [
+      "p"
+    ],
+    "for": [
+      "p"
+    ],
+    "team": [
+      "p"
+    ],
+    "mentor": [
+      "p"
+    ],
+    "security": [
+      "p",
+      "ul",
+      "li",
+      "title"
+    ],
+    "testing": [
+      "p",
+      "title"
+    ],
+    "webservices": [
+      "p",
+      "strong"
+    ],
+    "authorization": [
+      "p",
+      "strong",
+      "p"
+    ],
+    "make": [
+      "p"
+    ],
+    "sure": [
+      "p"
+    ],
+    "is": [
+      "p"
+    ],
+    "that": [
+      "p"
+    ],
+    "mappings": [
+      "p"
+    ],
+    "are": [
+      "p"
+    ],
+    "working": [
+      "p"
+    ],
+    "as": [
+      "p"
+    ],
+    "expected": [
+      "p"
+    ],
+    "admin": [
+      "ul",
+      "li"
+    ],
+    "functions": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "can": [
+      "ul",
+      "li"
+    ],
+    "only": [
+      "ul",
+      "li"
+    ],
+    "be": [
+      "ul",
+      "li"
+    ],
+    "invoked": [
+      "ul",
+      "li"
+    ],
+    "by": [
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "admins": [
+      "ul",
+      "li"
+    ],
+    "edit": [
+      "ul",
+      "li"
+    ],
+    "funtions": [
+      "ul",
+      "li"
+    ],
+    "editor": [
+      "ul",
+      "li"
+    ],
+    "view": [
+      "ul",
+      "li"
+    ],
+    "readers": [
+      "ul",
+      "li"
+    ],
+    "non": [
+      "ul",
+      "li"
+    ],
+    "anonymous": [
+      "ul",
+      "li"
+    ]
+  },
+  "tags": {
+    "p": [
+      "This page contains the areas of focus for TEAM Mentor Security Testing",
+      "WebServices Authorization",
+      "Make sure is that the Authorization mappings are working as expected"
+    ],
+    "strong": [
+      "WebServices Authorization"
+    ],
+    "ul": [
+      "admin functions can only be invoked by admins\n edit funtions by editor\n view functions by readers\n non security functions by anonymous"
+    ],
+    "li": [
+      "admin functions can only be invoked by admins",
+      "edit funtions by editor",
+      "view functions by readers",
+      "non security functions by anonymous"
+    ]
+  },
+  "links": [],
+  "html": "<p>This page contains the areas of focus for TEAM Mentor Security Testing\n</p><p>\n<strong>WebServices Authorization</strong>\n</p><p>\nMake sure is that the Authorization mappings are working as expected\n</p><ul>\n<li> admin functions can only be invoked by admins</li>\n<li> edit funtions by editor</li>\n<li> view functions by readers</li>\n<li> non security functions by anonymous</li></ul>"
+}

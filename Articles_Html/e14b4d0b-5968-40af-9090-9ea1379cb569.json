@@ -1,0 +1,325 @@
+{
+  "id": "e14b4d0b-5968-40af-9090-9ea1379cb569",
+  "checksum": "466dab69cb9b8735da06acde1c29e2444c1eabfb",
+  "words": {
+    "team": [
+      "p",
+      "ul",
+      "ul",
+      "li",
+      "strong",
+      "li",
+      "title"
+    ],
+    "mentor": [
+      "p",
+      "ul",
+      "li",
+      "title"
+    ],
+    "was": [
+      "p"
+    ],
+    "designed": [
+      "p"
+    ],
+    "from": [
+      "p"
+    ],
+    "the": [
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "strong",
+      "li",
+      "li",
+      "li"
+    ],
+    "ground": [
+      "p"
+    ],
+    "up": [
+      "p"
+    ],
+    "to": [
+      "p"
+    ],
+    "facilitate": [
+      "p"
+    ],
+    "easy": [
+      "p"
+    ],
+    "access": [
+      "p"
+    ],
+    "and": [
+      "p",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "manipulation": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "of": [
+      "p",
+      "p"
+    ],
+    "its": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "data": [
+      "p",
+      "ul",
+      "li",
+      "title"
+    ],
+    "there": [
+      "p"
+    ],
+    "are": [
+      "p"
+    ],
+    "number": [
+      "p"
+    ],
+    "ways": [
+      "p"
+    ],
+    "do": [
+      "p"
+    ],
+    "it": [
+      "p"
+    ],
+    "by": [
+      "p"
+    ],
+    "using": [
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "control": [
+      "ul",
+      "li",
+      "strong"
+    ],
+    "panel": [
+      "ul",
+      "li",
+      "strong"
+    ],
+    "webservices": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "strong",
+      "li",
+      "li"
+    ],
+    "gui": [
+      "ul",
+      "li",
+      "strong"
+    ],
+    "accessing": [
+      "ul",
+      "li"
+    ],
+    "web": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "services": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "api": [
+      "ul",
+      "ul",
+      "li",
+      "a",
+      "li",
+      "strong"
+    ],
+    "directly": [
+      "ul",
+      "li"
+    ],
+    "javascript": [
+      "ul",
+      "li",
+      "strong"
+    ],
+    "which": [
+      "ul",
+      "li"
+    ],
+    "wraps": [
+      "ul",
+      "li"
+    ],
+    "manipulating": [
+      "ul",
+      "li",
+      "strong"
+    ],
+    "xml": [
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "strong"
+    ],
+    "files": [
+      "ul",
+      "li",
+      "strong"
+    ],
+    "either": [
+      "ul",
+      "li"
+    ],
+    "at": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "master": [
+      "ul",
+      "li"
+    ],
+    "git": [
+      "ul",
+      "li"
+    ],
+    "repository": [
+      "ul",
+      "li"
+    ],
+    "or": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "a": [
+      "ul",
+      "li"
+    ],
+    "local": [
+      "ul",
+      "li"
+    ],
+    "install/fork/clone": [
+      "ul",
+      "li"
+    ],
+    "consuming": [
+      "ul",
+      "li",
+      "title"
+    ],
+    "server-side": [
+      "ul",
+      "li",
+      "strong"
+    ],
+    "mentorcorelib.dll": [
+      "ul",
+      "li",
+      "strong"
+    ],
+    "nor": [
+      "ul",
+      "li"
+    ],
+    "methods": [
+      "ul",
+      "li"
+    ],
+    "o2": [
+      "ul",
+      "li"
+    ],
+    "platform": [
+      "ul",
+      "li"
+    ],
+    "multiple": [
+      "ul",
+      "li"
+    ],
+    "viewing": [
+      "ul",
+      "li"
+    ],
+    "guis": [
+      "ul",
+      "li"
+    ]
+  },
+  "tags": {
+    "p": [
+      "TEAM Mentor was designed from the ground up to facilitate the easy access and manipulation of its data.",
+      "There are number of ways do it by:"
+    ],
+    "ul": [
+      "Using the Control Panel WebServices GUI\n Accessing the Web Services API directly\n Using the Javascript API (which wraps the WebServices)\n Manipulating the XML files (either at the master XML Git repository or at a local install/fork/clone)\n Consuming the Server-side TEAM Mentor.CoreLib.Dll (using or nor the WebServices methods)\n Using the O2 Platform and its multiple TEAM Mentor data manipulation and viewing GUIs"
+    ],
+    "li": [
+      "Using the Control Panel WebServices GUI",
+      "Accessing the Web Services API directly",
+      "Using the Javascript API (which wraps the WebServices)",
+      "Manipulating the XML files (either at the master XML Git repository or at a local install/fork/clone)",
+      "Consuming the Server-side TEAM Mentor.CoreLib.Dll (using or nor the WebServices methods)",
+      "Using the O2 Platform and its multiple TEAM Mentor data manipulation and viewing GUIs"
+    ],
+    "strong": [
+      "Control Panel WebServices GUI",
+      "Javascript API",
+      "Manipulating the XML files",
+      "Server-side TEAM Mentor.CoreLib.Dll"
+    ],
+    "a": [
+      "Web Services API"
+    ]
+  },
+  "links": [
+    {
+      "href": "Web Services API",
+      "text": "Web Services API"
+    }
+  ],
+  "html": "<p>TEAM Mentor was designed from the ground up to facilitate the easy access and manipulation of its data.\n</p><p>\nThere are number of ways do it by:\n</p><ul>\n<li> Using the <strong>Control Panel WebServices GUI</strong></li>\n<li> Accessing the <a href=\"Web Services API\">Web Services API</a> directly</li>\n<li> Using the <strong>Javascript API</strong> (which wraps the WebServices)</li>\n<li> <strong>Manipulating the XML files</strong> (either at the master XML Git repository or at a local install/fork/clone)</li>\n<li> Consuming the <strong>Server-side TEAM Mentor.CoreLib.Dll</strong> (using or nor the WebServices methods)</li>\n<li> Using the O2 Platform and its multiple TEAM Mentor data manipulation and viewing GUIs</li></ul>"
+}

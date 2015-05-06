@@ -1,0 +1,151 @@
+{
+  "id": "d1c43a7b-00e5-4c0f-90ec-40bc1bfc82c5",
+  "checksum": "d7a40b179fae71b054045c3d68895719db2d682d",
+  "words": {
+    "here": [
+      "p"
+    ],
+    "is": [
+      "p"
+    ],
+    "the": [
+      "p"
+    ],
+    "recommended": [
+      "p"
+    ],
+    "set-up": [
+      "p",
+      "title"
+    ],
+    "for": [
+      "p"
+    ],
+    "team": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "mentor": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "qa": [
+      "p"
+    ],
+    "and": [
+      "p"
+    ],
+    "development": [
+      "p"
+    ],
+    "activities": [
+      "p"
+    ],
+    "windows": [
+      "h2"
+    ],
+    "git": [
+      "ul",
+      "li"
+    ],
+    "msysgit):": [
+      "ul",
+      "li"
+    ],
+    "http//code.google.com/p/msysgit/downloads/list?q=full+installer+official+git": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "tortoisegit": [
+      "ul",
+      "li"
+    ],
+    "http//code.google.com/p/tortoisegit/downloads/list": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "o2": [
+      "ul",
+      "li"
+    ],
+    "platform": [
+      "ul",
+      "li"
+    ],
+    "https//github.com/o2platform/o2_install": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "test": [
+      "ul",
+      "li"
+    ],
+    "version": [
+      "ul",
+      "li"
+    ],
+    "of": [
+      "ul",
+      "li"
+    ],
+    "https//github.com/team": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "mentor-owasp/master": [
+      "ul",
+      "li"
+    ],
+    "environment": [
+      "title"
+    ]
+  },
+  "tags": {
+    "p": [
+      "Here is the recommended set-up for TEAM Mentor QA and Development activities"
+    ],
+    "h2": [
+      "Windows"
+    ],
+    "ul": [
+      "Git (msysgit): http://code.google.com/p/msysgit/downloads/list?q=full+installer+official+git\n TortoiseGit: http://code.google.com/p/tortoisegit/downloads/list\n O2 Platform: https://github.com/o2platform/O2_Install\n Test version of TEAM Mentor: https://github.com/TEAM Mentor-OWASP/Master"
+    ],
+    "li": [
+      "Git (msysgit): http://code.google.com/p/msysgit/downloads/list?q=full+installer+official+git",
+      "TortoiseGit: http://code.google.com/p/tortoisegit/downloads/list",
+      "O2 Platform: https://github.com/o2platform/O2_Install",
+      "Test version of TEAM Mentor: https://github.com/TEAM Mentor-OWASP/Master"
+    ],
+    "a": [
+      "http://code.google.com/p/msysgit/downloads/list?q=full+installer+official+git",
+      "http://code.google.com/p/tortoisegit/downloads/list",
+      "https://github.com/o2platform/O2_Install",
+      "https://github.com/TEAM"
+    ]
+  },
+  "links": [
+    {
+      "href": "http://code.google.com/p/msysgit/downloads/list?q=full+installer+official+git",
+      "text": "http://code.google.com/p/msysgit/downloads/list?q=full+installer+official+git"
+    },
+    {
+      "href": "http://code.google.com/p/tortoisegit/downloads/list",
+      "text": "http://code.google.com/p/tortoisegit/downloads/list"
+    },
+    {
+      "href": "https://github.com/o2platform/O2_Install",
+      "text": "https://github.com/o2platform/O2_Install"
+    },
+    {
+      "href": "https://github.com/TEAM",
+      "text": "https://github.com/TEAM"
+    }
+  ],
+  "html": "<p>Here is the recommended set-up for TEAM Mentor QA and Development activities\n</p><h2>Windows</h2><ul><li> Git (msysgit): <a href=\"http://code.google.com/p/msysgit/downloads/list?q=full+installer+official+git\">http://code.google.com/p/msysgit/downloads/list?q=full+installer+official+git</a></li>\n<li> TortoiseGit: <a href=\"http://code.google.com/p/tortoisegit/downloads/list\">http://code.google.com/p/tortoisegit/downloads/list</a></li>\n<li> O2 Platform: <a href=\"https://github.com/o2platform/O2_Install\">https://github.com/o2platform/O2_Install</a></li>\n<li> Test version of TEAM Mentor: <a href=\"https://github.com/TEAM\">https://github.com/TEAM</a> Mentor-OWASP/Master</li>\n</ul>\n"
+}

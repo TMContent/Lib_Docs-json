@@ -1,0 +1,56 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "00000000-0000-0000-0000-000000410a3a"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "Minimum Requirements"
+        ],
+        "Category": [
+          "Administration"
+        ],
+        "Phase": [
+          "NA"
+        ],
+        "Technology": [
+          "TEAM Mentor"
+        ],
+        "Type": [
+          "Documentation"
+        ],
+        "DirectLink": [
+          "Minimum Requirements"
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "wikitext"
+        },
+        "Data": [
+          "=Minimum Server Requirements=\nThe following hardware and software is required to run TEAM Mentor.\n\n*Windows 2008/2012 with IIS 7.5\n*NET Framework 4.5.1 (You can download this version from http://www.microsoft.com/en-us/download/details.aspx?id=40779 )\n*2GB of RAM\n*1GB of Storage\n*SSL Certificate\n\n\nPlease note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. It is also possible to disable the default SSL configuration, weaving the SSL certificate requirement, however this is highly discouraged. Self-signed certificate may be used for test environments.\n\n\n=Client Side Requirements=\nFollowing browsers and platforms are supported:\n*IE8 or above (IE11 for Administration)\n*Firefox \n*Chrome\n*Safari (v6.1 and v7.0 on OSX only)\n\n\n\n"
+        ]
+      }
+    ]
+  }
+}

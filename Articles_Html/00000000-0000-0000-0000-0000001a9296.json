@@ -1,0 +1,1723 @@
+{
+  "id": "00000000-0000-0000-0000-0000001a9296",
+  "checksum": "6f49d47fe77f90c6ae5b6804c73e41ece5b1c522",
+  "words": {
+    "35": [
+      "p",
+      "i"
+    ],
+    "filters": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "h1",
+      "p",
+      "p",
+      "title"
+    ],
+    "allow": [
+      "div"
+    ],
+    "narrowing": [
+      "div",
+      "p"
+    ],
+    "down": [
+      "div",
+      "div",
+      "p",
+      "p"
+    ],
+    "the": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "h1",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "h1",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "title"
+    ],
+    "presented": [
+      "div"
+    ],
+    "article": [
+      "div",
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "div",
+      "div",
+      "p",
+      "p"
+    ],
+    "list": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "ul",
+      "li",
+      "p",
+      "p"
+    ],
+    "to": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "help": [
+      "div"
+    ],
+    "find": [
+      "div"
+    ],
+    "most": [
+      "div",
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "relevant": [
+      "div"
+    ],
+    "articles": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "in": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "div",
+      "h1",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "h1",
+      "p",
+      "p"
+    ],
+    "currently": [
+      "div",
+      "div",
+      "div",
+      "p"
+    ],
+    "selected": [
+      "div",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "library": [
+      "div",
+      "h1",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "folder": [
+      "div",
+      "p",
+      "p"
+    ],
+    "or": [
+      "div",
+      "div",
+      "ul",
+      "li",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "view": [
+      "div",
+      "p",
+      "p",
+      "p"
+    ],
+    "navigation": [
+      "div",
+      "div",
+      "div",
+      "p",
+      "p",
+      "p"
+    ],
+    "pane": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "p",
+      "p"
+    ],
+    "are": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "p"
+    ],
+    "located": [
+      "div",
+      "div"
+    ],
+    "center": [
+      "div"
+    ],
+    "of": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "div",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "main": [
+      "div"
+    ],
+    "user": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "interface": [
+      "div"
+    ],
+    "active": [
+      "div",
+      "div"
+    ],
+    "displayed": [
+      "div",
+      "p"
+    ],
+    "on": [
+      "div",
+      "div",
+      "div",
+      "ul",
+      "li",
+      "div",
+      "div",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "top": [
+      "div",
+      "div"
+    ],
+    "left": [
+      "div"
+    ],
+    "may": [
+      "div"
+    ],
+    "be": [
+      "div",
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "cleared": [
+      "div"
+    ],
+    "by": [
+      "div",
+      "h1",
+      "p",
+      "h1",
+      "p",
+      "p",
+      "p"
+    ],
+    "clicking": [
+      "div",
+      "p",
+      "p"
+    ],
+    "respective": [
+      "div"
+    ],
+    "\"x\"": [
+      "div"
+    ],
+    "icons": [
+      "div"
+    ],
+    "selecting": [
+      "div"
+    ],
+    "narrows": [
+      "div"
+    ],
+    "available": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "p",
+      "p"
+    ],
+    "and": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "div",
+      "div",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "therefore": [
+      "div"
+    ],
+    "that": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p"
+    ],
+    "no": [
+      "div",
+      "p"
+    ],
+    "longer": [
+      "div"
+    ],
+    "greyed": [
+      "div"
+    ],
+    "out": [
+      "div"
+    ],
+    "following": [
+      "div",
+      "p"
+    ],
+    "\"technology\"": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "filter": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "div",
+      "div",
+      "div",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "-": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p",
+      "p"
+    ],
+    "technology": [
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "p",
+      "i",
+      "p",
+      "p",
+      "p"
+    ],
+    "allows": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p"
+    ],
+    "display": [
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "p"
+    ],
+    "only": [
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "pertain": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "a": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "div",
+      "div",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "specific": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p"
+    ],
+    "\"phase\"": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "phase": [
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "p"
+    ],
+    "select": [
+      "div",
+      "ul",
+      "li",
+      "p"
+    ],
+    "apply": [
+      "div",
+      "ul",
+      "li",
+      "p"
+    ],
+    "software": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "development": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "life-cycle": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "\"type\"": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "type": [
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "p",
+      "p"
+    ],
+    "choose": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "what": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "types": [
+      "div",
+      "div",
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "common": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "\"checklists\"": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "\"guidelines\"": [
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "describe": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "how": [
+      "div",
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "do": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "something": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "general": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "terms": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "should": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "applicable": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "applications": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "but": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "still": [
+      "div",
+      "ul",
+      "li",
+      "p"
+    ],
+    "enough": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "implemented": [
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "\"checklist\"": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "describes": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "test": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "if": [
+      "div",
+      "ul",
+      "li",
+      "p",
+      "p",
+      "p"
+    ],
+    "security": [
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "p"
+    ],
+    "measure": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "control": [
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "has": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "been": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "correctly": [
+      "div",
+      "div",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "implement": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "it": [
+      "div",
+      "ul",
+      "li",
+      "p",
+      "p"
+    ],
+    "checklists": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "guidance": [
+      "div",
+      "ul",
+      "li",
+      "p"
+    ],
+    "usually": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "exist": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "pairs": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "other": [
+      "div",
+      "ul",
+      "li",
+      "div"
+    ],
+    "include": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "\"attack\"": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "\"code": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "example\"": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "\"how": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "to\"": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "\"inspection": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "question\"": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "\"principle\"": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "\"q&a\"": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "names": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "these": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "self-explanatory": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "\"category\"": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "category": [
+      "div",
+      "ul",
+      "li",
+      "p"
+    ],
+    "based": [
+      "div",
+      "ul",
+      "li",
+      "div",
+      "p"
+    ],
+    "is": [
+      "div",
+      "ul",
+      "li",
+      "div",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "being": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "described&nbsp;": [
+      "div",
+      "ul",
+      "li"
+    ],
+    "search": [
+      "div",
+      "div"
+    ],
+    "bar": [
+      "div"
+    ],
+    "acts": [
+      "div"
+    ],
+    "as": [
+      "div",
+      "div",
+      "p",
+      "p"
+    ],
+    "title": [
+      "div"
+    ],
+    "content": [
+      "div"
+    ],
+    "applied": [
+      "div",
+      "p"
+    ],
+    "string": [
+      "div"
+    ],
+    "shows": [
+      "div"
+    ],
+    "up": [
+      "div",
+      "p"
+    ],
+    "like": [
+      "div"
+    ],
+    "filtering": [
+      "h1",
+      "h1"
+    ],
+    "url": [
+      "h1",
+      "h1",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "team": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "i",
+      "i",
+      "i",
+      "p",
+      "p",
+      "p"
+    ],
+    "mentor": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "provides": [
+      "p",
+      "p"
+    ],
+    "capability": [
+      "p"
+    ],
+    "for": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "users": [
+      "p"
+    ],
+    "parameters": [
+      "p"
+    ],
+    "passed": [
+      "p"
+    ],
+    "url&nbsp;": [
+      "p"
+    ],
+    "this": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "convenient": [
+      "p"
+    ],
+    "feature": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "interactions": [
+      "p"
+    ],
+    "with": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "example": [
+      "p",
+      "p",
+      "p"
+    ],
+    "when": [
+      "p",
+      "p"
+    ],
+    "working": [
+      "p"
+    ],
+    "java": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "project": [
+      "p"
+    ],
+    "developer": [
+      "p"
+    ],
+    "does": [
+      "p"
+    ],
+    "not": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "need": [
+      "p"
+    ],
+    "distracted": [
+      "p"
+    ],
+    "from": [
+      "p"
+    ],
+    "net": [
+      "p",
+      "p"
+    ],
+    "library&nbsp;": [
+      "p"
+    ],
+    "works": [
+      "p"
+    ],
+    "per": [
+      "p"
+    ],
+    "session": [
+      "p"
+    ],
+    "intended": [
+      "p"
+    ],
+    "limit": [
+      "p"
+    ],
+    "access&nbsp;": [
+      "p"
+    ],
+    "http//team": [
+      "p",
+      "i"
+    ],
+    "mentormycompany.com/": [
+      "p",
+      "i"
+    ],
+    "-&nbsp": [
+      "p"
+    ],
+    "opens": [
+      "p",
+      "p",
+      "p"
+    ],
+    "mentor&nbsp": [
+      "p"
+    ],
+    "all": [
+      "p",
+      "p"
+    ],
+    "libraries": [
+      "p"
+    ],
+    "http//": [
+      "p",
+      "p",
+      "i",
+      "i",
+      "i"
+    ],
+    "mentormycompany.com/library/java&nbsp;": [
+      "p",
+      "i"
+    ],
+    "libraryhttp//": [
+      "p"
+    ],
+    "mentormycompany.com/library/.net": [
+      "p",
+      "i"
+    ],
+    "35&nbsp;": [
+      "p"
+    ],
+    "mentormycompany.com/library": [
+      "p",
+      "i"
+    ],
+    "will": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "re-set": [
+      "p"
+    ],
+    "show": [
+      "p",
+      "p"
+    ],
+    "libraries&nbsp": [
+      "p"
+    ],
+    "pinning": [
+      "h1"
+    ],
+    "pane&nbsp;": [
+      "p"
+    ],
+    "another": [
+      "p"
+    ],
+    "reset": [
+      "p"
+    ],
+    "sometimes": [
+      "p"
+    ],
+    "behavior&nbsp": [
+      "p"
+    ],
+    "desirable&nbsp;": [
+      "p"
+    ],
+    "offers": [
+      "p"
+    ],
+    "option": [
+      "p"
+    ],
+    "“pinning”": [
+      "p"
+    ],
+    "&nbspto": [
+      "p"
+    ],
+    "pin": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "first": [
+      "p"
+    ],
+    "“applied": [
+      "p"
+    ],
+    "filters”": [
+      "p"
+    ],
+    "section": [
+      "p"
+    ],
+    "then": [
+      "p"
+    ],
+    "click": [
+      "p",
+      "p"
+    ],
+    "icon&nbsp;": [
+      "p"
+    ],
+    "now": [
+      "p"
+    ],
+    "navigating": [
+      "p"
+    ],
+    "different": [
+      "p"
+    ],
+    "remove": [
+      "p"
+    ],
+    "“x”": [
+      "p"
+    ],
+    "next": [
+      "p"
+    ],
+    "filter&nbsp;": [
+      "p"
+    ],
+    "note": [
+      "p"
+    ],
+    "there": [
+      "p"
+    ],
+    "match": [
+      "p"
+    ],
+    "selection": [
+      "p"
+    ],
+    "particular": [
+      "p"
+    ],
+    "articles&nbsp;": [
+      "p"
+    ],
+    "meta-data": [
+      "h1"
+    ],
+    "also": [
+      "p"
+    ],
+    "ability": [
+      "p"
+    ],
+    "narrow": [
+      "p"
+    ],
+    "directly": [
+      "p",
+      "p"
+    ],
+    "at": [
+      "p"
+    ],
+    "level": [
+      "p"
+    ],
+    "flexibility": [
+      "p"
+    ],
+    "constructing": [
+      "p"
+    ],
+    "accessing": [
+      "p"
+    ],
+    "looking": [
+      "p"
+    ],
+    "for&nbsp;": [
+      "p"
+    ],
+    "automatically": [
+      "p",
+      "p"
+    ],
+    "construct": [
+      "p",
+      "p",
+      "p"
+    ],
+    "was": [
+      "p"
+    ],
+    "pinned": [
+      "p"
+    ],
+    "icon": [
+      "p"
+    ],
+    "shown": [
+      "p"
+    ],
+    "above": [
+      "p"
+    ],
+    "use": [
+      "p",
+      "p"
+    ],
+    "can": [
+      "p",
+      "p"
+    ],
+    "filtered": [
+      "p"
+    ],
+    "any": [
+      "p"
+    ],
+    "combination": [
+      "p"
+    ],
+    "http//localhost:12115/html_pages/gui/team": [
+      "pre"
+    ],
+    "mentorhtml#technology:[technolgy]&phase:[phase]&type:": [
+      "pre"
+    ],
+    "type]&category:[category]": [
+      "pre"
+    ],
+    "interested": [
+      "p"
+    ],
+    "he/she": [
+      "p"
+    ],
+    "type\"": [
+      "p"
+    ],
+    "http//127.0.0.1:12115/html_pages/gui/team": [
+      "pre",
+      "pre",
+      "pre"
+    ],
+    "mentorhtml#technology:java": [
+      "pre"
+    ],
+    "window": [
+      "p"
+    ],
+    "browser": [
+      "p"
+    ],
+    "“java”": [
+      "p"
+    ],
+    "look": [
+      "p",
+      "p"
+    ],
+    "“data": [
+      "p"
+    ],
+    "access”": [
+      "p"
+    ],
+    "categories": [
+      "p"
+    ],
+    "link": [
+      "p"
+    ],
+    "mentorhtml#technology:java&category:data": [
+      "pre"
+    ],
+    "access&nbsp": [
+      "pre"
+    ],
+    "guidelines": [
+      "p"
+    ],
+    "mentorhtml#type:guideline&nbsp;": [
+      "pre"
+    ],
+    "using": [
+      "title"
+    ]
+  },
+  "tags": {
+    "div": [
+      "Filters allow narrowing down the presented article list to help find the most relevant articles in the currently selected library, folder, or view in the navigation pane. The filters are located in the filters pane in the center\n of the main user interface. The currently active filters are displayed on top of the navigation pane on the left. The currently active filters may be cleared by clicking the respective \"X\" icons. Selecting filters narrows down the list of available articles\n and therefore the list of available filters. Filters that are no longer available are greyed out.",
+      "",
+      "The following filters are available:",
+      "The \"Technology\" filter - the technology filter allows the user to display only the articles that pertain to a specific technology.\n      The \"Phase\" filter - the phase filter allows the user to select only the articles that apply to a specific software development life-cycle phase.\n      The \"Type\" filter - the type filter allows the user to choose what types of articles to display. The most common types are \"Checklists\" and \"Guidelines\". \"Guidelines\" describe how to do something in general terms that should be applicable to most applications,\n but still specific enough to be implemented. A \"Checklist\" describes how to test if a specific security measure or control has been implemented correctly and how to implement it correctly. Checklists and guidance usually exist in pairs. Other types of articles\n include: \"Attack\", \"Code Example\", \"How To\", \"Inspection Question\", \"Principle\", and \"Q&A\" - the names of these article types are self-explanatory.\n      The \"Category\" filter - the category filter allows the user to filter the article list based on the type of security control that is being described.&nbsp;",
+      "",
+      "The Search bar is located in the filter pane and acts as a filter based on the article title and article content. The applied search string shows up as a filter on top of the navigation pane, like the other filters."
+    ],
+    "br": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ul": [
+      "The \"Technology\" filter - the technology filter allows the user to display only the articles that pertain to a specific technology.\n      The \"Phase\" filter - the phase filter allows the user to select only the articles that apply to a specific software development life-cycle phase.\n      The \"Type\" filter - the type filter allows the user to choose what types of articles to display. The most common types are \"Checklists\" and \"Guidelines\". \"Guidelines\" describe how to do something in general terms that should be applicable to most applications,\n but still specific enough to be implemented. A \"Checklist\" describes how to test if a specific security measure or control has been implemented correctly and how to implement it correctly. Checklists and guidance usually exist in pairs. Other types of articles\n include: \"Attack\", \"Code Example\", \"How To\", \"Inspection Question\", \"Principle\", and \"Q&A\" - the names of these article types are self-explanatory.\n      The \"Category\" filter - the category filter allows the user to filter the article list based on the type of security control that is being described.&nbsp;"
+    ],
+    "li": [
+      "The \"Technology\" filter - the technology filter allows the user to display only the articles that pertain to a specific technology.",
+      "The \"Phase\" filter - the phase filter allows the user to select only the articles that apply to a specific software development life-cycle phase.",
+      "The \"Type\" filter - the type filter allows the user to choose what types of articles to display. The most common types are \"Checklists\" and \"Guidelines\". \"Guidelines\" describe how to do something in general terms that should be applicable to most applications,\n but still specific enough to be implemented. A \"Checklist\" describes how to test if a specific security measure or control has been implemented correctly and how to implement it correctly. Checklists and guidance usually exist in pairs. Other types of articles\n include: \"Attack\", \"Code Example\", \"How To\", \"Inspection Question\", \"Principle\", and \"Q&A\" - the names of these article types are self-explanatory.",
+      "The \"Category\" filter - the category filter allows the user to filter the article list based on the type of security control that is being described.&nbsp;"
+    ],
+    "h1": [
+      "Filtering by Library in the URL",
+      "Pinning Filters",
+      "Filtering by Meta-Data in the URL"
+    ],
+    "p": [
+      "TEAM Mentor provides capability to filter the library available for users to view based on the parameters passed in the URL.&nbsp; This convenient feature allows narrowing down interactions with TEAM Mentor to a specific library. For example, when working on a Java project, the developer does not need to be distracted by articles from .NET library.&nbsp; This feature works per user session. It is not a security feature and is not intended to limit access.&nbsp;",
+      "For example:",
+      "http://TEAM Mentor.mycompany.com/ -&nbsp; Opens TEAM Mentor&nbsp; with all libraries available. http:// TEAM Mentor.mycompany.com/Library/Java&nbsp; - Opens TEAM Mentor only with the Java libraryhttp:// TEAM Mentor.mycompany.com/Library/.NET 3.5&nbsp; - Opens TEAM Mentor only with the .NET 3.5 library http:// TEAM Mentor.mycompany.com/Library - Will re-set the filter to show ALL libraries&nbsp;",
+      "",
+      "Selected filters only apply to the article list currently selected for display in the navigation pane.&nbsp; Clicking on another view, library or folder in the navigation pane will reset the filters. Sometimes this behavior&nbsp; is not desirable.&nbsp; TEAM Mentor offers the option of “pinning” the filter.",
+      "&nbsp;To pin the filter, first select the filter. The selected filter will show up in the “Applied Filters” section of the navigation pane.",
+      "Then click the pin icon.&nbsp; This will pin the filter. Now when navigating to a different folder, library or view, the selected filter will still be applied. To remove the filter, click the “X” next to the filter.&nbsp;",
+      "Note: If there are no articles that match filter selection in a particular list of articles.&nbsp;",
+      "TEAM Mentor also provides ability to narrow down or filter articles displayed to the user directly at URL level. This flexibility allows constructing a URL and accessing directly the type of Guidance Articles the user is looking for.&nbsp; The URL will automatically construct and pin a filter, as if it was pinned by clicking on the pin icon. (as shown above)",
+      "To use the feature, construct the URL to filter TEAM Mentor Articles. Articles can be filtered by any combination of Technology, Phase, Type or Category",
+      "For example, if the user is interested only in Java technology, he/she can type\"",
+      "In the URL window of the browser and the Java technology filter will be automatically selected.",
+      "To filter by “Java” technology and look only for “Data Access” article categories construct the following link:",
+      "Or to look only for Guidelines use: :"
+    ],
+    "i": [
+      "http://TEAM Mentor.mycompany.com/",
+      "http:// TEAM Mentor.mycompany.com/Library/Java&nbsp;",
+      "http:// TEAM Mentor.mycompany.com/Library/.NET 3.5",
+      "http:// TEAM Mentor.mycompany.com/Library",
+      "Technology"
+    ],
+    "img": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "pre": [
+      "http://localhost:12115/html_pages/Gui/TEAM Mentor.html#technology:[technolgy]&phase:[phase]&type: [type]&category:[category]",
+      "http://127.0.0.1:12115/html_pages/Gui/TEAM Mentor.html#technology:Java",
+      "http://127.0.0.1:12115/html_pages/Gui/TEAM Mentor.html#technology:Java&category:Data Access&nbsp;",
+      "http://127.0.0.1:12115/html_pages/Gui/TEAM Mentor.html#type:Guideline&nbsp;"
+    ]
+  },
+  "links": [],
+  "html": "<div style=\"font-size:10pt\">Filters allow narrowing down the presented article list to help find the most relevant articles in the currently selected library, folder, or view in the navigation pane. The filters are located in the filters pane in the center\n of the main user interface. The currently active filters are displayed on top of the navigation pane on the left. The currently active filters may be cleared by clicking the respective \"X\" icons. Selecting filters narrows down the list of available articles\n and therefore the list of available filters. Filters that are no longer available are greyed out.</div>\n  <div style=\"font-size:10pt\">\n    <br />\n  </div>\n  <div style=\"font-size:10pt\">The following filters are available:</div>\n  <div style=\"font-size:10pt\">\n    <ul>\n      <li>The \"Technology\" filter - the technology filter allows the user to display only the articles that pertain to a specific technology.</li>\n      <li>The \"Phase\" filter - the phase filter allows the user to select only the articles that apply to a specific software development life-cycle phase.</li>\n      <li>The \"Type\" filter - the type filter allows the user to choose what types of articles to display. The most common types are \"Checklists\" and \"Guidelines\". \"Guidelines\" describe how to do something in general terms that should be applicable to most applications,\n but still specific enough to be implemented. A \"Checklist\" describes how to test if a specific security measure or control has been implemented correctly and how to implement it correctly. Checklists and guidance usually exist in pairs. Other types of articles\n include: \"Attack\", \"Code Example\", \"How To\", \"Inspection Question\", \"Principle\", and \"Q&amp;A\" - the names of these article types are self-explanatory.</li>\n      <li>The \"Category\" filter - the category filter allows the user to filter the article list based on the type of security control that is being described.&amp;nbsp;</li>\n    </ul>\n  </div>\n  <div style=\"font-size:10pt\">\n    <br />\n  </div>\n  <div style=\"font-size:10pt\">The Search bar is located in the filter pane and acts as a filter based on the article title and article content. The applied search string shows up as a filter on top of the navigation pane, like the other filters.<br /><br /></div>\n  <h1>Filtering by Library in the URL</h1>\n  <p>TEAM Mentor provides capability to filter the library available for users to view based on the parameters passed in the URL.&amp;nbsp; This convenient feature allows narrowing down interactions with TEAM Mentor to a specific library. For example, when working on a Java project, the developer does not need to be distracted by articles from .NET library.&amp;nbsp; This feature works per user session. It is not a security feature and is not intended to limit access.&amp;nbsp; </p>\n  <p>For example:</p>\n  <p>\n    <i>http://TEAM Mentor.mycompany.com/ </i>-&amp;nbsp; Opens TEAM Mentor&amp;nbsp; with all libraries available. <br /><i>http:// TEAM Mentor.mycompany.com/Library/Java&amp;nbsp;</i> - Opens TEAM Mentor only with the Java library<br /><i>http:// TEAM Mentor.mycompany.com/Library/.NET 3.5</i>&amp;nbsp; - Opens TEAM Mentor only with the .NET 3.5 library <br /><i>http:// TEAM Mentor.mycompany.com/Library</i> - Will re-set the filter to show ALL libraries&amp;nbsp;</p>\n  <p>\n    <br />\n  </p>\n  <h1>Pinning Filters</h1>\n  <p>Selected filters only apply to the article list currently selected for display in the navigation pane.&amp;nbsp; Clicking on another view, library or folder in the navigation pane will reset the filters. Sometimes this behavior&amp;nbsp; is not desirable.&amp;nbsp; TEAM Mentor offers the option of “pinning” the filter. </p>\n  <p>&amp;nbsp;To pin the filter, first select the filter. The selected filter will show up in the “Applied Filters” section of the navigation pane.</p>\n  <img src=\"/Image/filtering-img01.jpg\" height=\"256\" width=\"720\" />\n  <br />\n  <br />\n  <p>Then click the pin icon.&amp;nbsp; This will pin the filter. Now when navigating to a different folder, library or view, the selected filter will still be applied. To remove the filter, click the “X” next to the filter.&amp;nbsp; <br /></p>\n  <img src=\"/Image/filtering-img02.jpg\" height=\"378\" width=\"720\" />\n  <br />\n  <br />\n  <p>Note: If there are no articles that match filter selection in a particular list of articles.&amp;nbsp;</p>\n  <img src=\"/Image/filtering-img03.jpg\" height=\"394\" width=\"723\" />\n  <br />\n  <br />\n  <h1>Filtering by Meta-Data in the URL</h1>\n  <p>TEAM Mentor also provides ability to narrow down or filter articles displayed to the user directly at URL level. This flexibility allows constructing a URL and accessing directly the type of Guidance Articles the user is looking for.&amp;nbsp; The URL will automatically construct and pin a filter, as if it was pinned by clicking on the pin icon. (as shown above)</p>\n  <p>To use the feature, construct the URL to filter TEAM Mentor Articles. Articles can be filtered by any combination of <i>Technology</i>, Phase, Type or Category</p>\n  <pre>http://localhost:12115/html_pages/Gui/TEAM Mentor.html#technology:[technolgy]&amp;phase:[phase]&amp;type: [type]&amp;category:[category]\n</pre>\n  <p>\nFor example, if the user is interested only in Java technology, he/she can type\"\n</p>\n  <pre>http://127.0.0.1:12115/html_pages/Gui/TEAM Mentor.html#technology:Java\n</pre>\n  <p>In the URL window of the browser and the Java technology filter will be automatically selected. </p>\n  <img src=\"/Image/filtering-img04.jpg\" height=\"394\" width=\"723\" />\n  <br />\n  <br />\n  <p>To filter by “Java” technology and look only for “Data Access” article categories construct the following link:</p>\n  <pre>http://127.0.0.1:12115/html_pages/Gui/TEAM Mentor.html#technology:Java&amp;category:Data Access<br />&amp;nbsp;</pre>\n  <img src=\"/Image/filtering-img05.jpg\" height=\"394\" width=\"723\" />\n  <br />\n  <br />\n  <p>Or to look only for Guidelines use: :</p>\n  <pre>http://127.0.0.1:12115/html_pages/Gui/TEAM Mentor.html#type:Guideline<br />&amp;nbsp;</pre>\n  <img src=\"/Image/filtering-img06.jpg\" height=\"394\" width=\"723\" />"
+}

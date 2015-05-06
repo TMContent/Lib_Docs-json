@@ -1,0 +1,32 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "630fe1e1-9f65-4f36-9161-1c792cc26659"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "User Scenario Matrix"
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "wikitext"
+        },
+        "Data": [
+          "===TEAM Mentor 3.1 User Scenarios===\n\n* **UI/General (Universal)**\n** GUI Rendering is created using jQuery\n** UI/Navigation Page (Main Page)\t\t\t\t\n** User can collapse and expand folders\n** User can click on folder to see all items in views under folder\n** User can view sub-folders with items (work the same as parent folders e.g. expand/collapse and viewing sub-items)\n** Users can collapse the article preview pane to save space\n** Users can search from the navigation page\n** Editors can create new articles\n** Editors can create new views\n** An editor can create a new library and copy items to it\n** Editors can edit views\n** Editors can edit libraries\n** Editors can delete items\n\n* **Article View** \n** Users can view articles in a new tab/window\n\n* **Article Edit** \n** Editors can edit articles on-line\n** Editors can make links between articles\n** Editors can view a history of changes\n** Editors can delete articles from the article view\n** Edit capabilities:\n*** Change Title\n*** Change Metadata\n*** Add Image\n*** Format Html Content (via WYSIWYG)\n*** Format Html Content (via HTML editing)\n\n* **UI/Control Panel (Dashboard)**\n** Users can see version information\n** Admin can open a control panel/dashboard\n** Admin can edit user accounts\n** Admin can set and change user passwords\n** Admin can create a normal user\n** Admin can create an editor user\n** Admin can create an admin user\n** Admin can open a page for creating multiple accounts\n** Admin can paste information from csv into a page for creating multiple accounts\n** Admin can delete user accounts\n\n* **UI/Advanced Search**\n** Search for Articles by Title\n** Searching the Body of the Articles\n\n* **Authentication**\n** Users can login as normal users\n** Users can login as editor users\n** Users can login as admin users\n** Users have to be authenticated to view content\n** Users have to be authenticated to make changes to content\n** Users can authenticate using LDAP/AD\n** Users can log out\n\n* **Authorization\t**\n** Users can view articles\n** Only editors can edit items\n** Only admins can edit items and system settings\n\n* **TM Deployment**\n** The customer can roll out libraries as XML files\n** The customer can roll out user credential stores as XML files\n** The customer can update libraries by updating the XML files\n** The customer can update application code without disturbing the libraries, the settings, and the credential store\n** Editors can edit articles in the XML files\n** Administrators can run a tool to update content that automatically resolves collisions\n** GitHub Users can trigger Syncs from web\n\n* **Past Issues/Bugs**\n** Check for double encoding text\n\n"
+        ]
+      }
+    ]
+  }
+}

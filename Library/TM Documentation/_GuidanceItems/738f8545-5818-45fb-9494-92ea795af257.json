@@ -1,0 +1,56 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "738f8545-5818-45fb-9494-92ea795af257"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "Upgrading TEAM Mentor"
+        ],
+        "Category": [
+          "Administration"
+        ],
+        "Phase": [
+          "NA"
+        ],
+        "Technology": [
+          "TEAM Mentor"
+        ],
+        "Type": [
+          "Documentation"
+        ],
+        "DirectLink": [
+          "Upgrading TEAM Mentor"
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "wikitext"
+        },
+        "Data": [
+          "Please contact Security Innovation support for help upgrading your internal instance of TEAM Mentor. Security Innovation support experts will work with you to ensure a smooth upgrade. Please note that the structure for storing user credentials and some configuration has changed (as explained later). Please contact Security Innovation [[/article/323dae88-b74b-465c-a949-d48c33f4ac85|support]] to import old users and configuration. The user’s password will remain the same and the import will be transparent to the user"
+        ]
+      }
+    ]
+  }
+}

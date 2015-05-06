@@ -1,0 +1,56 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "00000000-0000-0000-0000-00000030106a"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "Troubleshooting"
+        ],
+        "Category": [
+          "Administration"
+        ],
+        "Phase": [
+          "NA"
+        ],
+        "Technology": [
+          "TEAM Mentor"
+        ],
+        "Type": [
+          "Documentation"
+        ],
+        "DirectLink": [
+          "Troubleshooting"
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "wikitext"
+        },
+        "Data": [
+          "=Unzip of the install file requests a password=\nPaid content of TEAM Mentor is distributed via a password protected zip file. However, users installing free content can sometimes see this error. This error will be shown by Microsoft unzip program if the destination path is greater then 260 characters. This is the limit in most Windows APIs. To fix, unzip the files into c:\\tmp or similar directory with a short name. This will shorten the destination path and allow the unzip operation. Note that other unzip programs such as WinRar will show correct error message, reflecting the file path limit being exceeded.\n\n=Password failure on unzip of the install file=\nFirst verify that you have the correct password for the paid content. If the password is correct note that this error will be shown by Microsoft unzip program if the destination path is greater then 260 characters. This is the limit in most Windows APIs. To fix, unzip the files into c:\\tmp or similar directory with a short name. This will shorten the destination path and allow the unzip operation. Note that other unzip programs such as WinRar will show correct error message, reflecting the file path limit being exceeded.\n\n=IIS 7.5 Gives \"The requested page cannot be accessed because the related configuration data for the page is invalid\"\n{{/Image/IIS75err1.jpg}}\n\nThis is caused by the application pool in IIS to be set to the 2.0 CLR. The fix it to make it 4.0\n\n==Application Logs==\n\nApplication_Logs //Library\\Library_Data\\XmlDatabase\\Application_Logs// directory  contains system logs that are periodically written by TEAM Mentor. Please note that the logs are not written real time, however they are written when an error is detected. \n"
+        ]
+      }
+    ]
+  }
+}

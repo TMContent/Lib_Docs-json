@@ -1,0 +1,15 @@
+{
+  "id": "00000000-0000-0000-0000-0000008d8ed7",
+  "checksum": "edbee8deec4b4ae305dabd72e4271f04e2354eaf",
+  "words": {
+    "banner": [
+      "title"
+    ],
+    "pane": [
+      "title"
+    ]
+  },
+  "tags": {},
+  "links": [],
+  "html": "The banner pane provides access to application controls, such as logging in, switching to edit mode, or opening the control panel."
+}

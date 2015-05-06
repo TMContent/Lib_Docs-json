@@ -1,0 +1,100 @@
+{
+  "id": "a62c6e34-d725-41f2-9f61-1815dae985ae",
+  "checksum": "6b13fd97ebc033096603016336bcefb670d35f57",
+  "words": {
+    "on": [
+      "p"
+    ],
+    "the": [
+      "p",
+      "p"
+    ],
+    "team": [
+      "p",
+      "h2"
+    ],
+    "mentor": [
+      "p",
+      "h2"
+    ],
+    "controlpanel": [
+      "p"
+    ],
+    "there": [
+      "p"
+    ],
+    "are": [
+      "p"
+    ],
+    "two": [
+      "p"
+    ],
+    "special": [
+      "p"
+    ],
+    "web": [
+      "p",
+      "h2"
+    ],
+    "interface": [
+      "p"
+    ],
+    "that": [
+      "p"
+    ],
+    "allows": [
+      "p"
+    ],
+    "direct": [
+      "p"
+    ],
+    "invocation": [
+      "p"
+    ],
+    "of": [
+      "p"
+    ],
+    "tm": [
+      "p"
+    ],
+    "webservices": [
+      "p",
+      "title"
+    ],
+    "admin": [
+      "h2"
+    ],
+    "tasks": [
+      "h2"
+    ],
+    "services": [
+      "h2"
+    ],
+    "control": [
+      "title"
+    ],
+    "panel": [
+      "title"
+    ],
+    "gui": [
+      "title"
+    ]
+  },
+  "tags": {
+    "p": [
+      "On the TEAM Mentor ControlPanel, there are two special Web Interface that allows the direct invocation of TM WebServices:",
+      "",
+      ""
+    ],
+    "h2": [
+      "Admin Tasks",
+      "TEAM Mentor Web Services"
+    ],
+    "img": [
+      "",
+      ""
+    ]
+  },
+  "links": [],
+  "html": "<p>On the TEAM Mentor ControlPanel, there are two special Web Interface that allows the direct invocation of TM WebServices:\n</p><h2>Admin Tasks</h2><p><img src=\"/Image/4_10_2012_4_01_51_PM.jpg\">\n</p><h2>TEAM Mentor Web Services</h2><p><img src=\"/Image/4_10_2012_4_01_00_PM.jpg\"></p>"
+}
