@@ -1,6 +1,6 @@
 {
   "id": "1eda3d77-43e0-474b-be99-9ba118408dd3",
-  "checksum": "01a669431da14ebe887e87a26b30b0edcb12b2a3",
+  "checksum": "866a886f5dfc0c19d4664b2868d267e0cdffc0ab",
   "words": {
     "welcome": [
       "p",
@@ -9,7 +9,6 @@
     "to": [
       "p",
       "strong",
-      "p",
       "p",
       "p",
       "p",
@@ -32,6 +31,7 @@
     "team": [
       "p",
       "strong",
+      "p",
       "p",
       "p",
       "p",
@@ -62,7 +62,6 @@
     ],
     "is": [
       "p",
-      "p",
       "p"
     ],
     "an": [
@@ -78,7 +77,6 @@
       "p",
       "p",
       "p",
-      "p",
       "ul",
       "ul",
       "ul",
@@ -87,6 +85,8 @@
       "li"
     ],
     "security": [
+      "p",
+      "p",
       "p",
       "p",
       "p",
@@ -135,7 +135,30 @@
     "kb": [
       "p"
     ],
-    "containing": [
+    "that": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "provides": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "answers": [
+      "p"
+    ],
+    "your": [
+      "p",
+      "p"
+    ],
+    "questions": [
+      "p"
+    ],
+    "contains": [
       "p"
     ],
     "thousands": [
@@ -156,14 +179,6 @@
     "articles": [
       "p"
     ],
-    "that": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "ul",
-      "li"
-    ],
     "describe": [
       "p"
     ],
@@ -182,8 +197,6 @@
       "p",
       "p",
       "p",
-      "p",
-      "p",
       "ul",
       "ul",
       "ul",
@@ -192,6 +205,11 @@
       "li",
       "li",
       "li"
+    ],
+    "and": [
+      "p",
+      "p",
+      "p"
     ],
     "prevent": [
       "p",
@@ -202,7 +220,17 @@
       "p",
       "p",
       "p",
+      "p"
+    ],
+    "throughout": [
       "p",
+      "ul",
+      "li"
+    ],
+    "life-cycle": [
+      "p"
+    ],
+    "preventing": [
       "p"
     ],
     "during": [
@@ -212,18 +240,10 @@
     "development": [
       "p",
       "p",
-      "p",
       "ul",
       "li"
     ],
-    "preventing": [
-      "p",
-      "p"
-    ],
     "the": [
-      "p",
-      "p",
-      "p",
       "p",
       "p",
       "p",
@@ -275,8 +295,7 @@
       "ul",
       "li"
     ],
-    "software": [
-      "p",
+    "defects": [
       "p"
     ],
     "–": [
@@ -287,6 +306,12 @@
       "p",
       "ul",
       "li"
+    ],
+    "not": [
+      "p"
+    ],
+    "having": [
+      "p"
     ],
     "them": [
       "p"
@@ -302,7 +327,7 @@
     "first": [
       "p"
     ],
-    "place\nto": [
+    "place": [
       "p"
     ],
     "reduce": [
@@ -314,13 +339,15 @@
     "introducing": [
       "p"
     ],
+    "software": [
+      "p"
+    ],
     "use": [
+      "p",
       "p",
       "p"
     ],
     "for": [
-      "p",
-      "p",
       "p",
       "p"
     ],
@@ -329,105 +356,31 @@
       "ul",
       "li"
     ],
-    "throughout": [
-      "p",
-      "ul",
-      "li"
-    ],
-    "entire": [
-      "p"
-    ],
-    "lifecycle": [
-      "p",
-      "ul",
-      "li"
-    ],
-    "exact": [
-      "p"
-    ],
-    "approach": [
-      "p"
-    ],
-    "different": [
-      "p",
-      "p"
-    ],
-    "applications": [
-      "p"
-    ],
-    "so": [
-      "p"
-    ],
-    "you": [
-      "p"
-    ],
-    "will": [
-      "p"
-    ],
-    "need": [
-      "p"
-    ],
-    "examine": [
-      "p"
-    ],
-    "your": [
-      "p",
-      "p",
-      "p"
-    ],
-    "application’s": [
-      "p"
-    ],
-    "architecture": [
-      "p"
-    ],
     "identify": [
       "p"
     ],
-    "are": [
-      "p",
-      "ul",
-      "li"
-    ],
     "relevant": [
       "p",
+      "ul",
+      "li"
+    ],
+    "just-in-time": [
+      "p"
+    ],
+    "prescriptions": [
+      "p"
+    ],
+    "guide": [
+      "p",
+      "p",
+      "a"
+    ],
+    "their": [
       "p",
       "ul",
       "li"
     ],
-    "particular": [
-      "p"
-    ],
-    "once": [
-      "p"
-    ],
-    "have": [
-      "p",
-      "p"
-    ],
-    "been": [
-      "p",
-      "p"
-    ],
-    "identified": [
-      "p"
-    ],
-    "find": [
-      "p"
-    ],
-    "guidance": [
-      "p",
-      "p",
-      "p",
-      "ul",
-      "ul",
-      "li",
-      "li"
-    ],
-    "implementing": [
-      "p"
-    ],
-    "those": [
+    "implementation": [
       "p"
     ],
     "increase": [
@@ -457,12 +410,16 @@
     "common": [
       "p"
     ],
-    "described": [
-      "p",
-      "p"
-    ],
     "review": [
       "p"
+    ],
+    "guidance": [
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "li",
+      "li"
     ],
     "describes": [
       "p",
@@ -472,13 +429,19 @@
     "these": [
       "p"
     ],
-    "and": [
-      "p"
-    ],
     "then": [
       "p"
     ],
     "verify": [
+      "p"
+    ],
+    "described": [
+      "p"
+    ],
+    "have": [
+      "p"
+    ],
+    "been": [
       "p"
     ],
     "implemented": [
@@ -487,9 +450,6 @@
       "li"
     ],
     "successfully": [
-      "p"
-    ],
-    "application\nteam": [
       "p"
     ],
     "can": [
@@ -511,6 +471,14 @@
     "ways": [
       "p"
     ],
+    "lifecycle": [
+      "ul",
+      "li"
+    ],
+    "are": [
+      "ul",
+      "li"
+    ],
     "being": [
       "ul",
       "li"
@@ -531,10 +499,6 @@
       "li"
     ],
     "checkmarx": [
-      "ul",
-      "li"
-    ],
-    "catnet": [
       "ul",
       "li"
     ],
@@ -577,10 +541,6 @@
       "li"
     ],
     "tool": [
-      "ul",
-      "li"
-    ],
-    "provides": [
       "ul",
       "li"
     ],
@@ -639,10 +599,6 @@
       "ul",
       "li"
     ],
-    "their": [
-      "ul",
-      "li"
-    ],
     "overall": [
       "ul",
       "li"
@@ -685,10 +641,6 @@
       "p",
       "a"
     ],
-    "guide": [
-      "p",
-      "a"
-    ],
     "tips": [
       "p"
     ],
@@ -708,7 +660,9 @@
   "tags": {
     "p": [
       "Welcome to TEAM Mentor.",
-      "TEAM Mentor is an interactive Application Security library (also referred to as a knowledge base or KB) containing thousands of articles that describe how to implement Application Security controls to prevent vulnerabilities during application development. Preventing vulnerabilities during development is the most cost effective way to deal with software vulnerabilities – by preventing them in the first place.\nTo reduce the risk of introducing software vulnerabilities, use TEAM Mentor for reference throughout the entire development lifecycle. The exact approach is different for different applications, so you will need to examine your application’s architecture to identify the application security controls that are relevant to your particular application. Once the relevant controls have been identified, use TEAM Mentor to find the guidance for implementing those controls. To increase the level of assurance, look at the list of common vulnerabilities described in TEAM Mentor, review the guidance that describes how to prevent these vulnerabilities, and then verify that the controls described by the guidance have been implemented successfully in your application.\nTEAM Mentor can be used in multiple ways:",
+      "TEAM Mentor is an interactive Application Security library (also referred to as a knowledge base or KB) that provides answers to your security questions. TEAM Mentor contains thousands of articles that describe how to implement Application Security controls, and prevent vulnerabilities throughout application life-cycle. Preventing vulnerabilities during development is the most cost effective way to deal with  security defects – by not having them in the first place.",
+      "To reduce the risk of introducing software vulnerabilities, use TEAM Mentor for reference during development. Identify the relevant security controls, and use the just-in-time prescriptions to guide in their implementation. To increase the level of assurance, use TEAM Mentor to look at the list of common vulnerabilities, review the guidance that describes how to prevent these vulnerabilities, and then verify that the controls described by the guidance have been implemented successfully in your application.",
+      "TEAM Mentor can be used in multiple ways:",
       "Please take a look at our Quick Start Guide for quick tips on getting started."
     ],
     "strong": [
@@ -718,11 +672,11 @@
       ""
     ],
     "ul": [
-      "As a reference throughout the application development lifecycle. As application security controls are being implemented, TEAM Mentor guidance can be applied to implement the controls effectively.\nIntegrated with HP Fortify, Checkmarx or Cat.Net static code analysis tools. In this scenario, the report produced by the static analysis tool provides links to the relevant TEAM Mentor guidance that describes how to remove the vulnerability.\nBrowsing content to increase the skill level of the developers. TEAM Mentor libraries offer an effective overview of the currently available information security controls. As developers view this information, their overall understanding of application security controls increases."
+      "As a reference throughout the application development lifecycle. As application security controls are being implemented, TEAM Mentor guidance can be applied to implement the controls effectively.\nIntegrated with HP Fortify or Checkmarx static code analysis tools. In this scenario, the report produced by the static analysis tool provides links to the relevant TEAM Mentor guidance that describes how to remove the vulnerability.\nBrowsing content to increase the skill level of the developers. TEAM Mentor libraries offer an effective overview of the currently available information security controls. As developers view this information, their overall understanding of application security controls increases."
     ],
     "li": [
       "As a reference throughout the application development lifecycle. As application security controls are being implemented, TEAM Mentor guidance can be applied to implement the controls effectively.",
-      "Integrated with HP Fortify, Checkmarx or Cat.Net static code analysis tools. In this scenario, the report produced by the static analysis tool provides links to the relevant TEAM Mentor guidance that describes how to remove the vulnerability.",
+      "Integrated with HP Fortify or Checkmarx static code analysis tools. In this scenario, the report produced by the static analysis tool provides links to the relevant TEAM Mentor guidance that describes how to remove the vulnerability.",
       "Browsing content to increase the skill level of the developers. TEAM Mentor libraries offer an effective overview of the currently available information security controls. As developers view this information, their overall understanding of application security controls increases."
     ],
     "a": [
@@ -731,9 +685,9 @@
   },
   "links": [
     {
-      "href": "/article/0bfb008b-49c8-4526-bb6a-0a21d01eeb0e",
+      "href": "0bfb008b-49c8-4526-bb6a-0a21d01eeb0e",
       "text": "Quick Start Guide"
     }
   ],
-  "html": "<p><strong>Welcome to TEAM Mentor.</strong> <br>\n</p><p>\nTEAM Mentor is an interactive Application Security library (also referred to as a knowledge base or KB) containing thousands of articles that describe how to implement Application Security controls to prevent vulnerabilities during application development. Preventing vulnerabilities during development is the most cost effective way to deal with software vulnerabilities – by preventing them in the first place.\nTo reduce the risk of introducing software vulnerabilities, use TEAM Mentor for reference throughout the entire development lifecycle. The exact approach is different for different applications, so you will need to examine your application’s architecture to identify the application security controls that are relevant to your particular application. Once the relevant controls have been identified, use TEAM Mentor to find the guidance for implementing those controls. To increase the level of assurance, look at the list of common vulnerabilities described in TEAM Mentor, review the guidance that describes how to prevent these vulnerabilities, and then verify that the controls described by the guidance have been implemented successfully in your application.\nTEAM Mentor can be used in multiple ways:</p><ul>\n<li>As a reference throughout the application development lifecycle. As application security controls are being implemented, TEAM Mentor guidance can be applied to implement the controls effectively.</li>\n<li>Integrated with HP Fortify, Checkmarx or Cat.Net static code analysis tools. In this scenario, the report produced by the static analysis tool provides links to the relevant TEAM Mentor guidance that describes how to remove the vulnerability.</li>\n<li>Browsing content to increase the skill level of the developers. TEAM Mentor libraries offer an effective overview of the currently available information security controls. As developers view this information, their overall understanding of application security controls increases.</li>\n</ul><p>\nPlease take a look at our <a href=\"/article/0bfb008b-49c8-4526-bb6a-0a21d01eeb0e\">Quick Start Guide</a> for quick tips on getting started.\n</p>"
+  "html": "<p><strong>Welcome to TEAM Mentor.</strong> <br>\n</p><p>\nTEAM Mentor is an interactive Application Security library (also referred to as a knowledge base or KB) that provides answers to your security questions. TEAM Mentor contains thousands of articles that describe how to implement Application Security controls, and prevent vulnerabilities throughout application life-cycle. Preventing vulnerabilities during development is the most cost effective way to deal with  security defects – by not having them in the first place.\n</p><p>\nTo reduce the risk of introducing software vulnerabilities, use TEAM Mentor for reference during development. Identify the relevant security controls, and use the just-in-time prescriptions to guide in their implementation. To increase the level of assurance, use TEAM Mentor to look at the list of common vulnerabilities, review the guidance that describes how to prevent these vulnerabilities, and then verify that the controls described by the guidance have been implemented successfully in your application.\n</p>\n<p>\nTEAM Mentor can be used in multiple ways:</p><ul>\n<li>As a reference throughout the application development lifecycle. As application security controls are being implemented, TEAM Mentor guidance can be applied to implement the controls effectively.</li>\n<li>Integrated with HP Fortify or Checkmarx static code analysis tools. In this scenario, the report produced by the static analysis tool provides links to the relevant TEAM Mentor guidance that describes how to remove the vulnerability.</li>\n<li>Browsing content to increase the skill level of the developers. TEAM Mentor libraries offer an effective overview of the currently available information security controls. As developers view this information, their overall understanding of application security controls increases.</li>\n</ul><p>\nPlease take a look at our <a href=\"0bfb008b-49c8-4526-bb6a-0a21d01eeb0e\">Quick Start Guide</a> for quick tips on getting started.\n</p>"
 }

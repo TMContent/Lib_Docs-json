@@ -1,28 +1,49 @@
 {
   "id": "00000000-0000-0000-0000-000000410a3a",
-  "checksum": "7d23bf9337cb35a4d73c57a28a4c71312789e4b4",
+  "checksum": "e7c5fa625e4bff8dd119ef029266e54d75c99dea",
   "words": {
-    "75": [
+    "11": [
+      "ul",
+      "li"
+    ],
+    "36": [
+      "p"
+    ],
+    "40": [
+      "p"
+    ],
+    "64": [
+      "ul",
+      "li"
+    ],
+    "80": [
+      "ul",
+      "li"
+    ],
+    "2012": [
+      "ul",
       "li"
     ],
     "minimum": [
-      "h1",
+      "h3",
       "title"
     ],
     "server": [
-      "h1"
+      "h3",
+      "h4"
     ],
     "requirements": [
-      "h1",
-      "h1",
+      "h3",
+      "h4",
+      "h4",
       "title"
     ],
     "the": [
       "p",
-      "p",
       "p"
     ],
     "following": [
+      "p",
       "p",
       "p"
     ],
@@ -30,6 +51,8 @@
       "p"
     ],
     "and": [
+      "p",
+      "p",
       "p",
       "p",
       "p",
@@ -43,8 +66,6 @@
     "is": [
       "p",
       "p",
-      "p",
-      "p",
       "p"
     ],
     "required": [
@@ -52,7 +73,6 @@
       "p"
     ],
     "to": [
-      "p",
       "p",
       "p",
       "p",
@@ -72,11 +92,19 @@
       "p",
       "p"
     ],
+    "side": [
+      "h4",
+      "h4"
+    ],
     "windows": [
       "ul",
       "li"
     ],
-    "2008/2012": [
+    "r2": [
+      "ul",
+      "li"
+    ],
+    "bit": [
       "ul",
       "li"
     ],
@@ -89,8 +117,17 @@
       "ul",
       "li"
     ],
-    "75\nnet": [
-      "ul"
+    "or": [
+      "ul",
+      "li"
+    ],
+    "higher": [
+      "ul",
+      "li"
+    ],
+    "net": [
+      "ul",
+      "li"
     ],
     "framework": [
       "ul",
@@ -114,8 +151,7 @@
     ],
     "this": [
       "ul",
-      "li",
-      "p"
+      "li"
     ],
     "version": [
       "ul",
@@ -130,8 +166,11 @@
       "li",
       "a"
     ],
-    "\n2gb": [
-      "ul"
+    "4gb": [
+      "ul",
+      "ul",
+      "li",
+      "li"
     ],
     "of": [
       "ul",
@@ -139,39 +178,24 @@
       "li",
       "li"
     ],
-    "ram1gb": [
-      "ul"
-    ],
-    "storagessl": [
-      "ul"
-    ],
-    "certificate": [
+    "ram": [
       "ul",
       "li",
-      "p",
-      "p",
       "p"
-    ],
-    "net": [
-      "li"
-    ],
-    "2gb": [
-      "li"
-    ],
-    "ram": [
-      "li",
-      "p"
-    ],
-    "1gb": [
-      "li"
     ],
     "storage": [
+      "ul",
       "li",
       "p"
     ],
     "ssl": [
+      "ul",
       "li",
-      "p",
+      "p"
+    ],
+    "certificate": [
+      "ul",
+      "li",
       "p",
       "p"
     ],
@@ -186,7 +210,6 @@
       "p"
     ],
     "it": [
-      "p",
       "p"
     ],
     "may": [
@@ -198,14 +221,12 @@
       "p"
     ],
     "possible": [
-      "p",
       "p"
     ],
     "less": [
       "p"
     ],
     "however": [
-      "p",
       "p"
     ],
     "performance": [
@@ -227,16 +248,13 @@
       "p"
     ],
     "configuration": [
-      "p",
       "p"
     ],
     "listed": [
       "p"
     ],
     "above": [
-      "p",
-      "ul",
-      "li"
+      "p"
     ],
     "recommended": [
       "p"
@@ -244,8 +262,8 @@
     "for": [
       "p",
       "p",
-      "ul",
-      "li"
+      "p",
+      "p"
     ],
     "production": [
       "p"
@@ -282,68 +300,89 @@
     "not": [
       "p"
     ],
-    "disable": [
-      "p"
-    ],
-    "default": [
-      "p"
-    ],
-    "weaving": [
-      "p"
-    ],
-    "requirement": [
-      "p"
-    ],
-    "highly": [
-      "p"
-    ],
-    "discouraged": [
-      "p"
-    ],
     "self-signed": [
       "p"
     ],
     "used": [
+      "p",
       "p"
     ],
     "test": [
       "p"
     ],
     "client": [
-      "h1"
-    ],
-    "side": [
-      "h1"
+      "h4"
     ],
     "browsers": [
+      "p",
+      "p",
+      "p",
       "p"
     ],
     "platforms": [
       "p"
     ],
     "are": [
+      "p",
       "p"
     ],
     "supported": [
+      "p",
+      "p"
+    ],
+    "tm": [
+      "p",
+      "p"
+    ],
+    "jade": [
+      "p"
+    ],
+    "supports": [
+      "p",
+      "p"
+    ],
+    "all": [
+      "p"
+    ],
+    "including": [
       "p"
     ],
     "ie8": [
+      "p"
+    ],
+    "mobile": [
+      "p"
+    ],
+    "android": [
+      "p"
+    ],
+    "ios": [
+      "p"
+    ],
+    "back0-end": [
+      "p"
+    ],
+    "administration": [
+      "p"
+    ],
+    "editing": [
+      "p"
+    ],
+    "ie": [
       "ul",
       "li"
     ],
-    "or": [
+    "firefox": [
       "ul",
       "li"
     ],
-    "ie11": [
+    "chrome": [
       "ul",
       "li"
     ],
-    "administration\nfirefox": [
-      "ul"
-    ],
-    "chromesafari": [
-      "ul"
+    "safari": [
+      "ul",
+      "li"
     ],
     "v6.1": [
       "ul",
@@ -360,44 +399,49 @@
     "only": [
       "ul",
       "li"
-    ],
-    "administration": [
-      "li"
-    ],
-    "firefox": [
-      "li"
-    ],
-    "chrome": [
-      "li"
-    ],
-    "safari": [
-      "li"
     ]
   },
   "tags": {
-    "h1": [
-      "Minimum Server Requirements",
-      "Client Side Requirements"
+    "h3": [
+      "Minimum Server Requirements"
     ],
     "p": [
       "The following hardware and software is required to run TEAM Mentor.",
-      "Please note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. It is also possible to disable the default SSL configuration, weaving the SSL certificate requirement, however this is highly discouraged. Self-signed certificate may be used for test environments.",
-      "Following browsers and platforms are supported:"
+      "Please note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. Self-signed certificate may be used for test environments.",
+      "Following browsers and platforms are supported:",
+      "TM 4.0 Jade supports all browsers including IE8. Mobile browsers for Android and iOS are also supported.",
+      "TM 3.6 Back0-end (used for Administration and Editing) supports the following browsers"
+    ],
+    "h4": [
+      "Server Side Requirements",
+      "Client Side Requirements"
     ],
     "ul": [
-      "Windows 2008/2012 with IIS 7.5\nNET Framework 4.5.1 (You can download this version from http://www.microsoft.com/en-us/download/details.aspx?id=40779 )\n2GB of RAM\n1GB of Storage\nSSL Certificate",
-      "IE8 or above (IE11 for Administration)\nFirefox \nChrome\nSafari (v6.1 and v7.0 on OSX only)"
+      "Windows 2012 R2 (64 Bit) with IIS 8.0 or higher\n NET Framework 4.5.1 (You can download this version from http://www.microsoft.com/en-us/download/details.aspx?id=40779 )\n 4GB of RAM\n 4GB of Storage\n SSL Certificate",
+      "IE 11\n Firefox\n Chrome\n Safari (v6.1 and v7.0 on OSX only)"
     ],
     "li": [
-      "Windows 2008/2012 with IIS 7.5",
+      "Windows 2012 R2 (64 Bit) with IIS 8.0 or higher",
       "NET Framework 4.5.1 (You can download this version from http://www.microsoft.com/en-us/download/details.aspx?id=40779 )",
-      "2GB of RAM",
-      "1GB of Storage",
+      "4GB of RAM",
+      "4GB of Storage",
       "SSL Certificate",
-      "IE8 or above (IE11 for Administration)",
+      "IE 11",
       "Firefox",
       "Chrome",
       "Safari (v6.1 and v7.0 on OSX only)"
+    ],
+    "br": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "a": [
       "http://www.microsoft.com/en-us/download/details.aspx?id=40779"
@@ -409,5 +453,5 @@
       "text": "http://www.microsoft.com/en-us/download/details.aspx?id=40779"
     }
   ],
-  "html": "<h1>Minimum Server Requirements</h1><p>The following hardware and software is required to run TEAM Mentor.\n</p><ul>\n<li>Windows 2008/2012 with IIS 7.5</li>\n<li>NET Framework 4.5.1 (You can download this version from <a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=40779\">http://www.microsoft.com/en-us/download/details.aspx?id=40779</a> )</li>\n<li>2GB of RAM</li>\n<li>1GB of Storage</li>\n<li>SSL Certificate</li>\n</ul>\n<p>\nPlease note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. It is also possible to disable the default SSL configuration, weaving the SSL certificate requirement, however this is highly discouraged. Self-signed certificate may be used for test environments.\n</p>\n<h1>Client Side Requirements</h1><p>Following browsers and platforms are supported:</p><ul>\n<li>IE8 or above (IE11 for Administration)</li>\n<li>Firefox </li>\n<li>Chrome</li>\n<li>Safari (v6.1 and v7.0 on OSX only)</li>\n</ul>\n\n\n"
+  "html": "<h3>Minimum Server Requirements</h3><p>The following hardware and software is required to run TEAM Mentor.\n</p><h4>Server Side Requirements</h4><ul><li> Windows 2012 R2 (64 Bit) with IIS 8.0 or higher<br></li>\n<li> NET Framework 4.5.1 (You can download this version from <a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=40779\">http://www.microsoft.com/en-us/download/details.aspx?id=40779</a> )<br></li>\n<li> 4GB of RAM<br></li>\n<li> 4GB of Storage<br></li>\n<li> SSL Certificate<br></li>\n</ul><p>\nPlease note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. Self-signed certificate may be used for test environments.\n</p><h4>Client Side Requirements</h4><p>Following browsers and platforms are supported:\n</p><p>\nTM 4.0 Jade supports all browsers including IE8. Mobile browsers for Android and iOS are also supported. \n</p><p>\nTM 3.6 Back0-end (used for Administration and Editing) supports the following browsers <br></p><ul>\n<li> IE 11<br></li>\n<li> Firefox<br></li>\n<li> Chrome<br></li>\n<li> Safari (v6.1 and v7.0 on OSX only)<br></li>\n</ul>\n\n\n"
 }

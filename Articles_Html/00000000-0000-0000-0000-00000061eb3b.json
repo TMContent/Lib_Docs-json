@@ -1,1003 +1,892 @@
 {
   "id": "00000000-0000-0000-0000-00000061eb3b",
-  "checksum": "7e7fda0afcdb30a0dd52b4b7eb745a98b837ee3c",
+  "checksum": "cd7dbef9831d117efda80f2780ccaf861b8f768e",
   "words": {
-    "the": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
+    "3": [
+      "p"
+    ],
+    "team": [
+      "p",
+      "p"
+    ],
+    "mentor": [
+      "p",
+      "p"
+    ],
+    "provides": [
+      "p",
+      "p",
+      "p"
+    ],
+    "two": [
+      "p",
+      "p",
+      "strong"
     ],
     "main": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
+      "p",
+      "p",
+      "strong",
+      "p",
+      "p"
+    ],
+    "avenues": [
+      "p"
+    ],
+    "for": [
+      "p",
+      "p",
+      "p"
+    ],
+    "accessing": [
+      "p"
+    ],
+    "the": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "vast": [
+      "p"
+    ],
+    "content": [
+      "p",
+      "p",
+      "p"
+    ],
+    "we": [
+      "p"
+    ],
+    "offer": [
+      "p"
+    ],
+    "\"searching": [
+      "p"
+    ],
+    "and": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "filtering\"": [
+      "p"
+    ],
+    "\"index": [
+      "p"
+    ],
+    "navigation\"": [
+      "p"
+    ],
+    "each": [
+      "p",
+      "p"
+    ],
+    "aiming": [
+      "p"
+    ],
+    "at": [
+      "p",
+      "p"
+    ],
+    "providing": [
+      "p"
+    ],
+    "answers": [
+      "p"
+    ],
+    "you": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "are": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "looking": [
+      "p",
+      "p"
+    ],
+    "in": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "least": [
+      "p"
+    ],
+    "amounts": [
+      "p"
+    ],
+    "of": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "clicks": [
+      "p"
+    ],
+    "best": [
+      "p"
+    ],
+    "method": [
+      "p"
+    ],
+    "to": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "use": [
+      "p",
+      "p",
+      "p"
+    ],
+    "depends": [
+      "p"
+    ],
+    "on": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "your": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "goal": [
+      "p"
+    ],
+    "if": [
+      "p",
+      "p"
+    ],
+    "have": [
+      "p"
+    ],
+    "a": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "specific": [
+      "p"
+    ],
+    "question": [
+      "p"
+    ],
+    "know": [
+      "p"
+    ],
+    "what": [
+      "p",
+      "p"
+    ],
+    "then": [
+      "p"
+    ],
+    "simply": [
+      "p",
+      "p"
+    ],
+    "\"search": [
+      "p"
+    ],
+    "filter\"": [
+      "p"
+    ],
+    "not": [
+      "p",
+      "p"
+    ],
+    "sure": [
+      "p"
+    ],
+    "interested": [
+      "p"
+    ],
+    "or": [
+      "p",
+      "p"
+    ],
+    "would": [
+      "p"
+    ],
+    "like": [
+      "p"
+    ],
+    "browse": [
+      "p"
+    ],
+    "our": [
+      "p"
+    ],
+    "\"index\"": [
+      "p",
+      "p",
+      "p"
+    ],
+    "directory": [
+      "p"
+    ],
+    "go": [
+      "p",
+      "p"
+    ],
+    "through": [
+      "p"
+    ],
+    "list": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "topics": [
+      "p"
+    ],
+    "until": [
+      "p"
+    ],
+    "find": [
+      "p"
+    ],
+    "one": [
+      "p"
+    ],
+    "that": [
+      "p",
+      "p",
+      "p"
+    ],
+    "deserves": [
+      "p"
+    ],
+    "further": [
+      "p"
+    ],
+    "attention": [
+      "p"
     ],
     "user": [
-      "div",
-      "div",
-      "div",
-      "div",
+      "p",
+      "strong",
       "title"
     ],
     "interface": [
-      "div",
-      "div",
-      "div",
-      "div",
+      "p",
+      "strong",
       "title"
-    ],
-    "window": [
-      "div",
-      "div",
-      "div"
     ],
     "has": [
-      "div",
-      "div"
+      "p",
+      "strong",
+      "p"
     ],
-    "five": [
-      "div",
-      "div"
-    ],
-    "panes": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "banner": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "pane": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "at": [
-      "div",
-      "div"
+    "areas": [
+      "p",
+      "strong"
     ],
     "top": [
-      "div",
-      "div"
+      "p",
+      "p",
+      "p"
     ],
-    "navigation": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
+    "menu": [
+      "p"
     ],
-    "on": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "left": [
-      "div",
-      "div"
-    ],
-    "filters": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "in": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "middle": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "preview": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "right": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "and": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "article": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "list": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "bottom": [
-      "div",
-      "div"
-    ],
-    "can": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "be": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "hidden": [
-      "div",
-      "div"
-    ],
-    "by": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "clicking": [
-      "div",
-      "div"
-    ],
-    "rectangles": [
-      "div",
-      "div"
-    ],
-    "of": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "respective": [
-      "div",
-      "div"
-    ],
-    "border-lines": [
-      "div",
-      "div"
-    ],
-    "each": [
-      "div",
-      "div"
-    ],
-    "performs": [
-      "div",
-      "div"
-    ],
-    "a": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "specific": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "function\n\n\nthe": [
-      "div"
-    ],
-    "provides": [
-      "div",
-      "div"
+    "which": [
+      "p",
+      "p"
     ],
     "access": [
-      "div",
-      "div"
+      "p",
+      "p"
     ],
-    "to": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
+    "\"search\"": [
+      "p",
+      "p",
+      "p"
     ],
-    "application": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "controls": [
-      "div",
-      "div"
-    ],
-    "such": [
-      "div",
-      "div"
+    "functionality": [
+      "p",
+      "p"
     ],
     "as": [
-      "div",
-      "div"
+      "p",
+      "p"
     ],
-    "logging": [
-      "div",
-      "div"
+    "well": [
+      "p"
     ],
-    "switching": [
-      "div",
-      "div"
+    "this": [
+      "p"
     ],
-    "edit": [
-      "div",
-      "div"
+    "documentation": [
+      "p"
     ],
-    "mode": [
-      "div",
-      "div"
+    "workspace": [
+      "p",
+      "p"
     ],
-    "or": [
-      "div",
-      "div",
-      "div",
-      "div"
+    "below": [
+      "p"
     ],
-    "opening": [
-      "div",
-      "div"
-    ],
-    "control": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "panel\n\n\nthe": [
-      "div"
-    ],
-    "gives": [
-      "div",
-      "div"
-    ],
-    "an": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "overview": [
-      "div",
-      "div",
-      "title"
-    ],
-    "content": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "organized": [
-      "div",
-      "div"
-    ],
-    "into": [
-      "div",
-      "div"
-    ],
-    "libraries": [
-      "div",
-      "div"
-    ],
-    "folders": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "views": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "work": [
-      "div",
-      "div"
-    ],
-    "differently": [
-      "div",
-      "div"
-    ],
-    "than": [
-      "div",
-      "div"
-    ],
-    "file": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "system": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "objects": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "although": [
-      "div",
-      "div"
-    ],
-    "there": [
-      "div",
-      "div"
-    ],
-    "are": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "some": [
-      "div",
-      "div"
-    ],
-    "similarities": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "mostly": [
-      "div",
-      "div"
-    ],
-    "way": [
-      "div",
-      "div"
-    ],
-    "they": [
-      "div",
-      "div"
-    ],
-    "navigated": [
-      "div",
-      "div"
-    ],
-    "-": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "contain": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "multiple": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "other": [
-      "div",
-      "div"
-    ],
-    "inside": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "them": [
-      "div",
-      "div"
-    ],
-    "difference": [
-      "div",
-      "div"
-    ],
-    "is": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "that": [
-      "div",
-      "div"
-    ],
-    "team": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "mentor": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "not": [
-      "div",
-      "div"
-    ],
-    "same": [
-      "div",
-      "div"
-    ],
-    "may": [
-      "div",
-      "div"
-    ],
-    "appear": [
-      "div",
-      "div"
-    ],
-    "and/or": [
-      "div",
-      "div"
-    ],
-    "views\n\n\nthe": [
-      "div"
-    ],
-    "allows": [
-      "div",
-      "div"
-    ],
-    "filtering": [
-      "div",
-      "div"
-    ],
-    "current": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "library/folder/view": [
-      "div",
-      "div",
-      "div",
-      "div"
+    "changes": [
+      "p"
     ],
     "based": [
-      "div",
-      "div"
+      "p",
+      "p"
     ],
-    "applicable": [
-      "div",
-      "div"
+    "chose": [
+      "p"
     ],
-    "technology": [
-      "div",
-      "div"
+    "search": [
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong",
+      "p",
+      "p"
     ],
-    "development": [
-      "div",
-      "div"
+    "page": [
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong",
+      "p",
+      "p",
+      "strong",
+      "p",
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p"
     ],
-    "phase": [
-      "div",
-      "div"
+    "default": [
+      "p"
+    ],
+    "is": [
+      "p",
+      "p",
+      "p"
     ],
     "type": [
-      "div",
-      "div"
+      "p",
+      "p"
     ],
-    "subject": [
-      "div",
-      "div"
+    "queries": [
+      "p"
     ],
-    "matter": [
-      "div",
-      "div"
+    "bar": [
+      "p"
     ],
-    "category": [
-      "div",
-      "div"
+    "also": [
+      "p",
+      "p"
     ],
-    "enabled": [
-      "div",
-      "div"
+    "shows": [
+      "p"
     ],
-    "disabled": [
-      "div",
-      "div"
+    "last": [
+      "p"
     ],
-    "using": [
-      "div",
-      "div",
-      "div",
-      "div"
+    "three": [
+      "p",
+      "p",
+      "p"
     ],
-    "corresponding": [
-      "div",
-      "div"
+    "recently": [
+      "p",
+      "p"
     ],
-    "checkboxes\n\n\nthe": [
-      "div"
-    ],
-    "displays": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "currently": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "selected": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "purpose": [
-      "div",
-      "div"
-    ],
-    "give": [
-      "div",
-      "div"
-    ],
-    "idea": [
-      "div",
-      "div"
-    ],
-    "what's": [
-      "div",
-      "div"
-    ],
-    "while": [
-      "div",
-      "div"
-    ],
-    "browsing": [
-      "div",
-      "div"
-    ],
-    "help": [
-      "div",
-      "div"
-    ],
-    "find": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "article \n\n\nthe": [
-      "div"
+    "viewed": [
+      "p",
+      "p",
+      "p"
     ],
     "articles": [
-      "div",
-      "div",
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "filtered": [
-      "div",
-      "div"
-    ],
-    "selecting": [
-      "div",
-      "div"
-    ],
-    "updates": [
-      "div",
-      "div"
-    ],
-    "with": [
-      "div",
-      "div"
-    ],
-    "contents": [
-      "div",
-      "div"
-    ],
-    "double-clicking": [
-      "div",
-      "div"
-    ],
-    "opens": [
-      "div",
-      "div"
-    ],
-    "it": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "new": [
-      "div",
-      "div"
-    ],
-    "window\n\n\nthe": [
-      "div"
-    ],
-    "designed": [
-      "div",
-      "div"
-    ],
-    "simple": [
-      "div",
-      "div"
-    ],
-    "intuitive": [
-      "div",
-      "div"
-    ],
-    "task": [
-      "div",
-      "div"
-    ],
-    "navigating": [
-      "div",
-      "div",
-      "div",
-      "div"
-    ],
-    "should": [
-      "div",
-      "div"
-    ],
-    "familiar": [
-      "div",
-      "div"
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
     ],
     "most": [
-      "div",
-      "div"
+      "p",
+      "p"
     ],
-    "users": [
-      "div",
-      "div"
+    "popular": [
+      "p"
     ],
-    "because": [
-      "div",
-      "div"
+    "trending": [
+      "p"
     ],
-    "similar": [
-      "div",
-      "div"
+    "terms": [
+      "p"
     ],
-    "file-system": [
-      "div",
-      "div"
+    "site\n(note": [
+      "p"
     ],
-    "function": [
-      "div"
+    "when": [
+      "p"
     ],
-    "panel": [
-      "div"
+    "first": [
+      "p"
     ],
-    "checkboxes": [
-      "div"
+    "sign": [
+      "p"
+    ],
+    "up": [
+      "p"
+    ],
+    "there": [
+      "p"
+    ],
+    "will": [
+      "p"
+    ],
+    "be": [
+      "p"
+    ],
+    "any": [
+      "p"
+    ],
+    "results": [
+      "p",
+      "strong",
+      "p",
+      "p"
+    ],
+    "displays": [
+      "p"
+    ],
+    "match": [
+      "p"
+    ],
+    "query": [
+      "p",
+      "p"
+    ],
+    "number": [
+      "p"
+    ],
+    "shown": [
+      "p"
+    ],
+    "displayed": [
+      "p"
+    ],
+    "numbered": [
+      "p"
+    ],
+    "relevance": [
+      "p"
+    ],
+    "icon's": [
+      "p"
+    ],
+    "next": [
+      "p"
+    ],
+    "provide": [
+      "p"
+    ],
+    "visual": [
+      "p"
+    ],
+    "queues": [
+      "p"
+    ],
+    "representing": [
+      "p"
+    ],
+    "their": [
+      "p"
+    ],
+    "relationship": [
+      "p"
+    ],
+    "filter": [
+      "p"
+    ],
+    "filters": [
+      "p",
+      "p",
+      "p"
+    ],
+    "right": [
+      "p",
+      "p"
+    ],
+    "help": [
+      "p"
+    ],
+    "narrow": [
+      "p"
+    ],
+    "down": [
+      "p"
+    ],
+    "read": [
+      "p"
+    ],
+    "more": [
+      "p"
+    ],
+    "about": [
+      "p"
+    ],
+    "here": [
+      "p",
+      "a"
+    ],
+    "index": [
+      "p",
+      "strong",
+      "p"
+    ],
+    "comprised": [
+      "p"
+    ],
+    "components": [
+      "p"
+    ],
+    "subject": [
+      "p"
+    ],
+    "matter": [
+      "p"
+    ],
+    "taxonomy": [
+      "p"
+    ],
+    "left": [
+      "p"
+    ],
+    "available": [
+      "p"
+    ],
+    "middle": [
+      "p"
+    ],
+    "article": [
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "view": [
+      "p",
+      "strong",
+      "p",
+      "p"
+    ],
+    "easy": [
+      "p"
+    ],
+    "distraction": [
+      "p"
+    ],
+    "free": [
+      "p"
+    ],
+    "way": [
+      "p"
+    ],
+    "reading": [
+      "p",
+      "p"
+    ],
+    "understanding": [
+      "p"
+    ],
+    "guidance": [
+      "p"
+    ],
+    "slightly": [
+      "p"
+    ],
+    "different": [
+      "p"
+    ],
+    "format": [
+      "p"
+    ],
+    "however": [
+      "p"
+    ],
+    "start": [
+      "p"
+    ],
+    "by": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "explaining": [
+      "p"
+    ],
+    "issue": [
+      "p"
+    ],
+    "high": [
+      "p"
+    ],
+    "level": [
+      "p"
+    ],
+    "continue": [
+      "p"
+    ],
+    "into": [
+      "p"
+    ],
+    "prescriptive": [
+      "p"
+    ],
+    "details": [
+      "p"
+    ],
+    "include": [
+      "p"
+    ],
+    "problem": [
+      "p"
+    ],
+    "solution": [
+      "p"
+    ],
+    "examples": [
+      "p"
+    ],
+    "followed": [
+      "p"
+    ],
+    "additional": [
+      "p"
+    ],
+    "references": [
+      "p"
+    ],
+    "open": [
+      "p",
+      "p"
+    ],
+    "clicking": [
+      "p"
+    ],
+    "title": [
+      "p",
+      "p"
+    ],
+    "ether": [
+      "p"
+    ],
+    "back": [
+      "p"
+    ],
+    "using": [
+      "p"
+    ],
+    "browsers": [
+      "p"
+    ],
+    "\"back\"": [
+      "p"
+    ],
+    "button": [
+      "p"
+    ],
+    "some": [
+      "p"
+    ],
+    "people": [
+      "p"
+    ],
+    "prefer": [
+      "p"
+    ],
+    "separate": [
+      "p"
+    ],
+    "tabs": [
+      "p"
+    ],
+    "right-clicking": [
+      "p"
+    ],
+    "selecting": [
+      "p"
+    ],
+    "\"open": [
+      "p"
+    ],
+    "new": [
+      "p"
+    ],
+    "tab\"": [
+      "p"
+    ],
+    "overview": [
+      "title"
     ]
   },
   "tags": {
-    "div": [
-      "The main user interface window has five panes: the banner pane at the top, the navigation pane on the left, the filters pane in the middle, the preview pane on the right, and the article list pane on the bottom. The navigation, filters, and preview panes\n can be hidden by clicking the rectangles in the middle of the respective border-lines. Each pane performs a specific function.\n\n\nThe banner pane provides access to application controls, such as logging in, switching to edit mode, or opening the control panel.\n\n\nThe navigation pane gives an overview of content organized into libraries, folders, and views. Folders and views work differently than file system objects, although there are some similarities. The similarities are mostly in the way they are navigated\n - folders contain multiple other objects inside them. The difference is that TEAM Mentor folders contain views, not file system objects - the same article may appear in multiple folders and/or views.\n\n\nThe filters pane allows filtering content in the current library/folder/view based on applicable technology, development phase, article type, and subject matter category. Filters can be enabled or disabled by using the corresponding checkboxes.\n\n\nThe preview pane displays the content of the currently selected article in the list. The purpose of the preview pane is to give the user an idea of what's inside while browsing the list to help find the right article. \n\n\nThe article list pane displays the list of articles in the current library/folder/view in the navigation pane. The list of articles is filtered using the currently selected filters in the filters pane. The article list is the main control of the application.\n Selecting an article in the list updates the preview pane with the contents of the selected article. Double-clicking on an article opens it in a new window.\n\n\nThe TEAM Mentor interface is designed to be simple and intuitive. The main task of navigating the content to find specific articles should be familiar to most users, because it is similar to navigating file-system objects.",
-      "The main user interface window has five panes: the banner pane at the top, the navigation pane on the left, the filters pane in the middle, the preview pane on the right, and the article list pane on the bottom. The navigation, filters, and preview panes\n can be hidden by clicking the rectangles in the middle of the respective border-lines. Each pane performs a specific function.",
+    "p": [
+      "TEAM Mentor provides two main avenues for accessing the vast content we offer. \"Searching and Filtering\", and \"Index Navigation\". Each aiming at providing the answers you are looking for in the least amounts of clicks. The best method to use depends on your goal.",
+      "If you have a specific question, and know what you are looking for, then simply use the \"search and filter\" .",
+      "If you are not sure what you are interested in, or simply would like to browse our content, use the \"Index\" directory to go through a list of topics until you find one that deserves your further attention.",
+      "The Main User Interface Has Two Areas.",
+      "The Top Menu. Which provides access to the \"Search\" and \"Index\" functionality, as well as access to this documentation. And the workspace below which changes based on the functionality chose.",
       "",
-      "The banner pane provides access to application controls, such as logging in, switching to edit mode, or opening the control panel.",
+      "Search Page",
+      "The default workspace is the \"Search\" page. Type your queries on the search bar.",
       "",
-      "The navigation pane gives an overview of content organized into libraries, folders, and views. Folders and views work differently than file system objects, although there are some similarities. The similarities are mostly in the way they are navigated\n - folders contain multiple other objects inside them. The difference is that TEAM Mentor folders contain views, not file system objects - the same article may appear in multiple folders and/or views.",
+      "The main search page also shows your last three recently viewed articles, the three most popular trending search terms in TEAM Mentor, and the top three articles viewed on the site.\n(Note that when you first sign up there will not be any recently viewed articles on the page)",
       "",
-      "The filters pane allows filtering content in the current library/folder/view based on applicable technology, development phase, article type, and subject matter category. Filters can be enabled or disabled by using the corresponding checkboxes.",
+      "Search Results Page",
+      "Search Results Page displays the list of articles that match your query. The number of articles shown is displayed on top.",
+      "The articles are numbered based on relevance to your query.",
+      "Icon's next to the articles provide visual queues representing their relationship to a filter.",
+      "The filters on your right help narrow down the search results. Read more about the filters here",
       "",
-      "The preview pane displays the content of the currently selected article in the list. The purpose of the preview pane is to give the user an idea of what's inside while browsing the list to help find the right article.",
+      "Index Page",
+      "The index page is comprised of 3 main components. The subject matter taxonomy on the left, the filters on the right, and the list of available articles in the middle.",
       "",
-      "The article list pane displays the list of articles in the current library/folder/view in the navigation pane. The list of articles is filtered using the currently selected filters in the filters pane. The article list is the main control of the application.\n Selecting an article in the list updates the preview pane with the contents of the selected article. Double-clicking on an article opens it in a new window.",
-      "",
-      "The TEAM Mentor interface is designed to be simple and intuitive. The main task of navigating the content to find specific articles should be familiar to most users, because it is similar to navigating file-system objects.",
+      "Article View Page",
+      "Article view page provides easy, distraction free, way of reading and understanding the content. Each guidance type has a slightly different format. However, most start by explaining the issue at high level, continue into prescriptive details, include problem and solution examples, and are followed by additional reading references.",
+      "Open the article view page by clicking on the title of the article on ether \"Search\" or \"Index\" Page.",
+      "Go back to the list by using your browsers \"Back\" button. Some people also prefer to open articles in separate tabs, by right-clicking on the article title and selecting \"Open in new tab\"",
       ""
     ],
-    "br": [
-      "",
+    "strong": [
+      "The Main User Interface Has Two Areas.",
+      "Search Page",
+      "Search Results Page",
+      "Index Page",
+      "Article View Page"
+    ],
+    "img": [
       "",
       "",
       "",
       "",
       "",
       ""
+    ],
+    "a": [
+      "here"
     ]
   },
-  "links": [],
-  "html": "\n<div>\n<div>The main user interface window has five panes: the banner pane at the top, the navigation pane on the left, the filters pane in the middle, the preview pane on the right, and the article list pane on the bottom. The navigation, filters, and preview panes\n can be hidden by clicking the rectangles in the middle of the respective border-lines. Each pane performs a specific function.</div>\n<div><br>\n</div>\n<div>The banner pane provides access to application controls, such as logging in, switching to edit mode, or opening the control panel.</div>\n<div><br>\n</div>\n<div>The navigation pane gives an overview of content organized into libraries, folders, and views. Folders and views work differently than file system objects, although there are some similarities. The similarities are mostly in the way they are navigated\n - folders contain multiple other objects inside them. The difference is that TEAM Mentor folders contain views, not file system objects - the same article may appear in multiple folders and/or views.</div>\n<div><br>\n</div>\n<div>The filters pane allows filtering content in the current library/folder/view based on applicable technology, development phase, article type, and subject matter category. Filters can be enabled or disabled by using the corresponding checkboxes.</div>\n<div><br>\n</div>\n<div>The preview pane displays the content of the currently selected article in the list. The purpose of the preview pane is to give the user an idea of what's inside while browsing the list to help find the right article.&nbsp;</div>\n<div><br>\n</div>\n<div>The article list pane displays the list of articles in the current library/folder/view in the navigation pane. The list of articles is filtered using the currently selected filters in the filters pane. The article list is the main control of the application.\n Selecting an article in the list updates the preview pane with the contents of the selected article. Double-clicking on an article opens it in a new window.</div>\n<div><br>\n</div>\n<div>The TEAM Mentor interface is designed to be simple and intuitive. The main task of navigating the content to find specific articles should be familiar to most users, because it is similar to navigating file-system objects.<br>\n</div>\n</div>\n<div></div>\n"
+  "links": [
+    {
+      "href": "00000000-0000-0000-0000-0000001a9296",
+      "text": "here"
+    }
+  ],
+  "html": "<p>TEAM Mentor provides two main avenues for accessing the vast content we offer. &quot;Searching and Filtering&quot;, and &quot;Index Navigation&quot;. Each aiming at providing the answers you are looking for in the least amounts of clicks. The best method to use depends on your goal.</p>\n<p>If you have a specific question, and know what you are looking for, then simply use the &quot;search and filter&quot; .</p>\n<p>If you are not sure what you are interested in, or simply would like to browse our content, use the &quot;Index&quot; directory to go through a list of topics until you find one that deserves your further attention.</p>\n<p><strong>The Main User Interface Has Two Areas.</strong></p>\n<p>The Top Menu. Which provides access to the &quot;Search&quot; and &quot;Index&quot; functionality, as well as access to this documentation. And the workspace below which changes based on the functionality chose.</p>\n<p><img src=\"/Image/uioverview01.png\" alt=\"\"></p>\n<p><strong>Search Page</strong></p>\n<p>The default workspace is the &quot;Search&quot; page. Type your queries on the search bar.</p>\n<p><img src=\"/Image/search01.png\" alt=\"\"></p>\n<p>The main search page also shows your last three recently viewed articles, the three most popular trending search terms in TEAM Mentor, and the top three articles viewed on the site.\n(Note that when you first sign up there will not be any recently viewed articles on the page)</p>\n<p><img src=\"/Image/search02.png\" alt=\"\"></p>\n<p><strong>Search Results Page</strong></p>\n<p>Search Results Page displays the list of articles that match your query. The number of articles shown is displayed on top.</p>\n<p>The articles are numbered based on relevance to your query.</p>\n<p>Icon's next to the articles provide visual queues representing their relationship to a filter.</p>\n<p>The filters on your right help narrow down the search results. Read more about the filters <a href=\"00000000-0000-0000-0000-0000001a9296\">here</a></p>\n<p><img src=\"/Image/search03.png\" alt=\"\"></p>\n<p><strong>Index Page</strong></p>\n<p>The index page is comprised of 3 main components. The subject matter taxonomy on the left, the filters on the right, and the list of available articles in the middle.</p>\n<p><img src=\"/Image/index01.png\" alt=\"\"></p>\n<p><strong>Article View Page</strong></p>\n<p>Article view page provides easy, distraction free, way of reading and understanding the content. Each guidance type has a slightly different format. However, most start by explaining the issue at high level, continue into prescriptive details, include problem and solution examples, and are followed by additional reading references.</p>\n<p>Open the article view page by clicking on the title of the article on ether &quot;Search&quot; or &quot;Index&quot; Page.</p>\n<p>Go back to the list by using your browsers &quot;Back&quot; button. Some people also prefer to open articles in separate tabs, by right-clicking on the article title and selecting &quot;Open in new tab&quot;</p>\n<p><img src=\"/Image/example1-05.png\" alt=\"\"></p>\n"
 }

@@ -1,6 +1,6 @@
 {
   "id": "00000000-0000-0000-0000-000000579bb9",
-  "checksum": "e27797e9a68afac3e00a532797fdd7d403f9b11f",
+  "checksum": "cb0395c5dea4f636f8bd8e81962d5257d31255c8",
   "words": {
     "editing": [
       "div",
@@ -339,35 +339,17 @@
     ],
     "destination": [
       "div"
-    ],
-    "items": [
-      "div"
-    ],
-    "cannot": [
-      "div"
-    ],
-    "be": [
-      "div"
-    ],
-    "moved": [
-      "div"
-    ],
-    "across": [
-      "div"
-    ],
-    "libraries": [
-      "div"
     ]
   },
   "tags": {
     "div": [
-      "Editing content in TEAM Mentor is done via \"Edit Mode\". \"Edit Mode\" is only available to Editors and Administrators. To access \"Edit Mode\", login as either an Administrator or an Editor user and click the \"Edit Mode\" link in the top right of the main user\n interface.",
+      "Editing content in TEAM Mentor is done via \"Edit Mode\". \"Edit Mode\" is only available to Editors and Administrators. To access \"Edit Mode\", login as either an Administrator or an Editor user and click the \"Edit Mode\" link in the top right of the main user\r\n interface.",
       "",
-      "The two main ways to edit folders in TEAM Mentor are via the right-click context menu and via drag & drop operations. Right-click context menu operations allow managing the folders themselves, while drag & drop operations allow placing content inside of\n folders.",
+      "The two main ways to edit folders in TEAM Mentor are via the right-click context menu and via drag & drop operations. Right-click context menu operations allow managing the folders themselves, while drag & drop operations allow placing content inside of\r\n folders.",
       "",
-      "The right-click content menu provides the following options: \"Add View\", \"Add Folder\", \"Rename Folder\", \"Delete Folder\", and \"Exit Edit Mode\". \"Add View\" creates a new view in the selected folder. \"Add Folder\" creates a new folder inside the selected folder.\n \"Rename Folder\" allows renaming the current folder. \"Delete Folder\" deletes the clicked folder. \"Exit Edit Mode\" returns the user interface to regular mode.",
+      "The right-click content menu provides the following options: \"Add View\", \"Add Folder\", \"Rename Folder\", \"Delete Folder\", and \"Exit Edit Mode\". \"Add View\" creates a new view in the selected folder. \"Add Folder\" creates a new folder inside the selected folder.\r\n \"Rename Folder\" allows renaming the current folder. \"Delete Folder\" deletes the clicked folder. \"Exit Edit Mode\" returns the user interface to regular mode.",
       "",
-      "Drag & drop operations allow placing existing views inside a folder. To move a view into a folder, drag it into the destination folder. Items cannot be moved across libraries.",
+      "Drag & drop operations allow placing existing views inside a folder. To move a view into a folder, drag it into the destination folder.",
       "",
       ""
     ],
@@ -381,5 +363,5 @@
     ]
   },
   "links": [],
-  "html": "\n<div>Editing content in TEAM Mentor is done via &quot;Edit Mode&quot;. &quot;Edit Mode&quot; is only available to Editors and Administrators. To access &quot;Edit Mode&quot;, login as either an Administrator or an Editor user and click the &quot;Edit Mode&quot; link in the top right of the main user\n interface.</div>\n<div><br>\n</div>\n<div>The two main ways to edit folders in TEAM Mentor are via the right-click context menu and via drag &amp; drop operations. Right-click context menu operations allow managing the folders themselves, while drag &amp; drop operations allow placing content inside of\n folders.</div>\n<div><br>\n</div>\n<div>The right-click content menu provides the following options: &quot;Add View&quot;, &quot;Add Folder&quot;, &quot;Rename Folder&quot;, &quot;Delete Folder&quot;, and &quot;Exit Edit Mode&quot;. &quot;Add View&quot; creates a new view in the selected folder. &quot;Add Folder&quot; creates a new folder inside the selected folder.\n &quot;Rename Folder&quot; allows renaming the current folder. &quot;Delete Folder&quot; deletes the clicked folder. &quot;Exit Edit Mode&quot; returns the user interface to regular mode.</div>\n<div><br>\n</div>\n<div>Drag &amp; drop operations allow placing existing views inside a folder. To move a view into a folder, drag it into the destination folder. Items cannot be moved across libraries.</div>\n<div><font size=\"2\"></font></div>\n<div></div>\n"
+  "html": "<div>Editing content in TEAM Mentor is done via \"Edit Mode\". \"Edit Mode\" is only available to Editors and Administrators. To access \"Edit Mode\", login as either an Administrator or an Editor user and click the \"Edit Mode\" link in the top right of the main user\r\n interface.</div>\r\n  <div>\r\n    <br />\r\n  </div>\r\n  <div>The two main ways to edit folders in TEAM Mentor are via the right-click context menu and via drag &amp; drop operations. Right-click context menu operations allow managing the folders themselves, while drag &amp; drop operations allow placing content inside of\r\n folders.</div>\r\n  <div>\r\n    <br />\r\n  </div>\r\n  <div>The right-click content menu provides the following options: \"Add View\", \"Add Folder\", \"Rename Folder\", \"Delete Folder\", and \"Exit Edit Mode\". \"Add View\" creates a new view in the selected folder. \"Add Folder\" creates a new folder inside the selected folder.\r\n \"Rename Folder\" allows renaming the current folder. \"Delete Folder\" deletes the clicked folder. \"Exit Edit Mode\" returns the user interface to regular mode.</div>\r\n  <div>\r\n    <br />\r\n  </div>\r\n  <div>Drag &amp; drop operations allow placing existing views inside a folder. To move a view into a folder, drag it into the destination folder.</div>\r\n  <div>\r\n    <font size=\"2\">\r\n    </font>\r\n  </div>\r\n  <div>\r\n  </div>"
 }

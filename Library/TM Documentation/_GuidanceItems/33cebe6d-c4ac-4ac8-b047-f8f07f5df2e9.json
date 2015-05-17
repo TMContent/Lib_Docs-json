@@ -1,0 +1,56 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "33cebe6d-c4ac-4ac8-b047-f8f07f5df2e9"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "Installing Reverse Proxy"
+        ],
+        "Category": [
+          ""
+        ],
+        "Phase": [
+          "NA"
+        ],
+        "Technology": [
+          ""
+        ],
+        "Type": [
+          ""
+        ],
+        "DirectLink": [
+          ""
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "markdown"
+        },
+        "Data": [
+          "#### Edit Configuration\r\n\r\nIn the \\TM40-PXY directory edit the *web.config* file using the notepad editor\r\n\r\n![](/Image/install08.png)\r\n\r\n1.  Change the line:\r\n    \r\n    ```<action type=\"Rewrite\" value=\"http{R:1}://tmstg02-beta.teammentor.net/{R:2}\" />``` \r\n    \r\n    Replacing *tmstg02-beta.teammentor.net* with the URL  of your site. For example *www.teammentor.net*\r\n    \r\n2. Change the lines for custom errors.\r\n    \r\n    Replacing *tmstg02-beta.teammentor.net* with the URL for your site. Make sure to leave the last /error as is and only change the first part of the URL. For example replace with *www.teammentor.net* . \r\n    \r\n    This is with the exception of the line.  \r\n    \r\n    ``` <error statusCode=\"403\" subStatusCode=\"4\" path=\"https://tmstg02-beta.teammentor.net\" responseMode=\"Redirect\" />```\r\n    \r\n     This should have no */error* at the end. \r\n     \r\n3. Change the default error to the correct URL.\r\n\r\n     ```<customErrors mode=\"RemoteOnly\" defaultRedirect=\"https://tmstg02-beta.teammentor.net/error\" />```\r\n\r\n#### Configure IIS Site.\r\n- Open IIS and choose to “Add Site”\r\n- Give the site a name. Point the physical path to the TM40-PXY directory. \r\n- Enter the hostname of your TM40 site. This will be the URL most users will be accessing at all times.\r\n\r\n![](/Image/install09.png)\r\n\r\nEdit bindings and add the SSL version of the site.\r\n\r\n\r\n#### Force SSL\r\n- In the Proxy site you’ve just configured open SSL Settings\r\n- Click on “Require SSL”\r\n\r\n![](/Image/install10.png)\r\n\r\n#### Enable URL Rewrite\r\n- In the server node configuration, select Application Request Routing\r\n- Select “Server Proxy Settings” On the right hand side\r\n- Click “Enable Proxy” \r\n\r\n![](/Image/install11.png)\r\n\r\n\r\n"
+        ]
+      }
+    ]
+  }
+}

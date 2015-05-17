@@ -1,8 +1,12 @@
 {
   "id": "d0b2bade-6d25-4c61-8ae3-94ae0110f959",
-  "checksum": "40348e2150db98007d3080b1e2f1ad39f5d64176",
+  "checksum": "850aaf5113fd297a213c4de48bf5628e496e23e2",
   "words": {
+    "36": [
+      "p"
+    ],
     "team": [
+      "p",
       "p",
       "p",
       "p",
@@ -22,12 +26,15 @@
       "p",
       "p",
       "p",
+      "p",
       "p"
     ],
     "has": [
       "p"
     ],
     "the": [
+      "p",
+      "p",
       "p",
       "p",
       "p",
@@ -117,6 +124,7 @@
       "p",
       "p",
       "p",
+      "p",
       "strong",
       "em"
     ],
@@ -169,6 +177,7 @@
       "p"
     ],
     "account": [
+      "p",
       "p"
     ],
     "used": [
@@ -203,6 +212,7 @@
       "p"
     ],
     "in": [
+      "p",
       "p",
       "p"
     ],
@@ -283,12 +293,43 @@
       "p"
     ],
     "tbot": [
-      "p"
+      "p",
+      "p",
+      "em"
     ],
     "configuration": [
       "p"
     ],
     "page": [
+      "p"
+    ],
+    "login": [
+      "p"
+    ],
+    "back-end": [
+      "p"
+    ],
+    "with": [
+      "p"
+    ],
+    "administrator": [
+      "p",
+      "p"
+    ],
+    "privilege": [
+      "p"
+    ],
+    "click": [
+      "p"
+    ],
+    "on": [
+      "p"
+    ],
+    "top": [
+      "p"
+    ],
+    "menu": [
+      "p",
       "p"
     ],
     "from": [
@@ -299,12 +340,6 @@
       "em"
     ],
     "main": [
-      "p"
-    ],
-    "administrator": [
-      "p"
-    ],
-    "menu": [
       "p"
     ],
     "and": [
@@ -476,7 +511,7 @@
     "p": [
       "TEAM Mentor has the capability of sending email. This is required for “Forgot Password” functionality to send the temporary password reset link. TEAM Mentor will also send status emails to specified Admin account. Email is also used for user approval workflow, if enabled. As explained in Managing Users.",
       "A good way to customize your TEAM Mentor installation for your organization is to configure an Email Footer. This will be appended to all email sent by TEAM Mentor.",
-      "To configure email, access Tbot configuration page from the main Administrator Menu and select \"Edit Secret Data\" in Admin-Config row. Complete the information under the SMTP Config section.",
+      "To configure email, access Tbot configuration page. Login to the TEAM Mentor 3.6 Back-end with administrator privilege account. Click on Tbot in the top menu. From the main Administrator Menu and select \"Edit Secret Data\" in Admin-Config row. Complete the information under the SMTP Config section.",
       "",
       "Hit \"Save Data\" once you are done",
       "The following is the explanation of all the options:",
@@ -485,6 +520,11 @@
     ],
     "a": [
       "Managing Users"
+    ],
+    "em": [
+      "Tbot",
+      "from",
+      "to"
     ],
     "img": [
       ""
@@ -504,17 +544,13 @@
       "",
       "",
       ""
-    ],
-    "em": [
-      "from",
-      "to"
     ]
   },
   "links": [
     {
-      "href": "/article/00000000-0000-0000-0000-0000001c8add",
+      "href": "00000000-0000-0000-0000-0000001c8add",
       "text": "Managing Users"
     }
   ],
-  "html": "<p>TEAM Mentor has the capability of sending email. This is required for “Forgot Password” functionality to send the temporary password reset link. TEAM Mentor will also send status emails to specified Admin account. Email is also used for user approval workflow, if enabled. As explained in <a href=\"/article/00000000-0000-0000-0000-0000001c8add\">Managing Users</a>. \n</p><p>\nA good way to customize your TEAM Mentor installation for your organization is to configure an Email Footer. This will be appended to all email sent by TEAM Mentor. \n</p><p>\nTo configure email, access Tbot configuration page from the main Administrator Menu and select \"Edit Secret Data\" in Admin-Config row. Complete the information under the SMTP Config section. \n</p><p>\n<img src=\"/Image/smtp01.jpg\">\n</p><p>\nHit \"Save Data\" once you are done \n</p><p>\nThe following is the explanation of all the options:\n</p><p>\n<strong>Server</strong> - SMTP Server to be used to send email<br>\n<strong>UserName</strong> - SMTP User name for the Server<br>\n<strong>Password</strong> - Password for the SMTP username<br>\n<strong>Default From</strong> - The default email address that TEAM Mentor will use to send email <em>from</em>. <br>\n<strong>Default To</strong> - This is the default admin email address that all the TEAM Mentor email will be sent <em>to</em>. This includes the status emails as well as the approval workflow emails<br>\n<strong>Email Footer</strong> - This will be appended to ALL emails sent by TEAM Mentor, including new user welcome emails. This is a good way to customize you TEAM Mentor instance for your organization.<br>\n</p>\n<p>\nNote that TEAM Mentor does not currently support unauthenticated SMTP connections. </p>"
+  "html": "<p>TEAM Mentor has the capability of sending email. This is required for “Forgot Password” functionality to send the temporary password reset link. TEAM Mentor will also send status emails to specified Admin account. Email is also used for user approval workflow, if enabled. As explained in <a href=\"00000000-0000-0000-0000-0000001c8add\">Managing Users</a>. \n</p><p>\nA good way to customize your TEAM Mentor installation for your organization is to configure an Email Footer. This will be appended to all email sent by TEAM Mentor. \n</p><p>\nTo configure email, access Tbot configuration page. Login to the TEAM Mentor 3.6 Back-end with administrator privilege account. Click on <em>Tbot</em> in the top menu. From the main Administrator Menu and select \"Edit Secret Data\" in Admin-Config row. Complete the information under the SMTP Config section. \n</p><p>\n<img src=\"/Image/smtp01.jpg\">\n</p><p>\nHit \"Save Data\" once you are done \n</p><p>\nThe following is the explanation of all the options:\n</p><p>\n<strong>Server</strong> - SMTP Server to be used to send email<br>\n<strong>UserName</strong> - SMTP User name for the Server<br>\n<strong>Password</strong> - Password for the SMTP username<br>\n<strong>Default From</strong> - The default email address that TEAM Mentor will use to send email <em>from</em>. <br>\n<strong>Default To</strong> - This is the default admin email address that all the TEAM Mentor email will be sent <em>to</em>. This includes the status emails as well as the approval workflow emails<br>\n<strong>Email Footer</strong> - This will be appended to ALL emails sent by TEAM Mentor, including new user welcome emails. This is a good way to customize you TEAM Mentor instance for your organization.<br>\n</p>\n<p>\nNote that TEAM Mentor does not currently support unauthenticated SMTP connections. </p>"
 }

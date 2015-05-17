@@ -1,11 +1,12 @@
 {
   "id": "00000000-0000-0000-0000-00000008578b",
-  "checksum": "ce2ad9d827759545b2bbcd3428d96efc44ce5c8a",
+  "checksum": "6497ef79f8317b693f898248552323b83c95ba04",
   "words": {
     "users": [
       "p"
     ],
     "can": [
+      "p",
       "p",
       "p"
     ],
@@ -18,13 +19,9 @@
       "p"
     ],
     "team": [
-      "p",
-      "p",
       "p"
     ],
     "mentor": [
-      "p",
-      "p",
       "p"
     ],
     "accounts": [
@@ -42,31 +39,76 @@
       "p",
       "p",
       "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
       "p"
     ],
     "\"sign": [
-      "p",
       "p",
       "p"
     ],
     "up\"": [
       "p",
+      "p"
+    ],
+    "link": [
       "p",
       "p"
     ],
-    "window": [
+    "on": [
+      "p"
+    ],
+    "top": [
+      "p"
+    ],
+    "menu": [
+      "p"
+    ],
+    "at": [
+      "p"
+    ],
+    "security": [
       "p",
+      "p"
+    ],
+    "innovation": [
+      "p"
+    ],
+    "we": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "believe": [
+      "p"
+    ],
+    "in": [
+      "p"
+    ],
+    "quick": [
+      "p",
+      "p"
+    ],
+    "just-in-time": [
+      "p"
+    ],
+    "answers": [
+      "p"
+    ],
+    "to": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "your": [
+      "p",
+      "p",
+      "p"
+    ],
+    "questions": [
+      "p"
+    ],
+    "that": [
       "p",
       "p"
     ],
@@ -76,95 +118,62 @@
       "p",
       "p"
     ],
-    "available": [
+    "why": [
+      "p"
+    ],
+    "make": [
+      "p"
+    ],
+    "sign": [
+      "p"
+    ],
+    "up": [
+      "p",
+      "title"
+    ],
+    "process": [
+      "p"
+    ],
+    "as": [
       "p",
       "p"
     ],
-    "in": [
-      "p",
+    "possible": [
       "p"
     ],
-    "\"preview": [
+    "only": [
       "p"
     ],
-    "pane\"": [
-      "p"
-    ],
-    "of": [
-      "p",
-      "p"
-    ],
-    "when": [
-      "p"
-    ],
-    "administrator": [
-      "p",
-      "p"
-    ],
-    "has": [
-      "p",
-      "p"
-    ],
-    "enabled": [
-      "p",
-      "p"
-    ],
-    "evaluation": [
-      "p"
-    ],
-    "accouts": [
-      "p"
-    ],
-    "these": [
-      "p"
-    ],
-    "are": [
-      "p",
-      "p"
-    ],
-    "trhough": [
-      "p"
-    ],
-    "evalaccounts_enabled": [
-      "p"
-    ],
-    "option": [
-      "p"
-    ],
-    "config": [
-      "p"
-    ],
-    "file": [
-      "p"
-    ],
-    "input": [
-      "p"
-    ],
-    "fields": [
+    "ask": [
       "p"
     ],
     "for": [
       "p",
-      "p",
       "title"
+    ],
+    "information": [
+      "p",
+      "p",
+      "p"
+    ],
+    "absolutely": [
+      "p"
+    ],
+    "required": [
+      "p"
+    ],
+    "account": [
+      "p",
+      "p"
     ],
     "username": [
       "p"
     ],
-    "password": [
-      "p"
-    ],
-    "e-mail": [
-      "p"
-    ],
-    "address": [
-      "p"
-    ],
-    "first": [
+    "you": [
       "p",
       "p"
     ],
-    "name": [
+    "password": [
       "p",
       "p"
     ],
@@ -172,24 +181,32 @@
       "p",
       "p"
     ],
-    "last": [
-      "p"
-    ],
-    "three": [
-      "p"
-    ],
-    "mandatory": [
-      "p"
-    ],
-    "to": [
-      "p",
-      "p"
-    ],
     "an": [
       "p"
     ],
-    "account": [
+    "email": [
+      "p"
+    ],
+    "address": [
+      "p"
+    ],
+    "send": [
+      "p"
+    ],
+    "reset": [
+      "p"
+    ],
+    "if": [
       "p",
+      "p"
+    ],
+    "happen": [
+      "p"
+    ],
+    "need": [
+      "p"
+    ],
+    "it": [
       "p"
     ],
     "clicking": [
@@ -202,13 +219,6 @@
       "p"
     ],
     "entered": [
-      "p"
-    ],
-    "information": [
-      "p",
-      "p"
-    ],
-    "if": [
       "p"
     ],
     "submitted": [
@@ -224,55 +234,18 @@
       "p"
     ],
     "be": [
-      "p",
       "p"
     ],
     "used": [
       "p"
     ],
     "access": [
-      "p",
       "p"
     ],
     "application": [
-      "p",
-      "p"
-    ],
-    "will": [
-      "p"
-    ],
-    "amount": [
-      "p"
-    ],
-    "days": [
-      "p"
-    ],
-    "configured": [
-      "p",
-      "p"
-    ],
-    "by": [
-      "p"
-    ],
-    "this": [
-      "p"
-    ],
-    "through": [
-      "p"
-    ],
-    "evalaccounts_day": [
-      "p"
-    ],
-    "configuration": [
-      "p"
-    ],
-    "parameter": [
       "p"
     ],
     "signing": [
-      "title"
-    ],
-    "up": [
       "title"
     ],
     "regular": [
@@ -281,9 +254,18 @@
   },
   "tags": {
     "p": [
-      "Users can create new TEAM Mentor accounts via the \"Sign Up\" window. The TEAM Mentor \"Sign Up\" window is available in the \"preview pane\" of TEAM Mentor when the administrator has enabled Evaluation Accouts. These are enabled trhough EvalAccounts_Enabled option in the config file. The window has input fields for the username, the password, the e-mail address, the first name, and the last name; the first three are mandatory to create an account. Clicking the \"Sign Up\" button submits the entered information. If the submitted information is valid, a new account is created and can be used to access the application. The application access will be available for the amount of days configured by the administrator. This is configured through EvalAccounts_Day configuration parameter."
+      "Users can create new TEAM Mentor accounts via the \"Sign Up\" link on the top menu.",
+      "",
+      "At Security Innovation, we believe in quick, just-in-time answers to your security questions. That is why we make the sign up process as quick as possible. We only ask for information that is absolutely required to create your account. Your username, you password, and an email address we can send the password reset link, if you happen to need it.",
+      "",
+      "Clicking the \"Sign Up\" button submits the entered information. If the submitted information is valid, a new account is created and can be used to access the application.",
+      "."
+    ],
+    "img": [
+      "",
+      ""
     ]
   },
   "links": [],
-  "html": "<p>Users can create new TEAM Mentor accounts via the \"Sign Up\" window. The TEAM Mentor \"Sign Up\" window is available in the \"preview pane\" of TEAM Mentor when the administrator has enabled Evaluation Accouts. These are enabled trhough EvalAccounts_Enabled option in the config file. The window has input fields for the username, the password, the e-mail address, the first name, and the last name; the first three are mandatory to create an account. Clicking the \"Sign Up\" button submits the entered information. If the submitted information is valid, a new account is created and can be used to access the application. The application access will be available for the amount of days configured by the administrator. This is configured through EvalAccounts_Day configuration parameter. </p>"
+  "html": "<p>Users can create new TEAM Mentor accounts via the &quot;Sign Up&quot; link on the top menu.</p>\n<p><img src=\"/Image/signup01.png\" alt=\"\"></p>\n<p>At Security Innovation, we believe in quick, just-in-time answers to your security questions. That is why we make the sign up process as quick as possible. We only ask for information that is absolutely required to create your account. Your username, you password, and an email address we can send the password reset link, if you happen to need it.</p>\n<p><img src=\"/Image/signup02.png\" alt=\"\"></p>\n<p>Clicking the &quot;Sign Up&quot; button submits the entered information. If the submitted information is valid, a new account is created and can be used to access the application.</p>\n<p>.</p>\n"
 }

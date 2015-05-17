@@ -1,23 +1,15 @@
 {
   "id": "0bfb008b-49c8-4526-bb6a-0a21d01eeb0e",
-  "checksum": "cda1c31c984bd8cbfb3a22027304ee939e0434b3",
+  "checksum": "44f1ee2b9aeb97b91e4552f27222cfcfe2291d2d",
   "words": {
-    "2": [
+    "3": [
       "p"
     ],
     "8": [
       "ul",
       "li"
     ],
-    "16": [
-      "p"
-    ],
-    "40": [
-      "p",
-      "h2",
-      "p"
-    ],
-    "61": [
+    "30": [
       "p"
     ],
     "signing": [
@@ -40,11 +32,24 @@
       "p",
       "p",
       "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
       "h2",
-      "p",
-      "p",
-      "p",
-      "p",
       "p",
       "p",
       "p",
@@ -79,24 +84,17 @@
       "p",
       "p",
       "p",
-      "p",
+      "h2",
       "p"
     ],
     "administrator": [
       "p"
     ],
     "had": [
-      "p",
       "p"
     ],
     "set": [
       "p",
-      "h2",
-      "p",
-      "p",
-      "p",
-      "p",
-      "h2",
       "p",
       "p"
     ],
@@ -117,14 +115,19 @@
       "p",
       "p",
       "p",
-      "h2",
       "p",
       "p",
       "p",
       "p",
       "p",
       "p",
-      "h2",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
       "p",
       "p"
     ],
@@ -133,7 +136,6 @@
       "p",
       "p",
       "h2",
-      "p",
       "p",
       "p",
       "h2",
@@ -148,7 +150,6 @@
       "p",
       "p",
       "h2",
-      "p",
       "p",
       "p",
       "h2",
@@ -191,9 +192,25 @@
       "p",
       "p",
       "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
       "p"
     ],
     "may": [
+      "p",
+      "p",
       "p",
       "p",
       "p",
@@ -253,6 +270,9 @@
       "p",
       "p",
       "p",
+      "p",
+      "p",
+      "p",
       "p"
     ],
     "create": [
@@ -260,7 +280,6 @@
       "p"
     ],
     "an": [
-      "p",
       "p",
       "p",
       "p"
@@ -272,15 +291,17 @@
       "p"
     ],
     "security": [
+      "p",
       "p"
     ],
     "innovation": [
       "p"
     ],
     "allows": [
+      "p",
       "p"
     ],
-    "weeks": [
+    "days": [
       "p"
     ],
     "free": [
@@ -297,7 +318,6 @@
       "a"
     ],
     "-": [
-      "p",
       "p"
     ],
     "a": [
@@ -313,7 +333,6 @@
       "p",
       "p",
       "p",
-      "h2",
       "p",
       "p",
       "p",
@@ -322,20 +341,31 @@
       "p",
       "p",
       "p",
-      "h2",
+      "p",
       "p",
       "p"
     ],
     "full": [
-      "p",
       "p",
       "p"
     ],
     "version": [
       "p"
     ],
-    "fill": [
+    "click": [
       "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "\"sign": [
+      "p"
+    ],
+    "up\"": [
       "p"
     ],
     "in": [
@@ -343,26 +373,6 @@
       "p",
       "ul",
       "li",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
       "p",
       "p",
       "p",
@@ -487,7 +497,20 @@
       "p",
       "p"
     ],
-    "bolded": [
+    "top": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "menu": [
+      "p",
+      "p"
+    ],
+    "fill": [
+      "p",
       "p"
     ],
     "username": [
@@ -515,81 +538,21 @@
       "p",
       "p",
       "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
       "p"
     ],
     "e-mail": [
       "p"
     ],
-    "selected": [
-      "p",
-      "p",
-      "p"
-    ],
-    "article": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p"
-    ],
-    "pane": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p"
-    ],
-    "click": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p"
-    ],
     "sign": [
+      "p",
       "p"
     ],
     "note": [
       "p",
-      "p",
       "p"
     ],
     "that": [
+      "p",
       "p",
       "p",
       "p",
@@ -616,14 +579,9 @@
       "p",
       "p",
       "p",
-      "p",
-      "p",
       "p"
     ],
     "be": [
-      "p",
-      "p",
-      "p",
       "p",
       "p",
       "p",
@@ -635,9 +593,6 @@
       "p"
     ],
     "use": [
-      "p",
-      "p",
-      "p",
       "p",
       "p",
       "p",
@@ -669,7 +624,10 @@
       "li",
       "li",
       "li",
-      "li"
+      "li",
+      "p",
+      "p",
+      "p"
     ],
     "least": [
       "ul",
@@ -698,6 +656,7 @@
       "li",
       "li",
       "li",
+      "p",
       "p",
       "p"
     ],
@@ -730,8 +689,6 @@
       "p",
       "p",
       "p",
-      "p",
-      "p",
       "p"
     ],
     "decimal": [
@@ -754,9 +711,6 @@
       "p"
     ],
     "are": [
-      "p",
-      "p",
-      "p",
       "p",
       "p",
       "p",
@@ -823,8 +777,6 @@
     "content": [
       "p",
       "p",
-      "p",
-      "p",
       "p"
     ],
     "login": [
@@ -833,15 +785,13 @@
     ],
     "link": [
       "p",
-      "p",
-      "p",
-      "p",
-      "p"
-    ],
-    "top": [
       "p"
     ],
     "right": [
+      "p",
+      "p",
+      "p",
+      "p",
       "p",
       "p",
       "p",
@@ -851,7 +801,6 @@
       "p"
     ],
     "enter": [
-      "p",
       "p"
     ],
     "user": [
@@ -860,17 +809,8 @@
     "credentials": [
       "p"
     ],
-    "into": [
-      "p",
-      "p"
-    ],
-    "pop": [
-      "p"
-    ],
-    "appears": [
-      "p"
-    ],
     "after": [
+      "p",
       "p",
       "p",
       "p"
@@ -890,7 +830,6 @@
       "p",
       "p",
       "p",
-      "p",
       "p"
     ],
     "forgotten": [
@@ -905,13 +844,16 @@
     "email": [
       "p",
       "p",
-      "p"
-    ],
-    "address": [
       "p",
       "p"
     ],
+    "address": [
+      "p"
+    ],
     "then": [
+      "p",
+      "p",
+      "p",
       "p"
     ],
     "reset": [
@@ -927,17 +869,16 @@
       "p",
       "p",
       "p",
-      "p",
+      "p"
+    ],
+    "searching": [
+      "h3",
       "p"
     ],
     "simplest": [
       "p"
     ],
     "way": [
-      "p",
-      "p"
-    ],
-    "navigate": [
       "p"
     ],
     "is": [
@@ -951,43 +892,15 @@
       "p",
       "p"
     ],
-    "via": [
-      "p"
-    ],
-    "navigation": [
+    "by": [
       "p",
       "p",
       "p",
       "p",
-      "p"
-    ],
-    "left": [
-      "p"
-    ],
-    "shows": [
-      "p"
-    ],
-    "tree": [
-      "p",
-      "p"
-    ],
-    "representation": [
-      "p"
-    ],
-    "available": [
-      "p"
-    ],
-    "libraries": [
-      "p",
-      "p"
-    ],
-    "as": [
       "p",
       "p",
       "p",
-      "p"
-    ],
-    "folders": [
+      "p",
       "p",
       "p",
       "p",
@@ -995,13 +908,81 @@
       "p",
       "p"
     ],
-    "views": [
+    "page": [
       "p",
       "p",
       "p",
       "p",
       "p",
       "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "see": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "immediately": [
+      "p"
+    ],
+    "search": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "simply": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "type": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "query": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "bar": [
+      "p",
+      "p"
+    ],
+    "can": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "return": [
       "p"
     ],
     "this": [
@@ -1018,59 +999,59 @@
       "p",
       "p",
       "p",
+      "p",
+      "p",
       "p"
     ],
-    "can": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
+    "any": [
       "p",
       "p",
       "p",
       "p",
       "p"
     ],
-    "navigated": [
-      "p"
-    ],
-    "manner": [
+    "time": [
       "p",
       "p"
     ],
-    "similar": [
+    "clicking": [
       "p",
-      "p",
-      "p"
-    ],
-    "playlists": [
       "p",
       "p",
       "p"
     ],
-    "music": [
+    "\"search\"": [
       "p",
       "p"
     ],
-    "player": [
-      "p"
-    ],
-    "such": [
+    "main": [
       "p",
       "p"
     ],
-    "itunes": [
-      "p"
-    ],
-    "organized": [
+    "also": [
+      "p",
+      "p",
       "p",
       "p"
     ],
-    "all": [
+    "shows": [
       "p",
+      "p",
+      "p"
+    ],
+    "last": [
+      "p"
+    ],
+    "three": [
+      "p",
+      "p",
+      "p"
+    ],
+    "recently": [
+      "p",
+      "p"
+    ],
+    "viewed": [
       "p",
       "p",
       "p"
@@ -1088,118 +1069,137 @@
       "p",
       "p",
       "p",
-      "h2",
       "p",
-      "p"
-    ],
-    "located": [
       "p",
-      "p"
-    ],
-    "library": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
       "p",
       "p",
       "p",
       "p",
       "p"
     ],
-    "references": [
+    "most": [
       "p",
       "p"
     ],
-    "sub-sets": [
+    "popular": [
       "p"
     ],
-    "these": [
+    "trending": [
+      "p"
+    ],
+    "terms": [
+      "p"
+    ],
+    "site": [
+      "p"
+    ],
+    "when": [
+      "p",
+      "p",
+      "p",
+      "p",
       "p",
       "p"
     ],
-    "files": [
-      "p"
-    ],
-    "organize": [
-      "p"
-    ],
-    "appear": [
-      "p",
-      "p"
-    ],
-    "multiple": [
-      "p"
-    ],
-    "but": [
+    "first": [
       "p"
     ],
     "there": [
-      "p",
       "p"
     ],
-    "still": [
-      "p"
-    ],
-    "only": [
-      "p"
-    ],
-    "copy": [
-      "p",
-      "p"
-    ],
-    "display": [
-      "p",
-      "p"
-    ],
-    "it\narticles": [
-      "p"
-    ],
-    "opened": [
-      "p",
-      "p",
-      "p"
-    ],
-    "from": [
-      "p",
-      "p"
-    ],
-    "list": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
+    "not": [
       "p",
       "p",
       "p",
       "p"
     ],
-    "navigating": [
+    "once": [
+      "p",
+      "p",
+      "p",
       "p"
     ],
-    "changes": [
+    "results": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "h2"
+    ],
+    "shown": [
       "p"
     ],
-    "presented": [
+    "total": [
+      "p"
+    ],
+    "article": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "count": [
       "p"
     ],
     "further": [
       "p",
       "p",
+      "p",
+      "p",
+      "p",
       "p"
     ],
-    "narrowed": [
+    "narrow": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
       "p"
     ],
     "down": [
       "p",
       "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
       "p"
     ],
-    "by": [
+    "or": [
       "p",
       "p",
       "p",
       "p",
       "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "h2",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "more": [
       "p",
       "p"
     ],
@@ -1212,43 +1212,270 @@
       "p",
       "p",
       "p",
+      "p"
+    ],
+    "numbers": [
       "p",
       "p",
       "p"
     ],
-    "once": [
+    "next": [
       "p",
       "p",
-      "p",
-      "p",
-      "p"
-    ],
-    "desired": [
-      "p"
-    ],
-    "been": [
-      "p",
-      "p",
-      "p"
-    ],
-    "they": [
       "p",
       "p",
       "p",
       "p"
     ],
-    "previewed": [
-      "p"
-    ],
-    "preview": [
+    "represent": [
+      "p",
       "p",
       "p"
     ],
-    "single-clicking": [
+    "number": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
       "p"
     ],
-    "title": [
+    "each": [
       "p",
+      "p"
+    ],
+    "filter": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "selects": [
+      "p",
+      "p"
+    ],
+    "icons": [
+      "p"
+    ],
+    "correspond": [
+      "p"
+    ],
+    "making": [
+      "p"
+    ],
+    "it": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "easier": [
+      "p"
+    ],
+    "identify": [
+      "p",
+      "p"
+    ],
+    "glance": [
+      "p"
+    ],
+    "easily": [
+      "p"
+    ],
+    "remove": [
+      "p"
+    ],
+    "\"x\"": [
+      "p"
+    ],
+    "browsing": [
+      "h3",
+      "p"
+    ],
+    "choose": [
+      "p"
+    ],
+    "browse": [
+      "p",
+      "p"
+    ],
+    "for": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "h2",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "\"index\"": [
+      "p",
+      "p",
+      "p"
+    ],
+    "useful": [
+      "p"
+    ],
+    "would": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "like": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "discover": [
+      "p",
+      "h2"
+    ],
+    "information": [
+      "p",
+      "h1",
+      "h2",
+      "p",
+      "p",
+      "p",
+      "h2",
+      "p",
+      "p",
+      "h2"
+    ],
+    "we": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "upper": [
+      "p"
+    ],
+    "index": [
+      "p",
+      "p",
+      "p"
+    ],
+    "comprised": [
+      "p"
+    ],
+    "components": [
+      "p"
+    ],
+    "subject": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "matter": [
+      "p"
+    ],
+    "taxonomy": [
+      "p",
+      "p"
+    ],
+    "left": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "list": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "available": [
+      "p",
+      "p"
+    ],
+    "middle": [
+      "p"
+    ],
+    "start": [
+      "p",
+      "p",
+      "title"
+    ],
+    "navigate": [
+      "p"
+    ],
+    "ether": [
+      "p",
+      "p"
+    ],
+    "selecting": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "interest": [
+      "p",
+      "p",
+      "p"
+    ],
+    "continue": [
+      "p"
+    ],
+    "select": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "subjects": [
+      "p"
+    ],
+    "until": [
+      "p"
+    ],
+    "find": [
+      "p",
+      "h1"
+    ],
+    "read": [
       "p",
       "p"
     ],
@@ -1257,24 +1484,161 @@
       "p",
       "p",
       "p",
+      "p"
+    ],
+    "its": [
+      "p"
+    ],
+    "title": [
       "p",
+      "p",
+      "p"
+    ],
+    "go": [
+      "p"
+    ],
+    "back": [
+      "p"
+    ],
+    "browsers": [
+      "p"
+    ],
+    "\"back\"": [
+      "p"
+    ],
+    "button": [
+      "p"
+    ],
+    "some": [
+      "p"
+    ],
+    "people": [
+      "p"
+    ],
+    "prefer": [
+      "p"
+    ],
+    "separate": [
+      "p"
+    ],
+    "tabs": [
+      "p"
+    ],
+    "right-clicking": [
+      "p"
+    ],
+    "\"open": [
       "p"
     ],
     "new": [
+      "p"
+    ],
+    "tab\"": [
+      "p"
+    ],
+    "exists": [
+      "p"
+    ],
+    "drill": [
+      "p"
+    ],
+    "into": [
+      "p"
+    ],
+    "specific": [
+      "p",
+      "p",
+      "p",
       "p",
       "p"
     ],
-    "window": [
+    "sub-topics": [
+      "p"
+    ],
+    "narrowing": [
+      "p"
+    ],
+    "bread": [
+      "p"
+    ],
+    "crumb": [
+      "p"
+    ],
+    "navigation": [
       "p",
       "p"
     ],
-    "double-click": [
+    "exactly": [
+      "p"
+    ],
+    "where": [
+      "p"
+    ],
+    "displayed": [
+      "p",
+      "p"
+    ],
+    "with": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "selected": [
+      "p"
+    ],
+    "directory": [
+      "p",
+      "p",
+      "p"
+    ],
+    "updates": [
+      "p"
+    ],
+    "showing": [
+      "p"
+    ],
+    "only": [
+      "p"
+    ],
+    "topics": [
+      "p",
+      "p"
+    ],
+    "filters)": [
+      "p"
+    ],
+    "as": [
+      "p",
+      "p",
+      "p"
+    ],
+    "combination": [
+      "p"
+    ],
+    "creates": [
+      "p"
+    ],
+    "powerful": [
+      "p"
+    ],
+    "mechanism": [
+      "p"
+    ],
+    "reach": [
+      "p"
+    ],
+    "desired": [
+      "p"
+    ],
+    "quickly": [
+      "p"
+    ],
+    "intuitively": [
       "p"
     ],
     "example": [
       "h1",
-      "p",
-      "p",
       "h2",
       "p",
       "h2",
@@ -1290,122 +1654,26 @@
       "h2",
       "h2"
     ],
-    "find": [
-      "h1"
-    ],
-    "information": [
-      "h1",
-      "h2",
-      "p",
-      "p",
-      "p",
-      "h2",
-      "p",
-      "p",
-      "h2",
-      "p"
-    ],
     "about": [
+      "h1"
+    ],
+    "sql": [
       "h1",
+      "p",
+      "em"
+    ],
+    "injection": [
+      "h1",
+      "p",
+      "em"
+    ],
+    "hit": [
       "p"
     ],
-    "cross-site": [
-      "h1"
-    ],
-    "scripting": [
-      "h1"
-    ],
-    "select": [
-      "p",
-      "p",
-      "p",
-      "p"
-    ],
-    "corresponds": [
-      "p"
-    ],
-    "technology": [
-      "p",
-      "p"
-    ],
-    "used": [
-      "p"
-    ],
-    "application": [
-      "p"
-    ],
-    "for": [
-      "p",
-      "p",
-      "h2",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "h2",
-      "p",
-      "p"
-    ],
-    "we": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p"
-    ],
-    "going": [
-      "p"
-    ],
-    "net": [
-      "p",
-      "p"
-    ],
-    "guidance": [
-      "p"
-    ],
-    "“cross-site": [
-      "p"
-    ],
-    "scripting”": [
-      "p"
-    ],
-    "search": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "h2",
-      "p",
-      "p"
-    ],
-    "box": [
-      "p",
-      "p"
-    ],
-    "magnifying": [
-      "p"
-    ],
-    "glass": [
+    "enter>": [
       "p"
     ],
     "icon": [
-      "p"
-    ],
-    "query": [
       "p",
       "p"
     ],
@@ -1414,82 +1682,40 @@
       "p",
       "p"
     ],
-    "results": [
+    "look": [
       "p",
       "p",
       "p",
       "p"
     ],
-    "read": [
-      "p",
-      "p",
-      "p",
-      "p",
+    "through": [
       "p"
     ],
-    "or": [
-      "p",
-      "p",
-      "p",
-      "p"
-    ],
-    "narrow": [
-      "p",
-      "p",
+    "those": [
       "p"
     ],
     "let’s": [
       "p",
       "p"
     ],
-    "look": [
-      "p",
-      "p",
-      "p"
-    ],
-    "code": [
-      "p",
-      "p",
-      "p",
-      "p"
-    ],
-    "examples": [
-      "p"
-    ],
-    "checking": [
-      "p",
-      "p"
-    ],
-    "type": [
-      "p",
-      "p"
-    ],
-    "filter": [
-      "p",
-      "p",
+    "net": [
       "p",
       "p",
       "h2",
-      "p",
       "p"
     ],
-    "double": [
-      "p",
+    "guidance": [
       "p"
     ],
-    "clicking": [
+    "relevant": [
       "p",
       "p"
     ],
     "#2": [
       "h2"
     ],
-    "discover": [
-      "h2"
-    ],
     "authentication": [
       "h2",
-      "p",
       "p"
     ],
     "best": [
@@ -1500,21 +1726,13 @@
       "h2",
       "p"
     ],
-    "aspnet": [
-      "h2",
-      "p"
-    ],
     "now": [
-      "p",
       "p"
     ],
     "practice": [
       "p"
     ],
-    "identify": [
-      "p"
-    ],
-    "40.": [
+    "net.": [
       "p"
     ],
     "it’s": [
@@ -1526,68 +1744,36 @@
     "simple": [
       "p"
     ],
+    "all": [
+      "p"
+    ],
     "do": [
       "p",
       "p",
       "p"
     ],
-    "check": [
+    "\"authentication\"": [
       "p"
     ],
-    "category": [
+    "from": [
+      "p",
+      "p"
+    ],
+    "sub-category": [
       "p"
     ],
     "show": [
-      "p",
       "p",
       "p"
     ],
     "just": [
       "p",
-      "p",
       "p"
     ],
-    "more": [
-      "p",
-      "p",
+    "checking": [
       "p"
     ],
-    "easily": [
-      "p"
-    ],
-    "managed": [
-      "p"
-    ],
-    "number": [
-      "p"
-    ],
-    "items": [
-      "p"
-    ],
-    "review": [
-      "p"
-    ],
-    "specific": [
-      "p",
-      "p",
-      "p"
-    ],
-    "phase": [
-      "p"
-    ],
-    "development": [
-      "p"
-    ],
-    "currently": [
-      "p"
-    ],
-    "engaged": [
-      "p"
-    ],
-    "implementation": [
-      "p"
-    ],
-    "test": [
+    "small": [
       "p"
     ],
     "#3": [
@@ -1601,30 +1787,25 @@
       "p",
       "p",
       "p",
+      "p",
       "h2",
       "p",
       "p",
       "h2"
     ],
-    "sql": [
+    "xss": [
       "h2",
-      "p"
-    ],
-    "injection": [
-      "h2",
-      "p"
+      "p",
+      "em"
     ],
     "regarding": [
       "p"
     ],
     "software": [
-      "p",
       "p"
     ],
     "vulnerabilities": [
-      "p",
-      "p",
-      "em"
+      "p"
     ],
     "because": [
       "p"
@@ -1637,6 +1818,13 @@
       "p",
       "p"
     ],
+    "code": [
+      "p",
+      "p"
+    ],
+    "been": [
+      "p"
+    ],
     "assigned": [
       "p"
     ],
@@ -1646,173 +1834,88 @@
       "p"
     ],
     "looking": [
-      "p",
       "p"
     ],
     "topic": [
-      "p",
       "p"
     ],
     "authenticated": [
       "p"
     ],
-    "java": [
+    "\"vulnerability\"": [
       "p"
     ],
-    "applied": [
-      "p",
-      "p",
+    "list.": [
       "p"
     ],
-    "updated": [
-      "p",
+    "presented": [
       "p"
     ],
-    "with": [
-      "p",
-      "p",
-      "p",
-      "p",
+    "few": [
       "p"
     ],
-    "selection": [
-      "p",
+    "relative": [
       "p"
     ],
-    "“sql": [
+    "closely": [
       "p"
     ],
-    "injection”": [
+    "relate": [
       "p"
     ],
-    "bar": [
-      "p",
+    "technology": [
       "p",
       "p"
     ],
-    "hit": [
+    "indicated": [
       "p"
     ],
-    "enter>.": [
+    "summary": [
       "p"
     ],
-    "was": [
+    "\"technology": [
       "p"
     ],
-    "criteria": [
-      "p",
+    "independent\"": [
       "p"
     ],
-    "showing": [
+    "related": [
       "p"
     ],
-    "matching": [
+    "particular": [
       "p"
     ],
-    "it": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p"
-    ],
-    "over": [
-      "p"
-    ],
-    "description": [
-      "p"
-    ],
-    "make": [
-      "p"
-    ],
-    "sure": [
-      "p"
-    ],
-    "view": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p"
-    ],
-    "through": [
-      "p",
-      "p"
-    ],
-    "choose": [
-      "p",
-      "p"
-    ],
-    "countermeasures": [
-      "p"
-    ],
-    "want": [
-      "p",
-      "p"
-    ],
-    "case": [
-      "p"
-    ],
-    "chose": [
-      "p"
-    ],
-    "parametarized": [
-      "p"
-    ],
-    "apis": [
-      "p"
-    ],
-    "data": [
+    "generic": [
       "p"
     ],
     "sharing": [
-      "h2",
       "h2"
     ],
     "share": [
       "p",
       "p",
-      "p"
-    ],
-    "found": [
+      "h2",
       "p",
       "p"
     ],
+    "found": [
+      "p"
+    ],
     "collaboration": [
+      "p",
       "p"
     ],
     "testing": [
       "p"
     ],
-    "any": [
+    "opened": [
+      "p",
       "p"
     ],
     "other": [
       "p"
     ],
-    "would": [
-      "p",
-      "p",
-      "p"
-    ],
-    "like": [
-      "p",
-      "p",
-      "p"
-    ],
-    "simply": [
-      "p",
-      "p",
-      "p",
-      "p",
+    "copy": [
       "p"
     ],
     "url": [
@@ -1821,28 +1924,29 @@
       "p",
       "p",
       "p",
+      "p",
+      "p",
       "p"
     ],
     "saving": [
-      "h2",
       "h2"
     ],
     "save": [
-      "p",
       "p",
       "h2",
       "p"
     ],
     "later": [
       "p",
-      "p",
       "p"
     ],
     "reference": [
-      "p",
       "p"
     ],
     "you’ve": [
+      "p"
+    ],
+    "view": [
       "p"
     ],
     "browser’s": [
@@ -1861,59 +1965,28 @@
       "p",
       "p"
     ],
-    "not": [
-      "p",
-      "p"
-    ],
     "change": [
       "p"
     ],
     "so": [
       "p"
     ],
-    "when": [
-      "p",
-      "p",
-      "p",
-      "p"
-    ],
     "taken": [
       "p"
     ],
     "logged": [
-      "p",
       "p"
     ],
     "log": [
       "p"
     ],
-    "see": [
-      "p",
+    "created": [
       "p"
     ],
-    "documents": [
-      "h2"
-    ],
-    "know": [
+    "resulting": [
       "p"
     ],
-    "playing": [
-      "p"
-    ],
-    "which": [
-      "p",
-      "p",
-      "p",
-      "p"
-    ],
-    "contain": [
-      "p",
-      "p"
-    ],
-    "turn": [
-      "p"
-    ],
-    "related": [
+    "reuse": [
       "p"
     ],
     "same": [
@@ -1923,102 +1996,40 @@
       "p",
       "p"
     ],
-    "particular": [
+    "always": [
+      "p"
+    ],
+    "reflects": [
+      "p"
+    ],
+    "state": [
       "p",
       "p"
     ],
-    "interest": [
+    "application": [
       "p"
     ],
-    "focus": [
+    "therefore": [
+      "p"
+    ],
+    "easy": [
       "p",
       "p"
     ],
-    "reading": [
-      "p",
-      "p",
-      "p",
+    "seeing": [
       "p"
     ],
-    "screen": [
-      "p"
-    ],
-    "re-arrange": [
-      "p"
-    ],
-    "others": [
-      "p"
-    ],
-    "selecting": [
-      "p"
-    ],
-    "copying": [
-      "p"
-    ],
-    "pasting": [
-      "p"
-    ],
-    "person": [
-      "p"
-    ],
-    "receives": [
-      "p"
-    ],
-    "exactly": [
-      "p"
-    ],
-    "browsers": [
-      "p"
-    ],
-    "functionality": [
-      "p"
-    ],
-    "setting": [
-      "h2"
-    ],
-    "re-use": [
-      "h2",
-      "p"
-    ],
-    "created": [
-      "p"
-    ],
-    "reuse": [
-      "p"
-    ],
-    "get": [
-      "p"
-    ],
-    "back": [
-      "p"
-    ],
-    "necessary": [
-      "p"
-    ],
-    "pin": [
+    "anyone": [
       "p",
       "p"
     ],
-    "button": [
-      "p",
-      "p"
-    ],
-    "next": [
-      "p"
-    ],
-    "shades": [
-      "p"
-    ],
-    "solid": [
-      "p"
-    ],
-    "color": [
-      "p"
-    ],
-    "updates": [
+    "else": [
       "p"
     ],
     "browser": [
+      "p"
+    ],
+    "which": [
       "p"
     ],
     "saves": [
@@ -2027,13 +2038,50 @@
     "future": [
       "p"
     ],
+    "re-use": [
+      "p"
+    ],
     "thus": [
       "p"
     ],
-    "quick": [
-      "title"
+    "display": [
+      "p"
     ],
-    "start": [
+    "articles\nyou": [
+      "p"
+    ],
+    "send": [
+      "p"
+    ],
+    "has": [
+      "p"
+    ],
+    "they": [
+      "p",
+      "p"
+    ],
+    "makes": [
+      "p"
+    ],
+    "fixing": [
+      "p"
+    ],
+    "defects": [
+      "p"
+    ],
+    "sending": [
+      "p"
+    ],
+    "im": [
+      "p"
+    ],
+    "between": [
+      "p"
+    ],
+    "colleges": [
+      "p"
+    ],
+    "quick": [
       "title"
     ],
     "guide": [
@@ -2045,95 +2093,205 @@
       "Signing Up",
       "Accessing TEAM Mentor",
       "Using TEAM Mentor",
-      "Example #2 – Discover Authentication Best Practices for ASP.NET 4.0",
-      "Example #3 – Finding Information on a Vulnerability (SQL Injection Example)",
+      "Example #2 – Discover Authentication Best Practices for .NET",
+      "Example #3 – Finding Information on a Vulnerability (XSS Example)",
       "Sharing information on vulnerability",
       "Saving information on vulnerability",
-      "Sharing a set of documents",
-      "Saving a set of articles",
-      "Save filter search setting for re-use"
+      "Save or Share Your Results"
     ],
     "p": [
-      "Depending on how your administrator had set up your instance of TEAM Mentor you may need to create an account. Security Innovation allows 2 weeks of free access to https://www.TEAMMentor.net - a full version of TEAM Mentor.",
-      "To create a TEAM Mentor account, fill in the bolded Username, Password and E-Mail in the Selected Article pane and click Sign Up. \nNote that while creating your account you will be required to use a complex password that must fulfill the following requirements:",
+      "Depending on how your administrator had set up your instance of TEAM Mentor you may need to create an account. \nSecurity Innovation allows 30 days of free access to https://www.TEAMMentor.net - a full version of TEAM Mentor.",
+      "To create a TEAM Mentor account, click \"Sign Up\" in the top menu.",
+      "",
+      "",
+      "Fill in the Username, Password and E-Mail  and click Sign Up.",
+      "Note that while creating your account you will be required to use a complex password that must fulfill the following requirements:",
       "Here’s additional detail on what are considered alphanumeric and non-alphanumeric characters:",
       "",
       "",
       "To access TEAM Mentor content, click the Login link in the top right corner.",
       "",
-      "Enter your user account credentials in the Login into TEAM Mentor pop up that appears. After successfully authenticating, you will be able to access TEAM Mentor content.",
+      "",
+      "Enter your user account credentials. After successfully authenticating, you will be able to access TEAM Mentor content.",
+      "",
       "",
       "If you have forgotten your password, click on the Forgot your password? link, fill in your email address and then a password reset email will be sent to you.",
       "",
       "",
-      "The simplest way to navigate TEAM Mentor content is via the navigation pane on the left. The navigation pane shows a tree representation of the available libraries as folders and views. This tree can be navigated in a manner similar to playlists in a music player, such as iTunes. \nTEAM Mentor content is organized in a manner similar to playlists. All the articles are located in the library. Views are references to sub-sets of these files. Folders are a way to organize the views. An article may appear in multiple views and folders, but there is still only one copy of the article - the views and folders display references to it.\nArticles can be opened from the article list pane. Navigating the folders and views in the navigation pane changes the list of articles presented in the article list pane. The list of articles can be further narrowed down by using filters. Once the desired articles have been located, they can be previewed in the preview pane on the right by single-clicking on the article title in the list. To open the article in a new window, double-click on the article title in the list.",
+      "",
+      "The simplest way to use TEAM Mentor is by searching. The page you see immediately after login is the search page. Simply type your query in the search bar. \nYou can return to this page at any time by clicking \"Search\" on the top menu.",
       "",
       "",
-      "In the navigation pane, select the library that corresponds to the technology used by your application. For this example, we are going to use .NET 4.0 Guidance Library. Enter “Cross-Site Scripting” in the search box and click the magnifying glass search icon.",
-      "",
-      "The search query returns 16 results. We can read all these articles, or we can narrow the results down using filters. Let’s look for code examples by checking Code Example in the Type filter list.",
-      "",
-      "Double clicking the article will open the article in a new window:",
+      "The main search page also shows your last three recently viewed articles, the three most popular trending search terms in TEAM Mentor, and the top three articles viewed on the site. \n(Note that when you first sign up there will not be any recently viewed articles on the page)",
       "",
       "",
-      "Now let’s practice using filters. In this example, we will identify the authentication best practices for ASP.NET 4.0. It’s very simple, all we have to do is select the .NET 4.0 library and check Authentication in the Category filter list.",
-      "",
-      "The query returns 61 results. We can further narrow this down to show just How To articles by checking How To in the Type filter list:",
-      "",
-      "This returns a more easily managed number of items to review. Select the specific phase of development that you are currently engaged in such as Implementation or Test to narrow the results further.",
+      "Once the search results are shown, you can see the total article count. You can further narrow down the search by using one or more filters on the right. The numbers next to the filters represent the number of articles each filter selects.",
       "",
       "",
-      "One example of how you can use TEAM Mentor is to look for information you need regarding specific software vulnerabilities. This may be because you wish to avoid this vulnerability in your code, you have been assigned to fix a vulnerability, or are just looking for information on the topic. To do this, after you have successfully authenticated, Click on the Vulnerabilities Library in the Navigation Pane",
+      "Icons next to the articles correspond to filters on the right. Making it easier to identify articles at a glance.",
       "",
-      "Select the technology from the Filters Pane. We use Java for this example. Note that the Applied Filters had been updated with your selection.",
       "",
-      "Search for “SQL Injection” in the Search bar and hit <enter>. Note the Applied Filters was updated with your search criteria and that Article List Pane is now showing articles matching your filter selection and search criteria. Click on SQL Injection article. It will appear in the Preview Pane. Look over the description and make sure this what you are looking for.",
+      "You can easily remove any filter by clicking on the \"X\"  next to it.",
       "",
-      "Double click on the article to open it in the full article view.",
       "",
-      "Read through the article and choose the countermeasures you want to read more about. In this case we chose to read more on Using Parametarized APIs for Data Access. Click on the link to open the article.",
+      "You may choose to to browse for content is by using the \"Index\" page. This is useful when you would like to discover the information we have.  Click on \"Index\" in the upper right.",
+      "The index page is comprised of 3 main components. The subject matter taxonomy on the left, the filters on the right, and the list of available articles in the middle.",
       "",
-      "Read through the article for specific information on how to fix the vulnerability.",
+      "",
+      "You start to navigate the \"Index\" by ether selecting a subject of interest on the left, or a filter on the right. You may continue to select ether filters or subjects of interest until you find a list of articles that you would like to read. Then simply open the article by clicking on its title.",
+      "Go back to the list by using your browsers \"Back\" button. Some people also prefer to open articles in separate tabs, by right-clicking on the article title and selecting \"Open in new tab\"",
+      "Numbers next to each subject on the left represent the number of articles that exists for that subject. When you select a subject of interest. You drill down further into specific sub-topics in that subject. Narrowing down the list of articles. Bread crumb navigation on top, shows exactly where you are in the taxonomy.",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "At any time you may select a filter on the right to narrow down the displayed list of articles further. Numbers next to the filter represent the number of articles this filter selects.",
+      "",
+      "",
+      "",
+      "",
+      "You may also start your navigation with selecting one or more filter. Once selected, subject directory on the left updates, showing only available topics for the filter(s)",
+      "",
+      "As you can see, the combination of the topics and filters creates a powerful browsing mechanism that allows you to reach the desired articles quickly and intuitively.",
+      "",
+      "On the \"Search\" page, type sql injection and hit <enter> or click the search icon.",
+      "",
+      "",
+      "The search query returns a number of results. We can look through those or narrow down results using filters. Let’s look for .NET specific guidance by selecting the .NET filter",
+      "",
+      "",
+      "",
+      "",
+      "You can further narrow down the search results or simply open the most relevant article displayed on top  by clicking on the title.",
+      "",
+      "",
+      "",
+      "",
+      "Now let’s practice using Index. In this example, we will identify the authentication best practices for .NET. It’s very simple, all we have to do is select .NET filter on the index page and then select \"Authentication\" from the subject directory.",
+      "",
+      "",
+      "",
+      "",
+      "The query returns a number of results.",
+      "",
+      "",
+      "We can further narrow down the list of articles by selecting a sub-category from the subject directory.",
+      "",
+      "",
+      "",
+      "Further narrow this down to show just How To articles by checking How To in the Type filter list:",
+      "",
+      "",
+      "This returns a small relevant number of articles.",
+      "",
+      "",
+      "One example of how you can use TEAM Mentor is to look for information you need regarding specific software vulnerabilities. This may be because you wish to avoid this vulnerability in your code, you have been assigned to fix a vulnerability, or are just looking for information on the topic. To do this, after you have successfully authenticated, Search for XSS (in this example) on the search page.",
+      "",
+      "",
+      "Select \"Vulnerability\" type in the Filters list..",
+      "",
+      "",
+      "You are presented with a few relative articles. If you look closely, the articles relate to specific technology. This is indicated by the icon next to the article summary.",
+      "",
+      "Select a \"Technology Independent\" filter. This filter shows articles not related to a particular technology. This would show you generic article for this vulnerability.",
+      "",
+      "",
+      "Open the article and read for specific information on how to fix the vulnerability.",
+      "",
       "",
       "You may wish to share this information once you found it for collaboration on a fix, testing, or using the information to avoid that vulnerability in your code. Once you have opened a vulnerability (of any other) article you would like to share, simply copy the URL on the URL bar",
       "",
       "",
       "If you would like to save an article for later reference, after you’ve opened the article in full view, simply use your browser’s bookmarking feature to bookmark the article. The URL of articles do not change, so when you use the bookmark you will be taken right to the article. If you are not logged in, you will have to log in to see the article",
       "",
-      "As you may know, content in TEAM Mentor is organized similar to playlists in music playing software. There are libraries, which contain folders, which in turn contain views. A view is a set of articles that are all related to the same topic, which is the title of the view. If you found a particular view of interest, you can focus just on the particular set of articles by using the Reading View. Simply right click on the view that you want to focus on and choose Show Reading View Link",
-      "",
-      "The screen will re-arrange to show the Reading View for this set of articles.",
-      "",
-      "You can share this view with others by simply selecting and copying the URL",
-      "",
-      "And pasting it into an email. When a person receives the link, when they open it they will see exactly the same set of articles, once they have logged in.",
-      "",
-      "If you would like to save a set of articles for later reference, you can simply use your browsers functionality to bookmark the reading view.",
-      "",
-      "If you created a complex search using filters, you can save it for later reuse to get back to the same information.  Once you have selected the necessary filters. Use the pin button next to the filter in the Applied Filters box.",
-      "",
-      "Clicking the button shades the pin in solid color and updates the URL in the address bar with the selected filter.",
+      "If you created a complex query and would like to share the resulting list of articles, or reuse the same filter later, simply bookmark or email the URL of the page you are on.",
+      "The URL always reflects the state of the application, therefore it is easy to save or share what you are seeing with anyone else.",
+      "Search and filter, or browse, to the list of articles that you like.",
       "",
       "",
-      "Use your browser to bookmark the URL,  which saves the filters for future re-use. When you click on the bookmark, it will open TEAM Mentor with the same search and filters and thus display the same set of articles."
+      "",
+      "",
+      "Then use your browser to bookmark the URL, which saves the state for future re-use. When you click on the bookmark, it will open TEAM Mentor with the same search and filters and thus display the same set of articles.\nYou can also send the same URL to anyone that has access to TEAM Mentor. When they click on the URL, they will see the same set of articles. This makes collaboration on fixing security defects as easy as sending an IM or email between colleges.",
+      ""
+    ],
+    "br": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "a": [
       "https://www.TEAMMentor.net"
-    ],
-    "ul": [
-      "At least 8 characters in length\nHave at least one decimal\nHave at least one letter\nHave at least one non-alphanumeric character",
-      "Alphanumeric characters (word characters): a-z; A-Z; 0-9; _ (underscore); space\nNon-alphanumeric (symbols): `!@#$%^&*()+-_=[]\\{}|;’:”,./<>?"
-    ],
-    "li": [
-      "At least 8 characters in length",
-      "Have at least one decimal",
-      "Have at least one letter",
-      "Have at least one non-alphanumeric character",
-      "Alphanumeric characters (word characters): a-z; A-Z; 0-9; _ (underscore); space",
-      "Non-alphanumeric (symbols): `!@#$%^&*()+-_=[]\\{}|;’:”,./<>?"
-    ],
-    "span": [
-      "`"
     ],
     "img": [
       "",
@@ -2158,25 +2316,48 @@
       "",
       "",
       "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ],
-    "br": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+    "ul": [
+      "At least 8 characters in length\nHave at least one decimal\nHave at least one letter\nHave at least one non-alphanumeric character",
+      "Alphanumeric characters (word characters): a-z; A-Z; 0-9; _ (underscore); space\nNon-alphanumeric (symbols): `!@#$%^&*()+-_=[]\\{}|;’:”,./<>?"
+    ],
+    "li": [
+      "At least 8 characters in length",
+      "Have at least one decimal",
+      "Have at least one letter",
+      "Have at least one non-alphanumeric character",
+      "Alphanumeric characters (word characters): a-z; A-Z; 0-9; _ (underscore); space",
+      "Non-alphanumeric (symbols): `!@#$%^&*()+-_=[]\\{}|;’:”,./<>?"
+    ],
+    "span": [
+      "`"
+    ],
+    "h3": [
+      "Searching",
+      "Browsing"
     ],
     "h1": [
-      "Example #1 – Find Information about Cross-Site Scripting"
+      "Example #1 – Find Information about SQL Injection"
     ],
     "em": [
-      "Vulnerabilities"
+      "sql injection",
+      "XSS"
     ]
   },
   "links": [
@@ -2185,5 +2366,5 @@
       "text": "https://www.TEAMMentor.net"
     }
   ],
-  "html": "<h2>Signing Up</h2><p>Depending on how your administrator had set up your instance of TEAM Mentor you may need to create an account. Security Innovation allows 2 weeks of free access to <a href=\"https://www.TEAMMentor.net\">https://www.TEAMMentor.net</a> - a full version of TEAM Mentor. \n</p><p>\nTo create a TEAM Mentor account, fill in the bolded Username, Password and E-Mail in the Selected Article pane and click Sign Up. \nNote that while creating your account you will be required to use a complex password that must fulfill the following requirements:</p><ul>\n<li>At least 8 characters in length</li>\n<li>Have at least one decimal</li>\n<li>Have at least one letter</li>\n<li>Have at least one non-alphanumeric character</li>\n</ul><p>\nHere’s additional detail on what are considered alphanumeric and non-alphanumeric characters:</p><ul>\n<li>Alphanumeric characters (word characters): a-z; A-Z; 0-9; _ (underscore); space</li>\n<li>Non-alphanumeric (symbols): <span class=\"escaped\">`</span>!@#$%^&amp;*()+-_=[]\\{}|;’:”,./&lt;&gt;?</li>\n</ul><p>\n<img src=\"/Image/signup1.jpg\">\n</p><p>\n<br>\n</p><h2>Accessing TEAM Mentor</h2><p>To access TEAM Mentor content, click the Login link in the top right corner. \n</p><p>\n<img src=\"/Image/qsg01.jpg\">\n</p><p>\nEnter your user account credentials in the Login into TEAM Mentor pop up that appears. After successfully authenticating, you will be able to access TEAM Mentor content. \n</p><p>\n<img src=\"/Image/login2.jpg\">\n</p><p>\nIf you have forgotten your password, click on the Forgot your password? link, fill in your email address and then a password reset email will be sent to you.\n</p><p>\n<img src=\"/Image/forgotpassword2.jpg\">\n</p><p>\n<br>\n</p><h2>Using TEAM Mentor</h2><p>The simplest way to navigate TEAM Mentor content is via the navigation pane on the left. The navigation pane shows a tree representation of the available libraries as folders and views. This tree can be navigated in a manner similar to playlists in a music player, such as iTunes. \nTEAM Mentor content is organized in a manner similar to playlists. All the articles are located in the library. Views are references to sub-sets of these files. Folders are a way to organize the views. An article may appear in multiple views and folders, but there is still only one copy of the article - the views and folders display references to it.\nArticles can be opened from the article list pane. Navigating the folders and views in the navigation pane changes the list of articles presented in the article list pane. The list of articles can be further narrowed down by using filters. Once the desired articles have been located, they can be previewed in the preview pane on the right by single-clicking on the article title in the list. To open the article in a new window, double-click on the article title in the list. \n</p><p>\n<img src=\"/Image/nav1.jpg\">\n</p><p>\n<br>\n</p><h1>Example #1 – Find Information about Cross-Site Scripting</h1><p>In the navigation pane, select the library that corresponds to the technology used by your application. For this example, we are going to use .NET 4.0 Guidance Library. Enter “Cross-Site Scripting” in the search box and click the magnifying glass search icon.\n</p><p>\n<img src=\"/Image/example1.jpg\">\n</p><p>\nThe search query returns 16 results. We can read all these articles, or we can narrow the results down using filters. Let’s look for code examples by checking Code Example in the Type filter list.\n</p><p>\n<img src=\"/Image/example1-1.jpg\">\n</p><p>\nDouble clicking the article will open the article in a new window:\n</p><p>\n<img src=\"/Image/example1-2.jpg\">\n</p><p>\n<br>\n</p><h2>Example #2 – Discover Authentication Best Practices for ASP.NET 4.0</h2><p>Now let’s practice using filters. In this example, we will identify the authentication best practices for ASP.NET 4.0. It’s very simple, all we have to do is select the .NET 4.0 library and check Authentication in the Category filter list.\n</p><p>\n<img src=\"/Image/example2.jpg\">\n</p><p>\nThe query returns 61 results. We can further narrow this down to show just How To articles by checking How To in the Type filter list:\n</p><p>\n<img src=\"/Image/example2-1.jpg\">\n</p><p>\nThis returns a more easily managed number of items to review. Select the specific phase of development that you are currently engaged in such as Implementation or Test to narrow the results further.\n</p><p>\n<img src=\"/Image/example2-3.jpg\">\n</p><p>\n<br>\n</p><h2>Example #3 – Finding Information on a Vulnerability (SQL Injection Example)</h2><p>One example of how you can use TEAM Mentor is to look for information you need regarding specific software vulnerabilities. This may be because you wish to avoid this vulnerability in your code, you have been assigned to fix a vulnerability, or are just looking for information on the topic. To do this, after you have successfully authenticated, Click on the <em>Vulnerabilities</em> Library in the Navigation Pane\n</p><p>\n<img src=\"/Image/example3-1.jpg\">\n</p><p>\nSelect the technology from the Filters Pane. We use Java for this example. Note that the Applied Filters had been updated with your selection.\n</p><p>\n<img src=\"/Image/example3-2.jpg\">\n</p><p>\nSearch for “SQL Injection” in the Search bar and hit &lt;enter&gt;. Note the Applied Filters was updated with your search criteria and that Article List Pane is now showing articles matching your filter selection and search criteria. Click on SQL Injection article. It will appear in the Preview Pane. Look over the description and make sure this what you are looking for. \n</p><p>\n<img src=\"/Image/example3-3.jpg\">\n</p><p>\nDouble click on the article to open it in the full article view.\n</p><p>\n<img src=\"/Image/example3-4.jpg\">\n</p><p>\nRead through the article and choose the countermeasures you want to read more about. In this case we chose to read more on Using Parametarized APIs for Data Access. Click on the link to open the article.\n</p><p>\n<img src=\"/Image/example3-5.jpg\">\n</p><p>\nRead through the article for specific information on how to fix the vulnerability.\n</p><p>\n<br>\n</p><h2>Sharing information on vulnerability</h2><p>You may wish to share this information once you found it for collaboration on a fix, testing, or using the information to avoid that vulnerability in your code. Once you have opened a vulnerability (of any other) article you would like to share, simply copy the URL on the URL bar\n</p><p>\n<img src=\"/Image/share01.jpg\">\n</p><p>\n<br>\n</p><h2>Saving information on vulnerability</h2><p>If you would like to save an article for later reference, after you’ve opened the article in full view, simply use your browser’s bookmarking feature to bookmark the article. The URL of articles do not change, so when you use the bookmark you will be taken right to the article. If you are not logged in, you will have to log in to see the article\n</p><p>\n<br>\n</p><h2>Sharing a set of documents</h2><p>As you may know, content in TEAM Mentor is organized similar to playlists in music playing software. There are libraries, which contain folders, which in turn contain views. A view is a set of articles that are all related to the same topic, which is the title of the view. If you found a particular view of interest, you can focus just on the particular set of articles by using the Reading View. Simply right click on the view that you want to focus on and choose Show Reading View Link\n</p><p>\n<img src=\"/Image/share02.jpg\">\n</p><p>\nThe screen will re-arrange to show the Reading View for this set of articles.\n</p><p>\n<img src=\"/Image/share03.jpg\">\n</p><p>\nYou can share this view with others by simply selecting and copying the URL\n</p><p>\n<img src=\"/Image/share04.jpg\">\n</p><p>\nAnd pasting it into an email. When a person receives the link, when they open it they will see exactly the same set of articles, once they have logged in.\n</p><p>\n<br>\n</p><h2>Saving a set of articles</h2><p>If you would like to save a set of articles for later reference, you can simply use your browsers functionality to bookmark the reading view.\n</p><p>\n<br>\n</p><h2>Save filter search setting for re-use</h2><p>If you created a complex search using filters, you can save it for later reuse to get back to the same information.  Once you have selected the necessary filters. Use the pin button next to the filter in the Applied Filters box. \n</p><p>\n<img src=\"/Image/share05.jpg\">\n</p><p>\nClicking the button shades the pin in solid color and updates the URL in the address bar with the selected filter.\n</p><p>\n<img src=\"/Image/share06.jpg\">\n</p><p>\n<img src=\"/Image/share07.jpg\">\n</p><p>\nUse your browser to bookmark the URL,  which saves the filters for future re-use. When you click on the bookmark, it will open TEAM Mentor with the same search and filters and thus display the same set of articles.\n</p>\n\n\n\n\n\n"
+  "html": "<h2>Signing Up</h2><p>Depending on how your administrator had set up your instance of TEAM Mentor you may need to create an account. <br>\nSecurity Innovation allows 30 days of free access to <a href=\"https://www.TEAMMentor.net\">https://www.TEAMMentor.net</a> - a full version of TEAM Mentor. \n</p><p>\nTo create a TEAM Mentor account, click \"Sign Up\" in the top menu.\n</p><p>\n<img src=\"/Image/signup01.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nFill in the Username, Password and E-Mail  and click Sign Up. \n</p><p>\nNote that while creating your account you will be required to use a complex password that must fulfill the following requirements:</p><ul>\n<li>At least 8 characters in length</li>\n<li>Have at least one decimal</li>\n<li>Have at least one letter</li>\n<li>Have at least one non-alphanumeric character</li>\n</ul><p>\nHere’s additional detail on what are considered alphanumeric and non-alphanumeric characters:</p><ul>\n<li>Alphanumeric characters (word characters): a-z; A-Z; 0-9; _ (underscore); space</li>\n<li>Non-alphanumeric (symbols): <span class=\"escaped\">`</span>!@#$%^&amp;*()+-_=[]\\{}|;’:”,./&lt;&gt;?</li>\n</ul>\n<p>\n<img src=\"/Image/signup02.png\">\n</p><p>\n<br>\n<br>\n</p>\n<h2>Accessing TEAM Mentor</h2><p>To access TEAM Mentor content, click the Login link in the top right corner. \n</p><p>\n<img src=\"/Image/login01.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nEnter your user account credentials. After successfully authenticating, you will be able to access TEAM Mentor content. \n</p><p>\n<img src=\"/Image/login02.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nIf you have forgotten your password, click on the Forgot your password? link, fill in your email address and then a password reset email will be sent to you.\n</p><p>\n<img src=\"/Image/forgotpassword01.png\">\n</p><p>\n<br>\n<br>\n</p><h2>Using TEAM Mentor</h2><p><br>\n</p><h3>Searching</h3><p>The simplest way to use TEAM Mentor is by searching. The page you see immediately after login is the search page. Simply type your query in the search bar. <br>\nYou can return to this page at any time by clicking \"Search\" on the top menu.\n</p><p>\n<img src=\"/Image/search01.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nThe main search page also shows your last three recently viewed articles, the three most popular trending search terms in TEAM Mentor, and the top three articles viewed on the site. <br>\n(Note that when you first sign up there will not be any recently viewed articles on the page)\n</p><p>\n<img src=\"/Image/search02.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nOnce the search results are shown, you can see the total article count. You can further narrow down the search by using one or more filters on the right. The numbers next to the filters represent the number of articles each filter selects.\n</p><p>\n<img src=\"/Image/search03.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nIcons next to the articles correspond to filters on the right. Making it easier to identify articles at a glance.\n</p><p>\n<img src=\"/Image/search04.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nYou can easily remove any filter by clicking on the \"X\"  next to it.\n</p>\n<p>\n<img src=\"/Image/search05.png\">\n</p>\n<p>\n<br>\n<br>\n</p><h3>Browsing</h3><p>You may choose to to browse for content is by using the \"Index\" page. This is useful when you would like to discover the information we have.  Click on \"Index\" in the upper right.\n</p><p>\nThe index page is comprised of 3 main components. The subject matter taxonomy on the left, the filters on the right, and the list of available articles in the middle. \n</p><p>\n<img src=\"/Image/index01.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nYou start to navigate the \"Index\" by ether selecting a subject of interest on the left, or a filter on the right. You may continue to select ether filters or subjects of interest until you find a list of articles that you would like to read. Then simply open the article by clicking on its title.\n</p><p>\nGo back to the list by using your browsers \"Back\" button. Some people also prefer to open articles in separate tabs, by right-clicking on the article title and selecting \"Open in new tab\"\n</p><p>\nNumbers next to each subject on the left represent the number of articles that exists for that subject. When you select a subject of interest. You drill down further into specific sub-topics in that subject. Narrowing down the list of articles. Bread crumb navigation on top, shows exactly where you are in the taxonomy. \n</p>\n<p>\n<img src=\"/Image/index02.png\">\n</p><p>\n<br>\n<br>\n</p><p>\n<img src=\"/Image/index03.png\">\n</p><p>\n<br>\n<br>\n</p><p>\n<img src=\"/Image/index04.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nAt any time you may select a filter on the right to narrow down the displayed list of articles further. Numbers next to the filter represent the number of articles this filter selects.\n</p><p>\n<img src=\"/Image/index05.png\">\n</p><p>\n<br>\n<br>\n</p><p>\n<img src=\"/Image/index06.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nYou may also start your navigation with selecting one or more filter. Once selected, subject directory on the left updates, showing only available topics for the filter(s) \n</p><p>\n<img src=\"/Image/index07.png\">\n</p>\n<p>\nAs you can see, the combination of the topics and filters creates a powerful browsing mechanism that allows you to reach the desired articles quickly and intuitively. \n</p><p>\n<br>\n<br>\n</p><h1>Example #1 – Find Information about SQL Injection</h1><p>On the \"Search\" page, type <em>sql injection</em> and hit &lt;enter&gt; or click the search icon. \n</p><p>\n<img src=\"/Image/example1-01.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nThe search query returns a number of results. We can look through those or narrow down results using filters. Let’s look for .NET specific guidance by selecting the .NET filter\n</p><p>\n<img src=\"/Image/example1-02.png\">\n</p><p>\n<br>\n</p><p>\n<img src=\"/Image/example1-03.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nYou can further narrow down the search results or simply open the most relevant article displayed on top  by clicking on the title.\n</p><p>\n<img src=\"/Image/example1-04.png\">\n</p><p>\n<br>\n</p><p>\n<img src=\"/Image/example1-05.png\">\n</p><p>\n<br>\n<br>\n</p><h2>Example #2 – Discover Authentication Best Practices for .NET</h2><p>Now let’s practice using Index. In this example, we will identify the authentication best practices for .NET. It’s very simple, all we have to do is select .NET filter on the index page and then select \"Authentication\" from the subject directory.\n</p><p>\n<img src=\"/Image/example2-01.png\">\n</p><p>\n<br>\n</p><p>\n<img src=\"/Image/example2-02.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nThe query returns a number of results. \n</p><p>\n<img src=\"/Image/example2-03.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nWe can further narrow down the list of articles by selecting a sub-category from the subject directory. \n</p>\n<p>\n<img src=\"/Image/example2-04.png\">\n</p><p>\n<br>\n</p><p>\n<img src=\"/Image/example2-05.png\">\n</p>\n\n<p>\nFurther narrow this down to show just How To articles by checking How To in the Type filter list:\n</p><p>\n<img src=\"/Image/example2-06.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nThis returns a small relevant number of articles.\n</p><p>\n<img src=\"/Image/example2-07.png\">\n</p><p>\n<br>\n</p><h2>Example #3 – Finding Information on a Vulnerability (XSS Example)</h2><p>One example of how you can use TEAM Mentor is to look for information you need regarding specific software vulnerabilities. This may be because you wish to avoid this vulnerability in your code, you have been assigned to fix a vulnerability, or are just looking for information on the topic. To do this, after you have successfully authenticated, Search for <em>XSS</em> (in this example) on the search page.\n</p><p>\n<img src=\"/Image/example3-01.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nSelect \"Vulnerability\" type in the Filters list..\n</p><p>\n<img src=\"/Image/example3-02.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nYou are presented with a few relative articles. If you look closely, the articles relate to specific technology. This is indicated by the icon next to the article summary. \n<img src=\"/Image/example3-03.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nSelect a \"Technology Independent\" filter. This filter shows articles not related to a particular technology. This would show you generic article for this vulnerability.\n</p>\n<p>\n<img src=\"/Image/example3-04.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nOpen the article and read for specific information on how to fix the vulnerability.\n</p><p>\n<img src=\"/Image/example3-05.png\">\n</p><p>\n<br>\n<br>\n</p>\n<h2>Sharing information on vulnerability</h2><p>You may wish to share this information once you found it for collaboration on a fix, testing, or using the information to avoid that vulnerability in your code. Once you have opened a vulnerability (of any other) article you would like to share, simply copy the URL on the URL bar\n</p><p>\n<img src=\"/Image/sharing01.png\">\n</p><p>\n<br>\n<br>\n</p><h2>Saving information on vulnerability</h2><p>If you would like to save an article for later reference, after you’ve opened the article in full view, simply use your browser’s bookmarking feature to bookmark the article. The URL of articles do not change, so when you use the bookmark you will be taken right to the article. If you are not logged in, you will have to log in to see the article\n</p><p>\n<br>\n<br>\n</p><h2>Save or Share Your Results</h2><p>If you created a complex query and would like to share the resulting list of articles, or reuse the same filter later, simply bookmark or email the URL of the page you are on. \n</p><p>\nThe URL always reflects the state of the application, therefore it is easy to save or share what you are seeing with anyone else.\n</p>\n<p>\nSearch and filter, or browse, to the list of articles that you like.\n</p><p>\n<img src=\"/Image/sharing02.png\">\n</p><p>\n<br>\n</p><p>\n<img src=\"/Image/sharing03.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nThen use your browser to bookmark the URL, which saves the state for future re-use. When you click on the bookmark, it will open TEAM Mentor with the same search and filters and thus display the same set of articles.\nYou can also send the same URL to anyone that has access to TEAM Mentor. When they click on the URL, they will see the same set of articles. This makes collaboration on fixing security defects as easy as sending an IM or email between colleges. \n</p><p>\n<img src=\"/Image/sharing04.png\">\n</p>\n\n\n\n"
 }

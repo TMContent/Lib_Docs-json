@@ -1,6 +1,6 @@
 {
   "id": "00000000-0000-0000-0000-0000002df883",
-  "checksum": "098f1b44aa95710acd6dfea0503c22e3df684db9",
+  "checksum": "3dee1c97520f52acb4aa5643a530cb0ff0b6b776",
   "words": {
     "editing": [
       "h1",
@@ -458,17 +458,17 @@
   },
   "links": [
     {
-      "href": "article/00000000-0000-0000-0000-0000002df883",
+      "href": "00000000-0000-0000-0000-0000002df883",
       "text": "Edit Article Metadata"
     },
     {
-      "href": "article/00000000-0000-0000-0000-0000003ea057",
+      "href": "00000000-0000-0000-0000-0000003ea057",
       "text": "Editing HTML Articles"
     },
     {
-      "href": "article/00000000-0000-0000-0000-00000079da36",
+      "href": "00000000-0000-0000-0000-00000079da36",
       "text": "Editing WikiText Articles"
     }
   ],
-  "html": "<h1>Editing Article Metadata</h1><p><strong>Guidance Item article Metadata</strong>\n</p><p>\nEach article has the following meta-data: \n</p><ul>\n<li> <strong>Title</strong>:  The title is the title that is displayed in the article list</li>\n<li> <strong>Technology</strong> tag:  The technology tag reflects what technology the article applies to</li>\n<li> <strong>Phase</strong> tag:  The phase tag signifies which phase of the software development life-cycle the article is relevant to</li>\n<li> <strong>Type</strong> tag:  The type tag describes the type of the article</li>\n<li> <strong>Category</strong> tag:  The category tag describes what kind of security control the article is about</li>\n</ul><p>\nThe values of these fields create the filters and a drop-down list items in the article editor. These values can be change in the WYSIWING editor window. Use the drop downs to change the metadata of the articles. To add a new tag, enter the tag in the drop down field and click “Save Changes”\n</p><p>\n<img src=\"/Image/editmetadata-img1.jpg\">\n</p><h1>Related Items</h1><p>For more information on Article Metadata see:<br>\n<a href=\"article/00000000-0000-0000-0000-0000002df883\">Edit Article Metadata</a><br>\n</p><p>\nFor information on editing HTML articles see:<br>\n<a href=\"article/00000000-0000-0000-0000-0000003ea057\">Editing HTML Articles</a><br>\n</p><p>\nFor information on editing WikiText articles see:<br>\n<a href=\"article/00000000-0000-0000-0000-00000079da36\">Editing WikiText Articles</a><br></p>"
+  "html": "<h1>Editing Article Metadata</h1><p><strong>Guidance Item article Metadata</strong>\n</p><p>\nEach article has the following meta-data: \n</p><ul>\n<li> <strong>Title</strong>:  The title is the title that is displayed in the article list</li>\n<li> <strong>Technology</strong> tag:  The technology tag reflects what technology the article applies to</li>\n<li> <strong>Phase</strong> tag:  The phase tag signifies which phase of the software development life-cycle the article is relevant to</li>\n<li> <strong>Type</strong> tag:  The type tag describes the type of the article</li>\n<li> <strong>Category</strong> tag:  The category tag describes what kind of security control the article is about</li>\n</ul><p>\nThe values of these fields create the filters and a drop-down list items in the article editor. These values can be change in the WYSIWING editor window. Use the drop downs to change the metadata of the articles. To add a new tag, enter the tag in the drop down field and click “Save Changes”\n</p><p>\n<img src=\"/Image/editmetadata-img1.jpg\">\n</p><h1>Related Items</h1><p>For more information on Article Metadata see:<br>\n<a href=\"00000000-0000-0000-0000-0000002df883\">Edit Article Metadata</a><br>\n</p><p>\nFor information on editing HTML articles see:<br>\n<a href=\"00000000-0000-0000-0000-0000003ea057\">Editing HTML Articles</a><br>\n</p><p>\nFor information on editing WikiText articles see:<br>\n<a href=\"00000000-0000-0000-0000-00000079da36\">Editing WikiText Articles</a><br></p>"
 }

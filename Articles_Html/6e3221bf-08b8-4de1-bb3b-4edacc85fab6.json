@@ -1,6 +1,6 @@
 {
   "id": "6e3221bf-08b8-4de1-bb3b-4edacc85fab6",
-  "checksum": "1d42aba7e0d42d0c420f61a4bfb41c81a475c30d",
+  "checksum": "20a3489f53661f21b057a50199b2ad80590839cb",
   "words": {
     "1": [
       "p",
@@ -23,11 +23,151 @@
       "p",
       "strong"
     ],
+    "36": [
+      "p",
+      "strong"
+    ],
     "40": [
       "p",
       "p"
     ],
     "401": [
+      "p",
+      "strong"
+    ],
+    "this": [
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong",
+      "p"
+    ],
+    "is": [
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "configured": [
+      "p",
+      "strong",
+      "p"
+    ],
+    "on": [
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong",
+      "ul",
+      "li"
+    ],
+    "the": [
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong",
+      "p"
+    ],
+    "team": [
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong"
+    ],
+    "mentor": [
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong"
+    ],
+    "backend": [
       "p",
       "strong"
     ],
@@ -45,30 +185,6 @@
       "p",
       "p",
       "p"
-    ],
-    "team": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "strong"
-    ],
-    "mentor": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "strong"
     ],
     "uses": [
       "p"
@@ -114,16 +230,6 @@
       "title"
     ],
     "integration": [
-      "p"
-    ],
-    "is": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
       "p"
     ],
     "also": [
@@ -229,62 +335,6 @@
       "p",
       "p"
     ],
-    "the": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "strong",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "strong",
-      "p"
-    ],
     "steps": [
       "p"
     ],
@@ -370,22 +420,6 @@
       "p",
       "strong",
       "em"
-    ],
-    "this": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "strong",
-      "p"
     ],
     "which": [
       "p",
@@ -693,15 +727,6 @@
     ],
     "clicking": [
       "p"
-    ],
-    "on": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "strong",
-      "ul",
-      "li"
     ],
     "tbot": [
       "p",
@@ -1148,9 +1173,6 @@
       "p",
       "p"
     ],
-    "configured": [
-      "p"
-    ],
     "always": [
       "p"
     ],
@@ -1449,6 +1471,7 @@
   },
   "tags": {
     "p": [
+      "This is configured on the TEAM Mentor 3.6 Backend.",
       "By default TEAM Mentor uses its Xml-based User Store, however Active Directory integration is also supported.  TEAM Mentor can use AD to authenticate and authorize users.",
       "These are the steps required to set it up",
       "Step 1: Configure web.config file",
@@ -1488,10 +1511,8 @@
       "Q: You get this error when running TEAM Mentor on a fresh IIS installation: \"Handler'\"WebServiceHandlerFactory-Integrated' has a bad module 'ManagedPipelineHandler' in its module list.\"",
       "A:  Try running aspnet_regiis.exe -i from the .Net 4.0 folder. See this post for more details: http://forums.iis.net/p/1149449/1869918.aspx"
     ],
-    "h3": [
-      "Set-up"
-    ],
     "strong": [
+      "This is configured on the TEAM Mentor 3.6 Backend.",
       "Step 1: Configure web.config file",
       "true",
       "Windows",
@@ -1505,6 +1526,9 @@
       "A:",
       "Q: You get this error when running TEAM Mentor on a fresh IIS installation: \"Handler'\"WebServiceHandlerFactory-Integrated' has a bad module 'ManagedPipelineHandler' in its module list.\"",
       "A:"
+    ],
+    "h3": [
+      "Set-up"
     ],
     "em": [
       "\\Web Applications\\TM_Website",
@@ -1592,5 +1616,5 @@
       "text": "http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication/providers/add"
     }
   ],
-  "html": "<p>By default TEAM Mentor uses its Xml-based User Store, however Active Directory integration is also supported.  TEAM Mentor can use AD to authenticate and authorize users.\n</p><h3>Set-up</h3><p>These are the steps required to set it up\n</p><p>\n<strong>Step 1: Configure web.config file </strong>\n</p><p>\nIn this file which you will find in the Web Root  <em>\\Web Applications\\TM_Website</em> you need to make the following changes:\n</p><p>\nIn the system.web identity element:\n</p><p>\nSet the impersonate value to <em>true</em>, by default it is set to <em>false</em>, <br>\n<em>&lt;identity impersonate=\"<strong>true</strong>\"&gt;&lt;/identity&gt;</em>\n</p><p>\nSet the authentication mode to <em>Windows</em>, by default it is set to <em>None</em><br>\n<em>&lt;authentication mode=\"<strong>Windows</strong>\"&gt;&lt;/authentication&gt;</em>\n</p><p>\nYour new &lt;system.web&gt; properties should have these values:\n</p><pre>    &lt;system.web&gt;\n    ...\n    &lt;identity impersonate=\"true\"&gt;&lt;/identity&gt;\n    &lt;authentication mode=\"Windows\"&gt;&lt;/authentication&gt;\n    ... \n    &lt;/system.web&gt;\n</pre><p>\n<br>\n</p><p>\nIn system.webServer section:\n</p><p>\nAdd the this tag:\n<em>&lt;validation validateintegratedmodeconfiguration=\"false\"&gt;&lt;/validation&gt;</em>\n</p><p>\nSet the modules runAllManagedModulesForAllRequest to <em>true</em>\n<em>&lt;modules runallmanagedmodulesforallrequest=\"true\"&gt;&lt;/modules&gt;</em>\n</p><p>\nYour new &lt;system.webserver&gt; should have these values:\n</p><pre>   &lt;system.webserver&gt;\n    ...\n    &lt;validation validateintegratedmodeconfiguration=\"false\"&gt;&lt;/validation&gt;\n    &lt;modules runallmanagedmodulesforallrequest=\"true\"&gt;&lt;/modules&gt;    \n    ...\t\n    &lt;/system.webserver&gt;\n</pre>\n<p>\n<br>\n</p><p>\n<strong>Step 2: Configure TMConfig.Config file </strong>\n</p><p>\nOpen the TMConfig editor by clicking on <em>Tbot</em> in the <em>Admin</em> menu and selecting <em>Edit TMConfig</em> from the <em>Admin - Config </em> row. In the Windows Authentication section you need to Enable Windows Authentication and set the relevant security groups. By default Windows Authentication is set to false, so you will need to set the Enabled element to true and change the ReaderGroup, EditorGroup, AdminGroup values to match your Active Directory security group names. Your Windows Authentication section should look something similar to this.\n</p><p>\n<img src=\"/Image/tmcfg10.jpg\">\n</p><p>\n<br>\n</p><p>\nAlternatively you can make the same changes in the actual TMConfig.Config xml file if necessary. This file you will find in the <em>Library_Data\\XmlDatabase\\User_Data</em> or an alternative location if you have set one. Make sure that the Active Directory groups names are correct. You can verify this information by following the instructions in Step 4: Security settings.\n</p>\n<p>\nYour TMConfig file Windows Authentication section should look similar to the below. \n</p><pre>\t\t&lt;windowsauthentication&gt;\n\t\t\t&lt;enabled&gt;true&lt;/enabled&gt;\n\t\t\t&lt;readergroup&gt;TMREAD&lt;/readergroup&gt;\n\t\t\t&lt;editorgroup&gt;TMEDIT&lt;/editorgroup&gt;\n\t\t\t&lt;admingroup&gt;TMADMIN&lt;/admingroup&gt;\n\t\t&lt;/windowsauthentication&gt;\n\t\n</pre><p>\n<br>\n</p><p>\n<strong>Step 3: Disabling IIS Anonymous access  and Enabling Windows Authentication </strong>\n</p><p>\nMake sure you have already installed Windows Authentication in the server where you are configuring TEAM Mentor to use Active Directory.   Windows Authentication can be installed from the Add Roles and Features from the Server Manager Dashboard. You can read more about how to install Windows Authentication here <a href=\"http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication\">http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication</a>\n</p><p>\nThis is the server roles screen that shows how to install Windows Authentication:\n<img src=\"/Image/adins1.png\">\n</p><p>\n<br>\n</p><p>\nOnce Windows Authentication has been installed, then it's necessary to enable it for the current Web site and then disable Anonymous access. \nIn order to to that, you need to select the TEAM Mentor Web site and then select the Authentication feature from the IIS group. Make sure Anonymous access is disabled and Windows Authentication is enabled for this Web site.\n<img src=\"/Image/adins2.png\">\n</p><p>\n<br>\n</p><p>\n<strong>Step 4: IIS Application Pool configuration </strong>\n</p><p>\nWhen configuring TEAM Mentor Web site in the Internet Information Services (IIS), you need to create a new Application Pool or assign it to an existing Application Pool. In any of those cases, this pool needs to be configured to always use the Microsoft .NET framework  4.0 or higher. Also the Managed pipeline mode needs to be <strong>Integrated</strong>.\n</p><p>\n<strong>Step 5: Security settings </strong>\n</p><p>\nNow that you have created the Web site, you need to assign security permissions. First you need grant the application pool identity with permissions on the Web Site. When discovering the user, you will need to use the format <strong>IIS AppPool\\[Name of the Application Pool]</strong>.You need to find this user at the server level and not at the domain level.\n</p><p>\nThen you need to grant the Active Directory groups with permissions in the TEAM Mentor Web application. If there is an Active Directory group called TeamMentorReader for instance, which should be used just for readers, then you need to grant this group with permissions in the TEAM Mentor site. You need to select the Web site, right click on it, and select the Edit Permissions option from the contextual menu, from there you need to enter the group name.\n</p><p>\n<img src=\"/Image/adins3.png\">\n</p><p>\nMake sure that the Active Directory groups have access to the TEAM Mentor Web Application by adding them to the target folder and grant them with read and write permissions.\n<br>\n</p>\n<h2>Troubleshoot</h2><p><strong>Q: You get a 401 error when connecting to the IIS server from a remote computer, but it works locally</strong>\n</p><p>\n<strong>A: </strong> See this Microsoft KB for a workaround <a href=\"http://support.microsoft.com/kb/871179\">http://support.microsoft.com/kb/871179</a>\n</p><p>\n<strong>Q: You get this error when running TEAM Mentor on a fresh IIS installation: <em>\"Handler'\"WebServiceHandlerFactory-Integrated' has a bad module 'ManagedPipelineHandler' in its module list.\"</em></strong>\n</p><p>\n<strong>A: </strong> Try running <em>aspnet_regiis.exe -i</em> from the .Net 4.0 folder. See this post for more details: <a href=\"http://forums.iis.net/p/1149449/1869918.aspx\">http://forums.iis.net/p/1149449/1869918.aspx</a>\n</p>\n<h2>References</h2><ul><li> on why need to set validateIntegratedModeConfiguration=false<ul>\n<li> <a href=\"http://forums.iis.net/t/1187993.aspx\">http://forums.iis.net/t/1187993.aspx</a></li></ul></li>\n<li> Installing Windows Authentication<ul>\n<li> <a href=\"http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication/providers/add\">http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication/providers/add</a>&lt;/system.webserver&gt;&lt;/system.web&gt;</li></ul></li></ul>"
+  "html": "<p><strong>This is configured on the TEAM Mentor 3.6 Backend.</strong>\n</p><p>\nBy default TEAM Mentor uses its Xml-based User Store, however Active Directory integration is also supported.  TEAM Mentor can use AD to authenticate and authorize users.\n</p><h3>Set-up</h3><p>These are the steps required to set it up\n</p><p>\n<strong>Step 1: Configure web.config file </strong>\n</p><p>\nIn this file which you will find in the Web Root  <em>\\Web Applications\\TM_Website</em> you need to make the following changes:\n</p><p>\nIn the system.web identity element:\n</p><p>\nSet the impersonate value to <em>true</em>, by default it is set to <em>false</em>, <br>\n<em>&lt;identity impersonate=\"<strong>true</strong>\"&gt;&lt;/identity&gt;</em>\n</p><p>\nSet the authentication mode to <em>Windows</em>, by default it is set to <em>None</em><br>\n<em>&lt;authentication mode=\"<strong>Windows</strong>\"&gt;&lt;/authentication&gt;</em>\n</p><p>\nYour new &lt;system.web&gt; properties should have these values:\n</p><pre>    &lt;system.web&gt;\n    ...\n    &lt;identity impersonate=\"true\"&gt;&lt;/identity&gt;\n    &lt;authentication mode=\"Windows\"&gt;&lt;/authentication&gt;\n    ... \n    &lt;/system.web&gt;\n</pre><p>\n<br>\n</p><p>\nIn system.webServer section:\n</p><p>\nAdd the this tag:\n<em>&lt;validation validateintegratedmodeconfiguration=\"false\"&gt;&lt;/validation&gt;</em>\n</p><p>\nSet the modules runAllManagedModulesForAllRequest to <em>true</em>\n<em>&lt;modules runallmanagedmodulesforallrequest=\"true\"&gt;&lt;/modules&gt;</em>\n</p><p>\nYour new &lt;system.webserver&gt; should have these values:\n</p><pre>   &lt;system.webserver&gt;\n    ...\n    &lt;validation validateintegratedmodeconfiguration=\"false\"&gt;&lt;/validation&gt;\n    &lt;modules runallmanagedmodulesforallrequest=\"true\"&gt;&lt;/modules&gt;    \n    ...\t\n    &lt;/system.webserver&gt;\n</pre>\n<p>\n<br>\n</p><p>\n<strong>Step 2: Configure TMConfig.Config file </strong>\n</p><p>\nOpen the TMConfig editor by clicking on <em>Tbot</em> in the <em>Admin</em> menu and selecting <em>Edit TMConfig</em> from the <em>Admin - Config </em> row. In the Windows Authentication section you need to Enable Windows Authentication and set the relevant security groups. By default Windows Authentication is set to false, so you will need to set the Enabled element to true and change the ReaderGroup, EditorGroup, AdminGroup values to match your Active Directory security group names. Your Windows Authentication section should look something similar to this.\n</p><p>\n<img src=\"/Image/tmcfg10.jpg\">\n</p><p>\n<br>\n</p><p>\nAlternatively you can make the same changes in the actual TMConfig.Config xml file if necessary. This file you will find in the <em>Library_Data\\XmlDatabase\\User_Data</em> or an alternative location if you have set one. Make sure that the Active Directory groups names are correct. You can verify this information by following the instructions in Step 4: Security settings.\n</p>\n<p>\nYour TMConfig file Windows Authentication section should look similar to the below. \n</p><pre>\t\t&lt;windowsauthentication&gt;\n\t\t\t&lt;enabled&gt;true&lt;/enabled&gt;\n\t\t\t&lt;readergroup&gt;TMREAD&lt;/readergroup&gt;\n\t\t\t&lt;editorgroup&gt;TMEDIT&lt;/editorgroup&gt;\n\t\t\t&lt;admingroup&gt;TMADMIN&lt;/admingroup&gt;\n\t\t&lt;/windowsauthentication&gt;\n\t\n</pre><p>\n<br>\n</p><p>\n<strong>Step 3: Disabling IIS Anonymous access  and Enabling Windows Authentication </strong>\n</p><p>\nMake sure you have already installed Windows Authentication in the server where you are configuring TEAM Mentor to use Active Directory.   Windows Authentication can be installed from the Add Roles and Features from the Server Manager Dashboard. You can read more about how to install Windows Authentication here <a href=\"http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication\">http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication</a>\n</p><p>\nThis is the server roles screen that shows how to install Windows Authentication:\n<img src=\"/Image/adins1.png\">\n</p><p>\n<br>\n</p><p>\nOnce Windows Authentication has been installed, then it's necessary to enable it for the current Web site and then disable Anonymous access. \nIn order to to that, you need to select the TEAM Mentor Web site and then select the Authentication feature from the IIS group. Make sure Anonymous access is disabled and Windows Authentication is enabled for this Web site.\n<img src=\"/Image/adins2.png\">\n</p><p>\n<br>\n</p><p>\n<strong>Step 4: IIS Application Pool configuration </strong>\n</p><p>\nWhen configuring TEAM Mentor Web site in the Internet Information Services (IIS), you need to create a new Application Pool or assign it to an existing Application Pool. In any of those cases, this pool needs to be configured to always use the Microsoft .NET framework  4.0 or higher. Also the Managed pipeline mode needs to be <strong>Integrated</strong>.\n</p><p>\n<strong>Step 5: Security settings </strong>\n</p><p>\nNow that you have created the Web site, you need to assign security permissions. First you need grant the application pool identity with permissions on the Web Site. When discovering the user, you will need to use the format <strong>IIS AppPool\\[Name of the Application Pool]</strong>.You need to find this user at the server level and not at the domain level.\n</p><p>\nThen you need to grant the Active Directory groups with permissions in the TEAM Mentor Web application. If there is an Active Directory group called TeamMentorReader for instance, which should be used just for readers, then you need to grant this group with permissions in the TEAM Mentor site. You need to select the Web site, right click on it, and select the Edit Permissions option from the contextual menu, from there you need to enter the group name.\n</p><p>\n<img src=\"/Image/adins3.png\">\n</p><p>\nMake sure that the Active Directory groups have access to the TEAM Mentor Web Application by adding them to the target folder and grant them with read and write permissions.\n<br>\n</p>\n<h2>Troubleshoot</h2><p><strong>Q: You get a 401 error when connecting to the IIS server from a remote computer, but it works locally</strong>\n</p><p>\n<strong>A: </strong> See this Microsoft KB for a workaround <a href=\"http://support.microsoft.com/kb/871179\">http://support.microsoft.com/kb/871179</a>\n</p><p>\n<strong>Q: You get this error when running TEAM Mentor on a fresh IIS installation: <em>\"Handler'\"WebServiceHandlerFactory-Integrated' has a bad module 'ManagedPipelineHandler' in its module list.\"</em></strong>\n</p><p>\n<strong>A: </strong> Try running <em>aspnet_regiis.exe -i</em> from the .Net 4.0 folder. See this post for more details: <a href=\"http://forums.iis.net/p/1149449/1869918.aspx\">http://forums.iis.net/p/1149449/1869918.aspx</a>\n</p>\n<h2>References</h2><ul><li> on why need to set validateIntegratedModeConfiguration=false<ul>\n<li> <a href=\"http://forums.iis.net/t/1187993.aspx\">http://forums.iis.net/t/1187993.aspx</a></li></ul></li>\n<li> Installing Windows Authentication<ul>\n<li> <a href=\"http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication/providers/add\">http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication/providers/add</a>&lt;/system.webserver&gt;&lt;/system.web&gt;</li></ul></li></ul>"
 }

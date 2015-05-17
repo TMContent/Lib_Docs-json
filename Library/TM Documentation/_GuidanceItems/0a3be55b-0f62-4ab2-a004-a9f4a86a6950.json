@@ -1,0 +1,56 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "0a3be55b-0f62-4ab2-a004-a9f4a86a6950"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "Installation Preparation"
+        ],
+        "Category": [
+          ""
+        ],
+        "Phase": [
+          "NA"
+        ],
+        "Technology": [
+          ""
+        ],
+        "Type": [
+          ""
+        ],
+        "DirectLink": [
+          ""
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "markdown"
+        },
+        "Data": [
+          "\r\nInstallation of TEAM Mentor 4.0 consists of three major steps. \r\n\r\n1. [Installation of TEAM Mentor 3.6 Back-end ](article/fa3888bd-c6d0-4f51-a4d1-0470794140b2)\r\n2. [Installation  of TEAM Mentor 4.0 Front-end](article/0a27b133-4b24-40ed-98b1-6ac7f35da716)\r\n3. [Installation and configuration of IIS Reverse Proxy](article/33cebe6d-c4ac-4ac8-b047-f8f07f5df2e9)\r\n\r\nFirst start by unzipping the installation file.\r\n\r\nYou should have the following directory structure:\r\n\r\n![](/Image/install01.png)\r\n\r\nInstall all the components in the Dependencies folder. Install using all defaults. \r\n\r\nContinue by following Installation of [TEAM Mentor 3.6 instructions.](article/fa3888bd-c6d0-4f51-a4d1-0470794140b2)\r\n\r\n\r\n\r\n\r\n"
+        ]
+      }
+    ]
+  }
+}

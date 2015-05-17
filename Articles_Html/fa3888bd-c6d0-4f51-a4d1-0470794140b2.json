@@ -1,0 +1,1911 @@
+{
+  "id": "fa3888bd-c6d0-4f51-a4d1-0470794140b2",
+  "checksum": "78e8f2c9a0757cb28b2dd1ce2f97bf4bea6fcadd",
+  "words": {
+    "3": [
+      "ul",
+      "li"
+    ],
+    "8": [
+      "p"
+    ],
+    "36": [
+      "title"
+    ],
+    "40": [
+      "p",
+      "a"
+    ],
+    "45": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "install": [
+      "h4",
+      "ul",
+      "li",
+      "p"
+    ],
+    "and": [
+      "h4",
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "configure": [
+      "h4",
+      "h4"
+    ],
+    "iis": [
+      "h4",
+      "h4",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "if": [
+      "h4",
+      "ul",
+      "li"
+    ],
+    "not": [
+      "h4"
+    ],
+    "already": [
+      "h4"
+    ],
+    "installed": [
+      "h4",
+      "li"
+    ],
+    "use": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "the": [
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "h4",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "windows": [
+      "ul",
+      "li",
+      "p",
+      "ul",
+      "li"
+    ],
+    "role": [
+      "ul",
+      "li",
+      "li"
+    ],
+    "manager": [
+      "ul",
+      "li"
+    ],
+    "to": [
+      "ul",
+      "li",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "li",
+      "p",
+      "p"
+    ],
+    "https": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "server": [
+      "ul",
+      "li",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "role\nselect": [
+      "ul"
+    ],
+    "aspnet": [
+      "ul",
+      "li"
+    ],
+    "as": [
+      "ul",
+      "li",
+      "h4",
+      "li",
+      "ul",
+      "li",
+      "p",
+      "ul",
+      "li"
+    ],
+    "an": [
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "p"
+    ],
+    "additional": [
+      "ul",
+      "li"
+    ],
+    "feature": [
+      "ul",
+      "li"
+    ],
+    "under": [
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "net": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "framework": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "select": [
+      "li",
+      "li",
+      "li",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "add": [
+      "h4"
+    ],
+    "team": [
+      "h4",
+      "ul",
+      "li",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "ul",
+      "li",
+      "p",
+      "a",
+      "title"
+    ],
+    "mentor": [
+      "h4",
+      "ul",
+      "li",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "p",
+      "a",
+      "title"
+    ],
+    "a": [
+      "h4",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "ul",
+      "li"
+    ],
+    "site": [
+      "h4",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "in": [
+      "h4",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "li",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "open": [
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "\"internet": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "information": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "p",
+      "ul",
+      "li"
+    ],
+    "services": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "iis)": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "manager\"\nnavigate": [
+      "ul",
+      "ul"
+    ],
+    "\"sites\"": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "li"
+    ],
+    "folder": [
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p",
+      "ul",
+      "li",
+      "li"
+    ],
+    "\"connections\"": [
+      "ul",
+      "li"
+    ],
+    "tree": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "li"
+    ],
+    "on": [
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "left\nright": [
+      "ul"
+    ],
+    "click": [
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "ul",
+      "li",
+      "li",
+      "ul",
+      "li"
+    ],
+    "folder\nselect": [
+      "ul"
+    ],
+    "\"add": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "web": [
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "site..”": [
+      "ul",
+      "li"
+    ],
+    "site\"": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "window": [
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "should": [
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "appear\nenter": [
+      "ul"
+    ],
+    "name": [
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "li"
+    ],
+    "for": [
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "p",
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "p"
+    ],
+    "\"site": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "name\"": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "text": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "box\nclick": [
+      "ul"
+    ],
+    "\"..\"": [
+      "ul",
+      "li"
+    ],
+    "next": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "\"physical": [
+      "ul",
+      "li"
+    ],
+    "path\"": [
+      "ul",
+      "li"
+    ],
+    "box": [
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "set": [
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "h4",
+      "p",
+      "h4",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "root": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "of": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "p",
+      "a",
+      "title"
+    ],
+    "\"browse": [
+      "ul",
+      "li"
+    ],
+    "folder\"": [
+      "ul",
+      "li"
+    ],
+    "appear\nselect": [
+      "ul",
+      "ul",
+      "li",
+      "ul"
+    ],
+    "\"tm36\\teammentor\\publish\\website3.5\"": [
+      "ul",
+      "li"
+    ],
+    "inside": [
+      "ul",
+      "li"
+    ],
+    "you": [
+      "ul",
+      "li",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "ul",
+      "li"
+    ],
+    "unzippedenter": [
+      "ul"
+    ],
+    "hostname": [
+      "ul",
+      "li"
+    ],
+    "that": [
+      "ul",
+      "li",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "tm36": [
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "h4",
+      "p"
+    ],
+    "will": [
+      "ul",
+      "li",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "ul",
+      "li"
+    ],
+    "be": [
+      "ul",
+      "li",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "ul",
+      "li"
+    ],
+    "accessible": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "as\nclick": [
+      "ul"
+    ],
+    "\"ok\"": [
+      "ul",
+      "li",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "port": [
+      "ul",
+      "li"
+    ],
+    "\"port\"": [
+      "ul",
+      "li"
+    ],
+    "necessary\nclick": [
+      "ul"
+    ],
+    "\"ok\"\nthe": [
+      "ul"
+    ],
+    "close": [
+      "ul",
+      "li"
+    ],
+    "new": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "appear": [
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "left": [
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "manager\"": [
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "window\na": [
+      "ul"
+    ],
+    "structure": [
+      "ul",
+      "li"
+    ],
+    "navigate": [
+      "li",
+      "li"
+    ],
+    "right": [
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "enter": [
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "unzipped": [
+      "li"
+    ],
+    "necessary": [
+      "li",
+      "p"
+    ],
+    "up": [
+      "h4",
+      "p",
+      "li",
+      "h4"
+    ],
+    "ssl": [
+      "h4",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "is": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "li"
+    ],
+    "enabled": [
+      "p"
+    ],
+    "by": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "default": [
+      "p",
+      "p"
+    ],
+    "therefore": [
+      "p"
+    ],
+    "it": [
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "certificate": [
+      "p",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "note:": [
+      "p"
+    ],
+    "possible": [
+      "p"
+    ],
+    "disable": [
+      "p"
+    ],
+    "configuration": [
+      "p"
+    ],
+    "first": [
+      "p"
+    ],
+    "generate": [
+      "p"
+    ],
+    "csr": [
+      "p",
+      "ul",
+      "li",
+      "li"
+    ],
+    "manager\"\ndouble": [
+      "ul",
+      "ul"
+    ],
+    "\"server": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "certificates\"": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "menu": [
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "\"security\"": [
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "sectionfrom": [
+      "ul",
+      "ul"
+    ],
+    "\"actions\"": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "\"create": [
+      "ul",
+      "li"
+    ],
+    "request\"\nfollow": [
+      "ul"
+    ],
+    "wizzard": [
+      "ul",
+      "li"
+    ],
+    "create": [
+      "ul",
+      "li"
+    ],
+    "csrsend": [
+      "ul"
+    ],
+    "your": [
+      "ul",
+      "li",
+      "p",
+      "ul",
+      "li",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "authority": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "signing": [
+      "ul",
+      "li"
+    ],
+    "double": [
+      "li",
+      "li",
+      "ul",
+      "li"
+    ],
+    "section": [
+      "li",
+      "li"
+    ],
+    "from": [
+      "li",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "request\"": [
+      "li"
+    ],
+    "follow": [
+      "li",
+      "ul",
+      "li"
+    ],
+    "send": [
+      "li"
+    ],
+    "\"complete": [
+      "ul",
+      "li"
+    ],
+    "request\n\"browse\"": [
+      "ul"
+    ],
+    "file": [
+      "ul",
+      "li"
+    ],
+    "received": [
+      "ul",
+      "li"
+    ],
+    "then": [
+      "ul",
+      "li"
+    ],
+    "rest": [
+      "ul",
+      "li"
+    ],
+    "wizard": [
+      "ul",
+      "li"
+    ],
+    "steps": [
+      "ul",
+      "li"
+    ],
+    "until": [
+      "ul",
+      "li"
+    ],
+    "finished\nnow": [
+      "ul"
+    ],
+    "assign": [
+      "ul",
+      "li"
+    ],
+    "newly": [
+      "ul",
+      "li"
+    ],
+    "created": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "sitefrom": [
+      "ul"
+    ],
+    "\"action": [
+      "ul",
+      "li"
+    ],
+    "menu\"": [
+      "ul",
+      "li"
+    ],
+    "\"bindings\"click": [
+      "ul"
+    ],
+    "\"add\"": [
+      "ul",
+      "li"
+    ],
+    "just": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "poped": [
+      "ul",
+      "li"
+    ],
+    "upunder": [
+      "ul"
+    ],
+    "\"type\"": [
+      "ul",
+      "li"
+    ],
+    "choose": [
+      "ul",
+      "li"
+    ],
+    "'https’select": [
+      "ul"
+    ],
+    "imported\nunder": [
+      "ul"
+    ],
+    "“hostname”": [
+      "ul",
+      "li"
+    ],
+    "type": [
+      "ul",
+      "li"
+    ],
+    "url": [
+      "ul",
+      "li",
+      "li",
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "this": [
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "p",
+      "ul",
+      "li"
+    ],
+    "using": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "note": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "tm40": [
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "em"
+    ],
+    "connect": [
+      "ul",
+      "li"
+    ],
+    "via": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "url\nthe": [
+      "ul"
+    ],
+    "installed\nclick": [
+      "ul"
+    ],
+    "ok": [
+      "ul",
+      "li"
+    ],
+    "request": [
+      "li"
+    ],
+    "\"browse\"": [
+      "li"
+    ],
+    "finished": [
+      "li"
+    ],
+    "now": [
+      "li"
+    ],
+    "\"bindings\"": [
+      "li"
+    ],
+    "'https’": [
+      "li"
+    ],
+    "imported": [
+      "li"
+    ],
+    "permissions": [
+      "h4",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "find": [
+      "p",
+      "li"
+    ],
+    "account": [
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "ul",
+      "li",
+      "p",
+      "p"
+    ],
+    "used": [
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "needs": [
+      "p"
+    ],
+    "have": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "full": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "control": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "privileges": [
+      "p",
+      "p"
+    ],
+    "library_data": [
+      "p",
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "application": [
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "same": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "pool": [
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "user": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "configured": [
+      "p"
+    ],
+    "website": [
+      "p"
+    ],
+    "\"application": [
+      "ul",
+      "li"
+    ],
+    "pools\"": [
+      "ul",
+      "li"
+    ],
+    "leftfind": [
+      "ul"
+    ],
+    "step": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "above\nmake": [
+      "ul"
+    ],
+    "sure": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "version": [
+      "ul",
+      "li",
+      "li"
+    ],
+    "v40.": [
+      "ul",
+      "li"
+    ],
+    "otherwise": [
+      "ul",
+      "li"
+    ],
+    "correct": [
+      "ul",
+      "li"
+    ],
+    "versiontake": [
+      "ul"
+    ],
+    "name\nadjust": [
+      "ul"
+    ],
+    "file-system": [
+      "ul",
+      "li"
+    ],
+    "give": [
+      "ul",
+      "li",
+      "li"
+    ],
+    "“\\tm36\\library_data”": [
+      "ul",
+      "li"
+    ],
+    "run": [
+      "ul",
+      "li"
+    ],
+    "username": [
+      "ul",
+      "li"
+    ],
+    "has": [
+      "ul",
+      "li"
+    ],
+    "been": [
+      "ul",
+      "li"
+    ],
+    "discovered": [
+      "ul",
+      "li"
+    ],
+    "previous": [
+      "ul",
+      "li"
+    ],
+    "step\n\nright": [
+      "ul",
+      "li"
+    ],
+    "folderselect": [
+      "ul",
+      "li",
+      "ul"
+    ],
+    "\"properties\"": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "tab": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "window.\ngive": [
+      "ul",
+      "li",
+      "ul"
+    ],
+    "\"full": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "control\"": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "apppoolapppoolname>": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "where": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "apppoolname": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "identified": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "above\nclick": [
+      "ul",
+      "li",
+      "ul"
+    ],
+    "above": [
+      "li",
+      "li"
+    ],
+    "make": [
+      "li",
+      "p"
+    ],
+    "take": [
+      "li"
+    ],
+    "adjust": [
+      "li"
+    ],
+    "window.": [
+      "li"
+    ],
+    "backend": [
+      "h4",
+      "p"
+    ],
+    "login": [
+      "p"
+    ],
+    "you’ve": [
+      "p"
+    ],
+    "specified": [
+      "p"
+    ],
+    "installation": [
+      "p",
+      "ul",
+      "li",
+      "p",
+      "a",
+      "title"
+    ],
+    "resolves": [
+      "p"
+    ],
+    "dns.": [
+      "p"
+    ],
+    "with": [
+      "p"
+    ],
+    "admin": [
+      "p",
+      "p"
+    ],
+    "refer": [
+      "p"
+    ],
+    "release": [
+      "p"
+    ],
+    "notes": [
+      "p"
+    ],
+    "tbot": [
+      "ul",
+      "li",
+      "code"
+    ],
+    "upper": [
+      "ul",
+      "li"
+    ],
+    "corner\nselect": [
+      "ul"
+    ],
+    "edit": [
+      "ul",
+      "li",
+      "code"
+    ],
+    "secret": [
+      "ul",
+      "li",
+      "code"
+    ],
+    "dataenter": [
+      "ul"
+    ],
+    "smpt": [
+      "ul",
+      "li"
+    ],
+    "appropriate": [
+      "ul",
+      "li"
+    ],
+    "field\nenter": [
+      "ul"
+    ],
+    "“team": [
+      "ul",
+      "li"
+    ],
+    "url”": [
+      "ul",
+      "li"
+    ],
+    "corner": [
+      "li"
+    ],
+    "data": [
+      "li",
+      "code"
+    ],
+    "field": [
+      "li"
+    ],
+    "continue": [
+      "p"
+    ],
+    "going": [
+      "p"
+    ],
+    "through": [
+      "p"
+    ],
+    "back-end": [
+      "title"
+    ]
+  },
+  "tags": {
+    "h4": [
+      "Install and configure IIS (if not already installed)",
+      "Add TEAM Mentor as a site in IIS.",
+      "Set up SSL.",
+      "Set up Permissions",
+      "Configure the TM36 Backend"
+    ],
+    "ul": [
+      "Use the Windows Role Manager to install the HTTPS Server role.\nSelect ASP.NET 4.5 as an additional feature under .NET 4.5 Framework.",
+      "Open the \"Internet Information Services (IIS) Manager\".\nNavigate to the \"Sites\" folder in the \"Connections\" tree on the left.\nRight click on the \"Sites\" folder.\nSelect \"Add Web Site...” An \"Add Web Site\" window should appear.\nEnter a name for the site in the \"Site name:\" text box.\nClick the \"...\" next to the \"Physical path:\" text box to set the root of the web site. A \"Browse for Folder\" window should appear.\nSelect to the \"TM36\\TeamMentor\\Publish\\Website.3.5\" folder inside the TEAM Mentor root folder you unzipped\nEnter the hostname that TM36 will be accessible as.\nClick \"Ok\". Set the port in the \"Port:\" text box, if necessary.\nClick \"OK\".\nThe \"Add Web Site\" window should close and a new web site should appear in the \"Sites\" folder in the tree on the left of the \"Internet Information Services (IIS) Manager\" window.\nA new web site should appear in the tree structure on the left of the \"Internet Information Services (IIS) Manager\" window.",
+      "Open the \"Internet Information Services (IIS) Manager\".\nDouble click on the \"Server Certificates\" menu in the \"Security\" section\nFrom the \"Actions\" menu click on \"Create Certificate Request.\"\nFollow the Wizzard to create the CSR\nSend the CSR to your Certificate Authority for Signing",
+      "Open the \"Internet Information Services (IIS) Manager\".\nDouble click on the \"Server Certificates\" menu in the \"Security\" section\nFrom the \"Actions\" menu click on \"Complete Certificate Request.\n\"Browse\" for your SSL Certificate file received from the Certificate Authority, then Click Next. Follow the rest of the wizard steps until finished.\nNow assign the certificate to the newly created web site. Under \"Sites\" Select the web site\nFrom the \"action menu\" click on \"Bindings\"\nClick \"Add\" in the window that just poped up\nUnder \"type\" choose 'https’\nSelect the certificate you just imported.\nUnder “hostname” type the name URL that this site will be accessible as using HTTPS. (Note that TM40 will connect to TM36 via this URL)\nThe SSL Certificate should be the certificate you just installed.\nClick OK",
+      "On the \"Internet Information Services (IIS) Manager\".\nNavigate to \"Application Pools\" in the tree on the left\nFind the Application Pool name, it will be the same as the \"Site Name\" you have created in step 3 above.\nMake sure that the .NET Framework version is set to v4.0. Otherwise double click on the Application Pool and set the correct version\nTake a note of the Application Pool name.\nAdjust the file-system permissions. Give full control permissions for the “\\TM36\\Library_Data” folder to the Windows user account that is used to run TEAM Mentor. This is the username that has been discovered in the previous step.\n\nRight click on the TEAM Mentor Library_Data folder\nSelect \"Properties\". A \"Properties\" window should appear.\nSelect the \"Security\" tab in the \"Properties\" window..\nGive \"Full Control\" to the account IIS AppPool<AppPoolName> where the AppPoolName is the name identified above.\nClick \"OK\"",
+      "Right click on the TEAM Mentor Library_Data folder\nSelect \"Properties\". A \"Properties\" window should appear.\nSelect the \"Security\" tab in the \"Properties\" window..\nGive \"Full Control\" to the account IIS AppPool<AppPoolName> where the AppPoolName is the name identified above.\nClick \"OK\"",
+      "Click on Tbot in the upper right corner.\nSelect Edit Secret Data\nEnter your SMPT Server information in the appropriate field.\nEnter the URL of your TM40 installation in “TEAM Mentor Server URL”"
+    ],
+    "li": [
+      "Use the Windows Role Manager to install the HTTPS Server role.",
+      "Select ASP.NET 4.5 as an additional feature under .NET 4.5 Framework.",
+      "Open the \"Internet Information Services (IIS) Manager\".",
+      "Navigate to the \"Sites\" folder in the \"Connections\" tree on the left.",
+      "Right click on the \"Sites\" folder.",
+      "Select \"Add Web Site...” An \"Add Web Site\" window should appear.",
+      "Enter a name for the site in the \"Site name:\" text box.",
+      "Click the \"...\" next to the \"Physical path:\" text box to set the root of the web site. A \"Browse for Folder\" window should appear.",
+      "Select to the \"TM36\\TeamMentor\\Publish\\Website.3.5\" folder inside the TEAM Mentor root folder you unzipped",
+      "Enter the hostname that TM36 will be accessible as.",
+      "Click \"Ok\". Set the port in the \"Port:\" text box, if necessary.",
+      "Click \"OK\".",
+      "The \"Add Web Site\" window should close and a new web site should appear in the \"Sites\" folder in the tree on the left of the \"Internet Information Services (IIS) Manager\" window.",
+      "A new web site should appear in the tree structure on the left of the \"Internet Information Services (IIS) Manager\" window.",
+      "Open the \"Internet Information Services (IIS) Manager\".",
+      "Double click on the \"Server Certificates\" menu in the \"Security\" section",
+      "From the \"Actions\" menu click on \"Create Certificate Request.\"",
+      "Follow the Wizzard to create the CSR",
+      "Send the CSR to your Certificate Authority for Signing",
+      "Open the \"Internet Information Services (IIS) Manager\".",
+      "Double click on the \"Server Certificates\" menu in the \"Security\" section",
+      "From the \"Actions\" menu click on \"Complete Certificate Request.",
+      "\"Browse\" for your SSL Certificate file received from the Certificate Authority, then Click Next. Follow the rest of the wizard steps until finished.",
+      "Now assign the certificate to the newly created web site. Under \"Sites\" Select the web site",
+      "From the \"action menu\" click on \"Bindings\"",
+      "Click \"Add\" in the window that just poped up",
+      "Under \"type\" choose 'https’",
+      "Select the certificate you just imported.",
+      "Under “hostname” type the name URL that this site will be accessible as using HTTPS. (Note that TM40 will connect to TM36 via this URL)",
+      "The SSL Certificate should be the certificate you just installed.",
+      "Click OK",
+      "On the \"Internet Information Services (IIS) Manager\".",
+      "Navigate to \"Application Pools\" in the tree on the left",
+      "Find the Application Pool name, it will be the same as the \"Site Name\" you have created in step 3 above.",
+      "Make sure that the .NET Framework version is set to v4.0. Otherwise double click on the Application Pool and set the correct version",
+      "Take a note of the Application Pool name.",
+      "Adjust the file-system permissions. Give full control permissions for the “\\TM36\\Library_Data” folder to the Windows user account that is used to run TEAM Mentor. This is the username that has been discovered in the previous step.\n\nRight click on the TEAM Mentor Library_Data folder\nSelect \"Properties\". A \"Properties\" window should appear.\nSelect the \"Security\" tab in the \"Properties\" window..\nGive \"Full Control\" to the account IIS AppPool<AppPoolName> where the AppPoolName is the name identified above.\nClick \"OK\"",
+      "Right click on the TEAM Mentor Library_Data folder",
+      "Select \"Properties\". A \"Properties\" window should appear.",
+      "Select the \"Security\" tab in the \"Properties\" window..",
+      "Give \"Full Control\" to the account IIS AppPool<AppPoolName> where the AppPoolName is the name identified above.",
+      "Click \"OK\"",
+      "Click on Tbot in the upper right corner.",
+      "Select Edit Secret Data",
+      "Enter your SMPT Server information in the appropriate field.",
+      "Enter the URL of your TM40 installation in “TEAM Mentor Server URL”"
+    ],
+    "p": [
+      "",
+      "",
+      "SSL is enabled by default for TEAM Mentor. Therefore it is necessary to set up SSL certificate. (Note: It is possible to disable SSL configuration)",
+      "First generate a CSR",
+      "Install your certificate",
+      "Find the account used by IIS needs to have full control privileges to the TEAM Mentor Library_Data folder",
+      "On IIS 8 the application account name is the same as Application Pool name. This is the Windows user account used by the IIS Application Pool configured on the TEAM Mentor website.",
+      "Login to TM36 Backend using the URL you’ve specified in the installation step. (Make sure the URL resolves via DNS). Use an account with admin privileges. Refer to release notes for default admin account information.",
+      "Continue by going through Installation of TEAM Mentor 4.0"
+    ],
+    "img": [
+      "",
+      ""
+    ],
+    "code": [
+      "Tbot",
+      "Edit Secret Data"
+    ],
+    "em": [
+      "TM40"
+    ],
+    "a": [
+      "Installation of TEAM Mentor 4.0"
+    ]
+  },
+  "links": [
+    {
+      "href": "0a27b133-4b24-40ed-98b1-6ac7f35da716",
+      "text": "Installation of TEAM Mentor 4.0"
+    }
+  ],
+  "html": "<h4>Install and configure IIS (if not already installed)</h4>\n<ul>\n<li>Use the Windows Role Manager to install the HTTPS Server role.</li>\n<li>Select ASP.NET 4.5 as an additional feature under .NET 4.5 Framework.</li>\n</ul>\n<p><img src=\"/Image/install02.png\" alt=\"\"></p>\n<p><img src=\"/Image/install03.png\" alt=\"\"></p>\n<h4>Add TEAM Mentor as a site in IIS.</h4>\n<ul>\n<li>Open the &quot;Internet Information Services (IIS) Manager&quot;.</li>\n<li>Navigate to the &quot;Sites&quot; folder in the &quot;Connections&quot; tree on the left.</li>\n<li>Right click on the &quot;Sites&quot; folder.</li>\n<li>Select &quot;Add Web Site...” An &quot;Add Web Site&quot; window should appear.</li>\n<li>Enter a name for the site in the &quot;Site name:&quot; text box.</li>\n<li>Click the &quot;...&quot; next to the &quot;Physical path:&quot; text box to set the root of the web site. A &quot;Browse for Folder&quot; window should appear.</li>\n<li>Select to the &quot;TM36\\TeamMentor\\Publish\\Website.3.5&quot; folder inside the TEAM Mentor root folder you unzipped</li>\n<li>Enter the hostname that TM36 will be accessible as.</li>\n<li>Click &quot;Ok&quot;. Set the port in the &quot;Port:&quot; text box, if necessary.</li>\n<li>Click &quot;OK&quot;.</li>\n<li>The &quot;Add Web Site&quot; window should close and a new web site should appear in the &quot;Sites&quot; folder in the tree on the left of the &quot;Internet Information Services (IIS) Manager&quot; window.</li>\n<li>A new web site should appear in the tree structure on the left of the &quot;Internet Information Services (IIS) Manager&quot; window.</li>\n</ul>\n<h4>Set up SSL.</h4>\n<p>SSL is enabled by default for TEAM Mentor. Therefore it is necessary to set up SSL certificate. (Note: It is possible to disable SSL configuration)</p>\n<p>First generate a CSR</p>\n<ul>\n<li>Open the &quot;Internet Information Services (IIS) Manager&quot;.</li>\n<li>Double click on the &quot;Server Certificates&quot; menu in the &quot;Security&quot; section</li>\n<li>From the &quot;Actions&quot; menu click on &quot;Create Certificate Request.&quot;</li>\n<li>Follow the Wizzard to create the CSR</li>\n<li>Send the CSR to your Certificate Authority for Signing</li>\n</ul>\n<p>Install your certificate</p>\n<ul>\n<li>Open the &quot;Internet Information Services (IIS) Manager&quot;.</li>\n<li>Double click on the &quot;Server Certificates&quot; menu in the &quot;Security&quot; section</li>\n<li>From the &quot;Actions&quot; menu click on &quot;Complete Certificate Request.</li>\n<li>&quot;Browse&quot; for your SSL Certificate file received from the Certificate Authority, then Click Next. Follow the rest of the wizard steps until finished.</li>\n<li>Now assign the certificate to the newly created web site. Under &quot;Sites&quot; Select the web site</li>\n<li>From the &quot;action menu&quot; click on &quot;Bindings&quot;</li>\n<li>Click &quot;Add&quot; in the window that just poped up</li>\n<li>Under &quot;type&quot; choose 'https’</li>\n<li>Select the certificate you just imported.</li>\n<li>Under “hostname” type the name URL that this site will be accessible as using HTTPS. (Note that TM40 will connect to TM36 via this URL)</li>\n<li>The SSL Certificate should be the certificate you just installed.</li>\n<li>Click OK</li>\n</ul>\n<h4>Set up Permissions</h4>\n<p>Find the account used by IIS needs to have full control privileges to the TEAM Mentor Library_Data folder</p>\n<p>On IIS 8 the application account name is the same as Application Pool name. This is the Windows user account used by the IIS Application Pool configured on the TEAM Mentor website.</p>\n<ul>\n<li>On the &quot;Internet Information Services (IIS) Manager&quot;.</li>\n<li>Navigate to &quot;Application Pools&quot; in the tree on the left</li>\n<li>Find the Application Pool name, it will be the same as the &quot;Site Name&quot; you have created in step 3 above.</li>\n<li>Make sure that the .NET Framework version is set to v4.0. Otherwise double click on the Application Pool and set the correct version</li>\n<li>Take a note of the Application Pool name.</li>\n<li>Adjust the file-system permissions. Give full control permissions for the “\\TM36\\Library_Data” folder to the Windows user account that is used to run TEAM Mentor. This is the username that has been discovered in the previous step.\n<ul>\n<li>Right click on the TEAM Mentor Library_Data folder</li>\n<li>Select &quot;Properties&quot;. A &quot;Properties&quot; window should appear.</li>\n<li>Select the &quot;Security&quot; tab in the &quot;Properties&quot; window..</li>\n<li>Give &quot;Full Control&quot; to the account IIS AppPool&lt;AppPoolName&gt; where the AppPoolName is the name identified above.</li>\n<li>Click &quot;OK&quot;</li>\n</ul>\n</li>\n</ul>\n<h4>Configure the TM36 Backend</h4>\n<p>Login to TM36 Backend using the URL you’ve specified in the installation step. (Make sure the URL resolves via DNS). Use an account with admin privileges. Refer to release notes for default admin account information.</p>\n<ul>\n<li>Click on <code>Tbot</code> in the upper right corner.</li>\n<li>Select <code>Edit Secret Data</code></li>\n<li>Enter your SMPT Server information in the appropriate field.</li>\n<li>Enter the URL of your <em>TM40</em> installation in “TEAM Mentor Server URL”</li>\n</ul>\n<p>Continue by going through <a href=\"0a27b133-4b24-40ed-98b1-6ac7f35da716\">Installation of TEAM Mentor 4.0</a></p>\n"
+}

@@ -1,9 +1,12 @@
 {
   "id": "738f8545-5818-45fb-9494-92ea795af257",
-  "checksum": "066373647e1068cdb8e7ee8879d8545649398df8",
+  "checksum": "50cec5b2115ab5e686f2a26a9d1d0f59fdf579ae",
   "words": {
-    "please": [
+    "40": [
       "p",
+      "p"
+    ],
+    "please": [
       "p",
       "p"
     ],
@@ -28,7 +31,6 @@
       "a"
     ],
     "for": [
-      "p",
       "p"
     ],
     "help": [
@@ -39,6 +41,7 @@
       "title"
     ],
     "your": [
+      "p",
       "p"
     ],
     "internal": [
@@ -48,21 +51,33 @@
       "p"
     ],
     "of": [
+      "p",
+      "p",
       "p"
     ],
     "team": [
+      "p",
+      "p",
       "p",
       "title"
     ],
     "mentor": [
       "p",
+      "p",
+      "p",
       "title"
+    ],
+    "to": [
+      "p",
+      "p"
+    ],
+    "version": [
+      "p"
     ],
     "experts": [
       "p"
     ],
     "will": [
-      "p",
       "p",
       "p"
     ],
@@ -75,21 +90,53 @@
     "you": [
       "p"
     ],
-    "to": [
-      "p",
-      "p",
-      "p"
-    ],
     "ensure": [
       "p"
     ],
     "a": [
+      "p",
       "p"
     ],
     "smooth": [
       "p"
     ],
     "upgrade": [
+      "p",
+      "p",
+      "p"
+    ],
+    "is": [
+      "p"
+    ],
+    "significant": [
+      "p"
+    ],
+    "re-design": [
+      "p"
+    ],
+    "and": [
+      "p",
+      "p",
+      "p"
+    ],
+    "re-architecture": [
+      "p"
+    ],
+    "we": [
+      "p"
+    ],
+    "suggest": [
+      "p"
+    ],
+    "expert": [
+      "p"
+    ],
+    "handling": [
+      "p"
+    ],
+    "the": [
+      "p",
+      "p",
       "p"
     ],
     "note": [
@@ -98,67 +145,16 @@
     "that": [
       "p"
     ],
-    "the": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "p"
-    ],
-    "structure": [
-      "p"
-    ],
-    "storing": [
-      "p"
-    ],
     "user": [
-      "p",
       "p"
     ],
     "credentials": [
       "p"
     ],
-    "and": [
-      "p",
-      "p",
-      "p"
-    ],
-    "some": [
+    "other": [
       "p"
     ],
     "configuration": [
-      "p",
-      "p"
-    ],
-    "has": [
-      "p"
-    ],
-    "changed": [
-      "p"
-    ],
-    "as": [
-      "p"
-    ],
-    "explained": [
-      "p"
-    ],
-    "later.": [
-      "p"
-    ],
-    "import": [
-      "p",
-      "p"
-    ],
-    "old": [
-      "p"
-    ],
-    "users": [
-      "p"
-    ],
-    "user’s": [
-      "p"
-    ],
-    "password": [
       "p"
     ],
     "remain": [
@@ -167,16 +163,14 @@
     "same": [
       "p"
     ],
-    "be": [
-      "p"
-    ],
-    "transparent": [
+    "after": [
       "p"
     ]
   },
   "tags": {
     "p": [
-      "Please contact Security Innovation support for help upgrading your internal instance of TEAM Mentor. Security Innovation support experts will work with you to ensure a smooth upgrade. Please note that the structure for storing user credentials and some configuration has changed (as explained later). Please contact Security Innovation support to import old users and configuration. The user’s password will remain the same and the import will be transparent to the user"
+      "Please contact Security Innovation support for help upgrading your internal instance of TEAM Mentor to 4.0 version. Security Innovation support experts will work with you to ensure a smooth upgrade. TEAM Mentor 4.0 is a significant re-design and re-architecture of TEAM Mentor and we suggest expert handling of the upgrade. Note that your user credentials and other configuration will remain the same after the upgrade.",
+      "Please contact Security Innovation support."
     ],
     "a": [
       "support"
@@ -184,9 +178,9 @@
   },
   "links": [
     {
-      "href": "/article/323dae88-b74b-465c-a949-d48c33f4ac85",
+      "href": "323dae88-b74b-465c-a949-d48c33f4ac85",
       "text": "support"
     }
   ],
-  "html": "<p>Please contact Security Innovation support for help upgrading your internal instance of TEAM Mentor. Security Innovation support experts will work with you to ensure a smooth upgrade. Please note that the structure for storing user credentials and some configuration has changed (as explained later). Please contact Security Innovation <a href=\"/article/323dae88-b74b-465c-a949-d48c33f4ac85\">support</a> to import old users and configuration. The user’s password will remain the same and the import will be transparent to the user</p>"
+  "html": "<p>Please contact Security Innovation support for help upgrading your internal instance of TEAM Mentor to 4.0 version. Security Innovation support experts will work with you to ensure a smooth upgrade. TEAM Mentor 4.0 is a significant re-design and re-architecture of TEAM Mentor and we suggest expert handling of the upgrade. Note that your user credentials and other configuration will remain the same after the upgrade. \n</p><p>\nPlease contact Security Innovation <a href=\"323dae88-b74b-465c-a949-d48c33f4ac85\">support</a>.\n</p>\n"
 }

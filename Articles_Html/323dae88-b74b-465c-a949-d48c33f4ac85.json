@@ -1,12 +1,8 @@
 {
   "id": "323dae88-b74b-465c-a949-d48c33f4ac85",
-  "checksum": "583c4effd5f9bead1cc528827b111689359d0b07",
+  "checksum": "41298609dc78f3fc49214ce347cc8180b12cfbe2",
   "words": {
-    "2": [
-      "p"
-    ],
     "to": [
-      "p",
       "p"
     ],
     "contact": [
@@ -37,50 +33,11 @@
     "support@securityinnovationcom": [
       "p",
       "a"
-    ],
-    "or": [
-      "p"
-    ],
-    "leave": [
-      "p"
-    ],
-    "your": [
-      "p"
-    ],
-    "message": [
-      "p"
-    ],
-    "at": [
-      "p"
-    ],
-    "1978.694.1008": [
-      "p"
-    ],
-    "option": [
-      "p"
-    ],
-    "and": [
-      "p"
-    ],
-    "we": [
-      "p"
-    ],
-    "will": [
-      "p"
-    ],
-    "get": [
-      "p"
-    ],
-    "back": [
-      "p"
-    ],
-    "you": [
-      "p"
     ]
   },
   "tags": {
     "p": [
-      "To contact Security Innovation TEAM Mentor support please email support@securityinnovation.com or leave your message at 1.978.694.1008 (option 2) and we will get back to you."
+      "To contact Security Innovation TEAM Mentor support please email support@securityinnovation.com"
     ],
     "a": [
       "support@securityinnovation.com"
@@ -92,5 +49,5 @@
       "text": "support@securityinnovation.com"
     }
   ],
-  "html": "<p>To contact Security Innovation TEAM Mentor support please email <a href=\"mailto:support@securityinnovation.com\">support@securityinnovation.com</a> or leave your message at 1.978.694.1008 (option 2) and we will get back to you.\n</p> \n"
+  "html": "<p>To contact Security Innovation TEAM Mentor support please email <a href=\"mailto:support@securityinnovation.com\">support@securityinnovation.com</a> \n</p> \n"
 }

@@ -1,6 +1,6 @@
 {
   "id": "00000000-0000-0000-0000-0000003ea057",
-  "checksum": "0409c5e4ab5c24d38245ec2150800fa45745a447",
+  "checksum": "e11cf01a9e44d555a26a428536d53ff73d57138c",
   "words": {
     "editing": [
       "h1",
@@ -474,17 +474,17 @@
   },
   "links": [
     {
-      "href": "article/00000000-0000-0000-0000-0000002df883",
+      "href": "00000000-0000-0000-0000-0000002df883",
       "text": "Edit Article Metadata"
     },
     {
-      "href": "article/00000000-0000-0000-0000-0000003ea057",
+      "href": "00000000-0000-0000-0000-0000003ea057",
       "text": "Editing HTML Articles"
     },
     {
-      "href": "article/00000000-0000-0000-0000-00000079da36",
+      "href": "00000000-0000-0000-0000-00000079da36",
       "text": "Editing WikiText Articles"
     }
   ],
-  "html": "<h1>Editing HTML Articles in Edit Mode</h1><p>Double clicking on an HTML article in “Edit Mode” brings up the built-in WYSIWYG HTML editor. You can click on the “view source icon”   to edit HTML source code. Article metadata, such as title, technology, phase, type and category etc. can also be modified in this editor. See Related Items for more details.\n</p><p>\n<img src=\"/Image/editinghtml-img1.jpg\">\n</p><h1>Editing HTML Articles in “View Mode”</h1><p>In “view mode”, article editing can be accomplished by clicking on ether the “Edit WYSIWYG” or “Edit Source” buttons.\n</p><p>\n<img src=\"/Image/editinghtml-img2.jpg\">\n</p> <p>\nClicking on “Edit WYSIWING” will bring up the already familiar WYSIWYG editor window. You can click on the “view source icon”   to edit HTML source code. Article metadata, such as title, technology, phase, type and category etc. can also be modified in this editor. See Related Items  for further details.\n Save changes to your edits by clicking the “Save Changes” Button. Clicking “View Article” will bring up the article in view mode, however, your changes will not be saved unless you go back to editing the article and click  on “Save Changes”\n</p><p>\n<img src=\"/Image/editinghtml-img3.jpg\">\n</p> <p>\nClicking on “Edit Source” will bring up a different HTML source view editor. Here you can modify HTML and change the article data type. Currently HTML and WikiText article data types are supported. \n</p> <p>\n<img src=\"/Image/editinghtml-img4.jpg\">\n</p><h1>Related Items</h1><p>For more information on Article Metadata see:<br>\n<a href=\"article/00000000-0000-0000-0000-0000002df883\">Edit Article Metadata</a><br>\n</p><p>\nFor information on editing HTML articles see:<br>\n<a href=\"article/00000000-0000-0000-0000-0000003ea057\">Editing HTML Articles</a><br>\n</p><p>\nFor information on editing WikiText articles see:<br>\n<a href=\"article/00000000-0000-0000-0000-00000079da36\">Editing WikiText Articles</a><br></p>"
+  "html": "<h1>Editing HTML Articles in Edit Mode</h1><p>Double clicking on an HTML article in “Edit Mode” brings up the built-in WYSIWYG HTML editor. You can click on the “view source icon”   to edit HTML source code. Article metadata, such as title, technology, phase, type and category etc. can also be modified in this editor. See Related Items for more details.\n</p><p>\n<img src=\"/Image/editinghtml-img1.jpg\">\n</p><h1>Editing HTML Articles in “View Mode”</h1><p>In “view mode”, article editing can be accomplished by clicking on ether the “Edit WYSIWYG” or “Edit Source” buttons.\n</p><p>\n<img src=\"/Image/editinghtml-img2.jpg\">\n</p> <p>\nClicking on “Edit WYSIWING” will bring up the already familiar WYSIWYG editor window. You can click on the “view source icon”   to edit HTML source code. Article metadata, such as title, technology, phase, type and category etc. can also be modified in this editor. See Related Items  for further details.\n Save changes to your edits by clicking the “Save Changes” Button. Clicking “View Article” will bring up the article in view mode, however, your changes will not be saved unless you go back to editing the article and click  on “Save Changes”\n</p><p>\n<img src=\"/Image/editinghtml-img3.jpg\">\n</p> <p>\nClicking on “Edit Source” will bring up a different HTML source view editor. Here you can modify HTML and change the article data type. Currently HTML and WikiText article data types are supported. \n</p> <p>\n<img src=\"/Image/editinghtml-img4.jpg\">\n</p><h1>Related Items</h1><p>For more information on Article Metadata see:<br>\n<a href=\"00000000-0000-0000-0000-0000002df883\">Edit Article Metadata</a><br>\n</p><p>\nFor information on editing HTML articles see:<br>\n<a href=\"00000000-0000-0000-0000-0000003ea057\">Editing HTML Articles</a><br>\n</p><p>\nFor information on editing WikiText articles see:<br>\n<a href=\"00000000-0000-0000-0000-00000079da36\">Editing WikiText Articles</a><br></p>"
 }

@@ -1,6 +1,6 @@
 {
   "id": "00000000-0000-0000-0000-0000001c8add",
-  "checksum": "be328b27a9d0226f8b6c4e50b106641ea7de303a",
+  "checksum": "415f498dd552f537dc7cfd310e53ca753f8d0b11",
   "words": {
     "30": [
       "p",
@@ -9,34 +9,16 @@
     "33": [
       "p"
     ],
-    "administrators": [
-      "p"
-    ],
-    "can": [
-      "p",
-      "p",
-      "p",
+    "36": [
       "p",
       "p"
     ],
-    "manage": [
-      "p"
-    ],
-    "team": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "p"
-    ],
-    "mentor": [
-      "p",
-      "p",
-      "p",
-      "p",
+    "40": [
       "p"
     ],
     "users": [
+      "p",
+      "p",
       "p",
       "p",
       "p",
@@ -63,7 +45,55 @@
       "strong",
       "title"
     ],
-    "via": [
+    "sign": [
+      "p",
+      "p",
+      "p"
+    ],
+    "up": [
+      "p",
+      "h2",
+      "p",
+      "p",
+      "p",
+      "p",
+      "strong"
+    ],
+    "login": [
+      "p"
+    ],
+    "and": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "reset": [
+      "p"
+    ],
+    "their": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "passwords": [
+      "p"
+    ],
+    "using": [
       "p",
       "p"
     ],
@@ -90,6 +120,7 @@
       "p",
       "p",
       "p",
+      "p",
       "ul",
       "ul",
       "ul",
@@ -124,61 +155,13 @@
       "p",
       "p",
       "p",
-      "p",
-      "p",
-      "p",
-      "p",
+      "p"
+    ],
+    "new": [
       "p",
       "p"
     ],
-    "tbot": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "em"
-    ],
-    "be": [
-      "p",
-      "p",
-      "ul",
-      "li",
-      "p",
-      "p",
-      "p"
-    ],
-    "accessed": [
-      "p"
-    ],
-    "\"tbot\"": [
-      "p"
-    ],
-    "link": [
-      "p",
-      "p",
-      "p",
-      "p"
-    ],
-    "in": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "ul",
-      "li",
-      "p",
-      "p",
-      "p",
+    "team": [
       "p",
       "p",
       "p",
@@ -187,32 +170,12 @@
       "p",
       "p"
     ],
-    "top": [
-      "p"
-    ],
-    "right": [
-      "p",
-      "p"
-    ],
-    "corner": [
-      "p"
-    ],
-    "of": [
+    "mentor": [
       "p",
       "p",
       "p",
       "p",
       "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p"
-    ],
-    "main": [
       "p",
       "p"
     ],
@@ -247,11 +210,46 @@
       "p",
       "p",
       "p",
+      "p"
+    ],
+    "interface": [
       "p",
-      "h2",
-      "h2",
+      "p"
+    ],
+    "however": [
+      "p",
+      "p"
+    ],
+    "all": [
+      "p",
+      "p"
+    ],
+    "are": [
       "p",
       "p",
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "stored": [
+      "p"
+    ],
+    "in": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "li",
       "p",
       "p",
       "p",
@@ -259,8 +257,57 @@
       "p",
       "p"
     ],
-    "interface": [
+    "back-end": [
+      "p",
       "p"
+    ],
+    "managed": [
+      "p"
+    ],
+    "from": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "h2",
+      "p",
+      "p",
+      "strong",
+      "p"
+    ],
+    "respective": [
+      "p"
+    ],
+    "ui": [
+      "p"
+    ],
+    "administrators": [
+      "p"
+    ],
+    "can": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "manage": [
+      "p"
+    ],
+    "via": [
+      "p",
+      "p"
+    ],
+    "tbot": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "em"
     ],
     "is": [
       "p",
@@ -275,19 +322,64 @@
       "p",
       "p",
       "p",
+      "p"
+    ],
+    "accessible": [
+      "p"
+    ],
+    "be": [
+      "p",
+      "p",
+      "ul",
+      "li",
+      "p",
+      "p",
+      "p"
+    ],
+    "accessed": [
+      "p"
+    ],
+    "\"tbot\"": [
+      "p"
+    ],
+    "link": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "top": [
+      "p"
+    ],
+    "right": [
+      "p",
+      "p"
+    ],
+    "corner": [
+      "p"
+    ],
+    "of": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
       "p",
       "p",
       "p",
       "p",
       "p"
     ],
+    "main": [
+      "p",
+      "p"
+    ],
     "only": [
       "p",
       "p",
-      "ul",
-      "ul",
-      "li",
-      "li",
       "p"
     ],
     "available": [
@@ -302,7 +394,6 @@
       "p",
       "p",
       "p",
-      "p",
       "ul",
       "ul",
       "ul",
@@ -313,7 +404,6 @@
       "li",
       "li",
       "li",
-      "p",
       "p",
       "p",
       "p",
@@ -352,7 +442,6 @@
       "p",
       "p",
       "p",
-      "p",
       "p"
     ],
     "\"users\"": [
@@ -361,25 +450,6 @@
     ],
     "row": [
       "p",
-      "p",
-      "p"
-    ],
-    "and": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "h2",
       "p",
       "p"
     ],
@@ -438,10 +508,6 @@
       "p",
       "p",
       "p",
-      "p",
-      "p",
-      "p",
-      "p",
       "p"
     ],
     "that": [
@@ -455,14 +521,9 @@
       "p",
       "p",
       "p",
-      "p",
-      "p",
       "p"
     ],
     "lists": [
-      "p"
-    ],
-    "all": [
       "p"
     ],
     "current": [
@@ -470,12 +531,6 @@
       "p",
       "ul",
       "li",
-      "p"
-    ],
-    "their": [
-      "p",
-      "p",
-      "p",
       "p"
     ],
     "vital": [
@@ -500,12 +555,9 @@
       "li",
       "li",
       "p",
-      "p",
       "p"
     ],
     "name": [
-      "p",
-      "p",
       "p"
     ],
     "allows": [
@@ -526,17 +578,12 @@
       "p",
       "p",
       "p",
-      "p",
-      "h2"
+      "p"
     ],
     "page": [
-      "p",
       "p"
     ],
     "creating": [
-      "p"
-    ],
-    "new": [
       "p"
     ],
     "another": [
@@ -625,16 +672,6 @@
       "p",
       "p"
     ],
-    "from": [
-      "p",
-      "p",
-      "p",
-      "h2",
-      "p",
-      "p",
-      "strong",
-      "p"
-    ],
     "versions": [
       "p"
     ],
@@ -674,10 +711,6 @@
       "p"
     ],
     "file": [
-      "p",
-      "p",
-      "p",
-      "p",
       "p"
     ],
     "reporting": [
@@ -691,7 +724,6 @@
     ],
     "at": [
       "p",
-      "p",
       "p"
     ],
     "time": [
@@ -701,12 +733,6 @@
     ],
     "reports": [
       "p"
-    ],
-    "are": [
-      "p",
-      "p",
-      "ul",
-      "li"
     ],
     "\"all": [
       "p",
@@ -736,7 +762,6 @@
       "p",
       "p",
       "p",
-      "p",
       "p"
     ],
     "expiration\"": [
@@ -747,7 +772,6 @@
       "p"
     ],
     "by": [
-      "p",
       "p",
       "p",
       "p",
@@ -765,8 +789,6 @@
       "p"
     ],
     "information": [
-      "p",
-      "p",
       "p",
       "p"
     ],
@@ -832,15 +854,12 @@
       "p",
       "p",
       "p",
-      "p",
       "p"
     ],
     "date\"": [
       "p"
     ],
     "with": [
-      "p",
-      "p",
       "p",
       "p",
       "p"
@@ -850,7 +869,6 @@
       "p"
     ],
     "date": [
-      "p",
       "p",
       "p",
       "p",
@@ -966,12 +984,9 @@
       "p"
     ],
     "when": [
-      "p",
-      "p",
       "p"
     ],
     "an": [
-      "p",
       "p",
       "p",
       "p",
@@ -1031,7 +1046,6 @@
       "p"
     ],
     "or": [
-      "p",
       "p",
       "p",
       "p",
@@ -1105,40 +1119,6 @@
       "p",
       "strong"
     ],
-    "up": [
-      "h2",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "strong"
-    ],
-    "moment": [
-      "p"
-    ],
-    "showcontenttoanonymoususers": [
-      "p"
-    ],
-    "set": [
-      "p",
-      "ul",
-      "li",
-      "p",
-      "p",
-      "p"
-    ],
-    "false": [
-      "p"
-    ],
-    "displays": [
-      "p"
-    ],
-    "sign": [
-      "p",
-      "p",
-      "p"
-    ],
     "default": [
       "p"
     ],
@@ -1184,10 +1164,6 @@
     "if": [
       "ul",
       "ul",
-      "ul",
-      "ul",
-      "li",
-      "li",
       "li",
       "li",
       "p",
@@ -1229,16 +1205,6 @@
       "ul",
       "li"
     ],
-    "works": [
-      "ul",
-      "ul",
-      "li",
-      "li"
-    ],
-    "showcontenttoanonymoususers=false": [
-      "ul",
-      "li"
-    ],
     "note:": [
       "ul",
       "li"
@@ -1250,6 +1216,13 @@
     "limitation": [
       "ul",
       "li",
+      "p"
+    ],
+    "set": [
+      "ul",
+      "li",
+      "p",
+      "p",
       "p"
     ],
     "\"false\"": [
@@ -1286,10 +1259,6 @@
       "ul",
       "li",
       "p"
-    ],
-    "showcontenttoanonymoususers=false.": [
-      "ul",
-      "li"
     ],
     "expire": [
       "li",
@@ -1341,9 +1310,6 @@
     "-1": [
       "p",
       "strong"
-    ],
-    "however": [
-      "p"
     ],
     "they": [
       "p",
@@ -1397,7 +1363,6 @@
       "p"
     ],
     "each": [
-      "p",
       "p"
     ],
     "enabled": [
@@ -1462,7 +1427,6 @@
       "p"
     ],
     "ether": [
-      "p",
       "p"
     ],
     "ignore": [
@@ -1496,7 +1460,6 @@
       "p"
     ],
     "now": [
-      "p",
       "p",
       "p"
     ],
@@ -1556,7 +1519,6 @@
     ],
     "also": [
       "p",
-      "p",
       "p"
     ],
     "choose": [
@@ -1611,87 +1573,14 @@
       "p",
       "a"
     ],
-    "structure": [
-      "h2",
-      "p"
-    ],
-    "activity": [
-      "h2",
-      "p",
-      "p"
-    ],
-    "log": [
-      "h2"
-    ],
-    "stored": [
-      "p",
-      "p"
-    ],
-    "xml": [
-      "p"
-    ],
-    "specific": [
-      "p"
-    ],
-    "\\library_data\\xmldatabase\\user_data\\users": [
-      "p",
-      "em"
-    ],
-    "directory": [
-      "p",
-      "em"
-    ],
-    "begins": [
-      "p"
-    ],
-    "followed": [
-      "p"
-    ],
-    "guid": [
-      "p"
-    ],
-    "contains": [
-      "p",
-      "p"
-    ],
-    "other": [
-      "p"
-    ],
-    "meta": [
-      "p"
-    ],
-    "updated": [
-      "p"
-    ],
-    "clicks": [
-      "p"
-    ],
-    "article": [
-      "p",
-      "p"
-    ],
-    "viewed": [
-      "p"
-    ],
-    "preview": [
-      "p"
-    ],
-    "pane": [
-      "p"
-    ],
-    "full": [
-      "p"
-    ],
-    "view": [
-      "p"
-    ],
     "managing": [
       "title"
     ]
   },
   "tags": {
     "p": [
-      "Administrators can manage TEAM Mentor users via the Tbot. Tbot can be accessed via the \"Tbot\" link in the top right corner of the main user interface. The TEAM Mentor Tbot is only available to Administrator users.",
+      "Users sign up, login and reset their passwords using the new TEAM Mentor 4.0 User Interface. However, all users are stored in the TEAM Mentor 3.6 Back-end and are managed from the respective UI.",
+      "Administrators can manage TEAM Mentor users via the Tbot. Tbot is accessible using TEAM Mentor 3.6 Back-end. Tbot can be accessed via the \"Tbot\" link in the top right corner of the main user interface. The TEAM Mentor Tbot is only available to Administrator users.",
       "The user management section is under \"Users\" row in Tbot and of consists of the following links: \"Current Users\", \"New User\", and \"SSO Token\". The \"Users\" link opens a section that lists all current users and their vital statistics.",
       "",
       "Clicking further on a user name allows changing the properties of the current user account.",
@@ -1704,7 +1593,7 @@
       "It is possible to tag a user with any Key/Value pair tag. This becomes very useful when an organization has a custom user account scheme that is used to identify the user. For example an organization may have user keys such as \"Department\", or \"Location ID\", or \"Product Unit\" for example. And the corresponding values maybe \"Engineering\", \"NYC-53d\" and \"Real Time Feed\". You may add any key value pair in the \"Edit \" screen\"",
       "",
       "",
-      "At the moment when ShowContentToAnonymousUsers is set to false, TEAM Mentor displays the user sign up page. By default any user can sign up for access. Upon successful sign up the user access is restricted only by the following two parameters:",
+      "By default any user can sign up for access. Upon successful sign up the user access is restricted only by the following two parameters:",
       "Regardless if the the access is allowed for evaluation or not, anonymous user sign-up may not be the desired behavior.  To work around the current limitation, please set EvalAccounts_Enabled to true and EvalAccounts_Days to -1. This will still allow users to create accounts, however they will not be usable. If this workaround is implemented only the administrator will be able to create user accounts.",
       "",
       "Alternatively to Preventing Users From Signing Up, you may want to enable self signup but have the capability of approving each user. If enabled, right after a user signs up, he or she will get an email from TEAM Mentor stating that their account is in the process of being approved.",
@@ -1715,14 +1604,9 @@
       "\"New Accounts Enabled\" setting under TM Security in TMConfig  is the main setting that controls this functionality. Access TMConfig by clicking on Tbot in the Admin menu and selecting Edit TMConfig under Admin - Config row. UNCHECK the \"New Accounts Enabled\" button and \"Show Content to Anonymous Users\" in order to ENABLE the User Approval Workflow. You may also choose to set the newly created user accounts to never expire, in that case tick \"New Accounts Don't Expire\" checkbox. Alternatively the \"Eval Accounts Days\" option controls the expiration date. If the option is set to 30 days for example, the newly created user account will have an expiration date of 30 days from now.",
       "",
       "You must also configure the email correctly. See Configuring Email for further information.",
-      "",
-      "User accounts now stored in XML structure that is specific to the user. Each user is stored in a file under \\Library_Data\\XmlDatabase\\User_Data\\Users directory with a file name that begins with a user name followed by the user GUID.   The file contains user information, expiration date and other meta information. The file also contains user activity. Activity is updated when user clicks on an article and the article is viewed in ether a preview pane or in full view.",
-      "",
       ""
     ],
     "img": [
-      "",
-      "",
       "",
       "",
       "",
@@ -1740,15 +1624,14 @@
     "h2": [
       "Custom Tags",
       "Preventing Users From Signing Up",
-      "Enabling User Approval Workflow",
-      "User Account Structure and User Activity Log"
+      "Enabling User Approval Workflow"
     ],
     "ul": [
-      "EvalAccounts_Enabled(true) This setting specifies if unauthenticated users will be able to create accounts on the system for Evaluation purposes (only works if ShowContentToAnonymousUsers=false) (note: due to current limitation, if set to \"false\" users are still able to create accounts on the system which will not expire)\nEvalAccounts_Days(15) This specifies the duration, in days, that self-created account will have read access to the content (only works if ShowContentToAnonymousUsers=false)."
+      "EvalAccounts_Enabled(true) This setting specifies if unauthenticated users will be able to create accounts on the system for Evaluation purposes (note: due to current limitation, if set to \"false\" users are still able to create accounts on the system which will not expire)\nEvalAccounts_Days(15) This specifies the duration, in days, that self-created account will have read access to the content"
     ],
     "li": [
-      "EvalAccounts_Enabled(true) This setting specifies if unauthenticated users will be able to create accounts on the system for Evaluation purposes (only works if ShowContentToAnonymousUsers=false) (note: due to current limitation, if set to \"false\" users are still able to create accounts on the system which will not expire)",
-      "EvalAccounts_Days(15) This specifies the duration, in days, that self-created account will have read access to the content (only works if ShowContentToAnonymousUsers=false)."
+      "EvalAccounts_Enabled(true) This setting specifies if unauthenticated users will be able to create accounts on the system for Evaluation purposes (note: due to current limitation, if set to \"false\" users are still able to create accounts on the system which will not expire)",
+      "EvalAccounts_Days(15) This specifies the duration, in days, that self-created account will have read access to the content"
     ],
     "strong": [
       "EvalAccounts_Enabled",
@@ -1761,8 +1644,7 @@
       "Tbot",
       "Admin",
       "Edit TMConfig",
-      "Admin - Config",
-      "\\Library_Data\\XmlDatabase\\User_Data\\Users directory"
+      "Admin - Config"
     ],
     "a": [
       "Configuring Email"
@@ -1770,9 +1652,9 @@
   },
   "links": [
     {
-      "href": "/article/d0b2bade-6d25-4c61-8ae3-94ae0110f959",
+      "href": "d0b2bade-6d25-4c61-8ae3-94ae0110f959",
       "text": "Configuring Email"
     }
   ],
-  "html": "<p>Administrators can manage TEAM Mentor users via the Tbot. Tbot can be accessed via the \"Tbot\" link in the top right corner of the main user interface. The TEAM Mentor Tbot is only available to Administrator users.&nbsp;\n</p><p>\nThe user management section is under \"Users\" row in Tbot and of consists of the following links: \"Current Users\", \"New User\", and \"SSO Token\". The \"Users\" link opens a section that lists all current users and their vital statistics.\n</p>\n\n<p>\n<img src=\"/Image/tmcfg12.jpg\">\n</p><p>\nClicking further on a user name allows changing the properties of the current user account. \n</p><p>\n<img src=\"/Image/tmcfg13.jpg\">\n</p>\n<p>\nThe \"New User\" link opens a page that allows creating a new user. \n</p><p>\n<img src=\"/Image/tmcfg15.jpg\">\n</p>\n<p>\nAnother user management section is available under \"Users - Import\". This consists of \"Import Legacy Users\", \"Users in CSV\",  and \"User Import CSV\". \"Import Legacy Users\" will help in importing users from TEAM Mentor versions prior to 3.3. \"Users in CSV\" will output a list of users in the CSV format. \"User Import CSV\" will allow importing a large amount of users in bulk from a CSV file. \n</p>\n<p>\nUser reporting is available throuth \"Users - Analysis\" row in Tbot. At this time the following reports are available. \"All Users Activities\", \"All Users Tags\", \"Users Accounts Expiration\", and \"Users Mapped by Email\". \"All Users Activities\" provides filterable information on logged user events. These events include user login/logout, and \"view article\". \"All Users Tags\" show a filtrable list of users and their associated custom tags (see below). \"Users Accounts Expiration\" shows a list of users grouped by \"No Expiration Date\" - users with no expiration date, \"Not Expired\" - users with expiration date in the future, \"Not Enabled\" - user accounts which are disabled,  \"Empty Email\" - Users which have no email in the email field. Note that these mostly would be legacy users from prior to 3.3 where email was not a required field. \n</p><p>\n<br>\n</p><h2>Custom Tags</h2><p>It is possible to tag a user with any Key/Value pair tag. This becomes very useful when an organization has a custom user account scheme that is used to identify the user. For example an organization may have user keys such as \"Department\", or \"Location ID\", or \"Product Unit\" for example. And the corresponding values maybe \"Engineering\", \"NYC-53d\" and \"Real Time Feed\". You may add any key value pair in the \"Edit \" screen\" \n</p><p>\n<img src=\"/Image/tmcfg14.jpg\">\n</p><p>\n<br>\n</p><h2>Preventing Users From Signing Up</h2><p>At the moment when ShowContentToAnonymousUsers is set to false, TEAM Mentor displays the user sign up page. By default any user can sign up for access. Upon successful sign up the user access is restricted only by the following two parameters:\n</p><ul>\n<li>EvalAccounts_Enabled(true) This setting specifies if unauthenticated users will be able to create accounts on the system for Evaluation purposes (only works if ShowContentToAnonymousUsers=false) (note: due to current limitation, if set to \"false\" users are still able to create accounts on the system which will not expire)</li>\n<li>EvalAccounts_Days(15) This specifies the duration, in days, that self-created account will have read access to the content (only works if ShowContentToAnonymousUsers=false). </li>\n</ul><p>\nRegardless if the the access is allowed for evaluation or not, anonymous user sign-up may not be the desired behavior.  To work around the current limitation, please set <strong>EvalAccounts_Enabled</strong> to <strong>true</strong> and <strong>EvalAccounts_Days</strong> to <strong>-1</strong>. This will still allow users to create accounts, however they will not be usable. If this workaround is implemented only the administrator will be able to create user accounts.\n</p><p>\n<br>\n</p><h2>Enabling User Approval Workflow</h2><p>Alternatively to <strong>Preventing Users From Signing Up</strong>, you may want to enable self signup but have the capability of approving each user. If enabled, right after a user signs up, he or she will get an email from TEAM Mentor stating that their account is in the process of being approved. \n</p><p>\n<img src=\"/Image/tmcfg16.jpg\">\n</p><p>\nAt the same time TM administrator will get an email requesting user approval.\n</p><p>\n<img src=\"/Image/tmcfg17.jpg\">\n</p><p>\nTo approve the user, TM administrator will need to click on the relevant link in an email. To disapprove the user, administrator can ether ignore the email or specifically go into account management section of Tbot and delete the user. One the TM adminstrator approves the user, the user will get an email stating that their account had been approved and that they can now use the service. \n</p>\n<p>\n \"New Accounts Enabled\" setting under TM Security in TMConfig  is the main setting that controls this functionality. Access TMConfig by clicking on <em>Tbot</em> in the <em>Admin</em> menu and selecting <em>Edit TMConfig</em> under <em>Admin - Config</em> row. UNCHECK the \"New Accounts Enabled\" button and \"Show Content to Anonymous Users\" in order to ENABLE the User Approval Workflow. You may also choose to set the newly created user accounts to never expire, in that case tick \"New Accounts Don't Expire\" checkbox. Alternatively the \"Eval Accounts Days\" option controls the expiration date. If the option is set to 30 days for example, the newly created user account will have an expiration date of 30 days from now. \n</p><p>\n<img src=\"/Image/tmcfg11.jpg\">\n</p><p>\nYou must also configure the email correctly. See <a href=\"/article/d0b2bade-6d25-4c61-8ae3-94ae0110f959\">Configuring Email</a> for further information.\n</p> <p>\n<br>\n</p><h2>User Account Structure and User Activity Log</h2><p>User accounts now stored in XML structure that is specific to the user. Each user is stored in a file under <em>\\Library_Data\\XmlDatabase\\User_Data\\Users directory</em> with a file name that begins with a user name followed by the user GUID.   The file contains user information, expiration date and other meta information. The file also contains user activity. Activity is updated when user clicks on an article and the article is viewed in ether a preview pane or in full view.\n</p><p>\n<img src=\"/Image/userfile1.jpg\">\n</p><p>\n<img src=\"/Image/useractivity1.jpg\">\n</p>\n"
+  "html": "<p>Users sign up, login and reset their passwords using the new TEAM Mentor 4.0 User Interface. However, all users are stored in the TEAM Mentor 3.6 Back-end and are managed from the respective UI.\n</p><p>\nAdministrators can manage TEAM Mentor users via the Tbot. Tbot is accessible using TEAM Mentor 3.6 Back-end. Tbot can be accessed via the \"Tbot\" link in the top right corner of the main user interface. The TEAM Mentor Tbot is only available to Administrator users.&nbsp;\n</p><p>\nThe user management section is under \"Users\" row in Tbot and of consists of the following links: \"Current Users\", \"New User\", and \"SSO Token\". The \"Users\" link opens a section that lists all current users and their vital statistics.\n</p>\n\n<p>\n<img src=\"/Image/tmcfg12.jpg\">\n</p><p>\nClicking further on a user name allows changing the properties of the current user account. \n</p><p>\n<img src=\"/Image/tmcfg13.jpg\">\n</p>\n<p>\nThe \"New User\" link opens a page that allows creating a new user. \n</p><p>\n<img src=\"/Image/tmcfg15.jpg\">\n</p>\n<p>\nAnother user management section is available under \"Users - Import\". This consists of \"Import Legacy Users\", \"Users in CSV\",  and \"User Import CSV\". \"Import Legacy Users\" will help in importing users from TEAM Mentor versions prior to 3.3. \"Users in CSV\" will output a list of users in the CSV format. \"User Import CSV\" will allow importing a large amount of users in bulk from a CSV file. \n</p>\n<p>\nUser reporting is available throuth \"Users - Analysis\" row in Tbot. At this time the following reports are available. \"All Users Activities\", \"All Users Tags\", \"Users Accounts Expiration\", and \"Users Mapped by Email\". \"All Users Activities\" provides filterable information on logged user events. These events include user login/logout, and \"view article\". \"All Users Tags\" show a filtrable list of users and their associated custom tags (see below). \"Users Accounts Expiration\" shows a list of users grouped by \"No Expiration Date\" - users with no expiration date, \"Not Expired\" - users with expiration date in the future, \"Not Enabled\" - user accounts which are disabled,  \"Empty Email\" - Users which have no email in the email field. Note that these mostly would be legacy users from prior to 3.3 where email was not a required field. \n</p><p>\n<br>\n</p><h2>Custom Tags</h2><p>It is possible to tag a user with any Key/Value pair tag. This becomes very useful when an organization has a custom user account scheme that is used to identify the user. For example an organization may have user keys such as \"Department\", or \"Location ID\", or \"Product Unit\" for example. And the corresponding values maybe \"Engineering\", \"NYC-53d\" and \"Real Time Feed\". You may add any key value pair in the \"Edit \" screen\" \n</p><p>\n<img src=\"/Image/tmcfg14.jpg\">\n</p><p>\n<br>\n</p><h2>Preventing Users From Signing Up</h2><p>By default any user can sign up for access. Upon successful sign up the user access is restricted only by the following two parameters:\n</p><ul>\n<li>EvalAccounts_Enabled(true) This setting specifies if unauthenticated users will be able to create accounts on the system for Evaluation purposes (note: due to current limitation, if set to \"false\" users are still able to create accounts on the system which will not expire)</li>\n<li>EvalAccounts_Days(15) This specifies the duration, in days, that self-created account will have read access to the content </li>\n</ul><p>\nRegardless if the the access is allowed for evaluation or not, anonymous user sign-up may not be the desired behavior.  To work around the current limitation, please set <strong>EvalAccounts_Enabled</strong> to <strong>true</strong> and <strong>EvalAccounts_Days</strong> to <strong>-1</strong>. This will still allow users to create accounts, however they will not be usable. If this workaround is implemented only the administrator will be able to create user accounts.\n</p><p>\n<br>\n</p><h2>Enabling User Approval Workflow</h2><p>Alternatively to <strong>Preventing Users From Signing Up</strong>, you may want to enable self signup but have the capability of approving each user. If enabled, right after a user signs up, he or she will get an email from TEAM Mentor stating that their account is in the process of being approved. \n</p><p>\n<img src=\"/Image/tmcfg16.jpg\">\n</p><p>\nAt the same time TM administrator will get an email requesting user approval.\n</p><p>\n<img src=\"/Image/tmcfg17.jpg\">\n</p><p>\nTo approve the user, TM administrator will need to click on the relevant link in an email. To disapprove the user, administrator can ether ignore the email or specifically go into account management section of Tbot and delete the user. One the TM adminstrator approves the user, the user will get an email stating that their account had been approved and that they can now use the service. \n</p>\n<p>\n \"New Accounts Enabled\" setting under TM Security in TMConfig  is the main setting that controls this functionality. Access TMConfig by clicking on <em>Tbot</em> in the <em>Admin</em> menu and selecting <em>Edit TMConfig</em> under <em>Admin - Config</em> row. UNCHECK the \"New Accounts Enabled\" button and \"Show Content to Anonymous Users\" in order to ENABLE the User Approval Workflow. You may also choose to set the newly created user accounts to never expire, in that case tick \"New Accounts Don't Expire\" checkbox. Alternatively the \"Eval Accounts Days\" option controls the expiration date. If the option is set to 30 days for example, the newly created user account will have an expiration date of 30 days from now. \n</p><p>\n<img src=\"/Image/tmcfg11.jpg\">\n</p><p>\nYou must also configure the email correctly. See <a href=\"d0b2bade-6d25-4c61-8ae3-94ae0110f959\">Configuring Email</a> for further information.\n</p> <p>\n<br>\n</p>\n\n\n"
 }

@@ -1,26 +1,18 @@
 {
   "id": "00000000-0000-0000-0000-00000030106a",
-  "checksum": "a010e8463d9aa90e8ec78cc57d6c330af699fec5",
+  "checksum": "878fcbccba1e49b94a631b2637ab38abc0ebdf4d",
   "words": {
     "20": [
       "p"
     ],
     "40": [
+      "p",
       "p"
     ],
-    "75": [
-      "h1"
-    ],
     "260": [
-      "p",
       "p"
     ],
     "unzip": [
-      "h1",
-      "p",
-      "p",
-      "p",
-      "p",
       "h1",
       "p",
       "p",
@@ -29,21 +21,10 @@
     ],
     "of": [
       "h1",
-      "p",
-      "h1"
+      "p"
     ],
     "the": [
       "h1",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "h1",
-      "p",
-      "p",
-      "p",
       "p",
       "p",
       "p",
@@ -58,53 +39,41 @@
       "p"
     ],
     "install": [
-      "h1",
       "h1"
     ],
     "file": [
       "h1",
       "p",
-      "p",
-      "h1",
       "p"
     ],
-    "requests": [
+    "requires": [
       "h1"
     ],
     "a": [
       "h1",
       "p",
-      "p",
       "p"
     ],
-    "password": [
-      "h1",
-      "p",
-      "h1",
-      "p",
-      "p"
+    "passwrd": [
+      "h1"
     ],
     "paid": [
-      "p",
       "p"
     ],
     "content": [
-      "p",
-      "p",
       "p"
     ],
     "team": [
+      "p",
       "p",
       "p"
     ],
     "mentor": [
       "p",
+      "p",
       "p"
     ],
     "is": [
-      "p",
-      "p",
-      "p",
       "p",
       "p",
       "p",
@@ -118,9 +87,6 @@
     "via": [
       "p"
     ],
-    "protected": [
-      "p"
-    ],
     "zip": [
       "p"
     ],
@@ -129,12 +95,6 @@
       "p"
     ],
     "users": [
-      "p"
-    ],
-    "installing": [
-      "p"
-    ],
-    "free": [
       "p"
     ],
     "can": [
@@ -151,14 +111,9 @@
       "p",
       "p",
       "p",
-      "p",
-      "p",
-      "p",
       "p"
     ],
     "error": [
-      "p",
-      "p",
       "p",
       "p",
       "p",
@@ -167,91 +122,68 @@
     "will": [
       "p",
       "p",
-      "p",
-      "p",
-      "p",
       "p"
     ],
     "be": [
-      "p",
       "p",
       "h1",
       "p"
     ],
     "shown": [
-      "p",
       "p"
     ],
     "by": [
       "p",
       "p",
-      "p",
       "p"
     ],
     "microsoft": [
-      "p",
       "p"
     ],
     "program": [
-      "p",
       "p"
     ],
     "if": [
-      "p",
-      "p",
       "p"
     ],
     "destination": [
-      "p",
-      "p",
       "p",
       "p"
     ],
     "path": [
       "p",
       "p",
-      "p",
-      "p",
-      "p",
       "p"
     ],
     "greater": [
-      "p",
       "p"
     ],
     "then": [
-      "p",
       "p"
     ],
     "characters": [
-      "p",
       "p"
     ],
     "limit": [
-      "p",
-      "p",
       "p",
       "p"
     ],
     "in": [
       "p",
       "p",
+      "p",
       "p"
     ],
     "most": [
-      "p",
       "p"
     ],
     "windows": [
-      "p",
       "p"
     ],
     "apis": [
-      "p",
       "p"
     ],
     "to": [
-      "p",
       "p",
       "p",
       "p",
@@ -259,143 +191,89 @@
     ],
     "fix": [
       "p",
-      "p",
       "p"
     ],
     "files": [
-      "p",
       "p"
     ],
     "into": [
-      "p",
       "p"
     ],
     "c\\tmp": [
-      "p",
       "p"
     ],
     "or": [
-      "p",
       "p"
     ],
     "similar": [
-      "p",
       "p"
     ],
     "directory": [
       "p",
-      "p",
       "p"
     ],
     "with": [
-      "p",
       "p"
     ],
     "short": [
-      "p",
       "p"
     ],
     "name": [
-      "p",
       "p"
     ],
     "shorten": [
-      "p",
       "p"
     ],
     "and": [
-      "p",
       "p"
     ],
     "allow": [
-      "p",
       "p"
     ],
     "operation": [
-      "p",
       "p"
     ],
     "note": [
-      "p",
-      "p",
       "p",
       "p"
     ],
     "that": [
       "p",
       "p",
-      "p",
-      "p",
-      "p",
       "p"
     ],
     "other": [
-      "p",
       "p"
     ],
     "programs": [
-      "p",
       "p"
     ],
     "such": [
-      "p",
       "p"
     ],
     "as": [
-      "p",
       "p"
     ],
     "winrar": [
-      "p",
       "p"
     ],
     "show": [
-      "p",
       "p"
     ],
     "correct": [
-      "p",
-      "p",
-      "p",
       "p"
     ],
     "message": [
-      "p",
       "p"
     ],
     "reflecting": [
-      "p",
       "p"
     ],
     "being": [
-      "p",
       "p"
     ],
     "exceeded": [
-      "p",
       "p"
-    ],
-    "failure": [
-      "h1"
-    ],
-    "on": [
-      "h1"
-    ],
-    "first": [
-      "p"
-    ],
-    "verify": [
-      "p"
-    ],
-    "you": [
-      "p"
-    ],
-    "have": [
-      "p"
-    ],
-    "for": [
-      "p",
-      "h1"
     ],
     "iis": [
       "h1",
@@ -432,6 +310,9 @@
     "data": [
       "h1"
     ],
+    "for": [
+      "h1"
+    ],
     "invalid\"": [
       "h1"
     ],
@@ -461,9 +342,7 @@
     "logs": [
       "h2",
       "p",
-      "p"
-    ],
-    "application_logs": [
+      "p",
       "p"
     ],
     "library\\library_data\\xmldatabase\\application_logs": [
@@ -479,12 +358,16 @@
     "are": [
       "p",
       "p",
+      "p",
+      "p",
       "p"
     ],
     "periodically": [
       "p"
     ],
     "written": [
+      "p",
+      "p",
       "p",
       "p",
       "p"
@@ -496,12 +379,15 @@
       "p"
     ],
     "real": [
+      "p",
       "p"
     ],
     "time": [
+      "p",
       "p"
     ],
     "they": [
+      "p",
       "p"
     ],
     "when": [
@@ -513,22 +399,37 @@
     "detected": [
       "p"
     ],
+    "two": [
+      "p"
+    ],
+    "places": [
+      "p"
+    ],
+    "tm40\\tm_4_0_graphdb\\logs": [
+      "p",
+      "em"
+    ],
+    "tm40\\tm_4_0_design\\logs": [
+      "p",
+      "em"
+    ],
     "troubleshooting": [
       "title"
     ]
   },
   "tags": {
     "h1": [
-      "Unzip of the install file requests a password",
-      "Password failure on unzip of the install file",
-      "IIS 7.5 Gives \"The requested page cannot be accessed because the related configuration data for the page is invalid\""
+      "Unzip of the install file requires a passwrd",
+      "IIS Gives \"The requested page cannot be accessed because the related configuration data for the page is invalid\""
     ],
     "p": [
-      "Paid content of TEAM Mentor is distributed via a password protected zip file. However, users installing free content can sometimes see this error. This error will be shown by Microsoft unzip program if the destination path is greater then 260 characters. This is the limit in most Windows APIs. To fix, unzip the files into c:\\tmp or similar directory with a short name. This will shorten the destination path and allow the unzip operation. Note that other unzip programs such as WinRar will show correct error message, reflecting the file path limit being exceeded.",
-      "First verify that you have the correct password for the paid content. If the password is correct note that this error will be shown by Microsoft unzip program if the destination path is greater then 260 characters. This is the limit in most Windows APIs. To fix, unzip the files into c:\\tmp or similar directory with a short name. This will shorten the destination path and allow the unzip operation. Note that other unzip programs such as WinRar will show correct error message, reflecting the file path limit being exceeded.",
+      "Paid content of TEAM Mentor is distributed via a zip file. However, users can sometimes see this error. This error will be shown by Microsoft unzip program if the destination path is greater then 260 characters. This is the limit in most Windows APIs. To fix, unzip the files into c:\\tmp or similar directory with a short name. This will shorten the destination path and allow the unzip operation. Note that other unzip programs such as WinRar will show correct error message, reflecting the file path limit being exceeded.",
       "",
       "This is caused by the application pool in IIS to be set to the 2.0 CLR. The fix it to make it 4.0",
-      "Application_Logs Library\\Library_Data\\XmlDatabase\\Application_Logs directory  contains system logs that are periodically written by TEAM Mentor. Please note that the logs are not written real time, however they are written when an error is detected."
+      "Library\\Library_Data\\XmlDatabase\\Application_Logs directory  contains system logs that are periodically written by TEAM Mentor. Please note that the logs are not written real time, however they are written when an error is detected.",
+      "TEAM Mentor 4.0 Logs are written in two places. They are written in real time.",
+      "TM40\\TM_4_0_GraphDB\\.logs",
+      "TM40\\TM_4_0_Design\\.logs"
     ],
     "img": [
       ""
@@ -537,9 +438,11 @@
       "Application Logs"
     ],
     "em": [
-      "Library\\Library_Data\\XmlDatabase\\Application_Logs"
+      "Library\\Library_Data\\XmlDatabase\\Application_Logs",
+      "TM40\\TM_4_0_GraphDB\\.logs",
+      "TM40\\TM_4_0_Design\\.logs"
     ]
   },
   "links": [],
-  "html": "<h1>Unzip of the install file requests a password</h1><p>Paid content of TEAM Mentor is distributed via a password protected zip file. However, users installing free content can sometimes see this error. This error will be shown by Microsoft unzip program if the destination path is greater then 260 characters. This is the limit in most Windows APIs. To fix, unzip the files into c:\\tmp or similar directory with a short name. This will shorten the destination path and allow the unzip operation. Note that other unzip programs such as WinRar will show correct error message, reflecting the file path limit being exceeded.\n</p><h1>Password failure on unzip of the install file</h1><p>First verify that you have the correct password for the paid content. If the password is correct note that this error will be shown by Microsoft unzip program if the destination path is greater then 260 characters. This is the limit in most Windows APIs. To fix, unzip the files into c:\\tmp or similar directory with a short name. This will shorten the destination path and allow the unzip operation. Note that other unzip programs such as WinRar will show correct error message, reflecting the file path limit being exceeded.\n</p><h1>IIS 7.5 Gives \"The requested page cannot be accessed because the related configuration data for the page is invalid\"</h1><p><img src=\"/Image/IIS75err1.jpg\">\n</p><p>\nThis is caused by the application pool in IIS to be set to the 2.0 CLR. The fix it to make it 4.0\n</p><h2>Application Logs</h2><p>Application_Logs <em>Library\\Library_Data\\XmlDatabase\\Application_Logs</em> directory  contains system logs that are periodically written by TEAM Mentor. Please note that the logs are not written real time, however they are written when an error is detected. \n</p>"
+  "html": "<h1>Unzip of the install file requires a passwrd</h1><p>Paid content of TEAM Mentor is distributed via a zip file. However, users can sometimes see this error. This error will be shown by Microsoft unzip program if the destination path is greater then 260 characters. This is the limit in most Windows APIs. To fix, unzip the files into c:\\tmp or similar directory with a short name. This will shorten the destination path and allow the unzip operation. Note that other unzip programs such as WinRar will show correct error message, reflecting the file path limit being exceeded.\n</p>\n<h1>IIS Gives \"The requested page cannot be accessed because the related configuration data for the page is invalid\"</h1><p><img src=\"/Image/IIS75err1.jpg\">\n</p><p>\nThis is caused by the application pool in IIS to be set to the 2.0 CLR. The fix it to make it 4.0\n</p><h2>Application Logs</h2><p> <em>Library\\Library_Data\\XmlDatabase\\Application_Logs</em> directory  contains system logs that are periodically written by TEAM Mentor. Please note that the logs are not written real time, however they are written when an error is detected. \n</p><p>\nTEAM Mentor 4.0 Logs are written in two places. They are written in real time.\n</p><p>\n<em>TM40\\TM_4_0_GraphDB\\.logs</em>\n</p><p>\n<em>TM40\\TM_4_0_Design\\.logs</em>\n</p>"
 }

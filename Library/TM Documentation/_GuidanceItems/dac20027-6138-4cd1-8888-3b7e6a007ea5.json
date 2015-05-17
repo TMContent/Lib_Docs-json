@@ -1,0 +1,56 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "dac20027-6138-4cd1-8888-3b7e6a007ea5"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "Installation"
+        ],
+        "Category": [
+          "Admin"
+        ],
+        "Phase": [
+          "NA"
+        ],
+        "Technology": [
+          "HP Fortify SCA UI Integration"
+        ],
+        "Type": [
+          "Documentation"
+        ],
+        "DirectLink": [
+          "Installation"
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "wikitext"
+        },
+        "Data": [
+          "**To install TEAM Mentor Fortify SCA UI Integration\r\n#Download the TEAM Mentor Custom Rule Pack for Fortify SCA.  You can download the file on the Security Innovation Download server with the credentials and the link you received in an email. Save  TEAM MentorRulePack.xml locally on your machine. Note where it is saved. \\\\ \\\\\r\n#Open HP Fortify SCA Audit Workbench. Click on Options->Options. Then choose Security Content Management. Now click on “Import Security Content” \\\\ \\\\\r\n{{/Image/ftins1.jpg}} \\\\ \\\\ \\\\\r\n#In the following dialog box find the location of the TEAMMentorRulePack.xml file saved in step 1. Then click “Open\" \\\\ \\\\\r\n{{/Image/ftins2.jpg}} \\\\ \\\\ \\\\\r\n#You will see the TEAMMentorRulePack.xml installed in the “Installed Custom Security Content” box.  Click “OK”. You are done with the installation.\\\\ \\\\\r\n{{/Image/ftins3.jpg}} \\\\ \\\\ \\\\\r\n"
+        ]
+      }
+    ]
+  }
+}
