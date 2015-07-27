@@ -1,12 +1,24 @@
 {
   "id": "0a27b133-4b24-40ed-98b1-6ac7f35da716",
-  "checksum": "9dd2e8fcfae48fcf8f406ac64aa4fd02e8e1b081",
+  "checksum": "1a18cef1f714c37ca776e1527b8ba6f11683e31a",
   "words": {
     "40": [
       "title"
     ],
+    "10001": [
+      "pre",
+      "code"
+    ],
+    "10002": [
+      "pre",
+      "code"
+    ],
     "start": [
-      "h4"
+      "h4",
+      "ul",
+      "li",
+      "li",
+      "code"
     ],
     "by": [
       "h4",
@@ -42,15 +54,6 @@
       "ul",
       "ul",
       "ul",
-      "li",
-      "li",
-      "li",
-      "li",
-      "h4",
-      "ul",
-      "li",
-      "p",
-      "ul",
       "ul",
       "ul",
       "ul",
@@ -58,12 +61,9 @@
       "li",
       "li",
       "li",
-      "ul",
-      "ul",
       "li",
       "li",
-      "p",
-      "p",
+      "li",
       "p"
     ],
     "simple": [
@@ -78,72 +78,240 @@
     "is": [
       "p",
       "ul",
-      "ul",
       "li",
+      "ul",
       "li"
     ],
     "located": [
       "p"
     ],
-    "in\\tm40\\tm_4_0_design\\src\\misc": [
+    "intm40\\tm\\config\\sitedata\\tm": [
       "p"
     ],
-    "\\tm40\\tm_4_0_design\\src\\misc": [
+    "tm40\\tm\\config\\sitedata\\tm": [
+      "code"
+    ],
+    "{": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "code",
+      "code",
+      "code",
+      "code",
+      "code",
+      "code",
+      "code"
+    ],
+    "\"tm_design\"": [
+      "pre",
+      "code"
+    ],
+    "\"jade_compilation_enabled\"": [
+      "pre",
+      "code"
+    ],
+    "false": [
+      "pre",
+      "code"
+    ],
+    "\"folder_docs_json\"": [
+      "pre",
+      "code"
+    ],
+    "\"./../data/lib_docs-json\"": [
+      "pre",
+      "code"
+    ],
+    "\"folder_jade_files\"": [
+      "pre",
+      "code"
+    ],
+    "\"./../code/tm_jade\"": [
+      "pre",
+      "code"
+    ],
+    "\"tm_35_server\"": [
+      "pre",
+      "code"
+    ],
+    "\"https//tmdevr01-beta36.teammentor.net\"": [
+      "pre",
+      "code"
+    ],
+    "\"webservices\"": [
+      "pre",
+      "code"
+    ],
+    "\"/aspx_pages/tm_webservicesasmx\"": [
+      "pre",
+      "code"
+    ],
+    "\"port\"": [
+      "pre",
+      "pre",
+      "code",
+      "code"
+    ],
+    "}": [
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "pre",
+      "code",
+      "code",
+      "code",
+      "code",
+      "code"
+    ],
+    "\"tm_graph\"": [
+      "pre",
+      "code"
+    ],
+    "\"folder_lib_uno_json\"": [
+      "pre",
+      "code"
+    ],
+    "\"./../data/lib_uno-json\",": [
+      "pre",
+      "code"
+    ],
+    "\"hubspot\"": [
+      "pre",
+      "code"
+    ],
+    "\"hubspotendpoint\"": [
+      "pre",
+      "code"
+    ],
+    "\"https://forms.hubspot.com/uploads/form/v2/\",": [
+      "pre",
+      "code"
+    ],
+    "\"hubspotenabled\"": [
+      "pre",
+      "code"
+    ],
+    "false,": [
+      "pre",
+      "pre",
+      "code",
+      "code"
+    ],
+    "\"hubspotleadsource\"": [
+      "pre",
+      "code"
+    ],
+    "\"demo": [
+      "pre",
+      "code"
+    ],
+    "request\"": [
+      "pre",
+      "code"
+    ],
+    "\"hubspotleadsourcedetail\"\"tm": [
+      "pre",
+      "code"
+    ],
+    "evaluation\"": [
+      "pre",
+      "code"
+    ],
+    "\"secrets\"": [
+      "pre",
+      "pre",
+      "code",
+      "code"
+    ],
+    "\"hubspotsiteid\"": [
+      "pre",
+      "code"
+    ],
+    "\"\"": [
+      "pre",
+      "pre",
+      "code",
+      "code"
+    ],
+    "\"hubspotformguid\"\"\"": [
+      "pre",
+      "code"
+    ],
+    "\"piwikanalytics\"": [
+      "pre",
+      "code"
+    ],
+    "\"analitycsenabled\"": [
+      "pre",
+      "code"
+    ],
+    "\"analitycssiteid\"": [
+      "pre",
+      "code"
+    ],
+    "\"\",": [
+      "pre",
+      "pre",
+      "code",
+      "code"
+    ],
+    "\"analitycstrackurl\"": [
+      "pre",
+      "code"
+    ],
+    "\"analyticsapikey\"": [
+      "pre",
+      "code"
+    ],
+    "}}": [
+      "pre",
       "code"
     ],
     "open": [
       "ul",
       "li",
       "ul",
-      "li",
-      "li",
-      "ul",
-      "li",
       "li"
     ],
-    "configcoffee": [
-      "ul",
-      "li",
-      "code"
-    ],
-    "filehere": [
+    "tmconfig\nhere": [
       "ul",
       "li"
     ],
     "you": [
       "ul",
       "ul",
-      "li",
-      "li",
+      "ul",
       "ul",
       "li",
-      "p",
-      "p"
+      "li",
+      "li",
+      "li"
     ],
     "only": [
       "ul",
-      "li",
-      "p"
+      "li"
     ],
     "need": [
       "ul",
+      "ul",
       "li",
-      "p"
+      "li"
     ],
     "to": [
       "ul",
       "ul",
-      "li",
-      "li",
-      "ul",
       "ul",
       "li",
       "li",
-      "ul",
-      "ul",
       "li",
-      "li",
-      "p"
+      "ul",
+      "li"
     ],
     "edit": [
       "ul",
@@ -161,7 +329,7 @@
       "ul",
       "li"
     ],
-    "@tm_35_serverchange": [
+    "tm_35_serverchange": [
       "ul"
     ],
     "url": [
@@ -174,6 +342,8 @@
       "ul",
       "ul",
       "li",
+      "li",
+      "ul",
       "li"
     ],
     "configured": [
@@ -184,73 +354,46 @@
       "ul",
       "li",
       "ul",
-      "li",
-      "p"
+      "li"
     ],
-    "settup": [
+    "setup": [
       "ul",
       "li"
     ],
     "of": [
       "ul",
       "li",
+      "ul",
+      "li",
       "title"
     ],
     "backend": [
       "ul",
-      "li"
-    ],
-    "section": [
+      "li",
       "ul",
-      "li"
-    ],
-    "@tm_35_server": [
+      "ul",
+      "li",
       "li",
       "code"
     ],
-    "change": [
-      "li",
+    "section\nchange": [
+      "ul"
+    ],
+    "port": [
+      "ul",
       "li"
     ],
-    "set": [
-      "h4",
-      "h4",
-      "h4"
-    ],
-    "up": [
-      "h4",
-      "h4",
-      "h4"
-    ],
-    "components": [
-      "h4"
-    ],
-    "as": [
-      "h4",
+    "for": [
       "ul",
       "li",
       "ul",
       "li"
     ],
-    "services": [
-      "h4",
-      "ul",
-      "ul",
-      "li",
-      "li",
-      "h4",
+    "both": [
       "ul",
       "li"
     ],
-    "command": [
-      "ul",
-      "li"
-    ],
-    "prompt": [
-      "ul",
-      "li"
-    ],
-    "administrator": [
+    "tm_design": [
       "ul",
       "li"
     ],
@@ -258,86 +401,17 @@
       "ul",
       "li",
       "ul",
-      "li",
-      "ul",
-      "li",
-      "p"
-    ],
-    "navigate": [
-      "ul",
-      "ul",
-      "li",
       "li"
     ],
-    "tm40\\tm_4_0_graphdb": [
+    "tm_graph": [
       "ul",
-      "li",
-      "code"
-    ],
-    "directoryrun": [
-      "ul",
-      "ul"
-    ],
-    "npm": [
-      "ul",
-      "ul",
-      "li",
-      "code",
-      "li",
-      "code"
-    ],
-    "run-script": [
-      "ul",
-      "ul",
-      "li",
-      "code",
-      "li",
-      "code"
-    ],
-    "installwinsvc": [
-      "ul",
-      "ul",
-      "li",
-      "code",
-      "li",
-      "code"
-    ],
-    "note": [
-      "ul",
-      "ul",
-      "li",
       "li"
     ],
-    "capitlization": [
+    "something": [
       "ul",
-      "ul",
-      "li",
       "li"
     ],
-    "it": [
-      "ul",
-      "ul",
-      "li",
-      "li"
-    ],
-    "case": [
-      "ul",
-      "ul",
-      "li",
-      "li"
-    ],
-    "sensitive\nthen": [
-      "ul"
-    ],
-    "tm40\\tm_4_0_design": [
-      "ul",
-      "li",
-      "code"
-    ],
-    "sensitive\nopen": [
-      "ul"
-    ],
-    "snap": [
+    "meaningful": [
       "ul",
       "li"
     ],
@@ -346,202 +420,194 @@
       "li",
       "p"
     ],
-    "see": [
-      "ul",
-      "li"
-    ],
-    "two": [
-      "ul",
-      "li"
-    ],
-    "new": [
-      "ul",
-      "li",
-      "ul",
-      "li"
-    ],
-    "directory": [
-      "li",
-      "li",
-      "p",
-      "p"
-    ],
-    "run": [
-      "li",
-      "li"
-    ],
-    "sensitive": [
-      "li",
-      "li"
-    ],
-    "then": [
-      "li"
-    ],
-    "user": [
-      "h4",
-      "ul",
-      "li",
-      "p"
-    ],
-    "for": [
-      "h4",
-      "ul",
-      "li"
-    ],
-    "newly": [
-      "h4",
-      "ul",
-      "li",
-      "p"
-    ],
-    "created": [
-      "h4",
-      "ul",
-      "li",
-      "p"
-    ],
-    "computer": [
-      "ul",
-      "li"
-    ],
-    "manager": [
-      "ul",
-      "li"
-    ],
-    "snap-in": [
-      "ul",
-      "li",
-      "ul",
-      "li"
-    ],
-    "create": [
-      "ul",
-      "li",
-      "p"
-    ],
-    "a": [
-      "ul",
-      "li",
-      "p"
-    ],
-    "tm40": [
-      "ul",
-      "li",
-      "em",
-      "ul",
-      "li",
-      "p",
-      "p",
-      "em"
-    ],
-    "make": [
-      "p"
-    ],
-    "sure": [
-      "p"
-    ],
-    "strong": [
-      "p"
-    ],
-    "password": [
-      "p",
-      "p"
-    ],
     "this": [
-      "p"
+      "ul",
+      "ul",
+      "li",
+      "li"
     ],
-    "next": [
-      "p"
+    "later\nif": [
+      "ul"
+    ],
+    "are": [
+      "ul",
+      "li"
+    ],
+    "using": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "piwik": [
+      "ul",
+      "li"
+    ],
+    "or": [
+      "ul",
+      "li"
+    ],
+    "hubspot": [
+      "ul",
+      "li"
+    ],
+    "configure": [
+      "ul",
+      "li"
+    ],
+    "accordingly": [
+      "ul",
+      "li"
     ],
     "step": [
-      "p",
       "ul",
       "li"
     ],
-    "go": [
+    "optional": [
       "ul",
+      "li"
+    ],
+    "tm_35_server": [
       "li",
-      "p"
+      "code"
     ],
-    "back": [
-      "ul",
-      "li"
+    "tmconfig": [
+      "code"
     ],
-    "select": [
-      "ul",
-      "li"
-    ],
-    "tm_4_0_graphdb": [
-      "ul",
-      "li"
-    ],
-    "service": [
-      "ul",
+    "change": [
       "li",
-      "ul",
       "li"
     ],
-    "properties\nopen": [
-      "ul"
-    ],
-    "“log": [
-      "ul",
+    "section": [
       "li"
     ],
-    "on”": [
-      "ul",
+    "later": [
       "li"
     ],
-    "tab\nchange": [
-      "ul"
-    ],
-    "log": [
-      "ul",
+    "if": [
       "li"
     ],
-    "on": [
-      "ul",
-      "li"
-    ],
-    "use": [
-      "ul",
-      "li"
-    ],
-    "account": [
-      "ul",
-      "li"
-    ],
-    "properties": [
-      "li"
-    ],
-    "tab": [
-      "li"
-    ],
-    "repeat": [
-      "ul",
-      "li"
-    ],
-    "same": [
-      "ul",
-      "li"
-    ],
-    "tm_4_0_design": [
-      "ul",
-      "li"
-    ],
-    "permissions": [
+    "set": [
       "h4"
     ],
-    "give": [
+    "up": [
+      "h4"
+    ],
+    "components": [
+      "h4"
+    ],
+    "as": [
+      "h4",
+      "ul",
+      "li"
+    ],
+    "services": [
+      "h4",
+      "ul",
+      "li",
       "p"
     ],
-    "full": [
+    "git": [
+      "ul",
+      "li"
+    ],
+    "bash": [
+      "ul",
+      "li"
+    ],
+    "administratornavigate": [
+      "ul"
+    ],
+    "tm40\\tm\\issue": [
+      "ul"
+    ],
+    "$": [
+      "ul",
+      "li",
+      "code"
+    ],
+    "/bin/wininstallsrvc.sh": [
+      "ul",
+      "li",
+      "code"
+    ],
+    "follow": [
+      "ul",
+      "li"
+    ],
+    "promptsissue": [
+      "ul"
+    ],
+    "$/bin/winsrvcgrant.sh": [
+      "ul",
+      "li",
+      "code"
+    ],
+    "site": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "code"
+    ],
+    "name": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "code"
+    ],
+    "where": [
+      "ul",
+      "li"
+    ],
+    "iisstart": [
+      "ul"
+    ],
+    "first": [
+      "ul",
+      "li"
+    ],
+    "time": [
+      "ul",
+      "li"
+    ],
+    "/bin/wintm.sh": [
+      "ul",
+      "li",
+      "code"
+    ],
+    "administrator": [
+      "li"
+    ],
+    "navigate": [
+      "li"
+    ],
+    "tm40\\tm\\": [
+      "li",
+      "code"
+    ],
+    "issue": [
+      "li",
+      "li"
+    ],
+    "prompts": [
+      "li"
+    ],
+    "iis": [
+      "li"
+    ],
+    "autostart": [
       "p"
     ],
-    "control": [
+    "at": [
       "p"
     ],
-    "over": [
+    "reboot": [
       "p"
     ],
     "continue": [
@@ -572,61 +638,40 @@
   "tags": {
     "h4": [
       "Start by configuring TEAM Mentor 4.0.",
-      "Set up components as services",
-      "Set up User for the newly created services.",
-      "Set up permissions."
+      "Set up components as services"
     ],
     "p": [
-      "The simple configuration file is located in\n\\TM40\\TM_4_0_Design\\src\\misc",
-      "",
-      "",
-      "",
-      "Make sure you create a strong password. You will need this password in the next step only.",
-      "",
-      "Go to the TM40 directory and give the newly created TM40 user full control over the directory.",
-      "",
+      "The simple configuration file is located in\nTM40\\TM\\config\\SiteData\\TM",
+      "The services will autostart at reboot.",
       "Continue by going through Installing Reverse Proxy"
     ],
     "code": [
-      "\\TM40\\TM_4_0_Design\\src\\misc",
-      "Config.coffee",
-      "@tm_35_Server",
-      "TM40\\TM_4_0_GraphDB",
-      "npm run-script installWinSvc",
-      "TM40\\TM_4_0_Design",
-      "npm run-script installWinSvc"
+      "TM40\\TM\\config\\SiteData\\TM",
+      "{\n  \"tm_design\":\n    {\n      \"jade_Compilation_Enabled\": false,\n      \"folder_Docs_Json\"        : \"../../data/Lib_Docs-json\"                                         ,\n      \"folder_Jade_Files\"       : \"../../code/TM_Jade\"                                               ,\n      \"tm_35_Server\"            : \"https://tmdevr01-beta36.teammentor.net\"                            ,\n      \"webServices\"             : \"/Aspx_Pages/TM_WebServices.asmx\"                                  ,\n      \"port\"                    : 10001\n    },\n  \"tm_graph\":\n    {\n      \"folder_Lib_UNO_Json\"     : \"../../data/Lib_UNO-json\",\n      \"port\"                    : 10002     \n    },\n  \"hubspot\":\n    {\n      \"HubspotEndpoint\"        :\"https://forms.hubspot.com/uploads/form/v2/\",\n      \"HubspotEnabled\"         :false,\n      \"HubspotLeadSource\"      :\"Demo Request\",\n      \"HubspotLeadSourceDetail\":\"TM Evaluation\" ,\n      \"secrets\":\n      {\n        \"HubspotSiteId\"  :\"\" ,\n        \"HubspotFormGuid\":\"\"\n      }\n    } ,\n  \"piwikAnalytics\":\n    {\n      \"analitycsEnabled\"  :false,\n      \"analitycsSiteId\"   :\"\",\n      \"analitycsTrackUrl\" :\"\",\n      \"secrets\":\n      {\n          \"analyticsApiKey\" :\"\"\n      }\n    }\n}",
+      "tm.config",
+      "tm_35_Server",
+      "TM40\\TM\\",
+      "$ ./bin/winInstallSrvc.sh",
+      "$./bin/winSrvcGrant.sh <BACKEND SITE NAME>",
+      "./bin/winTM.sh start"
+    ],
+    "pre": [
+      "{\n  \"tm_design\":\n    {\n      \"jade_Compilation_Enabled\": false,\n      \"folder_Docs_Json\"        : \"../../data/Lib_Docs-json\"                                         ,\n      \"folder_Jade_Files\"       : \"../../code/TM_Jade\"                                               ,\n      \"tm_35_Server\"            : \"https://tmdevr01-beta36.teammentor.net\"                            ,\n      \"webServices\"             : \"/Aspx_Pages/TM_WebServices.asmx\"                                  ,\n      \"port\"                    : 10001\n    },\n  \"tm_graph\":\n    {\n      \"folder_Lib_UNO_Json\"     : \"../../data/Lib_UNO-json\",\n      \"port\"                    : 10002     \n    },\n  \"hubspot\":\n    {\n      \"HubspotEndpoint\"        :\"https://forms.hubspot.com/uploads/form/v2/\",\n      \"HubspotEnabled\"         :false,\n      \"HubspotLeadSource\"      :\"Demo Request\",\n      \"HubspotLeadSourceDetail\":\"TM Evaluation\" ,\n      \"secrets\":\n      {\n        \"HubspotSiteId\"  :\"\" ,\n        \"HubspotFormGuid\":\"\"\n      }\n    } ,\n  \"piwikAnalytics\":\n    {\n      \"analitycsEnabled\"  :false,\n      \"analitycsSiteId\"   :\"\",\n      \"analitycsTrackUrl\" :\"\",\n      \"secrets\":\n      {\n          \"analyticsApiKey\" :\"\"\n      }\n    }\n}"
     ],
     "ul": [
-      "Open the Config.coffee file\nHere you only need to edit the line that says @tm_35_Server\nChange the URL to the TM36 URL you configured in the settup of TM36 Backend section.",
-      "Open Command Prompt as Administrator and navigate to the TM40\\TM_4_0_GraphDB directory\nRun npm run-script installWinSvc (note the capitlization it is case sensitive)\nThen navigate to TM40\\TM_4_0_Design directory\nRun npm run-script installWinSvc (note the capitlization it is case sensitive)\nOpen the Services snap in. You will see two new services:",
-      "Open the Computer Manager snap-in, and create a new user TM40",
-      "Go back to the Services snap-in and select TM_4_0_GraphDB Service properties.\nOpen the “Log On” Tab.\nChange the Log on as to use the newly created TM40 account.",
-      "Repeat the same step for the TM_4_0_Design Service."
+      "Open tm.config\nHere you only need to edit the line that says tm_35_Server\nChange the URL to the TM36 URL you configured in the setup of TM36 Backend section.\nChange the port for both tm_design and tm_graph to something meaningful. You will need this later.\nIf you are using Piwik or Hubspot, configure accordingly. This step is optional.",
+      "Open the Git Bash as Administrator\nNavigate to TM40\\TM\\\nIssue $ ./bin/winInstallSrvc.sh and follow the prompts\nIssue $./bin/winSrvcGrant.sh <BACKEND SITE NAME> where the backend site name is the name of the TM36 site in IIS\nStart the services for the first time using ./bin/winTM.sh start"
     ],
     "li": [
-      "Open the Config.coffee file\nHere you only need to edit the line that says @tm_35_Server",
-      "Change the URL to the TM36 URL you configured in the settup of TM36 Backend section.",
-      "Open Command Prompt as Administrator and navigate to the TM40\\TM_4_0_GraphDB directory",
-      "Run npm run-script installWinSvc (note the capitlization it is case sensitive)",
-      "Then navigate to TM40\\TM_4_0_Design directory",
-      "Run npm run-script installWinSvc (note the capitlization it is case sensitive)",
-      "Open the Services snap in. You will see two new services:",
-      "Open the Computer Manager snap-in, and create a new user TM40",
-      "Go back to the Services snap-in and select TM_4_0_GraphDB Service properties.",
-      "Open the “Log On” Tab.",
-      "Change the Log on as to use the newly created TM40 account.",
-      "Repeat the same step for the TM_4_0_Design Service."
-    ],
-    "img": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "em": [
-      "TM40",
-      "TM40"
+      "Open tm.config\nHere you only need to edit the line that says tm_35_Server",
+      "Change the URL to the TM36 URL you configured in the setup of TM36 Backend section.",
+      "Change the port for both tm_design and tm_graph to something meaningful. You will need this later.",
+      "If you are using Piwik or Hubspot, configure accordingly. This step is optional.",
+      "Open the Git Bash as Administrator",
+      "Navigate to TM40\\TM\\",
+      "Issue $ ./bin/winInstallSrvc.sh and follow the prompts",
+      "Issue $./bin/winSrvcGrant.sh <BACKEND SITE NAME> where the backend site name is the name of the TM36 site in IIS",
+      "Start the services for the first time using ./bin/winTM.sh start"
     ],
     "a": [
       "Installing Reverse Proxy"
@@ -638,5 +683,5 @@
       "text": "Installing Reverse Proxy"
     }
   ],
-  "html": "<h4>Start by configuring TEAM Mentor 4.0.</h4>\n<p>The simple configuration file is located in\n<code>\\TM40\\TM_4_0_Design\\src\\misc</code></p>\n<ul>\n<li>Open the <code>Config.coffee</code> file\nHere you only need to edit the line that says <code>@tm_35_Server</code></li>\n<li>Change the URL to the TM36 URL you configured in the settup of TM36 Backend section.</li>\n</ul>\n<p><img src=\"/Image/install04.png\" alt=\"\"></p>\n<h4>Set up components as services</h4>\n<ul>\n<li>Open Command Prompt as Administrator and navigate to the <code>TM40\\TM_4_0_GraphDB</code> directory</li>\n<li>Run <code>npm run-script installWinSvc</code> (note the capitlization it is case sensitive)</li>\n<li>Then navigate to <code>TM40\\TM_4_0_Design</code> directory</li>\n<li>Run <code>npm run-script installWinSvc</code> (note the capitlization it is case sensitive)</li>\n<li>Open the Services snap in. You will see two new services:</li>\n</ul>\n<p><img src=\"/Image/install05.png\" alt=\"\"></p>\n<h4>Set up User for the newly created services.</h4>\n<ul>\n<li>Open the Computer Manager snap-in, and create a new user <em>TM40</em></li>\n</ul>\n<p><img src=\"/Image/install06.png\" alt=\"\"></p>\n<p>Make sure you create a strong password. You will need this password in the next step only.</p>\n<ul>\n<li>Go back to the Services snap-in and select TM_4_0_GraphDB Service properties.</li>\n<li>Open the “Log On” Tab.</li>\n<li>Change the Log on as to use the newly created TM40 account.</li>\n</ul>\n<p><img src=\"/Image/install06-1.png\" alt=\"\"></p>\n<ul>\n<li>Repeat the same step for the TM_4_0_Design Service.</li>\n</ul>\n<h4>Set up permissions.</h4>\n<p>Go to the TM40 directory and give the newly created <em>TM40</em> user full control over the directory.</p>\n<p><img src=\"/Image/install07.png\" alt=\"\"></p>\n<p>Continue by going through <a href=\"33cebe6d-c4ac-4ac8-b047-f8f07f5df2e9\">Installing Reverse Proxy</a></p>\n"
+  "html": "<h4>Start by configuring TEAM Mentor 4.0.</h4>\n<p>The simple configuration file is located in\n<code>TM40\\TM\\config\\SiteData\\TM</code></p>\n<pre><code>{\n  &quot;tm_design&quot;:\n    {\n      &quot;jade_Compilation_Enabled&quot;: false,\n      &quot;folder_Docs_Json&quot;        : &quot;../../data/Lib_Docs-json&quot;                                         ,\n      &quot;folder_Jade_Files&quot;       : &quot;../../code/TM_Jade&quot;                                               ,\n      &quot;tm_35_Server&quot;            : &quot;https://tmdevr01-beta36.teammentor.net&quot;                            ,\n      &quot;webServices&quot;             : &quot;/Aspx_Pages/TM_WebServices.asmx&quot;                                  ,\n      &quot;port&quot;                    : 10001\n    },\n  &quot;tm_graph&quot;:\n    {\n      &quot;folder_Lib_UNO_Json&quot;     : &quot;../../data/Lib_UNO-json&quot;,\n      &quot;port&quot;                    : 10002     \n    },\n  &quot;hubspot&quot;:\n    {\n      &quot;HubspotEndpoint&quot;        :&quot;https://forms.hubspot.com/uploads/form/v2/&quot;,\n      &quot;HubspotEnabled&quot;         :false,\n      &quot;HubspotLeadSource&quot;      :&quot;Demo Request&quot;,\n      &quot;HubspotLeadSourceDetail&quot;:&quot;TM Evaluation&quot; ,\n      &quot;secrets&quot;:\n      {\n        &quot;HubspotSiteId&quot;  :&quot;&quot; ,\n        &quot;HubspotFormGuid&quot;:&quot;&quot;\n      }\n    } ,\n  &quot;piwikAnalytics&quot;:\n    {\n      &quot;analitycsEnabled&quot;  :false,\n      &quot;analitycsSiteId&quot;   :&quot;&quot;,\n      &quot;analitycsTrackUrl&quot; :&quot;&quot;,\n      &quot;secrets&quot;:\n      {\n          &quot;analyticsApiKey&quot; :&quot;&quot;\n      }\n    }\n}\n</code></pre>\n<ul>\n<li>Open <code>tm.config</code>\nHere you only need to edit the line that says <code>tm_35_Server</code></li>\n<li>Change the URL to the TM36 URL you configured in the setup of TM36 Backend section.</li>\n<li>Change the port for both tm_design and tm_graph to something meaningful. You will need this later.</li>\n<li>If you are using Piwik or Hubspot, configure accordingly. This step is optional.</li>\n</ul>\n<h4>Set up components as services</h4>\n<ul>\n<li>Open the Git Bash as Administrator</li>\n<li>Navigate to <code>TM40\\TM\\</code></li>\n<li>Issue <code>$ ./bin/winInstallSrvc.sh</code> and follow the prompts</li>\n<li>Issue <code>$./bin/winSrvcGrant.sh &lt;BACKEND SITE NAME&gt;</code> where the backend site name is the name of the TM36 site in IIS</li>\n<li>Start the services for the first time using <code>./bin/winTM.sh start</code></li>\n</ul>\n<p>The services will autostart at reboot.</p>\n<p>Continue by going through <a href=\"33cebe6d-c4ac-4ac8-b047-f8f07f5df2e9\">Installing Reverse Proxy</a></p>\n"
 }
