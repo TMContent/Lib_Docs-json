@@ -1,6 +1,6 @@
 {
   "id": "00000000-0000-0000-0000-000000410a3a",
-  "checksum": "4c1e72b92a20056875d874757b245d598d0bf09e",
+  "checksum": "6bc829a5cdc73a9e60dae4684c86cd4bb63545a4",
   "words": {
     "11": [
       "ul",
@@ -212,7 +212,11 @@
       "ul",
       "li"
     ],
-    "https//github.com/msysgit/git)": [
+    "at": [
+      "ul",
+      "li"
+    ],
+    "https//github.com/msysgit/git": [
       "ul",
       "li",
       "a"
@@ -510,16 +514,16 @@
       "Client Side Requirements"
     ],
     "ul": [
-      "Windows 2012 R2 (64 Bit) with IIS 8.0 or higher\n NET Framework 4.5.1 (You can download this version from http://www.microsoft.com/en-us/download/details.aspx?id=40779 )\n Git Version Control with Tools (Available https://github.com/msysgit/git) \n NodeJS (Distributed with TEAM Mentor ZIP File)\n IIS AAR 3.0 Extension (Distributed with TEAM Mentor ZIP File)\n IIS URLRewrite2 Extension (Distributed with TEAM Mentor ZIP File)\n 4GB of RAM\n 4GB of Storage\n SSL Certificate",
+      "Windows 2012 R2 (64 Bit) with IIS 8.0 or higher\n NET Framework 4.5.1 ( You can download this version from http://www.microsoft.com/en-us/download/details.aspx?id=40779 )\n Git Version Control with Tools ( Available at https://github.com/msysgit/git ) \n NodeJS ( Distributed with TEAM Mentor ZIP File  ) \n IIS AAR 3.0 Extension ( Distributed with TEAM Mentor ZIP File ) \n IIS URLRewrite2 Extension ( Distributed with TEAM Mentor ZIP File ) \n 4GB of RAM\n 4GB of Storage\n SSL Certificate",
       "IE 11\n Firefox\n Chrome\n Safari (v6.1 and v7.0 on OSX only)"
     ],
     "li": [
       "Windows 2012 R2 (64 Bit) with IIS 8.0 or higher",
-      "NET Framework 4.5.1 (You can download this version from http://www.microsoft.com/en-us/download/details.aspx?id=40779 )",
-      "Git Version Control with Tools (Available https://github.com/msysgit/git)",
-      "NodeJS (Distributed with TEAM Mentor ZIP File)",
-      "IIS AAR 3.0 Extension (Distributed with TEAM Mentor ZIP File)",
-      "IIS URLRewrite2 Extension (Distributed with TEAM Mentor ZIP File)",
+      "NET Framework 4.5.1 ( You can download this version from http://www.microsoft.com/en-us/download/details.aspx?id=40779 )",
+      "Git Version Control with Tools ( Available at https://github.com/msysgit/git )",
+      "NodeJS ( Distributed with TEAM Mentor ZIP File  )",
+      "IIS AAR 3.0 Extension ( Distributed with TEAM Mentor ZIP File )",
+      "IIS URLRewrite2 Extension ( Distributed with TEAM Mentor ZIP File )",
       "4GB of RAM",
       "4GB of Storage",
       "SSL Certificate",
@@ -538,11 +542,15 @@
       "",
       "",
       "",
+      "",
+      "",
+      "",
+      "",
       ""
     ],
     "a": [
       "http://www.microsoft.com/en-us/download/details.aspx?id=40779",
-      "https://github.com/msysgit/git)"
+      "https://github.com/msysgit/git"
     ]
   },
   "links": [
@@ -551,9 +559,9 @@
       "text": "http://www.microsoft.com/en-us/download/details.aspx?id=40779"
     },
     {
-      "href": "https://github.com/msysgit/git)",
-      "text": "https://github.com/msysgit/git)"
+      "href": "https://github.com/msysgit/git",
+      "text": "https://github.com/msysgit/git"
     }
   ],
-  "html": "<h3>Minimum Server Requirements</h3><p>The following hardware and software is required to run TEAM Mentor.\n</p><h4>Server Side Requirements</h4><ul><li> Windows 2012 R2 (64 Bit) with IIS 8.0 or higher<br></li>\n<li> NET Framework 4.5.1 (You can download this version from <a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=40779\">http://www.microsoft.com/en-us/download/details.aspx?id=40779</a> )<br></li>\n<li> Git Version Control with Tools (Available <a href=\"https://github.com/msysgit/git)\">https://github.com/msysgit/git)</a> </li>\n<li> NodeJS (Distributed with TEAM Mentor ZIP File)</li>\n<li> IIS AAR 3.0 Extension (Distributed with TEAM Mentor ZIP File)</li>\n<li> IIS URLRewrite2 Extension (Distributed with TEAM Mentor ZIP File)</li>\n<li> 4GB of RAM<br></li>\n<li> 4GB of Storage<br></li>\n<li> SSL Certificate<br></li>\n</ul><p>\nPlease note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. Self-signed certificate may be used for test environments.\n</p><h4>Client Side Requirements</h4><p>Following browsers and platforms are supported:\n</p><p>\nTM 4.0 Jade supports all browsers including IE8. Mobile browsers for Android and iOS are also supported. \n</p><p>\nTM 3.6 Back0-end (used for Administration and Editing) supports the following browsers <br></p><ul>\n<li> IE 11<br></li>\n<li> Firefox<br></li>\n<li> Chrome<br></li>\n<li> Safari (v6.1 and v7.0 on OSX only)<br></li>\n</ul>\n\n\n"
+  "html": "<h3>Minimum Server Requirements</h3><p>The following hardware and software is required to run TEAM Mentor.\n</p><h4>Server Side Requirements</h4><ul><li> Windows 2012 R2 (64 Bit) with IIS 8.0 or higher<br></li>\n<li> NET Framework 4.5.1 ( You can download this version from <a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=40779\">http://www.microsoft.com/en-us/download/details.aspx?id=40779</a> )<br></li>\n<li> Git Version Control with Tools ( Available at <a href=\"https://github.com/msysgit/git\">https://github.com/msysgit/git</a> ) <br></li>\n<li> NodeJS ( Distributed with TEAM Mentor ZIP File  ) <br></li>\n<li> IIS AAR 3.0 Extension ( Distributed with TEAM Mentor ZIP File ) <br></li>\n<li> IIS URLRewrite2 Extension ( Distributed with TEAM Mentor ZIP File ) <br></li>\n<li> 4GB of RAM<br></li>\n<li> 4GB of Storage<br></li>\n<li> SSL Certificate<br></li>\n</ul><p>\nPlease note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. Self-signed certificate may be used for test environments.\n</p><h4>Client Side Requirements</h4><p>Following browsers and platforms are supported:\n</p><p>\nTM 4.0 Jade supports all browsers including IE8. Mobile browsers for Android and iOS are also supported. \n</p><p>\nTM 3.6 Back0-end (used for Administration and Editing) supports the following browsers <br></p><ul>\n<li> IE 11<br></li>\n<li> Firefox<br></li>\n<li> Chrome<br></li>\n<li> Safari (v6.1 and v7.0 on OSX only)<br></li>\n</ul>\n\n\n"
 }
