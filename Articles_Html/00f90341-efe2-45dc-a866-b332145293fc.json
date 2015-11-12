@@ -1,42 +1,21 @@
 {
   "id": "00f90341-efe2-45dc-a866-b332145293fc",
-  "checksum": "eb2e871dffc8c1b277d33882877e2553324b72bc",
+  "checksum": "9b18807f5e62680aab68f73d64c456e966bfeaa0",
   "words": {
     "10": [
       "ul",
       "li"
     ],
-    "##team": [
-      "p"
-    ],
-    "mentor": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
-      "ul",
-      "ul",
-      "ul",
-      "ul",
-      "li",
-      "li",
-      "li",
-      "li"
-    ],
-    "documentation": [
-      "p",
+    "welcome": [
       "p",
       "title"
-    ],
-    "welcome": [
-      "p"
     ],
     "to": [
       "p",
       "p",
       "p",
-      "p"
+      "p",
+      "title"
     ],
     "the": [
       "p",
@@ -49,16 +28,32 @@
     "team": [
       "p",
       "p",
-      "p",
+      "h3",
       "ul",
       "ul",
       "li",
       "li",
       "li",
-      "li"
+      "li",
+      "title"
     ],
-    "website": [
-      "p"
+    "mentor": [
+      "p",
+      "p",
+      "h3",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "title"
+    ],
+    "documentation": [
+      "p",
+      "title"
     ],
     "where": [
       "p"
@@ -88,14 +83,25 @@
       "p",
       "p"
     ],
-    "install": [
-      "p"
+    "your": [
+      "p",
+      "ul",
+      "li"
     ],
-    "it": [
+    "new": [
       "p",
       "p"
     ],
+    "guidance": [
+      "p"
+    ],
+    "bank": [
+      "p"
+    ],
     "works": [
+      "p"
+    ],
+    "install": [
       "p"
     ],
     "and": [
@@ -104,13 +110,13 @@
     "customize": [
       "p"
     ],
+    "it": [
+      "p"
+    ],
     "if": [
       "p"
     ],
     "are": [
-      "p"
-    ],
-    "new": [
       "p"
     ],
     "we": [
@@ -139,14 +145,11 @@
       "p",
       "a"
     ],
-    "###team": [
-      "p"
-    ],
     "in": [
-      "p"
+      "h3"
     ],
     "action": [
-      "p"
+      "h3"
     ],
     "production": [
       "ul",
@@ -174,9 +177,6 @@
     ],
     "https//www.teammentor.net": [
       "ul",
-      "ul",
-      "li",
-      "a",
       "li",
       "a"
     ],
@@ -196,16 +196,17 @@
       "ul",
       "li"
     ],
-    "your": [
-      "ul",
-      "li"
-    ],
     "fingertipsteam": [
       "ul"
     ],
     "beta": [
       "ul",
       "li"
+    ],
+    "https//beta.teammentor.net": [
+      "ul",
+      "li",
+      "a"
     ],
     "here": [
       "ul",
@@ -248,30 +249,28 @@
     ],
     "innovations": [
       "li"
-    ],
-    "about": [
-      "title"
     ]
   },
   "tags": {
     "p": [
-      "##TEAM Mentor Documentation",
-      "Welcome to the TEAM Mentor  Documentation Website, where you will find detailed information on how to install TEAM Mentor, how it works and how to customize it.",
-      "If you are new to TEAM Mentor, we suggest you start with the Quick Start Guide",
-      "###TEAM Mentor in action"
+      "Welcome to the TEAM Mentor Documentation, where you will find detailed information on how your new guidance bank works , how to install, and how to customize it.",
+      "If you are new to TEAM Mentor, we suggest you start with the Quick Start Guide"
     ],
     "a": [
       "Quick Start Guide",
       "https://www.teammentor.net",
-      "https://www.teammentor.net",
+      "https://beta.teammentor.net",
       "https://owasp.teammentor.net"
     ],
+    "h3": [
+      "TEAM Mentor in action"
+    ],
     "ul": [
-      "TEAM Mentor production site - https://www.teammentor.net - trusted security knowledge at your fingertips\nTEAM Mentor beta site - https://www.teammentor.net - here experience the latest innovations.\nTEAM Mentor with OWASP library - https://owasp.teammentor.net - TEAM Mentor with the OWASP Top 10 library"
+      "TEAM Mentor production site - https://www.teammentor.net - trusted security knowledge at your fingertips\nTEAM Mentor beta site - https://beta.teammentor.net - here experience the latest innovations.\nTEAM Mentor with OWASP library - https://owasp.teammentor.net - TEAM Mentor with the OWASP Top 10 library"
     ],
     "li": [
       "TEAM Mentor production site - https://www.teammentor.net - trusted security knowledge at your fingertips",
-      "TEAM Mentor beta site - https://www.teammentor.net - here experience the latest innovations.",
+      "TEAM Mentor beta site - https://beta.teammentor.net - here experience the latest innovations.",
       "TEAM Mentor with OWASP library - https://owasp.teammentor.net - TEAM Mentor with the OWASP Top 10 library"
     ]
   },
@@ -285,13 +284,13 @@
       "text": "https://www.teammentor.net"
     },
     {
-      "href": "https://www.teammentor.net",
-      "text": "https://www.teammentor.net"
+      "href": "https://beta.teammentor.net",
+      "text": "https://beta.teammentor.net"
     },
     {
       "href": "https://owasp.teammentor.net",
       "text": "https://owasp.teammentor.net"
     }
   ],
-  "html": "<p>##TEAM Mentor Documentation</p>\n<p>Welcome to the TEAM Mentor  Documentation Website, where you will find detailed information on how to install TEAM Mentor, how it works and how to customize it.</p>\n<p>If you are new to TEAM Mentor, we suggest you start with the <a href=\"/article/0bfb008b-49c8-4526-bb6a-0a21d01eeb0e\">Quick Start Guide</a></p>\n<p>###TEAM Mentor in action</p>\n<ul>\n<li>TEAM Mentor production site - <a href=\"https://www.teammentor.net\">https://www.teammentor.net</a> - trusted security knowledge at your fingertips</li>\n<li>TEAM Mentor beta site - <a href=\"https://www.teammentor.net\">https://www.teammentor.net</a> - here experience the latest innovations.</li>\n<li>TEAM Mentor with OWASP library - <a href=\"https://owasp.teammentor.net\">https://owasp.teammentor.net</a> - TEAM Mentor with the OWASP Top 10 library</li>\n</ul>\n"
+  "html": "<p>Welcome to the TEAM Mentor Documentation, where you will find detailed information on how your new guidance bank works , how to install, and how to customize it.</p>\n<p>If you are new to TEAM Mentor, we suggest you start with the <a href=\"/article/0bfb008b-49c8-4526-bb6a-0a21d01eeb0e\">Quick Start Guide</a></p>\n<h3>TEAM Mentor in action</h3>\n<ul>\n<li>TEAM Mentor production site - <a href=\"https://www.teammentor.net\">https://www.teammentor.net</a> - trusted security knowledge at your fingertips</li>\n<li>TEAM Mentor beta site - <a href=\"https://beta.teammentor.net\">https://beta.teammentor.net</a> - here experience the latest innovations.</li>\n<li>TEAM Mentor with OWASP library - <a href=\"https://owasp.teammentor.net\">https://owasp.teammentor.net</a> - TEAM Mentor with the OWASP Top 10 library</li>\n</ul>\n"
 }

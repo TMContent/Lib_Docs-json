@@ -1,9 +1,8 @@
 {
   "id": "00000000-0000-0000-0000-0000001a9296",
-  "checksum": "13073f941dfc90e5880bf88547f7cb0950b383a3",
+  "checksum": "35dca97813adf5ccd7fd59b5c41ac10c691a3d64",
   "words": {
     "to": [
-      "p",
       "p",
       "p",
       "p",
@@ -35,7 +34,6 @@
       "li"
     ],
     "the": [
-      "p",
       "p",
       "p",
       "p",
@@ -113,40 +111,6 @@
       "p",
       "p",
       "p",
-      "p"
-    ],
-    "on": [
-      "p",
-      "p",
-      "p"
-    ],
-    "both": [
-      "p"
-    ],
-    "\"search": [
-      "p"
-    ],
-    "results\"": [
-      "p"
-    ],
-    "and": [
-      "p",
-      "p",
-      "ul",
-      "ul",
-      "ul",
-      "ul",
-      "ul",
-      "li",
-      "li",
-      "li",
-      "li",
-      "li"
-    ],
-    "\"index\"": [
-      "p"
-    ],
-    "pages": [
       "p"
     ],
     "is": [
@@ -310,17 +274,11 @@
     "shown": [
       "p"
     ],
-    "top": [
-      "p"
-    ],
-    "next": [
+    "on": [
       "p",
       "p"
     ],
-    "\"article": [
-      "p"
-    ],
-    "count\"": [
+    "top\"": [
       "p"
     ],
     "in": [
@@ -377,6 +335,19 @@
     "\"phase\"": [
       "p",
       "ul",
+      "li"
+    ],
+    "and": [
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
       "li"
     ],
     "\"type\"": [
@@ -455,6 +426,9 @@
       "p"
     ],
     "\"x\"": [
+      "p"
+    ],
+    "next": [
       "p"
     ],
     "it": [
@@ -838,12 +812,12 @@
   },
   "tags": {
     "p": [
-      "To the right of the article list, on both \"Search Results\" and \"Index\" pages is the list of filters.",
+      "To the right of the article list is the list of filters.",
       "Selecting each filter only shows articles from the list that match a the selected filter.",
       "Selecting multiple filters shows only the the list of articles that match ALL of the selected filters.",
       "",
       "Filters allow narrowing down the presented article list to help find the most relevant articles.",
-      "Selected filter is shown on the top, next to the \"Article Count\" (in red below).",
+      "Selected filter is shown on the top\" (in red below).",
       "Icons (indicated with green arrows below) match each filter with an article providing a visual representation on the \"Technology\", \"Phase\" and \"Type\" of the article.",
       "The gray numbers to the right of each filter represent the amount of articles, from the current result set, that would be selected if this filter was applied.",
       "",
@@ -869,5 +843,5 @@
     ]
   },
   "links": [],
-  "html": "<p>To the right of the article list, on both &quot;Search Results&quot; and &quot;Index&quot; pages is the list of filters.</p>\n<p>Selecting each filter only shows articles from the list that match a the selected filter.</p>\n<p>Selecting multiple filters shows only the the list of articles that match ALL of the selected filters.</p>\n<p><img src=\"/Image/filters01.png\" alt=\"\"></p>\n<p>Filters allow narrowing down the presented article list to help find the most relevant articles.</p>\n<p>Selected filter is shown on the top, next to the &quot;Article Count&quot; (in red below).</p>\n<p>Icons (indicated with green arrows below) match each filter with an article providing a visual representation on the &quot;Technology&quot;, &quot;Phase&quot; and &quot;Type&quot; of the article.</p>\n<p>The gray numbers to the right of each filter represent the amount of articles, from the current result set, that would be selected if this filter was applied.</p>\n<p><img src=\"/Image/search04.png\" alt=\"\"></p>\n<p>Filter can be removed, by clicking &quot;X&quot; next to it. Only one filter can be removed at a time. Removal of the filter returns the set of articles to a state before that filter was applied.</p>\n<p><img src=\"/Image/search05.png\" alt=\"\"></p>\n<p>Filters are divided into categories for easier organization.</p>\n<ul>\n<li>The &quot;Technology&quot; filter - the technology filter allows the user to display only the articles that pertain to a specific technology. For example Microsoft .NET. <em>Technology Independent</em> filter means that the articles it selects do not belong to a specific technology, and the prescriptions in that guidance can be applied universally.</li>\n<li>The &quot;Phase&quot; filter - the phase filter allows the user to select only the articles that apply to a specific software development life-cycle phase.</li>\n<li>The &quot;Type&quot; filter - the type filter allows the user to choose what types of articles to display. The most common types are &quot;Checklists&quot; and &quot;Guidelines&quot;. &quot;Guidelines&quot; describe how to do something in general terms that should be applicable to most applications, but still specific enough to be implemented. A &quot;Checklist&quot; describes how to test if a specific security measure or control has been implemented correctly and how to implement it correctly. Checklists and &quot;Guidelines&quot; usually exist in pairs. Other types of articles include: &quot;Vulnerability&quot;, &quot;Code Example&quot;, &quot;How To&quot;,  and &quot;Principle&quot;</li>\n</ul>\n"
+  "html": "<p>To the right of the article list is the list of filters.</p>\n<p>Selecting each filter only shows articles from the list that match a the selected filter.</p>\n<p>Selecting multiple filters shows only the the list of articles that match ALL of the selected filters.</p>\n<p><img src=\"/Image/filters-ng-01.png\" alt=\"\"></p>\n<p>Filters allow narrowing down the presented article list to help find the most relevant articles.</p>\n<p>Selected filter is shown on the top&quot; (in red below).</p>\n<p>Icons (indicated with green arrows below) match each filter with an article providing a visual representation on the &quot;Technology&quot;, &quot;Phase&quot; and &quot;Type&quot; of the article.</p>\n<p>The gray numbers to the right of each filter represent the amount of articles, from the current result set, that would be selected if this filter was applied.</p>\n<p><img src=\"/Image/filters-ng-02.png\" alt=\"\"></p>\n<p>Filter can be removed, by clicking &quot;X&quot; next to it. Only one filter can be removed at a time. Removal of the filter returns the set of articles to a state before that filter was applied.</p>\n<p><img src=\"/Image/filters-ng-03.png\" alt=\"\"></p>\n<p>Filters are divided into categories for easier organization.</p>\n<ul>\n<li>The &quot;Technology&quot; filter - the technology filter allows the user to display only the articles that pertain to a specific technology. For example Microsoft .NET. <em>Technology Independent</em> filter means that the articles it selects do not belong to a specific technology, and the prescriptions in that guidance can be applied universally.</li>\n<li>The &quot;Phase&quot; filter - the phase filter allows the user to select only the articles that apply to a specific software development life-cycle phase.</li>\n<li>The &quot;Type&quot; filter - the type filter allows the user to choose what types of articles to display. The most common types are &quot;Checklists&quot; and &quot;Guidelines&quot;. &quot;Guidelines&quot; describe how to do something in general terms that should be applicable to most applications, but still specific enough to be implemented. A &quot;Checklist&quot; describes how to test if a specific security measure or control has been implemented correctly and how to implement it correctly. Checklists and &quot;Guidelines&quot; usually exist in pairs. Other types of articles include: &quot;Vulnerability&quot;, &quot;Code Example&quot;, &quot;How To&quot;,  and &quot;Principle&quot;</li>\n</ul>\n"
 }

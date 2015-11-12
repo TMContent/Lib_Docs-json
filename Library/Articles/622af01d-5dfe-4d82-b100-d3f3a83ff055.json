@@ -1,0 +1,56 @@
+{
+  "TeamMentor_Article": {
+    "$": {
+      "Metadata_Hash": "0",
+      "Content_Hash": "0"
+    },
+    "Metadata": [
+      {
+        "Id": [
+          "622af01d-5dfe-4d82-b100-d3f3a83ff055"
+        ],
+        "Library_Id": [
+          "eb39d862-f752-4d1c-ab6e-14ed697397c0"
+        ],
+        "Title": [
+          "Guides"
+        ],
+        "Category": [
+          "Reading"
+        ],
+        "Phase": [
+          "NA"
+        ],
+        "Technology": [
+          "TEAM Mentor"
+        ],
+        "Type": [
+          "Documentation"
+        ],
+        "DirectLink": [
+          ""
+        ],
+        "Author": [
+          ""
+        ],
+        "Priority": [
+          ""
+        ],
+        "Status": [
+          ""
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "$": {
+          "Sanitized": "false",
+          "DataType": "markdown"
+        },
+        "Data": [
+          "TEAM Mentor Guides provide an easy learning experience for specifically selected topics. Following a guide is as simple as going to a museum. \r\n\r\nSelect \"Guides\" on the top menu to enter the \"Guides\" interface. \r\n\r\nYou are presented with the list of available topics. Click on the subject of interest and follow the guide as you learn. \r\n\r\nThe left navigation provides a convenient shortcut for all the topics and their subtopics. \r\n\r\n![](/Image/guides-02.png)\r\n\r\n"
+        ]
+      }
+    ]
+  }
+}

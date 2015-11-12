@@ -1,6 +1,6 @@
 {
   "id": "00000000-0000-0000-0000-0000001ecaec",
-  "checksum": "cc0fdbca4e10797a1e4b999e1f2a5d0965e06a13",
+  "checksum": "1842251baedc1015444f5f9e8b7dbef804b195dd",
   "words": {
     "5": [
       "p"
@@ -12,6 +12,7 @@
     ],
     "you": [
       "h2",
+      "p",
       "p",
       "p",
       "p",
@@ -102,7 +103,6 @@
       "p",
       "p",
       "p",
-      "p",
       "p"
     ],
     "any": [
@@ -113,7 +113,6 @@
       "p"
     ],
     "of": [
-      "p",
       "p",
       "p",
       "p"
@@ -139,30 +138,69 @@
       "p",
       "p",
       "p",
+      "p",
       "p"
     ],
     "above": [
       "p"
     ],
-    "state": [
+    "while": [
+      "p"
+    ],
+    "viewing": [
+      "p"
+    ],
+    "an": [
+      "p",
+      "h3"
+    ],
+    "article": [
+      "p",
+      "h3",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "use": [
+      "p"
+    ],
+    "\"share\"": [
+      "p",
+      "p"
+    ],
+    "button": [
+      "p",
+      "p"
+    ],
+    "or": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "anywhere": [
+      "p"
+    ],
+    "else": [
+      "p"
+    ],
+    "in": [
+      "p",
+      "p",
+      "p",
+      "p",
       "p"
     ],
     "application": [
       "p"
     ],
-    "is": [
+    "simply": [
       "p",
       "p",
       "p"
     ],
-    "always": [
-      "p"
-    ],
-    "reflected": [
-      "p"
-    ],
-    "in": [
-      "p",
+    "copy": [
       "p",
       "p",
       "p"
@@ -174,17 +212,6 @@
       "p",
       "p",
       "p",
-      "p",
-      "p",
-      "p",
-      "p"
-    ],
-    "simply": [
-      "p",
-      "p",
-      "p"
-    ],
-    "copy": [
       "p",
       "p",
       "p"
@@ -213,7 +240,6 @@
     ],
     "that": [
       "p",
-      "p",
       "p"
     ],
     "allows": [
@@ -225,11 +251,6 @@
       "p"
     ],
     "im": [
-      "p"
-    ],
-    "or": [
-      "p",
-      "p",
       "p"
     ],
     "print": [
@@ -292,17 +313,8 @@
       "p",
       "h3"
     ],
-    "an": [
-      "h3"
-    ],
-    "article": [
-      "h3",
-      "p",
-      "p",
-      "p",
-      "p"
-    ],
     "for": [
+      "p",
       "p",
       "p"
     ],
@@ -355,7 +367,22 @@
     "love": [
       "p"
     ],
-    "wwwteammentor.net/article/eb2d53a86fb3/create-a-threat-model-for-a-web-application-at-design-time": [
+    "then": [
+      "p"
+    ],
+    "hit": [
+      "p"
+    ],
+    "highlighted": [
+      "p"
+    ],
+    "dialogue": [
+      "p"
+    ],
+    "box": [
+      "p"
+    ],
+    "https//www.teammentor.net/article/eb2d53a86fb3/create-a-threat-model-for-a-web-application-at-design-time": [
       "pre",
       "code"
     ],
@@ -406,6 +433,9 @@
     ],
     "results": [
       "h3",
+      "p"
+    ],
+    "is": [
       "p"
     ],
     "singe": [
@@ -465,7 +495,7 @@
     "useful": [
       "p"
     ],
-    "https//www.teammentor.net/search?text=prevent+sql+injection&filters=/query-1b296e810647,query-8f3ba300c46a,query-891ed0bcf3bd": [
+    "wwwteammentor.net/angular/user/index/search-prevent-sql-injection/query-52d32dc0410d,query-6f96508587cd,query-a531c9597899": [
       "pre",
       "code"
     ],
@@ -513,10 +543,11 @@
       "What You See - They See"
     ],
     "p": [
-      "TEAM Mentor makes it super easy to share articles, searches, filter settings and any combination of the above. The state of the application is always reflected in the URL. Simply copy the URL from your browser into any medium that allows you to share and that is it. Email the URL, IM the URL or print the URL out and post it. As soon as the other party receives and opens the URL, providing they have access to TEAM Mentor, they will be able to see what you see.",
-      "For example. Lets say you found a really cool article that you want to share with your colleague in London. Simply open and love the article",
+      "TEAM Mentor makes it super easy to share articles, searches, filter settings and any combination of the above. While viewing an article use the \"Share\" button, or anywhere else in the application simply copy the URL from your browser into any medium that allows you to share it. Email the URL, IM the URL or print the URL out and post it. As soon as the other party receives and opens the URL, providing they have access to TEAM Mentor, they will be able to see what you see.",
+      "For example. Lets say you found a really cool article that you want to share with your colleague in London. Simply open and love the article. Then hit the \"Share\" button.",
       "",
-      "Copy the URL:",
+      "Copy the URL highlighted for you in the dialogue box :",
+      "",
       "Open your collaboration tool, or email, paste, and send the URL.",
       "",
       "Your colleague clicks on the link, opens the article and both of you are on the same page.",
@@ -524,7 +555,6 @@
       "",
       "Copy the URL:",
       "Open your collaboration tool, or email, paste, and send the URL.",
-      "",
       "As you can see you can share anything and everything you are looking at, spreading the wealth of knowledge TEAM Mentor offers in  your organization."
     ],
     "h3": [
@@ -539,14 +569,14 @@
       ""
     ],
     "pre": [
-      "www.teammentor.net/article/eb2d53a86fb3/Create-a-Threat-Model-for-a-Web-Application-at-Design-Time",
-      "https://www.teammentor.net/search?text=prevent+SQL+injection&filters=/query-1b296e810647,query-8f3ba300c46a,query-891ed0bcf3bd"
+      "https://www.teammentor.net/article/eb2d53a86fb3/Create-a-Threat-Model-for-a-Web-Application-at-Design-Time",
+      "www.teammentor.net/angular/user/index/search-prevent-sql-injection/query-52d32dc0410d,query-6f96508587cd,query-a531c9597899"
     ],
     "code": [
-      "www.teammentor.net/article/eb2d53a86fb3/Create-a-Threat-Model-for-a-Web-Application-at-Design-Time",
-      "https://www.teammentor.net/search?text=prevent+SQL+injection&filters=/query-1b296e810647,query-8f3ba300c46a,query-891ed0bcf3bd"
+      "https://www.teammentor.net/article/eb2d53a86fb3/Create-a-Threat-Model-for-a-Web-Application-at-Design-Time",
+      "www.teammentor.net/angular/user/index/search-prevent-sql-injection/query-52d32dc0410d,query-6f96508587cd,query-a531c9597899"
     ]
   },
   "links": [],
-  "html": "<h2>What You See - They See</h2>\n<p>TEAM Mentor makes it super easy to share articles, searches, filter settings and any combination of the above. The state of the application is always reflected in the URL. Simply copy the URL from your browser into any medium that allows you to share and that is it. Email the URL, IM the URL or print the URL out and post it. As soon as the other party receives and opens the URL, providing they have access to TEAM Mentor, they will be able to see what you see.</p>\n<h3>Sharing an Article</h3>\n<p>For example. Lets say you found a really cool article that you want to share with your colleague in London. Simply open and love the article</p>\n<p><img src=\"/Image/sharing05.png\" alt=\"\"></p>\n<p>Copy the URL:</p>\n<pre><code>www.teammentor.net/article/eb2d53a86fb3/Create-a-Threat-Model-for-a-Web-Application-at-Design-Time\n</code></pre>\n<p>Open your collaboration tool, or email, paste, and send the URL.</p>\n<p><img src=\"/Image/sharing06.png\" alt=\"\"></p>\n<p>Your colleague clicks on the link, opens the article and both of you are on the same page.</p>\n<h3>Sharing Search Results</h3>\n<p>Sharing search results is as easy as sharing a singe article. Lets say you have spend the last 5 minutes searching and filtering for information on fixing SQL Injection. Now you want to share what you found with your friend from another unit in Australia.  Simply go to the page you think will be most useful</p>\n<p><img src=\"/Image/sharing07.png\" alt=\"\"></p>\n<p>Copy the URL:</p>\n<pre><code>https://www.teammentor.net/search?text=prevent+SQL+injection&amp;filters=/query-1b296e810647,query-8f3ba300c46a,query-891ed0bcf3bd\n</code></pre>\n<p>Open your collaboration tool, or email, paste, and send the URL.</p>\n<p><img src=\"/Image/sharing07.png\" alt=\"\"></p>\n<h3>Sharing Anything</h3>\n<p>As you can see you can share anything and everything you are looking at, spreading the wealth of knowledge TEAM Mentor offers in  your organization.</p>\n"
+  "html": "<h2>What You See - They See</h2>\n<p>TEAM Mentor makes it super easy to share articles, searches, filter settings and any combination of the above. While viewing an article use the &quot;Share&quot; button, or anywhere else in the application simply copy the URL from your browser into any medium that allows you to share it. Email the URL, IM the URL or print the URL out and post it. As soon as the other party receives and opens the URL, providing they have access to TEAM Mentor, they will be able to see what you see.</p>\n<h3>Sharing an Article</h3>\n<p>For example. Lets say you found a really cool article that you want to share with your colleague in London. Simply open and love the article. Then hit the &quot;Share&quot; button.</p>\n<p><img src=\"/Image/sharing-ng-01.png\" alt=\"\"></p>\n<p>Copy the URL highlighted for you in the dialogue box :</p>\n<p><img src=\"/Image/sharing-ng-02.png\" alt=\"\"></p>\n<pre><code>https://www.teammentor.net/article/eb2d53a86fb3/Create-a-Threat-Model-for-a-Web-Application-at-Design-Time\n</code></pre>\n<p>Open your collaboration tool, or email, paste, and send the URL.</p>\n<p><img src=\"/Image/sharing06.png\" alt=\"\"></p>\n<p>Your colleague clicks on the link, opens the article and both of you are on the same page.</p>\n<h3>Sharing Search Results</h3>\n<p>Sharing search results is as easy as sharing a singe article. Lets say you have spend the last 5 minutes searching and filtering for information on fixing SQL Injection. Now you want to share what you found with your friend from another unit in Australia.  Simply go to the page you think will be most useful</p>\n<p><img src=\"/Image/sharing-ng-03.png\" alt=\"\"></p>\n<p>Copy the URL:</p>\n<pre><code>www.teammentor.net/angular/user/index/search-prevent-sql-injection/query-52d32dc0410d,query-6f96508587cd,query-a531c9597899\n</code></pre>\n<p>Open your collaboration tool, or email, paste, and send the URL.</p>\n<h3>Sharing Anything</h3>\n<p>As you can see you can share anything and everything you are looking at, spreading the wealth of knowledge TEAM Mentor offers in  your organization.</p>\n"
 }

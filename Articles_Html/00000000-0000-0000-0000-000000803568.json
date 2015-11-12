@@ -82,8 +82,7 @@
       "p",
       "p",
       "p",
-      "p",
-      "title"
+      "p"
     ],
     "\"index\"": [
       "p",
@@ -390,7 +389,8 @@
     ],
     "navigation": [
       "p",
-      "p"
+      "p",
+      "title"
     ],
     "top": [
       "p"
@@ -464,7 +464,7 @@
     "filters)": [
       "p"
     ],
-    "navigating": [
+    "jade": [
       "title"
     ],
     "index": [
