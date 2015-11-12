@@ -7,13 +7,13 @@
     "Metadata": [
       {
         "Id": [
-          "622af01d-5dfe-4d82-b100-d3f3a83ff055"
+          "8ae80b79-b3aa-4ff0-9c74-717b9bc56bab"
         ],
         "Library_Id": [
           "eb39d862-f752-4d1c-ab6e-14ed697397c0"
         ],
         "Title": [
-          "Guides"
+          "What is Jade?"
         ],
         "Category": [
           "Reading"
@@ -48,7 +48,7 @@
           "DataType": "markdown"
         },
         "Data": [
-          "   \r\nTEAM Mentor Guides provide an easy learning experience for specifically selected topics. Following a guide is as simple as going to a museum. \r\n   \r\n   \r\nSelect \"Guides\" on the top menu to enter the \"Guides\" interface. \r\n    \r\n    \r\nYou are presented with the list of available topics. Click on the subject of interest and follow the guide as you learn. \r\n    \r\n    \r\nThe left navigation provides a convenient shortcut for all the topics and their subtopics. \r\n   \r\n   \r\n![](/Image/guides-02.png)\r\n   \r\n   \r\n"
+          "Jade is the fail safe version of TEAM Mentor. TEAM Mentor was designed to run on modern browsers to provide a smooth user experience. However, we do realize that sometimes customers for various reasons cannot run newest browsers. To accommodate we have created the Jade version. While not as slick as the main, Flare, version it still provides the main functionality in an easy to use package. It runs on legacy browsers, including IE8 and Lynx.  TEAM Mentor automatically determines if it your browser can't handle Flare version and will present you with Jade. Chances are you will never get to see it, but in case you do, this section of the documentation explains how to use it. "
         ]
       }
     ]

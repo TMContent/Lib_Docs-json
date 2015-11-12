@@ -1,29 +1,39 @@
 {
   "id": "00f90341-efe2-45dc-a866-b332145293fc",
-  "checksum": "9b18807f5e62680aab68f73d64c456e966bfeaa0",
+  "checksum": "9fca00de4d94ae3fde9d28dfab88cee9ea24a598",
   "words": {
     "10": [
       "ul",
       "li"
     ],
-    "welcome": [
-      "p",
-      "title"
-    ],
-    "to": [
-      "p",
-      "p",
-      "p",
-      "p",
-      "title"
-    ],
-    "the": [
-      "p",
+    "here": [
       "p",
       "ul",
-      "ul",
-      "li",
       "li"
+    ],
+    "you": [
+      "p",
+      "p",
+      "p"
+    ],
+    "will": [
+      "p"
+    ],
+    "find": [
+      "p"
+    ],
+    "detailed": [
+      "p"
+    ],
+    "information": [
+      "p"
+    ],
+    "on": [
+      "p"
+    ],
+    "how": [
+      "p",
+      "p"
     ],
     "team": [
       "p",
@@ -51,54 +61,15 @@
       "li",
       "title"
     ],
-    "documentation": [
+    "works": [
+      "p"
+    ],
+    "to": [
+      "p",
       "p",
       "title"
     ],
-    "where": [
-      "p"
-    ],
-    "you": [
-      "p",
-      "p",
-      "p"
-    ],
-    "will": [
-      "p"
-    ],
-    "find": [
-      "p"
-    ],
-    "detailed": [
-      "p"
-    ],
-    "information": [
-      "p"
-    ],
-    "on": [
-      "p"
-    ],
-    "how": [
-      "p",
-      "p",
-      "p"
-    ],
-    "your": [
-      "p",
-      "ul",
-      "li"
-    ],
-    "new": [
-      "p",
-      "p"
-    ],
-    "guidance": [
-      "p"
-    ],
-    "bank": [
-      "p"
-    ],
-    "works": [
+    "use": [
       "p"
     ],
     "install": [
@@ -119,6 +90,9 @@
     "are": [
       "p"
     ],
+    "new": [
+      "p"
+    ],
     "we": [
       "p"
     ],
@@ -131,6 +105,13 @@
       "a"
     ],
     "with": [
+      "p",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "the": [
       "p",
       "ul",
       "ul",
@@ -196,6 +177,10 @@
       "ul",
       "li"
     ],
+    "your": [
+      "ul",
+      "li"
+    ],
     "fingertipsteam": [
       "ul"
     ],
@@ -207,10 +192,6 @@
       "ul",
       "li",
       "a"
-    ],
-    "here": [
-      "ul",
-      "li"
     ],
     "experience": [
       "ul",
@@ -249,11 +230,17 @@
     ],
     "innovations": [
       "li"
+    ],
+    "welcome": [
+      "title"
+    ],
+    "documentation": [
+      "title"
     ]
   },
   "tags": {
     "p": [
-      "Welcome to the TEAM Mentor Documentation, where you will find detailed information on how your new guidance bank works , how to install, and how to customize it.",
+      "Here you will find detailed information on how TEAM Mentor works, how to use, install, and customize it.",
       "If you are new to TEAM Mentor, we suggest you start with the Quick Start Guide"
     ],
     "a": [
@@ -292,5 +279,5 @@
       "text": "https://owasp.teammentor.net"
     }
   ],
-  "html": "<p>Welcome to the TEAM Mentor Documentation, where you will find detailed information on how your new guidance bank works , how to install, and how to customize it.</p>\n<p>If you are new to TEAM Mentor, we suggest you start with the <a href=\"/article/0bfb008b-49c8-4526-bb6a-0a21d01eeb0e\">Quick Start Guide</a></p>\n<h3>TEAM Mentor in action</h3>\n<ul>\n<li>TEAM Mentor production site - <a href=\"https://www.teammentor.net\">https://www.teammentor.net</a> - trusted security knowledge at your fingertips</li>\n<li>TEAM Mentor beta site - <a href=\"https://beta.teammentor.net\">https://beta.teammentor.net</a> - here experience the latest innovations.</li>\n<li>TEAM Mentor with OWASP library - <a href=\"https://owasp.teammentor.net\">https://owasp.teammentor.net</a> - TEAM Mentor with the OWASP Top 10 library</li>\n</ul>\n"
+  "html": "<p>Here you will find detailed information on how TEAM Mentor works, how to use, install, and customize it.</p>\n<p>If you are new to TEAM Mentor, we suggest you start with the <a href=\"/article/0bfb008b-49c8-4526-bb6a-0a21d01eeb0e\">Quick Start Guide</a></p>\n<h3>TEAM Mentor in action</h3>\n<ul>\n<li>TEAM Mentor production site - <a href=\"https://www.teammentor.net\">https://www.teammentor.net</a> - trusted security knowledge at your fingertips</li>\n<li>TEAM Mentor beta site - <a href=\"https://beta.teammentor.net\">https://beta.teammentor.net</a> - here experience the latest innovations.</li>\n<li>TEAM Mentor with OWASP library - <a href=\"https://owasp.teammentor.net\">https://owasp.teammentor.net</a> - TEAM Mentor with the OWASP Top 10 library</li>\n</ul>\n"
 }

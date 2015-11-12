@@ -1,6 +1,6 @@
 {
   "id": "8293816f-f84d-4775-bc7d-ee26fabbd61b",
-  "checksum": "0b8212f7c7ffb975b9d971c3ca883dd30c69741b",
+  "checksum": "dd21e8c1d77d1cc5ce6e24b5a728308db86da017",
   "words": {
     "team": [
       "p",
@@ -56,8 +56,7 @@
       "p",
       "p",
       "p",
-      "p",
-      "strong",
+      "h3",
       "p",
       "p",
       "p",
@@ -411,13 +410,11 @@
       "p"
     ],
     "main": [
-      "p",
-      "strong",
+      "h3",
       "p"
     ],
     "interface": [
-      "p",
-      "strong",
+      "h3",
       "p",
       "title"
     ],
@@ -571,22 +568,19 @@
       "p"
     ],
     "article": [
-      "p",
-      "strong",
+      "h3",
       "p",
       "p",
       "p",
       "p"
     ],
     "view": [
-      "p",
-      "strong",
+      "h3",
       "p",
       "p"
     ],
     "page": [
-      "p",
-      "strong",
+      "h3",
       "p",
       "p"
     ],
@@ -751,13 +745,11 @@
       "If you have a specific question, and know what you are looking for, then simply use the \"search and filter\" functionality further described here.",
       "If you are not sure what you are interested in, or simply would like to browse our content, use the \"Index\" subject matter directory on the left and filters on the right to go through a list of topics until you find one that deserves your further attention. This is described in detail\nhere",
       "Guides provide a curated, guided, learning experience understanding a particular topic. More information on guides can be found  here",
-      "The Main Interface",
       "The main interface consists of the navigation menu, the search bar and the work area. The navigation menu provides access to different TEAM Mentor functionality, as well as access to this documentation. The search bar allows to perform searches on our guidance. The workspace below which changes based on the functionality chose.",
       "The default workspace contains subject matter directory on the left hand side and filters on the right hand side. You can use them interchangeably to quickly access the content you need.",
       "Icon's next to the articles provide visual queues representing their relationship to a filter.",
       "The list of available articles based on your search or filtering criteria is show in the middle in the middle.",
       "",
-      "Article View Page",
       "Article view page provides easy, distraction free, way of reading and understanding the content. Each guidance type has a slightly different format. However, most start by explaining the issue at high level, continue into prescriptive details, include problem and solution examples, and are followed by additional reading references.",
       "Open the article view page by clicking on the title of the article.",
       "Go back to the list by using your browsers \"Back\" button. Some people also prefer to open articles in separate tabs, by right-clicking on the article title and selecting \"Open in new tab\"",
@@ -768,7 +760,7 @@
       "here",
       "here"
     ],
-    "strong": [
+    "h3": [
       "The Main Interface",
       "Article View Page"
     ],
@@ -791,5 +783,5 @@
       "text": "here"
     }
   ],
-  "html": "<p>TEAM Mentor provides a number of avenues for accessing the vast content we offer.  Each aiming at providing the answers you are looking for in the least amounts of clicks. The best method to use depends on your goal.</p>\n<p>If you have a specific question, and know what you are looking for, then simply use the &quot;search and filter&quot; functionality further described <a href=\"article/2f29c7a1-ab67-40b9-89cb-4983558bc718\">here</a>.</p>\n<p>If you are not sure what you are interested in, or simply would like to browse our content, use the &quot;Index&quot; subject matter directory on the left and filters on the right to go through a list of topics until you find one that deserves your further attention. This is described in detail\n<a href=\"article/70197456-9d4c-4bac-8124-a96f7456ea9b\">here</a></p>\n<p>Guides provide a curated, guided, learning experience understanding a particular topic. More information on guides can be found  <a href=\"/article/622af01d-5dfe-4d82-b100-d3f3a83ff055\">here</a></p>\n<p><strong>The Main Interface</strong></p>\n<p>The main interface consists of the navigation menu, the search bar and the work area. The navigation menu provides access to different TEAM Mentor functionality, as well as access to this documentation. The search bar allows to perform searches on our guidance. The workspace below which changes based on the functionality chose.</p>\n<p>The default workspace contains subject matter directory on the left hand side and filters on the right hand side. You can use them interchangeably to quickly access the content you need.</p>\n<p>Icon's next to the articles provide visual queues representing their relationship to a filter.</p>\n<p>The list of available articles based on your search or filtering criteria is show in the middle in the middle.</p>\n<p><img src=\"/Image/uioverview-ng-01.png\" alt=\"\"></p>\n<p><strong>Article View Page</strong></p>\n<p>Article view page provides easy, distraction free, way of reading and understanding the content. Each guidance type has a slightly different format. However, most start by explaining the issue at high level, continue into prescriptive details, include problem and solution examples, and are followed by additional reading references.</p>\n<p>Open the article view page by clicking on the title of the article.</p>\n<p>Go back to the list by using your browsers &quot;Back&quot; button. Some people also prefer to open articles in separate tabs, by right-clicking on the article title and selecting &quot;Open in new tab&quot;</p>\n<p><img src=\"/Image/uioverview-ng-02.png\" alt=\"\"></p>\n"
+  "html": "<p>TEAM Mentor provides a number of avenues for accessing the vast content we offer.  Each aiming at providing the answers you are looking for in the least amounts of clicks. The best method to use depends on your goal.</p>\n<p>If you have a specific question, and know what you are looking for, then simply use the &quot;search and filter&quot; functionality further described <a href=\"article/2f29c7a1-ab67-40b9-89cb-4983558bc718\">here</a>.</p>\n<p>If you are not sure what you are interested in, or simply would like to browse our content, use the &quot;Index&quot; subject matter directory on the left and filters on the right to go through a list of topics until you find one that deserves your further attention. This is described in detail\n<a href=\"article/70197456-9d4c-4bac-8124-a96f7456ea9b\">here</a></p>\n<p>Guides provide a curated, guided, learning experience understanding a particular topic. More information on guides can be found  <a href=\"/article/622af01d-5dfe-4d82-b100-d3f3a83ff055\">here</a></p>\n<h3>The Main Interface</h3>\n<p>The main interface consists of the navigation menu, the search bar and the work area. The navigation menu provides access to different TEAM Mentor functionality, as well as access to this documentation. The search bar allows to perform searches on our guidance. The workspace below which changes based on the functionality chose.</p>\n<p>The default workspace contains subject matter directory on the left hand side and filters on the right hand side. You can use them interchangeably to quickly access the content you need.</p>\n<p>Icon's next to the articles provide visual queues representing their relationship to a filter.</p>\n<p>The list of available articles based on your search or filtering criteria is show in the middle in the middle.</p>\n<p><img src=\"/Image/uioverview-ng-01.png\" alt=\"\"></p>\n<h3>Article View Page</h3>\n<p>Article view page provides easy, distraction free, way of reading and understanding the content. Each guidance type has a slightly different format. However, most start by explaining the issue at high level, continue into prescriptive details, include problem and solution examples, and are followed by additional reading references.</p>\n<p>Open the article view page by clicking on the title of the article.</p>\n<p>Go back to the list by using your browsers &quot;Back&quot; button. Some people also prefer to open articles in separate tabs, by right-clicking on the article title and selecting &quot;Open in new tab&quot;</p>\n<p><img src=\"/Image/uioverview-ng-02.png\" alt=\"\"></p>\n"
 }
