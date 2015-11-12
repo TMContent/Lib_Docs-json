@@ -1,8 +1,67 @@
 {
   "id": "323dae88-b74b-465c-a949-d48c33f4ac85",
-  "checksum": "41298609dc78f3fc49214ce347cc8180b12cfbe2",
+  "checksum": "eaac4ce87cdb435374f5ae3e5c1373445ad1bdc5",
   "words": {
+    "we": [
+      "p",
+      "p"
+    ],
+    "feel": [
+      "p"
+    ],
+    "you": [
+      "p",
+      "p",
+      "p"
+    ],
+    "will": [
+      "p"
+    ],
+    "have": [
+      "p",
+      "p"
+    ],
+    "zero": [
+      "p"
+    ],
+    "issues": [
+      "p"
+    ],
+    "with": [
+      "p"
+    ],
+    "this": [
+      "p"
+    ],
+    "application": [
+      "p"
+    ],
+    "but": [
+      "p"
+    ],
+    "in": [
+      "p"
+    ],
+    "case": [
+      "p"
+    ],
+    "happen": [
+      "p"
+    ],
     "to": [
+      "p",
+      "p"
+    ],
+    "one": [
+      "p"
+    ],
+    "are": [
+      "p"
+    ],
+    "here": [
+      "p"
+    ],
+    "for": [
       "p"
     ],
     "contact": [
@@ -37,7 +96,7 @@
   },
   "tags": {
     "p": [
-      "To contact Security Innovation TEAM Mentor support please email support@securityinnovation.com"
+      "We feel you will have zero issues with this application, but in case you happen to have one, we are here for you. To contact Security Innovation TEAM Mentor support please email support@securityinnovation.com"
     ],
     "a": [
       "support@securityinnovation.com"
@@ -49,5 +108,5 @@
       "text": "support@securityinnovation.com"
     }
   ],
-  "html": "<p>To contact Security Innovation TEAM Mentor support please email <a href=\"mailto:support@securityinnovation.com\">support@securityinnovation.com</a> \n</p> \n"
+  "html": "<p>We feel you will have zero issues with this application, but in case you happen to have one, we are here for you. To contact Security Innovation TEAM Mentor support please email <a href=\"mailto:support@securityinnovation.com\">support@securityinnovation.com</a>\n</p> \n"
 }

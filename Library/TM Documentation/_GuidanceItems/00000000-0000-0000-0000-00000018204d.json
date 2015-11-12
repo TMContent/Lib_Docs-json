@@ -13,7 +13,7 @@
           "eb39d862-f752-4d1c-ab6e-14ed697397c0"
         ],
         "Title": [
-          "Searching and Filtering"
+          "Jade Searching and Filtering"
         ],
         "Category": [
           "Reading"
@@ -54,7 +54,7 @@
           "DataType": "markdown"
         },
         "Data": [
-          "Searching is the default and the simplest way of finding content in TEAM Mentor. However, search requires you to know a little bit about the subject at hand. Use the \"Search\" function when you have formulated a security question. Simply go to the \"Search\" page and type your query in the search box.\r\n\r\n(note that currently search supports simple queries only. Boolean operators such as AND OR NOT are planned for future release)\r\n\r\n![](/Image/search01.png)\r\n\r\nOnce the search results are shown, you can see the total article count. You can further narrow down the search by using one or more filters on the right.  Find out more about filters [here](00000000-0000-0000-0000-0000001a9296)\r\n\r\n![](/Image/search03.png)\r\n\r\nOur search algorithm is specifically tuned for InfoSec questions. The algorithm is constantly being perfected to yield even more accurate results on top.\r\n\r\n"
+          "Searching is the simplest way of finding content in TEAM Mentor. However, search requires you to know a little bit about the subject at hand. Use the \"Search\" function when you have formulated a security question. Simply go to the \"Search\" page and type your query in the search box.\r\n\r\n(note that currently search supports simple queries only. Boolean operators such as AND OR NOT are planned for future release)\r\n\r\n![](/Image/search01.png)\r\n\r\nOnce the search results are shown, you can see the total article count. You can further narrow down the search by using one or more filters on the right.  Find out more about filters [here](00000000-0000-0000-0000-0000001a9296)\r\n\r\n![](/Image/search03.png)\r\n\r\nOur search algorithm is specifically tuned for InfoSec questions. The algorithm is constantly being perfected to yield even more accurate results on top.\r\n\r\n"
         ]
       }
     ]

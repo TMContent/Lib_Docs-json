@@ -1,19 +1,32 @@
 {
   "id": "00000000-0000-0000-0000-0000002ccdf6",
-  "checksum": "da037655661925628f01d1b3713feec7539e707a",
+  "checksum": "4529942da57ae849b18c6150998bed36266b77b7",
   "words": {
-    "11": [
-      "ul",
-      "li"
-    ],
     "36": [
       "p"
     ],
     "40": [
-      "p",
       "p"
     ],
+    "42": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "46": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
     "64": [
+      "ul",
+      "li"
+    ],
+    "70": [
+      "ul",
+      "li",
       "ul",
       "li"
     ],
@@ -37,9 +50,11 @@
       "p",
       "p",
       "p",
+      "p",
       "title"
     ],
     "a": [
+      "p",
       "p",
       "p"
     ],
@@ -130,7 +145,10 @@
       "p",
       "p",
       "p",
-      "p",
+      "ul",
+      "ul",
+      "li",
+      "li",
       "p",
       "p",
       "ul",
@@ -149,6 +167,8 @@
     "on": [
       "p",
       "p",
+      "ul",
+      "li",
       "ul",
       "li"
     ],
@@ -194,6 +214,7 @@
       "p"
     ],
     "the": [
+      "p",
       "p",
       "p",
       "p",
@@ -310,6 +331,7 @@
     ],
     "main": [
       "p",
+      "p",
       "p"
     ],
     "user": [
@@ -344,14 +366,17 @@
       "p"
     ],
     "support": [
-      "p"
+      "p",
+      "ul",
+      "li"
     ],
     "for": [
       "p",
       "p",
       "p",
       "p",
-      "p",
+      "ul",
+      "li",
       "p"
     ],
     "all": [
@@ -361,8 +386,8 @@
     ],
     "browsers": [
       "p",
-      "p",
-      "p",
+      "ul",
+      "li",
       "p",
       "p"
     ],
@@ -375,7 +400,8 @@
     ],
     "mobile": [
       "p",
-      "p"
+      "ul",
+      "li"
     ],
     "browsers\n-": [
       "p"
@@ -512,6 +538,7 @@
     ],
     "side": [
       "p",
+      "p",
       "p"
     ],
     "windows": [
@@ -532,10 +559,34 @@
     ],
     "or": [
       "ul",
+      "li",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
       "li"
     ],
     "higher": [
       "ul",
+      "li",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
       "li"
     ],
     "net": [
@@ -560,7 +611,9 @@
     ],
     "version": [
       "ul",
-      "li"
+      "li",
+      "p",
+      "p"
     ],
     "http//www.microsoft.com/en-us/download/details.aspx?id=40779": [
       "ul",
@@ -655,7 +708,6 @@
       "p"
     ],
     "also": [
-      "p",
       "p"
     ],
     "when": [
@@ -691,44 +743,108 @@
       "p"
     ],
     "client": [
-      "p"
-    ],
-    "following": [
       "p",
       "p"
     ],
-    "platforms": [
-      "p"
-    ],
-    "are": [
+    "code": [
       "p",
       "p"
     ],
-    "supported": [
+    "named": [
       "p",
       "p"
     ],
-    "tm": [
-      "p",
+    "flare": [
+      "p"
+    ],
+    "requires": [
+      "p"
+    ],
+    "ie11": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "firefox": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "chrome": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "safari": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "v61": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "osx": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "only": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "android": [
+      "ul",
+      "li"
+    ],
+    "ios": [
+      "ul",
+      "li"
+    ],
+    "have": [
+      "ul",
+      "li"
+    ],
+    "experimental": [
+      "ul",
+      "li"
+    ],
+    "there": [
+      "p"
+    ],
+    "fallback": [
       "p"
     ],
     "jade": [
+      "p",
       "p"
     ],
     "supports": [
       "p",
       "p"
     ],
+    "available": [
+      "p"
+    ],
     "ie8": [
       "p"
     ],
-    "android": [
+    "lynx": [
       "p"
     ],
-    "ios": [
+    "tm": [
       "p"
     ],
-    "back0-end": [
+    "back-end": [
       "p"
     ],
     "administration": [
@@ -737,37 +853,8 @@
     "editing": [
       "p"
     ],
-    "ie": [
-      "ul",
-      "li"
-    ],
-    "firefox": [
-      "ul",
-      "li"
-    ],
-    "chrome": [
-      "ul",
-      "li"
-    ],
-    "safari": [
-      "ul",
-      "li"
-    ],
-    "v6.1": [
-      "ul",
-      "li"
-    ],
-    "v70": [
-      "ul",
-      "li"
-    ],
-    "osx": [
-      "ul",
-      "li"
-    ],
-    "only": [
-      "ul",
-      "li"
+    "following": [
+      "p"
     ],
     "what": [
       "title"
@@ -789,11 +876,16 @@
       "Please note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. Self-signed certificate may be used for test environments.",
       "",
       "Client Side Requirements",
-      "Following browsers and platforms are supported:",
-      "TM 4.0 Jade supports all browsers including IE8. Mobile browsers for Android and iOS are also supported.",
-      "TM 3.6 Back0-end (used for Administration and Editing) supports the following browsers"
+      "The main client side version code named Flare requires:",
+      "There is  a fallback version code named Jade. Jade supports all available browsers, including IE8 and Lynx.",
+      "TM 3.6 Back-end (used for Administration and Editing) supports the following browsers"
     ],
     "br": [
+      "",
+      "",
+      "",
+      "",
+      "",
       "",
       "",
       "",
@@ -823,7 +915,8 @@
     ],
     "ul": [
       "Windows 2012 R2 (64 Bit) with IIS 8.0 or higher\n NET Framework 4.5.1 (You can download this version from http://www.microsoft.com/en-us/download/details.aspx?id=40779 )\n 4GB of RAM\n 4GB of Storage\n SSL Certificate",
-      "IE 11\n Firefox\n Chrome\n Safari (v6.1 and v7.0 on OSX only)"
+      "IE11 or higher \n Firefox 42 or higher \n Chrome 46 or higher \n Safari v6.1 and 7.0 on OSX only \n Mobile browsers for Android and iOS have experimental support.",
+      "IE11 or higher \n Firefox 42 or higher \n Chrome 46 or higher \n Safari v6.1 and 7.0 on OSX only"
     ],
     "li": [
       "Windows 2012 R2 (64 Bit) with IIS 8.0 or higher",
@@ -831,10 +924,15 @@
       "4GB of RAM",
       "4GB of Storage",
       "SSL Certificate",
-      "IE 11",
-      "Firefox",
-      "Chrome",
-      "Safari (v6.1 and v7.0 on OSX only)"
+      "IE11 or higher",
+      "Firefox 42 or higher",
+      "Chrome 46 or higher",
+      "Safari v6.1 and 7.0 on OSX only",
+      "Mobile browsers for Android and iOS have experimental support.",
+      "IE11 or higher",
+      "Firefox 42 or higher",
+      "Chrome 46 or higher",
+      "Safari v6.1 and 7.0 on OSX only"
     ],
     "a": [
       "http://www.microsoft.com/en-us/download/details.aspx?id=40779"
@@ -846,5 +944,5 @@
       "text": "http://www.microsoft.com/en-us/download/details.aspx?id=40779"
     }
   ],
-  "html": "<p>APPLICATION CHANGES\n</p><p>\n4.0 is a major rewrite of TEAM Mentor under new architecture. This includes:<br>\n- Simplified, modern, easy to use interface and intuitive design<br>\n- Focus on making it easy to find answers to security questions<br>\n- Improved search and filter capability. It algorithmically presents the most relevant articles and allows to further narrow down results with robust filtering<br>\n- Improved ability to browse content. Users can now browse by subject matter, technology, article type and other keywords. Progressively narrowing down results with selected filters<br>\n- Main User UI fully written in Node JS. <br>\n- Main User UI support for all browsers. Including legacy and mobile browsers.<br>\n- Underlying use of a NoSQL database <br>\n- Robust integration current editor and admin interfaces<br>\n</p><p>\n<br>\nCONTENT CHANGES\n</p><p>\n- Content had been re-classified into subject matter areas for easy browsing through the taxonomy<br>\n- Article filters appropriately changed to making more intuitive to find relevant information<br>\n- Major clean-up of articles. Removal of articles with too little information<br>\n- Moved away from multiple library structure. All of the content is now in one well-organized library.<br>\n</p><p>\n<br>\n</p><p>\nMINIMUM REQUIREMENTS\n</p><p>\nNote the change in minimum requirements specified here:\n</p>\n<p>\nServer Side Requirements\n</p><ul>\n<li> Windows 2012 R2 (64 Bit) with IIS 8.0 or higher<br></li>\n<li> NET Framework 4.5.1 (You can download this version from <a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=40779\">http://www.microsoft.com/en-us/download/details.aspx?id=40779</a> )<br></li>\n<li> 4GB of RAM<br></li>\n<li> 4GB of Storage<br></li>\n<li> SSL Certificate<br></li>\n</ul><p>\nPlease note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. Self-signed certificate may be used for test environments.\n</p><p>\n<br>\n</p><p>\nClient Side Requirements\n</p><p>\nFollowing browsers and platforms are supported:\n</p><p>\nTM 4.0 Jade supports all browsers including IE8. Mobile browsers for Android and iOS are also supported. \n</p><p>\nTM 3.6 Back0-end (used for Administration and Editing) supports the following browsers <br></p><ul>\n<li> IE 11<br></li>\n<li> Firefox<br></li>\n<li> Chrome<br></li>\n<li> Safari (v6.1 and v7.0 on OSX only)<br></li>\n</ul>"
+  "html": "<p>APPLICATION CHANGES\n</p><p>\n4.0 is a major rewrite of TEAM Mentor under new architecture. This includes:<br>\n- Simplified, modern, easy to use interface and intuitive design<br>\n- Focus on making it easy to find answers to security questions<br>\n- Improved search and filter capability. It algorithmically presents the most relevant articles and allows to further narrow down results with robust filtering<br>\n- Improved ability to browse content. Users can now browse by subject matter, technology, article type and other keywords. Progressively narrowing down results with selected filters<br>\n- Main User UI fully written in Node JS. <br>\n- Main User UI support for all browsers. Including legacy and mobile browsers.<br>\n- Underlying use of a NoSQL database <br>\n- Robust integration current editor and admin interfaces<br>\n</p><p>\n<br>\nCONTENT CHANGES\n</p><p>\n- Content had been re-classified into subject matter areas for easy browsing through the taxonomy<br>\n- Article filters appropriately changed to making more intuitive to find relevant information<br>\n- Major clean-up of articles. Removal of articles with too little information<br>\n- Moved away from multiple library structure. All of the content is now in one well-organized library.<br>\n</p><p>\n<br>\n</p><p>\nMINIMUM REQUIREMENTS\n</p><p>\nNote the change in minimum requirements specified here:\n</p>\n<p>\nServer Side Requirements\n</p><ul>\n<li> Windows 2012 R2 (64 Bit) with IIS 8.0 or higher<br></li>\n<li> NET Framework 4.5.1 (You can download this version from <a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=40779\">http://www.microsoft.com/en-us/download/details.aspx?id=40779</a> )<br></li>\n<li> 4GB of RAM<br></li>\n<li> 4GB of Storage<br></li>\n<li> SSL Certificate<br></li>\n</ul><p>\nPlease note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. Self-signed certificate may be used for test environments.\n</p><p>\n<br>\n</p><p>\nClient Side Requirements\n</p><p>\nThe main client side version code named Flare requires:\n</p><ul>\n<li> IE11 or higher <br></li>\n<li> Firefox 42 or higher <br></li>\n<li> Chrome 46 or higher <br></li>\n<li> Safari v6.1 and 7.0 on OSX only <br></li>\n<li> Mobile browsers for Android and iOS have experimental support. <br></li>\n</ul><p>\nThere is  a fallback version code named Jade. Jade supports all available browsers, including IE8 and Lynx. \n</p>\n<p>\nTM 3.6 Back-end (used for Administration and Editing) supports the following browsers <br></p><ul>\n<li> IE11 or higher <br></li>\n<li> Firefox 42 or higher <br></li>\n<li> Chrome 46 or higher <br></li>\n<li> Safari v6.1 and 7.0 on OSX only <br></li>\n</ul>"
 }
