@@ -1,6 +1,6 @@
 {
   "id": "7c6c7b6b-a411-4d15-86ac-5ebb0ed6d57b",
-  "checksum": "855efa9bb962001eeab01885713782bc0fac2108",
+  "checksum": "7c5176db4995f5b5556c10491a0443e629510e13",
   "words": {
     "team": [
       "p"
@@ -194,9 +194,25 @@
     "p": [
       "TEAM Mentor can assist users in case they have forgotten their password. The user can simply click on forgot password link at the login prompt.",
       "",
+      "",
+      "",
       "The user will be asked for the email that associated with the users account. TM will then send a one-time, temporary password reset link to the users email account on file.",
       "",
-      "In order for “forgot password” feature to work, email must be configured properly and user must have a valid email address associated with his/hers account."
+      "",
+      "",
+      "In order for “forgot password” feature to work, email must be configured properly and user must have a valid email address associated with his/hers account.",
+      ""
+    ],
+    "br": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "img": [
       "",
@@ -204,5 +220,5 @@
     ]
   },
   "links": [],
-  "html": "<p>TEAM Mentor can assist users in case they have forgotten their password. The user can simply click on forgot password link at the login prompt. \n</p><p>\n<img src=\"/Image/forgotpassword-ng-00.png\">\n</p><p>\nThe user will be asked for the email that associated with the users account. TM will then send a one-time, temporary password reset link to the users email account on file.  \n</p>\n<p>\n<img src=\"/Image/forgotpassword-ng-01.png\">\n</p><p>\nIn order for “forgot password” feature to work, email must be configured properly and user must have a valid email address associated with his/hers account. \n</p>"
+  "html": "<p><br>\nTEAM Mentor can assist users in case they have forgotten their password. The user can simply click on forgot password link at the login prompt. \n</p><p>\n<br>\n</p><p>\n<img src=\"/Image/forgotpassword-ng-00.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nThe user will be asked for the email that associated with the users account. TM will then send a one-time, temporary password reset link to the users email account on file.  \n</p><p>\n<br>\n</p><p>\n<img src=\"/Image/forgotpassword-ng-01.png\">\n</p><p>\n<br>\n<br>\n</p><p>\nIn order for “forgot password” feature to work, email must be configured properly and user must have a valid email address associated with his/hers account. \n</p><p>\n<br>\n<br>\n</p>"
 }
