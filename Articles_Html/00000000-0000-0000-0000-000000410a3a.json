@@ -1,8 +1,16 @@
 {
   "id": "00000000-0000-0000-0000-000000410a3a",
-  "checksum": "6bc829a5cdc73a9e60dae4684c86cd4bb63545a4",
+  "checksum": "29b66149f3741fdda52f37402b005f836ecd68f6",
   "words": {
+    "9": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
     "11": [
+      "ul",
+      "li",
       "ul",
       "li"
     ],
@@ -13,8 +21,17 @@
     "36": [
       "p"
     ],
-    "40": [
-      "p"
+    "42": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "46": [
+      "ul",
+      "li",
+      "ul",
+      "li"
     ],
     "64": [
       "ul",
@@ -44,6 +61,8 @@
     ],
     "the": [
       "p",
+      "p",
+      "p",
       "p"
     ],
     "following": [
@@ -59,9 +78,22 @@
       "p",
       "p",
       "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p",
       "p",
       "p",
       "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
       "li"
     ],
     "software": [
@@ -95,6 +127,8 @@
       "li",
       "li",
       "p",
+      "p",
+      "p",
       "p"
     ],
     "mentor": [
@@ -105,6 +139,8 @@
       "li",
       "li",
       "li",
+      "p",
+      "p",
       "p",
       "p"
     ],
@@ -185,7 +221,8 @@
       "ul",
       "ul",
       "li",
-      "li"
+      "li",
+      "p"
     ],
     "from": [
       "ul",
@@ -216,7 +253,7 @@
       "ul",
       "li"
     ],
-    "https//github.com/msysgit/git": [
+    "http//www.git-scm.com/download/win": [
       "ul",
       "li",
       "a"
@@ -273,7 +310,8 @@
       "ul",
       "ul",
       "li",
-      "li"
+      "li",
+      "p"
     ],
     "ram": [
       "ul",
@@ -351,7 +389,19 @@
       "p"
     ],
     "above": [
-      "p"
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
     ],
     "recommended": [
       "p"
@@ -359,6 +409,8 @@
     "for": [
       "p",
       "p",
+      "ul",
+      "li",
       "p",
       "p"
     ],
@@ -382,6 +434,8 @@
     ],
     "on": [
       "p",
+      "ul",
+      "li",
       "ul",
       "li"
     ],
@@ -412,6 +466,8 @@
     ],
     "browsers": [
       "p",
+      "ul",
+      "li",
       "p",
       "p",
       "p"
@@ -427,15 +483,95 @@
       "p",
       "p"
     ],
-    "tm": [
+    "full": [
+      "p"
+    ],
+    "40,": [
       "p",
       "p"
     ],
-    "jade": [
+    "code": [
+      "p",
+      "p"
+    ],
+    "named": [
+      "p",
+      "p"
+    ],
+    "flare": [
       "p"
     ],
     "supports": [
       "p",
+      "p",
+      "p"
+    ],
+    "ie": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "firefox": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "chrome": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "safari": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "osx": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "only": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "experimental": [
+      "ul",
+      "li"
+    ],
+    "support": [
+      "ul",
+      "li"
+    ],
+    "ios": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "android": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "mobile": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "fail": [
+      "p"
+    ],
+    "safe": [
+      "p"
+    ],
+    "jade": [
       "p"
     ],
     "all": [
@@ -447,16 +583,13 @@
     "ie8": [
       "p"
     ],
-    "mobile": [
+    "lynx": [
       "p"
     ],
-    "android": [
+    "tm": [
       "p"
     ],
-    "ios": [
-      "p"
-    ],
-    "back0-end": [
+    "back-end": [
       "p"
     ],
     "administration": [
@@ -464,38 +597,6 @@
     ],
     "editing": [
       "p"
-    ],
-    "ie": [
-      "ul",
-      "li"
-    ],
-    "firefox": [
-      "ul",
-      "li"
-    ],
-    "chrome": [
-      "ul",
-      "li"
-    ],
-    "safari": [
-      "ul",
-      "li"
-    ],
-    "v6.1": [
-      "ul",
-      "li"
-    ],
-    "v70": [
-      "ul",
-      "li"
-    ],
-    "osx": [
-      "ul",
-      "li"
-    ],
-    "only": [
-      "ul",
-      "li"
     ]
   },
   "tags": {
@@ -506,21 +607,23 @@
       "The following hardware and software is required to run TEAM Mentor.",
       "Please note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. Self-signed certificate may be used for test environments.",
       "Following browsers and platforms are supported:",
-      "TM 4.0 Jade supports all browsers including IE8. Mobile browsers for Android and iOS are also supported.",
-      "TM 3.6 Back0-end (used for Administration and Editing) supports the following browsers"
+      "The full version of TEAM Mentor 4.0, code named Flare, supports:",
+      "The fail safe TEAM Mentor 4.0, code named Jade, supports all browsers including IE8 and Lynx. \nMobile browsers for Android and iOS are also supported.",
+      "TM 3.6 Back-end (used for Administration and Editing) supports the following browsers:"
     ],
     "h4": [
       "Server Side Requirements",
       "Client Side Requirements"
     ],
     "ul": [
-      "Windows 2012 R2 (64 Bit) with IIS 8.0 or higher\n NET Framework 4.5.1 ( You can download this version from http://www.microsoft.com/en-us/download/details.aspx?id=40779 )\n Git Version Control with Tools ( Available at https://github.com/msysgit/git ) \n NodeJS ( Distributed with TEAM Mentor ZIP File  ) \n IIS AAR 3.0 Extension ( Distributed with TEAM Mentor ZIP File ) \n IIS URLRewrite2 Extension ( Distributed with TEAM Mentor ZIP File ) \n 4GB of RAM\n 4GB of Storage\n SSL Certificate",
-      "IE 11\n Firefox\n Chrome\n Safari (v6.1 and v7.0 on OSX only)"
+      "Windows 2012 R2 (64 Bit) with IIS 8.0 or higher\n NET Framework 4.5.1 ( You can download this version from http://www.microsoft.com/en-us/download/details.aspx?id=40779 )\n Git Version Control with Tools ( Available at http://www.git-scm.com/download/win ) \n NodeJS ( Distributed with TEAM Mentor ZIP File  ) \n IIS AAR 3.0 Extension ( Distributed with TEAM Mentor ZIP File ) \n IIS URLRewrite2 Extension ( Distributed with TEAM Mentor ZIP File ) \n 4GB of RAM\n 4GB of Storage\n SSL Certificate",
+      "IE 11\n Firefox 42 and above\n Chrome 46 and above\n Safari 9 and above  (on OSX only) \n Experimental support for iOS and Android mobile browsers",
+      "IE 11\n Firefox 42 and above\n Chrome 46 and above\n Safari 9 and above  (on OSX only)"
     ],
     "li": [
       "Windows 2012 R2 (64 Bit) with IIS 8.0 or higher",
       "NET Framework 4.5.1 ( You can download this version from http://www.microsoft.com/en-us/download/details.aspx?id=40779 )",
-      "Git Version Control with Tools ( Available at https://github.com/msysgit/git )",
+      "Git Version Control with Tools ( Available at http://www.git-scm.com/download/win )",
       "NodeJS ( Distributed with TEAM Mentor ZIP File  )",
       "IIS AAR 3.0 Extension ( Distributed with TEAM Mentor ZIP File )",
       "IIS URLRewrite2 Extension ( Distributed with TEAM Mentor ZIP File )",
@@ -528,11 +631,23 @@
       "4GB of Storage",
       "SSL Certificate",
       "IE 11",
-      "Firefox",
-      "Chrome",
-      "Safari (v6.1 and v7.0 on OSX only)"
+      "Firefox 42 and above",
+      "Chrome 46 and above",
+      "Safari 9 and above  (on OSX only)",
+      "Experimental support for iOS and Android mobile browsers",
+      "IE 11",
+      "Firefox 42 and above",
+      "Chrome 46 and above",
+      "Safari 9 and above  (on OSX only)"
     ],
     "br": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       "",
       "",
       "",
@@ -550,7 +665,7 @@
     ],
     "a": [
       "http://www.microsoft.com/en-us/download/details.aspx?id=40779",
-      "https://github.com/msysgit/git"
+      "http://www.git-scm.com/download/win"
     ]
   },
   "links": [
@@ -559,9 +674,9 @@
       "text": "http://www.microsoft.com/en-us/download/details.aspx?id=40779"
     },
     {
-      "href": "https://github.com/msysgit/git",
-      "text": "https://github.com/msysgit/git"
+      "href": "http://www.git-scm.com/download/win",
+      "text": "http://www.git-scm.com/download/win"
     }
   ],
-  "html": "<h3>Minimum Server Requirements</h3><p>The following hardware and software is required to run TEAM Mentor.\n</p><h4>Server Side Requirements</h4><ul><li> Windows 2012 R2 (64 Bit) with IIS 8.0 or higher<br></li>\n<li> NET Framework 4.5.1 ( You can download this version from <a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=40779\">http://www.microsoft.com/en-us/download/details.aspx?id=40779</a> )<br></li>\n<li> Git Version Control with Tools ( Available at <a href=\"https://github.com/msysgit/git\">https://github.com/msysgit/git</a> ) <br></li>\n<li> NodeJS ( Distributed with TEAM Mentor ZIP File  ) <br></li>\n<li> IIS AAR 3.0 Extension ( Distributed with TEAM Mentor ZIP File ) <br></li>\n<li> IIS URLRewrite2 Extension ( Distributed with TEAM Mentor ZIP File ) <br></li>\n<li> 4GB of RAM<br></li>\n<li> 4GB of Storage<br></li>\n<li> SSL Certificate<br></li>\n</ul><p>\nPlease note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. Self-signed certificate may be used for test environments.\n</p><h4>Client Side Requirements</h4><p>Following browsers and platforms are supported:\n</p><p>\nTM 4.0 Jade supports all browsers including IE8. Mobile browsers for Android and iOS are also supported. \n</p><p>\nTM 3.6 Back0-end (used for Administration and Editing) supports the following browsers <br></p><ul>\n<li> IE 11<br></li>\n<li> Firefox<br></li>\n<li> Chrome<br></li>\n<li> Safari (v6.1 and v7.0 on OSX only)<br></li>\n</ul>\n\n\n"
+  "html": "<h3>Minimum Server Requirements</h3><p>The following hardware and software is required to run TEAM Mentor.\n</p><h4>Server Side Requirements</h4><ul><li> Windows 2012 R2 (64 Bit) with IIS 8.0 or higher<br></li>\n<li> NET Framework 4.5.1 ( You can download this version from <a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=40779\">http://www.microsoft.com/en-us/download/details.aspx?id=40779</a> )<br></li>\n<li> Git Version Control with Tools ( Available at <a href=\"http://www.git-scm.com/download/win\">http://www.git-scm.com/download/win</a> ) <br></li>\n<li> NodeJS ( Distributed with TEAM Mentor ZIP File  ) <br></li>\n<li> IIS AAR 3.0 Extension ( Distributed with TEAM Mentor ZIP File ) <br></li>\n<li> IIS URLRewrite2 Extension ( Distributed with TEAM Mentor ZIP File ) <br></li>\n<li> 4GB of RAM<br></li>\n<li> 4GB of Storage<br></li>\n<li> SSL Certificate<br></li>\n</ul><p>\nPlease note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. Self-signed certificate may be used for test environments.\n</p><h4>Client Side Requirements</h4><p>Following browsers and platforms are supported:\n</p><p>\nThe full version of TEAM Mentor 4.0, code named Flare, supports:<br></p><ul>\n<li> IE 11<br></li>\n<li> Firefox 42 and above<br></li>\n<li> Chrome 46 and above<br></li>\n<li> Safari 9 and above  (on OSX only) <br></li>\n<li> Experimental support for iOS and Android mobile browsers<br></li>\n</ul><p>\nThe fail safe TEAM Mentor 4.0, code named Jade, supports all browsers including IE8 and Lynx. <br>\nMobile browsers for Android and iOS are also supported. \n</p><p>\nTM 3.6 Back-end (used for Administration and Editing) supports the following browsers: <br></p><ul>\n<li> IE 11<br></li>\n<li> Firefox 42 and above<br></li>\n<li> Chrome 46 and above<br></li>\n<li> Safari 9 and above  (on OSX only) <br></li>\n</ul>\n\n\n\n"
 }
