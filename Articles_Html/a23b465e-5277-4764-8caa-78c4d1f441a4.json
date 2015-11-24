@@ -1,0 +1,209 @@
+{
+  "id": "a23b465e-5277-4764-8caa-78c4d1f441a4",
+  "checksum": "3e675b7d0fac55af8dfc741af778b94ed5f1f9ec",
+  "words": {
+    "5": [
+      "ul",
+      "li"
+    ],
+    "after": [
+      "p"
+    ],
+    "you": [
+      "p",
+      "p"
+    ],
+    "are": [
+      "p"
+    ],
+    "done": [
+      "p"
+    ],
+    "editing": [
+      "p"
+    ],
+    "guidance": [
+      "p",
+      "p"
+    ],
+    "must": [
+      "p"
+    ],
+    "publish": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "to": [
+      "p"
+    ],
+    "team": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "mentor": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "4x": [
+      "p"
+    ],
+    "user": [
+      "p"
+    ],
+    "interface": [
+      "p",
+      "li"
+    ],
+    "open": [
+      "ul",
+      "li"
+    ],
+    "tbot": [
+      "ul",
+      "li"
+    ],
+    "interfacein": [
+      "ul"
+    ],
+    "the": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "admin": [
+      "ul",
+      "li"
+    ],
+    "row": [
+      "ul",
+      "li"
+    ],
+    "select": [
+      "ul",
+      "li"
+    ],
+    "\"publish": [
+      "ul",
+      "li"
+    ],
+    "data\"click": [
+      "ul",
+      "li"
+    ],
+    "on": [
+      "ul",
+      "li"
+    ],
+    "data": [
+      "ul",
+      "li",
+      "title"
+    ],
+    "note": [
+      "ul",
+      "li"
+    ],
+    "process": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "takes": [
+      "ul",
+      "li"
+    ],
+    "some": [
+      "ul",
+      "li"
+    ],
+    "time": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "around": [
+      "ul",
+      "li"
+    ],
+    "minutes": [
+      "ul",
+      "li"
+    ],
+    "during": [
+      "ul",
+      "li"
+    ],
+    "which": [
+      "ul",
+      "li"
+    ],
+    "front": [
+      "ul",
+      "li"
+    ],
+    "end": [
+      "ul",
+      "li"
+    ],
+    "web": [
+      "ul",
+      "li"
+    ],
+    "site": [
+      "ul",
+      "li"
+    ],
+    "is": [
+      "ul",
+      "li"
+    ],
+    "unavailable": [
+      "ul",
+      "li"
+    ],
+    "do": [
+      "ul",
+      "li"
+    ],
+    "not": [
+      "ul",
+      "li"
+    ],
+    "interrupt": [
+      "ul",
+      "li"
+    ],
+    "in": [
+      "li"
+    ],
+    "publishing": [
+      "title"
+    ]
+  },
+  "tags": {
+    "p": [
+      "After you are done editing guidance, you must publish guidance to TEAM Mentor 4.x user interface.",
+      ""
+    ],
+    "ul": [
+      "Open Tbot interface\nIn the Admin row select \"Publish Data\"\nClick on Publish Data. Note the process takes some time (around 5 minutes) during which time TEAM Mentor front end web site is unavailable. Do not interrupt the process."
+    ],
+    "li": [
+      "Open Tbot interface",
+      "In the Admin row select \"Publish Data\"\nClick on Publish Data. Note the process takes some time (around 5 minutes) during which time TEAM Mentor front end web site is unavailable. Do not interrupt the process."
+    ],
+    "img": [
+      ""
+    ]
+  },
+  "links": [],
+  "html": "<p>After you are done editing guidance, you must publish guidance to TEAM Mentor 4.x user interface.</p>\n<ul>\n<li>Open Tbot interface</li>\n<li>In the Admin row select &quot;Publish Data&quot;\nClick on Publish Data. Note the process takes some time (around 5 minutes) during which time TEAM Mentor front end web site is unavailable. Do not interrupt the process.</li>\n</ul>\n<p><img src=\"/Image/publish-data-01.png\" alt=\"Image Text\"></p>\n"
+}
