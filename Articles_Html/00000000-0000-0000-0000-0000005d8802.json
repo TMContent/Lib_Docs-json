@@ -1,6 +1,6 @@
 {
   "id": "00000000-0000-0000-0000-0000005d8802",
-  "checksum": "a8c1e3ff32e31f84653c4402853ccc28c78fe5f4",
+  "checksum": "d3c81220d93d4063bbd42d22b4c085de130edd41",
   "words": {
     "36": [
       "p",
@@ -48,14 +48,11 @@
       "p",
       "p",
       "p",
+      "p",
+      "p",
       "strong",
       "strong",
       "strong",
-      "p",
-      "p",
-      "p",
-      "p",
-      "p",
       "p",
       "p",
       "p",
@@ -71,7 +68,6 @@
       "p",
       "p",
       "em",
-      "p",
       "p",
       "p"
     ],
@@ -120,7 +116,6 @@
       "p"
     ],
     "the": [
-      "p",
       "p",
       "p",
       "p",
@@ -241,7 +236,6 @@
       "p",
       "p",
       "p",
-      "p",
       "p"
     ],
     "config": [
@@ -328,7 +322,6 @@
       "p",
       "p",
       "p",
-      "p",
       "p"
     ],
     "some": [
@@ -337,6 +330,7 @@
       "p"
     ],
     "of": [
+      "p",
       "p",
       "p",
       "p",
@@ -399,7 +393,6 @@
     "tm": [
       "p",
       "p",
-      "p",
       "title"
     ],
     "security": [
@@ -441,9 +434,12 @@
       "p",
       "p",
       "p",
+      "p",
+      "p",
       "p"
     ],
     "be": [
+      "p",
       "p",
       "p",
       "p",
@@ -558,12 +554,26 @@
       "p",
       "p"
     ],
-    "depreciated)": [
+    "depreciated,": [
+      "p",
+      "p"
+    ],
+    "always": [
+      "p",
+      "p"
+    ],
+    "set": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "false": [
       "p",
       "p"
     ],
     "this": [
-      "p",
       "p",
       "p",
       "p",
@@ -641,7 +651,6 @@
       "p"
     ],
     "is": [
-      "p",
       "p",
       "p",
       "p",
@@ -755,8 +764,6 @@
       "p",
       "p",
       "a",
-      "p",
-      "p",
       "p",
       "p",
       "p",
@@ -962,12 +969,6 @@
     "limitation": [
       "p"
     ],
-    "set": [
-      "p",
-      "p",
-      "p",
-      "p"
-    ],
     "\"false\"": [
       "p"
     ],
@@ -1020,7 +1021,6 @@
       "p"
     ],
     "option": [
-      "p",
       "p",
       "p",
       "p"
@@ -1084,7 +1084,6 @@
       "p"
     ],
     "it": [
-      "p",
       "p",
       "p",
       "em"
@@ -1162,10 +1161,7 @@
     ],
     "libraries": [
       "p",
-      "p",
       "strong",
-      "strong",
-      "p",
       "p",
       "strong"
     ],
@@ -1176,35 +1172,16 @@
       "p",
       "p",
       "p",
-      "p",
       "strong",
       "p"
     ],
     "files": [
-      "p",
-      "p",
-      "p",
-      "strong"
-    ],
-    "probably": [
       "p"
     ],
-    "most": [
+    "location": [
       "p"
     ],
-    "important": [
-      "p"
-    ],
-    "because": [
-      "p"
-    ],
-    "has": [
-      "p"
-    ],
-    "correctly": [
-      "p"
-    ],
-    "load": [
+    "lib_uno": [
       "p"
     ],
     "value": [
@@ -1234,27 +1211,7 @@
     "folder": [
       "p"
     ],
-    "uploaded": [
-      "p",
-      "p",
-      "strong"
-    ],
-    "fileslibrariesuploadedfiles)": [
-      "p"
-    ],
-    "where": [
-      "p"
-    ],
-    "staged": [
-      "p"
-    ],
-    "prior": [
-      "p"
-    ],
-    "being": [
-      "p"
-    ],
-    "installed\nenablegzipforwebservices(true)": [
+    "enablegzipforwebservicestrue)": [
       "p"
     ],
     "enables": [
@@ -1290,7 +1247,6 @@
       "strong"
     ],
     "git": [
-      "p",
       "p",
       "p",
       "p",
@@ -1340,7 +1296,6 @@
       "p"
     ],
     "saved": [
-      "p",
       "p"
     ],
     "versioned": [
@@ -1361,13 +1316,8 @@
     "librarydatafalse)": [
       "p"
     ],
-    "pushed": [
-      "p"
-    ],
-    "remote": [
-      "p"
-    ],
-    "repository": [
+    "save": [
+      "p",
       "p",
       "p"
     ],
@@ -1443,10 +1393,6 @@
       "p",
       "p"
     ],
-    "save": [
-      "p",
-      "p"
-    ],
     "reload": [
       "p",
       "p"
@@ -1500,6 +1446,9 @@
       "p"
     ],
     "passwords": [
+      "p"
+    ],
+    "repository": [
       "p"
     ],
     "names": [
@@ -1600,15 +1549,15 @@
       "The interface will show you various configurable options broken down by specific areas.",
       "The following are some of the settings available in the TM Security section. Settings not mentioned below should not be changed without contacting SI support. Default values of the settings are provided in ():",
       "",
-      "Show Content to Anonymous Users (true)-  (depreciated) This setting defines whether or not full articles will be displayed to unauthenticated users.\nShow Library to Anonymous Users(true) - (depreciated) This setting defines whether or not library structure is displayed to unauthenticated users. In case this is unchecked and  \"Show Content to Anonymous Users\" is disabled, all the user will see is a login screen when accessing TEAM Mentor\nSSL Redirect Http to Https (true)- This setting redirects all non SSL traffic, except for traffic coming from localhost, to SSL port. This ensures all TEAM Mentor traffic is protected using SSL.\nNew Accounts Enabled (true)- Activates / Deactivates the user approval workflow. If this is unchecked, all users that sign up will have to be approved by the administrator. See Managing Users\nNew Accounts Don't Expire(false) - Specifies if new accounts created by users signing up have an expiration date\nEval Accounts Enabled (true)- This setting specifies if unauthenticated users will be able to create accounts on the system for Evaluation purposes (only works if ShowContentToAnonymousUsers=false) (note: due to current limitation, if set to \"false\" users are still able to create accounts on the system which will not expire, see Managing Users for workaround)\nEval Accounts Days (15) - This specifies the duration, in days, that self-created account will have read access to the content (only works if ShowContentToAnonymousUsers=false and NewAccountsDon'tExpire=false ). \nDefault Admin: UserName(admin)  -  Set this option to define the default administrator user name. This user name will be used to manage TEAM Mentor in the early stages of using it.\nDefault Admin: Password (!!tmadmin) -  Set this option to define the default administrator password. This password, together with the default administrator user name, will be used to manage TEAM Mentor in the initial setup stage. It is highly recommended to change the administrator password, using the \"Change Password\" link on the UI, right after TEAM Mentor had started for the first time.\nDefault Admin: Email( TM_alerts@securityinnovation.com) - Specifies the email address of the \"admin\" account.",
+      "Show Content to Anonymous Users (true)-  (depreciated, should always be set to false) This setting defines whether or not full articles will be displayed to unauthenticated users.\nShow Library to Anonymous Users(true) - (depreciated, should always be set to false) This setting defines whether or not library structure is displayed to unauthenticated users. In case this is unchecked and  \"Show Content to Anonymous Users\" is disabled, all the user will see is a login screen when accessing TEAM Mentor\nSSL Redirect Http to Https (true)- This setting redirects all non SSL traffic, except for traffic coming from localhost, to SSL port. This ensures all TEAM Mentor traffic is protected using SSL.\nNew Accounts Enabled (true)- Activates / Deactivates the user approval workflow. If this is unchecked, all users that sign up will have to be approved by the administrator. See Managing Users\nNew Accounts Don't Expire(false) - Specifies if new accounts created by users signing up have an expiration date\nEval Accounts Enabled (true)- This setting specifies if unauthenticated users will be able to create accounts on the system for Evaluation purposes (only works if ShowContentToAnonymousUsers=false) (note: due to current limitation, if set to \"false\" users are still able to create accounts on the system which will not expire, see Managing Users for workaround)\nEval Accounts Days (15) - This specifies the duration, in days, that self-created account will have read access to the content (only works if ShowContentToAnonymousUsers=false and NewAccountsDon'tExpire=false ). \nDefault Admin: UserName(admin)  -  Set this option to define the default administrator user name. This user name will be used to manage TEAM Mentor in the early stages of using it.\nDefault Admin: Password (!!tmadmin) -  Set this option to define the default administrator password. This password, together with the default administrator user name, will be used to manage TEAM Mentor in the initial setup stage. It is highly recommended to change the administrator password, using the \"Change Password\" link on the UI, right after TEAM Mentor had started for the first time.\nDefault Admin: Email( TM_alerts@securityinnovation.com) - Specifies the email address of the \"admin\" account.",
       "",
       "The following are some of the settings available in the TM Setup section. Settings not mentioned below should not be changed without contacting SI support. Default values of the settings are provided in ():",
       "",
-      "Xml Libraries Path(TM_Libraries) This is the path to the library files. This is probably the most important option to edit, because it has to be set correctly for TM to load the library files. The value of this property can be either an absolute path or a path relative to the \"\\Library_Data\\XmlDatabase\" folder. \nLibraries Uploaded Files(LibrariesUploadedFiles) - This is path for where uploaded library files are staged prior to being installed.\nEnableGZipForWebServices(true) - This option enables or disables GZip compression for WebService interaction with TEAM Mentor. GZip compression generally increases performance.",
+      "Xml Libraries Path(TM_Libraries) This is the path to the library files. This is the location of Lib_UNO library. The value of this property can be either an absolute path or a path relative to the \"\\Library_Data\\XmlDatabase\" folder. \nEnableGZipForWebServices(true) - This option enables or disables GZip compression for WebService interaction with TEAM Mentor. GZip compression generally increases performance.",
       "",
       "The following are some of the settings available in the Git section. Settings not mentioned below should not be changed without contacting SI support. Default values of the settings are provided in ():",
       "",
-      "Auto Commit UserData(false) - Specifies if any changes to User_Data directory (including the configuration file) will be automatically saved and versioned using built in Git auto-commit mechanism\nAuto Commit LibraryData(false) - Specifies if any changes to the content of the libraries will be automatically saved, versioned, and pushed to git remote repository using built in Git auto-commit mechanism",
+      "Auto Commit UserData(false) - Specifies if any changes to User_Data directory (including the configuration file) will be automatically saved and versioned using built in Git auto-commit mechanism\nAuto Commit LibraryData(false) - Specifies if any changes to the content of the library will be automatically save and versioned using built in Git auto-commit mechanism.",
       "",
       "For information on Windows Authentication section see Active Directory Support",
       "",
@@ -1657,7 +1606,6 @@
       "Default Admin: Password",
       "Default Admin: Email",
       "Xml Libraries Path",
-      "Libraries Uploaded Files",
       "EnableGZipForWebServices",
       "Auto Commit UserData",
       "Auto Commit LibraryData",
@@ -1666,7 +1614,6 @@
       "Rijndael_Key"
     ],
     "br": [
-      "",
       "",
       "",
       "",
@@ -1712,5 +1659,5 @@
       "text": "Configuring Email"
     }
   ],
-  "html": "\n<h2>Configuration File</h2><p>To edit TEAM Mentor 3.6 Back-end configuration, go to TBot screen from the main Admin menu and select <em>Edit TMConfig</em> from the <em>Admin - Config</em> row.\n</p><p>\nThe interface will show you various configurable options broken down by specific areas.\n</p><p>\nThe following are some of the settings available in the TM Security section. Settings not mentioned below should not be changed without contacting SI support. Default values of the settings are provided in ():\n</p><p>\n<img src=\"/Image/tmcfg01.jpg\">\n</p><p>\n<strong>Show Content to Anonymous Users</strong> (true)-  (depreciated) This setting defines whether or not full articles will be displayed to unauthenticated users.<br>\n<strong>Show Library to Anonymous Users</strong>(true) - (depreciated) This setting defines whether or not library structure is displayed to unauthenticated users. In case this is unchecked and  \"Show Content to Anonymous Users\" is disabled, all the user will see is a login screen when accessing TEAM Mentor<br>\n<strong>SSL Redirect Http to Https</strong> (true)- This setting redirects all non SSL traffic, except for traffic coming from localhost, to SSL port. This ensures all TEAM Mentor traffic is protected using SSL.<br>\n<strong>New Accounts Enabled</strong> (true)- Activates / Deactivates the user approval workflow. If this is unchecked, all users that sign up will have to be approved by the administrator. See <a href=\"00000000-0000-0000-0000-0000001c8add\">Managing Users</a><br>\n<strong>New Accounts Don't Expire</strong>(false) - Specifies if new accounts created by users signing up have an expiration date<br>\n<strong>Eval Accounts Enabled</strong> (true)- This setting specifies if unauthenticated users will be able to create accounts on the system for Evaluation purposes (only works if ShowContentToAnonymousUsers=false) (note: due to current limitation, if set to \"false\" users are still able to create accounts on the system which will not expire, see <a href=\"00000000-0000-0000-0000-0000005d8802\">Managing Users for workaround</a>)<br>\n<strong>Eval Accounts Days</strong> (15) - This specifies the duration, in days, that self-created account will have read access to the content (only works if ShowContentToAnonymousUsers=false and NewAccountsDon'tExpire=false ). <br>\n<strong>Default Admin: UserName</strong>(admin)  -  Set this option to define the default administrator user name. This user name will be used to manage TEAM Mentor in the early stages of using it.<br>\n<strong>Default Admin: Password</strong> (!!tmadmin) -  Set this option to define the default administrator password. This password, together with the default administrator user name, will be used to manage TEAM Mentor in the initial setup stage. It is highly recommended to change the administrator password, using the <em>\"Change Password\"</em> link on the UI, right after TEAM Mentor had started for the first time.<br>\n<strong>Default Admin: Email</strong>( TM_alerts@securityinnovation.com) - Specifies the email address of the \"admin\" account.<br>\n</p> <p>\n<br>\n</p><p>\nThe following are some of the settings available in the TM Setup section. Settings not mentioned below should not be changed without contacting SI support. Default values of the settings are provided in ():\n</p><p>\n<img src=\"/Image/tmcfg02.jpg\">\n</p>\n<p>\n<strong>Xml Libraries Path</strong>(TM_Libraries) This is the path to the library files. This is probably the most important option to edit, because it has to be set correctly for TM to load the library files. The value of this property can be either an absolute path or a path relative to the <em>\"\\Library_Data\\XmlDatabase\"</em> folder. <br>\n<strong>Libraries Uploaded Files</strong>(LibrariesUploadedFiles) - This is path for where uploaded library files are staged prior to being installed.<br>\n<strong>EnableGZipForWebServices</strong>(true) - This option enables or disables GZip compression for WebService interaction with TEAM Mentor. GZip compression generally increases performance.<br>\n</p><p>\n<br>\n</p><p>\nThe following are some of the settings available in the Git section. Settings not mentioned below should not be changed without contacting SI support. Default values of the settings are provided in ():\n</p><p>\n<img src=\"/Image/tmcfg03.jpg\">\n</p><p>\n<strong>Auto Commit UserData</strong>(false) - Specifies if any changes to <em>User_Data</em> directory (including the configuration file) will be automatically saved and versioned using built in Git auto-commit mechanism\n<strong>Auto Commit LibraryData</strong>(false) - Specifies if any changes to the content of the libraries will be automatically saved, versioned, and pushed to git remote repository using built in Git auto-commit mechanism\n</p><p>\n<br>\n</p><p>\nFor information on Windows Authentication section see <a href=\"6e3221bf-08b8-4de1-bb3b-4edacc85fab6\">Active Directory Support</a>\n</p><p>\n<img src=\"/Image/tmcfg04.jpg\">\n</p><p>\n<br>\n</p><p>\nAll settings not otherwise available via the GUI are available using the Config File Content Editor, which is displayed at the bottom of the configuration page. Note that the content editor is not synchronized with the GUI and vice versa. Save the settings and reload the page in order for changes to be reflected in both sections.\n</p><p>\n<img src=\"/Image/tmcfg05.jpg\">\n</p><p>\n<br>\n</p>\n<h2>Secret Configuration File</h2><p>To edit TEAM Mentor Secret configuration, go to TBot screen from the main Admin menu and select Edit Secret Data from the Admin - Config row. This configuration contains parameters that are sensitive in nature. These include SMTP user accounts and passwords, Git repository user names, and others. These, with the exception of SMTP parameters, should not be edited unless following specific instructions for enabling a feature, or unless directed by SI support staff. \n</p><p>\n<img src=\"/Image/tmcfg06.jpg\">\n</p><p>\n<strong> Libraries Git</strong> - This is a full git path to a library repository<br>\n<strong>Rijndael_IV</strong> and <strong>Rijndael_Key</strong> - Are used for encryption technology in TEAM Mentor<br>\n</p><p>\nFirebase Config is to be used under supervision of support staff only.\n</p><p>\n<img src=\"/Image/tmcfg07.jpg\">\n</p>\n<p>\nFor SMTP Configuration see <a href=\"d0b2bade-6d25-4c61-8ae3-94ae0110f959\">Configuring Email</a>\n</p><p>\n<img src=\"/Image/tmcfg08.jpg\">\n</p>\n<p>\nAll settings not otherwise available via the GUI are available using the Config File Content Editor, which is displayed at the bottom of the configuration page. Note that the content editor is not synchronized with the GUI and vice versa. Save the settings and reload the page in order for changes to be reflected in both sections.\nThe configuration file is physically located under /\\Library_Data\\XmlDatabase\\User_Data\\TMSecretData.config<em>  it can be edited by hand if necessary.\n</em></p><p>\n<img src=\"/Image/tmcfg09.jpg\">\n</p>\n\n\n"
+  "html": "\n<h2>Configuration File</h2><p>To edit TEAM Mentor 3.6 Back-end configuration, go to TBot screen from the main Admin menu and select <em>Edit TMConfig</em> from the <em>Admin - Config</em> row.\n</p><p>\nThe interface will show you various configurable options broken down by specific areas.\n</p><p>\nThe following are some of the settings available in the TM Security section. Settings not mentioned below should not be changed without contacting SI support. Default values of the settings are provided in ():\n</p><p>\n<img src=\"/Image/tmcfg01.jpg\">\n</p><p>\n<strong>Show Content to Anonymous Users</strong> (true)-  (depreciated, should always be set to false) This setting defines whether or not full articles will be displayed to unauthenticated users.<br>\n<strong>Show Library to Anonymous Users</strong>(true) - (depreciated, should always be set to false) This setting defines whether or not library structure is displayed to unauthenticated users. In case this is unchecked and  \"Show Content to Anonymous Users\" is disabled, all the user will see is a login screen when accessing TEAM Mentor<br>\n<strong>SSL Redirect Http to Https</strong> (true)- This setting redirects all non SSL traffic, except for traffic coming from localhost, to SSL port. This ensures all TEAM Mentor traffic is protected using SSL.<br>\n<strong>New Accounts Enabled</strong> (true)- Activates / Deactivates the user approval workflow. If this is unchecked, all users that sign up will have to be approved by the administrator. See <a href=\"00000000-0000-0000-0000-0000001c8add\">Managing Users</a><br>\n<strong>New Accounts Don't Expire</strong>(false) - Specifies if new accounts created by users signing up have an expiration date<br>\n<strong>Eval Accounts Enabled</strong> (true)- This setting specifies if unauthenticated users will be able to create accounts on the system for Evaluation purposes (only works if ShowContentToAnonymousUsers=false) (note: due to current limitation, if set to \"false\" users are still able to create accounts on the system which will not expire, see <a href=\"00000000-0000-0000-0000-0000005d8802\">Managing Users for workaround</a>)<br>\n<strong>Eval Accounts Days</strong> (15) - This specifies the duration, in days, that self-created account will have read access to the content (only works if ShowContentToAnonymousUsers=false and NewAccountsDon'tExpire=false ). <br>\n<strong>Default Admin: UserName</strong>(admin)  -  Set this option to define the default administrator user name. This user name will be used to manage TEAM Mentor in the early stages of using it.<br>\n<strong>Default Admin: Password</strong> (!!tmadmin) -  Set this option to define the default administrator password. This password, together with the default administrator user name, will be used to manage TEAM Mentor in the initial setup stage. It is highly recommended to change the administrator password, using the <em>\"Change Password\"</em> link on the UI, right after TEAM Mentor had started for the first time.<br>\n<strong>Default Admin: Email</strong>( TM_alerts@securityinnovation.com) - Specifies the email address of the \"admin\" account.<br>\n</p> <p>\n<br>\n</p><p>\nThe following are some of the settings available in the TM Setup section. Settings not mentioned below should not be changed without contacting SI support. Default values of the settings are provided in ():\n</p><p>\n<img src=\"/Image/tmcfg02.jpg\">\n</p>\n<p>\n<strong>Xml Libraries Path</strong>(TM_Libraries) This is the path to the library files. This is the location of Lib_UNO library. The value of this property can be either an absolute path or a path relative to the <em>\"\\Library_Data\\XmlDatabase\"</em> folder. <br>\n<strong>EnableGZipForWebServices</strong>(true) - This option enables or disables GZip compression for WebService interaction with TEAM Mentor. GZip compression generally increases performance.<br>\n</p><p>\n<br>\n</p><p>\nThe following are some of the settings available in the Git section. Settings not mentioned below should not be changed without contacting SI support. Default values of the settings are provided in ():\n</p><p>\n<img src=\"/Image/tmcfg03.jpg\">\n</p><p>\n<strong>Auto Commit UserData</strong>(false) - Specifies if any changes to <em>User_Data</em> directory (including the configuration file) will be automatically saved and versioned using built in Git auto-commit mechanism\n<strong>Auto Commit LibraryData</strong>(false) - Specifies if any changes to the content of the library will be automatically save and versioned using built in Git auto-commit mechanism. \n</p><p>\n<br>\n</p><p>\nFor information on Windows Authentication section see <a href=\"6e3221bf-08b8-4de1-bb3b-4edacc85fab6\">Active Directory Support</a>\n</p><p>\n<img src=\"/Image/tmcfg04.jpg\">\n</p><p>\n<br>\n</p><p>\nAll settings not otherwise available via the GUI are available using the Config File Content Editor, which is displayed at the bottom of the configuration page. Note that the content editor is not synchronized with the GUI and vice versa. Save the settings and reload the page in order for changes to be reflected in both sections.\n</p><p>\n<img src=\"/Image/tmcfg05.jpg\">\n</p><p>\n<br>\n</p>\n<h2>Secret Configuration File</h2><p>To edit TEAM Mentor Secret configuration, go to TBot screen from the main Admin menu and select Edit Secret Data from the Admin - Config row. This configuration contains parameters that are sensitive in nature. These include SMTP user accounts and passwords, Git repository user names, and others. These, with the exception of SMTP parameters, should not be edited unless following specific instructions for enabling a feature, or unless directed by SI support staff. \n</p><p>\n<img src=\"/Image/tmcfg06.jpg\">\n</p><p>\n<strong> Libraries Git</strong> - This is a full git path to a library repository<br>\n<strong>Rijndael_IV</strong> and <strong>Rijndael_Key</strong> - Are used for encryption technology in TEAM Mentor<br>\n</p><p>\nFirebase Config is to be used under supervision of support staff only.\n</p><p>\n<img src=\"/Image/tmcfg07.jpg\">\n</p>\n<p>\nFor SMTP Configuration see <a href=\"d0b2bade-6d25-4c61-8ae3-94ae0110f959\">Configuring Email</a>\n</p><p>\n<img src=\"/Image/tmcfg08.jpg\">\n</p>\n<p>\nAll settings not otherwise available via the GUI are available using the Config File Content Editor, which is displayed at the bottom of the configuration page. Note that the content editor is not synchronized with the GUI and vice versa. Save the settings and reload the page in order for changes to be reflected in both sections.\nThe configuration file is physically located under /\\Library_Data\\XmlDatabase\\User_Data\\TMSecretData.config<em>  it can be edited by hand if necessary.\n</em></p><p>\n<img src=\"/Image/tmcfg09.jpg\">\n</p>\n\n\n"
 }
