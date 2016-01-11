@@ -1,6 +1,6 @@
 {
   "id": "fa3888bd-c6d0-4f51-a4d1-0470794140b2",
-  "checksum": "0bc5f53ca15e1f7fb18743b41cbf527869b78b44",
+  "checksum": "61be511f7232a9c3450c04758e5c8e62c95dd63e",
   "words": {
     "3": [
       "ul",
@@ -10,6 +10,7 @@
       "p"
     ],
     "36": [
+      "h4",
       "title"
     ],
     "40": [
@@ -30,6 +31,8 @@
     ],
     "and": [
       "h4",
+      "ul",
+      "li",
       "ul",
       "li",
       "ul",
@@ -71,6 +74,13 @@
     "the": [
       "ul",
       "ul",
+      "li",
+      "li",
+      "h4",
+      "ul",
+      "ul",
+      "ul",
+      "li",
       "li",
       "li",
       "ul",
@@ -359,10 +369,15 @@
       "code",
       "li"
     ],
-    "add": [
-      "h4"
+    "edit": [
+      "h4",
+      "li",
+      "ul",
+      "li",
+      "code"
     ],
     "team": [
+      "h4",
       "h4",
       "ul",
       "li",
@@ -377,6 +392,7 @@
     ],
     "mentor": [
       "h4",
+      "h4",
       "ul",
       "li",
       "p",
@@ -390,38 +406,18 @@
       "a",
       "title"
     ],
-    "a": [
+    "configuration": [
       "h4",
-      "ul",
-      "ul",
-      "ul",
-      "li",
-      "li",
-      "li",
-      "li",
-      "p",
-      "ul",
-      "li",
-      "pre",
-      "code"
+      "p"
     ],
-    "site": [
+    "file": [
       "h4",
       "ul",
-      "ul",
-      "ul",
-      "ul",
-      "li",
-      "li",
-      "li",
-      "li",
-      "ul",
-      "ul",
-      "li",
-      "li",
       "li"
     ],
     "in": [
+      "ul",
+      "li",
       "h4",
       "ul",
       "ul",
@@ -457,12 +453,132 @@
       "li",
       "li"
     ],
+    "notepad": [
+      "ul",
+      "li"
+    ],
     "open": [
       "ul",
       "li",
       "ul",
       "li",
       "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "\"\\tm36\\library_data\\xmldatabase\\user_data\\tmconfigconfig\"\nedit": [
+      "ul"
+    ],
+    "following": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "two": [
+      "ul",
+      "li"
+    ],
+    "lines": [
+      "ul",
+      "li"
+    ],
+    "provide": [
+      "ul",
+      "li"
+    ],
+    "correct": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "pull": [
+      "ul",
+      "li"
+    ],
+    "path": [
+      "ul",
+      "li"
+    ],
+    "for": [
+      "ul",
+      "li",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "p",
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "p",
+      "p"
+    ],
+    "tm40": [
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "em"
+    ],
+    "directory": [
+      "ul",
+      "li"
+    ],
+    "\"\\tm36\\library_data\\xmldatabase\\user_data\\tmconfigconfig\"": [
+      "li"
+    ],
+    "tmreloaddatascriptpath>c:\\team": [
+      "pre",
+      "code"
+    ],
+    "mentor\\tm01-site_wwwteammentor.net\\tm40\\tm\\bin\\reload_data.bat</tmreloaddatascriptpath>\n\n<xmllibrariespath>c:\\team": [
+      "pre",
+      "code"
+    ],
+    "mentor\\tm01-site_wwwteammentor.net\\tm40\\tm\\data</xmllibrariespath>": [
+      "pre",
+      "code"
+    ],
+    "add": [
+      "h4"
+    ],
+    "a": [
+      "h4",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p",
+      "ul",
+      "li",
+      "pre",
+      "code"
+    ],
+    "site": [
+      "h4",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "ul",
+      "li",
+      "li",
       "li"
     ],
     "\"internet": [
@@ -713,21 +829,6 @@
       "li",
       "pre",
       "code"
-    ],
-    "for": [
-      "ul",
-      "ul",
-      "li",
-      "li",
-      "p",
-      "ul",
-      "li",
-      "ul",
-      "li",
-      "ul",
-      "li",
-      "p",
-      "p"
     ],
     "\"site": [
       "ul",
@@ -1077,9 +1178,6 @@
     "disable": [
       "p"
     ],
-    "configuration": [
-      "p"
-    ],
     "first": [
       "p"
     ],
@@ -1210,10 +1308,6 @@
     "request\n\"browse\"": [
       "ul"
     ],
-    "file": [
-      "ul",
-      "li"
-    ],
     "received": [
       "ul",
       "li"
@@ -1339,13 +1433,6 @@
       "li",
       "ul",
       "li"
-    ],
-    "tm40": [
-      "ul",
-      "li",
-      "ul",
-      "li",
-      "em"
     ],
     "connect": [
       "ul",
@@ -1516,10 +1603,6 @@
       "ul",
       "li"
     ],
-    "correct": [
-      "ul",
-      "li"
-    ],
     "versiontake": [
       "ul"
     ],
@@ -1535,10 +1618,6 @@
       "li",
       "pre",
       "code"
-    ],
-    "following": [
-      "ul",
-      "li"
     ],
     "folders": [
       "ul",
@@ -1582,7 +1661,7 @@
     "adjust": [
       "li"
     ],
-    "“\\tm36\\library_data”\"\\tm40\\tm\\data\"\n\"\\tm40\\tm\\code\\tm_graph.tmcache\"": [
+    "“\\tm36\\library_data”\"\\tm40\\tm\\data\"\n\"\\tm40\\tm\\code\\tm_graph\\.tmcache\"\n\"\\tm40\\tm\\build\\tm_4_0_json_data\"": [
       "ul"
     ],
     "“\\tm36\\library_data”": [
@@ -1591,7 +1670,10 @@
     "\"\\tm40\\tm\\data\"": [
       "li"
     ],
-    "\"\\tm40\\tm\\code\\tm_graphtmcache\"": [
+    "\"\\tm40\\tm\\code\\tm_graph\\tmcache\"": [
+      "li"
+    ],
+    "\"\\tm40\\tm\\build\\tm_4_0_json_data\"": [
       "li"
     ],
     "do": [
@@ -1709,11 +1791,6 @@
     "corner\nselect": [
       "ul"
     ],
-    "edit": [
-      "ul",
-      "li",
-      "code"
-    ],
     "secret": [
       "ul",
       "li",
@@ -1767,6 +1844,7 @@
   "tags": {
     "h4": [
       "Install and configure IIS (if not already installed)",
+      "Edit the TEAM Mentor 3.6 Configuration file",
       "Add TEAM Mentor as a site in IIS.",
       "Set up SSL.",
       "Set up Permissions",
@@ -1774,16 +1852,19 @@
     ],
     "ul": [
       "Use the Windows Role Manager to install the HTTPS Server role.\nSelect ASP.NET 4.5 as an additional feature under .NET 4.5 Framework.",
+      "In notepad open \"\\TM36\\Library_Data\\XmlDatabase\\User_Data\\TMConfig.config\"\nEdit the following two lines and provide the correct pull path for the TM40 directory",
       "Open the \"Internet Information Services (IIS) Manager\".\nNavigate to the \"Sites\" folder in the \"Connections\" tree on the left.\nRight click on the \"Sites\" folder.\nSelect \"Add Web Site...” An \"Add Web Site\" window should appear.\nEnter a name for the site in the \"Site name:\" text box.\nClick the \"...\" next to the \"Physical path:\" text box to set the root of the web site. A \"Browse for Folder\" window should appear.\nSelect to the \"TM36\\TeamMentor\\Publish\\Website.3.5\" folder inside the TEAM Mentor root folder you unzipped\nEnter the hostname that TM36 will be accessible as.\nClick \"Ok\". Set the port in the \"Port:\" text box, if necessary.\nClick \"OK\".\nThe \"Add Web Site\" window should close and a new web site should appear in the \"Sites\" folder in the tree on the left of the \"Internet Information Services (IIS) Manager\" window.\nA new web site should appear in the tree structure on the left of the \"Internet Information Services (IIS) Manager\" window.",
       "Open the \"Internet Information Services (IIS) Manager\".\nDouble click on the \"Server Certificates\" menu in the \"Security\" section\nFrom the \"Actions\" menu click on \"Create Certificate Request.\"\nFollow the Wizzard to create the CSR\nSend the CSR to your Certificate Authority for Signing",
       "Open the \"Internet Information Services (IIS) Manager\".\nDouble click on the \"Server Certificates\" menu in the \"Security\" section\nFrom the \"Actions\" menu click on \"Complete Certificate Request.\n\"Browse\" for your SSL Certificate file received from the Certificate Authority, then Click Next. Follow the rest of the wizard steps until finished.\nNow assign the certificate to the newly created web site. Under \"Sites\" Select the web site\nFrom the \"action menu\" click on \"Bindings\"\nClick \"Add\" in the window that just poped up\nUnder \"type\" choose 'https’\nSelect the certificate you just imported.\nUnder “hostname” type the name URL that this site will be accessible as using HTTPS. (Note that TM40 will connect to TM36 via this URL)\nThe SSL Certificate should be the certificate you just installed.\nClick OK",
       "On the \"Internet Information Services (IIS) Manager\".\nNavigate to \"Application Pools\" in the tree on the left\nFind the Application Pool name, it will be the same as the \"Site Name\" you have created in step 3 above.\nMake sure that the .NET Framework version is set to v4.0. Otherwise double click on the Application Pool and set the correct version\nTake a note of the Application Pool name.\nAdjust the file-system permissions. Give full control permissions for the following folders to the Windows user account that is used to run TEAM Mentor. This is the username that has been discovered in the previous step.",
-      "“\\TM36\\Library_Data”\n\"\\TM40\\TM\\data\"\n\"\\TM40\\TM\\code\\TM_Graph.tmCache\"",
+      "“\\TM36\\Library_Data”\n\"\\TM40\\TM\\data\"\n\"\\TM40\\TM\\code\\TM_Graph\\.tmCache\"\n\"\\TM40\\TM\\build\\TM_4_0_JSON_Data\"",
       "Click on Tbot in the upper right corner.\nSelect Edit Secret Data\nEnter your SMPT Server information in the appropriate field.\nEnter the URL of your TM40 installation in “TEAM Mentor Server URL”"
     ],
     "li": [
       "Use the Windows Role Manager to install the HTTPS Server role.",
       "Select ASP.NET 4.5 as an additional feature under .NET 4.5 Framework.",
+      "In notepad open \"\\TM36\\Library_Data\\XmlDatabase\\User_Data\\TMConfig.config\"",
+      "Edit the following two lines and provide the correct pull path for the TM40 directory",
       "Open the \"Internet Information Services (IIS) Manager\".",
       "Navigate to the \"Sites\" folder in the \"Connections\" tree on the left.",
       "Right click on the \"Sites\" folder.",
@@ -1821,7 +1902,8 @@
       "Adjust the file-system permissions. Give full control permissions for the following folders to the Windows user account that is used to run TEAM Mentor. This is the username that has been discovered in the previous step.",
       "“\\TM36\\Library_Data”",
       "\"\\TM40\\TM\\data\"",
-      "\"\\TM40\\TM\\code\\TM_Graph.tmCache\"",
+      "\"\\TM40\\TM\\code\\TM_Graph\\.tmCache\"",
+      "\"\\TM40\\TM\\build\\TM_4_0_JSON_Data\"",
       "Click on Tbot in the upper right corner.",
       "Select Edit Secret Data",
       "Enter your SMPT Server information in the appropriate field.",
@@ -1844,9 +1926,11 @@
       ""
     ],
     "pre": [
+      "<TMReloadDataScriptPath>C:\\TEAM Mentor\\TM01-Site_www.teammentor.net\\TM40\\TM\\bin\\reload_data.bat</TMReloadDataScriptPath>\n\n<XmlLibrariesPath>C:\\TEAM Mentor\\TM01-Site_www.teammentor.net\\TM40\\TM\\data</XmlLibrariesPath>",
       "- Right click on the folder\n- Select \"Properties\". A \"Properties\" window should appear. \n- Select the \"Security\" tab in the \"Properties\" window..\n- Give \"Full Control\" to the account IIS AppPool\\<AppPoolName> where the AppPoolName is the name identified above.\n- Click \"OK\""
     ],
     "code": [
+      "<TMReloadDataScriptPath>C:\\TEAM Mentor\\TM01-Site_www.teammentor.net\\TM40\\TM\\bin\\reload_data.bat</TMReloadDataScriptPath>\n\n<XmlLibrariesPath>C:\\TEAM Mentor\\TM01-Site_www.teammentor.net\\TM40\\TM\\data</XmlLibrariesPath>",
       "- Right click on the folder\n- Select \"Properties\". A \"Properties\" window should appear. \n- Select the \"Security\" tab in the \"Properties\" window..\n- Give \"Full Control\" to the account IIS AppPool\\<AppPoolName> where the AppPoolName is the name identified above.\n- Click \"OK\"",
       "Tbot",
       "Edit Secret Data"
@@ -1864,5 +1948,5 @@
       "text": "Installation of TEAM Mentor 4.0"
     }
   ],
-  "html": "<h4>Install and configure IIS (if not already installed)</h4>\n<ul>\n<li>Use the Windows Role Manager to install the HTTPS Server role.</li>\n<li>Select ASP.NET 4.5 as an additional feature under .NET 4.5 Framework.</li>\n</ul>\n<p><img src=\"/Image/install02.png\" alt=\"\"></p>\n<p><img src=\"/Image/install03.png\" alt=\"\"></p>\n<h4>Add TEAM Mentor as a site in IIS.</h4>\n<ul>\n<li>Open the &quot;Internet Information Services (IIS) Manager&quot;.</li>\n<li>Navigate to the &quot;Sites&quot; folder in the &quot;Connections&quot; tree on the left.</li>\n<li>Right click on the &quot;Sites&quot; folder.</li>\n<li>Select &quot;Add Web Site...” An &quot;Add Web Site&quot; window should appear.</li>\n<li>Enter a name for the site in the &quot;Site name:&quot; text box.</li>\n<li>Click the &quot;...&quot; next to the &quot;Physical path:&quot; text box to set the root of the web site. A &quot;Browse for Folder&quot; window should appear.</li>\n<li>Select to the &quot;TM36\\TeamMentor\\Publish\\Website.3.5&quot; folder inside the TEAM Mentor root folder you unzipped</li>\n<li>Enter the hostname that TM36 will be accessible as.</li>\n<li>Click &quot;Ok&quot;. Set the port in the &quot;Port:&quot; text box, if necessary.</li>\n<li>Click &quot;OK&quot;.</li>\n<li>The &quot;Add Web Site&quot; window should close and a new web site should appear in the &quot;Sites&quot; folder in the tree on the left of the &quot;Internet Information Services (IIS) Manager&quot; window.</li>\n<li>A new web site should appear in the tree structure on the left of the &quot;Internet Information Services (IIS) Manager&quot; window.</li>\n</ul>\n<h4>Set up SSL.</h4>\n<p>SSL is enabled by default for TEAM Mentor. Therefore it is necessary to set up SSL certificate. (Note: It is possible to disable SSL configuration)</p>\n<p>First generate a CSR</p>\n<ul>\n<li>Open the &quot;Internet Information Services (IIS) Manager&quot;.</li>\n<li>Double click on the &quot;Server Certificates&quot; menu in the &quot;Security&quot; section</li>\n<li>From the &quot;Actions&quot; menu click on &quot;Create Certificate Request.&quot;</li>\n<li>Follow the Wizzard to create the CSR</li>\n<li>Send the CSR to your Certificate Authority for Signing</li>\n</ul>\n<p>Install your certificate</p>\n<ul>\n<li>Open the &quot;Internet Information Services (IIS) Manager&quot;.</li>\n<li>Double click on the &quot;Server Certificates&quot; menu in the &quot;Security&quot; section</li>\n<li>From the &quot;Actions&quot; menu click on &quot;Complete Certificate Request.</li>\n<li>&quot;Browse&quot; for your SSL Certificate file received from the Certificate Authority, then Click Next. Follow the rest of the wizard steps until finished.</li>\n<li>Now assign the certificate to the newly created web site. Under &quot;Sites&quot; Select the web site</li>\n<li>From the &quot;action menu&quot; click on &quot;Bindings&quot;</li>\n<li>Click &quot;Add&quot; in the window that just poped up</li>\n<li>Under &quot;type&quot; choose 'https’</li>\n<li>Select the certificate you just imported.</li>\n<li>Under “hostname” type the name URL that this site will be accessible as using HTTPS. (Note that TM40 will connect to TM36 via this URL)</li>\n<li>The SSL Certificate should be the certificate you just installed.</li>\n<li>Click OK</li>\n</ul>\n<h4>Set up Permissions</h4>\n<p>Find the account used by IIS needs to have full control privileges to the TEAM Mentor Library_Data folder</p>\n<p>On IIS 8 the application account name is the same as Application Pool name. This is the Windows user account used by the IIS Application Pool configured on the TEAM Mentor website.</p>\n<ul>\n<li>On the &quot;Internet Information Services (IIS) Manager&quot;.</li>\n<li>Navigate to &quot;Application Pools&quot; in the tree on the left</li>\n<li>Find the Application Pool name, it will be the same as the &quot;Site Name&quot; you have created in step 3 above.</li>\n<li>Make sure that the .NET Framework version is set to v4.0. Otherwise double click on the Application Pool and set the correct version</li>\n<li>Take a note of the Application Pool name.</li>\n<li>Adjust the file-system permissions. Give full control permissions for the following folders to the Windows user account that is used to run TEAM Mentor. This is the username that has been discovered in the previous step.</li>\n</ul>\n<ul>\n<li>“\\TM36\\Library_Data”</li>\n<li>&quot;\\TM40\\TM\\data&quot;</li>\n<li>&quot;\\TM40\\TM\\code\\TM_Graph.tmCache&quot;</li>\n</ul>\n<p>To do this, for each of the folders</p>\n<pre><code>- Right click on the folder\n- Select &quot;Properties&quot;. A &quot;Properties&quot; window should appear. \n- Select the &quot;Security&quot; tab in the &quot;Properties&quot; window..\n- Give &quot;Full Control&quot; to the account IIS AppPool\\&lt;AppPoolName&gt; where the AppPoolName is the name identified above.\n- Click &quot;OK&quot;\n</code></pre>\n<h4>Configure the TM36 Backend</h4>\n<p>Login to TM36 Backend using the URL you’ve specified in the installation step. (Make sure the URL resolves via DNS). Use an account with admin privileges. Refer to release notes for default admin account information.</p>\n<ul>\n<li>Click on <code>Tbot</code> in the upper right corner.</li>\n<li>Select <code>Edit Secret Data</code></li>\n<li>Enter your SMPT Server information in the appropriate field.</li>\n<li>Enter the URL of your <em>TM40</em> installation in “TEAM Mentor Server URL”</li>\n</ul>\n<p>Continue by going through <a href=\"0a27b133-4b24-40ed-98b1-6ac7f35da716\">Installation of TEAM Mentor 4.0</a></p>\n"
+  "html": "<h4>Install and configure IIS (if not already installed)</h4>\n<ul>\n<li>Use the Windows Role Manager to install the HTTPS Server role.</li>\n<li>Select ASP.NET 4.5 as an additional feature under .NET 4.5 Framework.</li>\n</ul>\n<p><img src=\"/Image/install02.png\" alt=\"\"></p>\n<p><img src=\"/Image/install03.png\" alt=\"\"></p>\n<h4>Edit the TEAM Mentor 3.6 Configuration file</h4>\n<ul>\n<li>In notepad open &quot;\\TM36\\Library_Data\\XmlDatabase\\User_Data\\TMConfig.config&quot;</li>\n<li>Edit the following two lines and provide the correct pull path for the TM40 directory</li>\n</ul>\n<pre><code>&lt;TMReloadDataScriptPath&gt;C:\\TEAM Mentor\\TM01-Site_www.teammentor.net\\TM40\\TM\\bin\\reload_data.bat&lt;/TMReloadDataScriptPath&gt;\n\n&lt;XmlLibrariesPath&gt;C:\\TEAM Mentor\\TM01-Site_www.teammentor.net\\TM40\\TM\\data&lt;/XmlLibrariesPath&gt;\n</code></pre>\n<h4>Add TEAM Mentor as a site in IIS.</h4>\n<ul>\n<li>Open the &quot;Internet Information Services (IIS) Manager&quot;.</li>\n<li>Navigate to the &quot;Sites&quot; folder in the &quot;Connections&quot; tree on the left.</li>\n<li>Right click on the &quot;Sites&quot; folder.</li>\n<li>Select &quot;Add Web Site...” An &quot;Add Web Site&quot; window should appear.</li>\n<li>Enter a name for the site in the &quot;Site name:&quot; text box.</li>\n<li>Click the &quot;...&quot; next to the &quot;Physical path:&quot; text box to set the root of the web site. A &quot;Browse for Folder&quot; window should appear.</li>\n<li>Select to the &quot;TM36\\TeamMentor\\Publish\\Website.3.5&quot; folder inside the TEAM Mentor root folder you unzipped</li>\n<li>Enter the hostname that TM36 will be accessible as.</li>\n<li>Click &quot;Ok&quot;. Set the port in the &quot;Port:&quot; text box, if necessary.</li>\n<li>Click &quot;OK&quot;.</li>\n<li>The &quot;Add Web Site&quot; window should close and a new web site should appear in the &quot;Sites&quot; folder in the tree on the left of the &quot;Internet Information Services (IIS) Manager&quot; window.</li>\n<li>A new web site should appear in the tree structure on the left of the &quot;Internet Information Services (IIS) Manager&quot; window.</li>\n</ul>\n<h4>Set up SSL.</h4>\n<p>SSL is enabled by default for TEAM Mentor. Therefore it is necessary to set up SSL certificate. (Note: It is possible to disable SSL configuration)</p>\n<p>First generate a CSR</p>\n<ul>\n<li>Open the &quot;Internet Information Services (IIS) Manager&quot;.</li>\n<li>Double click on the &quot;Server Certificates&quot; menu in the &quot;Security&quot; section</li>\n<li>From the &quot;Actions&quot; menu click on &quot;Create Certificate Request.&quot;</li>\n<li>Follow the Wizzard to create the CSR</li>\n<li>Send the CSR to your Certificate Authority for Signing</li>\n</ul>\n<p>Install your certificate</p>\n<ul>\n<li>Open the &quot;Internet Information Services (IIS) Manager&quot;.</li>\n<li>Double click on the &quot;Server Certificates&quot; menu in the &quot;Security&quot; section</li>\n<li>From the &quot;Actions&quot; menu click on &quot;Complete Certificate Request.</li>\n<li>&quot;Browse&quot; for your SSL Certificate file received from the Certificate Authority, then Click Next. Follow the rest of the wizard steps until finished.</li>\n<li>Now assign the certificate to the newly created web site. Under &quot;Sites&quot; Select the web site</li>\n<li>From the &quot;action menu&quot; click on &quot;Bindings&quot;</li>\n<li>Click &quot;Add&quot; in the window that just poped up</li>\n<li>Under &quot;type&quot; choose 'https’</li>\n<li>Select the certificate you just imported.</li>\n<li>Under “hostname” type the name URL that this site will be accessible as using HTTPS. (Note that TM40 will connect to TM36 via this URL)</li>\n<li>The SSL Certificate should be the certificate you just installed.</li>\n<li>Click OK</li>\n</ul>\n<h4>Set up Permissions</h4>\n<p>Find the account used by IIS needs to have full control privileges to the TEAM Mentor Library_Data folder</p>\n<p>On IIS 8 the application account name is the same as Application Pool name. This is the Windows user account used by the IIS Application Pool configured on the TEAM Mentor website.</p>\n<ul>\n<li>On the &quot;Internet Information Services (IIS) Manager&quot;.</li>\n<li>Navigate to &quot;Application Pools&quot; in the tree on the left</li>\n<li>Find the Application Pool name, it will be the same as the &quot;Site Name&quot; you have created in step 3 above.</li>\n<li>Make sure that the .NET Framework version is set to v4.0. Otherwise double click on the Application Pool and set the correct version</li>\n<li>Take a note of the Application Pool name.</li>\n<li>Adjust the file-system permissions. Give full control permissions for the following folders to the Windows user account that is used to run TEAM Mentor. This is the username that has been discovered in the previous step.</li>\n</ul>\n<ul>\n<li>“\\TM36\\Library_Data”</li>\n<li>&quot;\\TM40\\TM\\data&quot;</li>\n<li>&quot;\\TM40\\TM\\code\\TM_Graph\\.tmCache&quot;</li>\n<li>&quot;\\TM40\\TM\\build\\TM_4_0_JSON_Data&quot;</li>\n</ul>\n<p>To do this, for each of the folders</p>\n<pre><code>- Right click on the folder\n- Select &quot;Properties&quot;. A &quot;Properties&quot; window should appear. \n- Select the &quot;Security&quot; tab in the &quot;Properties&quot; window..\n- Give &quot;Full Control&quot; to the account IIS AppPool\\&lt;AppPoolName&gt; where the AppPoolName is the name identified above.\n- Click &quot;OK&quot;\n</code></pre>\n<h4>Configure the TM36 Backend</h4>\n<p>Login to TM36 Backend using the URL you’ve specified in the installation step. (Make sure the URL resolves via DNS). Use an account with admin privileges. Refer to release notes for default admin account information.</p>\n<ul>\n<li>Click on <code>Tbot</code> in the upper right corner.</li>\n<li>Select <code>Edit Secret Data</code></li>\n<li>Enter your SMPT Server information in the appropriate field.</li>\n<li>Enter the URL of your <em>TM40</em> installation in “TEAM Mentor Server URL”</li>\n</ul>\n<p>Continue by going through <a href=\"0a27b133-4b24-40ed-98b1-6ac7f35da716\">Installation of TEAM Mentor 4.0</a></p>\n"
 }

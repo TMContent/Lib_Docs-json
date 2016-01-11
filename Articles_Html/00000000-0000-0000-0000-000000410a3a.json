@@ -1,7 +1,13 @@
 {
   "id": "00000000-0000-0000-0000-000000410a3a",
-  "checksum": "29b66149f3741fdda52f37402b005f836ecd68f6",
+  "checksum": "fb624add951121761060455b619ca86aa633389e",
   "words": {
+    "2": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
     "9": [
       "ul",
       "li",
@@ -61,6 +67,8 @@
     ],
     "the": [
       "p",
+      "ul",
+      "li",
       "p",
       "p",
       "p"
@@ -171,6 +179,7 @@
       "li",
       "li",
       "li",
+      "p",
       "p"
     ],
     "iis": [
@@ -183,6 +192,8 @@
     ],
     "or": [
       "ul",
+      "ul",
+      "li",
       "li"
     ],
     "higher": [
@@ -207,6 +218,8 @@
     ],
     "can": [
       "ul",
+      "ul",
+      "li",
       "li"
     ],
     "download": [
@@ -247,7 +260,8 @@
     ],
     "available": [
       "ul",
-      "li"
+      "li",
+      "p"
     ],
     "at": [
       "ul",
@@ -323,16 +337,114 @@
       "li",
       "p"
     ],
+    "urls": [
+      "ul",
+      "li"
+    ],
+    "resolvable": [
+      "ul",
+      "li"
+    ],
+    "through": [
+      "ul",
+      "li"
+    ],
+    "dns": [
+      "ul",
+      "li"
+    ],
+    "one": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "for": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p",
+      "ul",
+      "li",
+      "p",
+      "p"
+    ],
+    "administration": [
+      "ul",
+      "li",
+      "p",
+      "p"
+    ],
+    "other": [
+      "ul",
+      "li"
+    ],
+    "user": [
+      "ul",
+      "li"
+    ],
+    "access": [
+      "ul",
+      "li"
+    ],
     "ssl": [
       "ul",
       "li",
       "p"
+    ],
+    "certificates": [
+      "ul",
+      "li"
+    ],
+    "each": [
+      "ul",
+      "li"
+    ],
+    "url": [
+      "ul",
+      "li"
+    ],
+    "be": [
+      "ul",
+      "li",
+      "p",
+      "p"
+    ],
+    "wildcard": [
+      "ul",
+      "li"
+    ],
+    "subject": [
+      "ul",
+      "li"
+    ],
+    "alternative": [
+      "ul",
+      "li"
+    ],
+    "names": [
+      "ul",
+      "li"
     ],
     "certificate": [
       "ul",
       "li",
       "p",
       "p"
+    ],
+    "as": [
+      "ul",
+      "li"
+    ],
+    "well": [
+      "ul",
+      "li"
     ],
     "please": [
       "p"
@@ -348,10 +460,6 @@
       "p"
     ],
     "may": [
-      "p",
-      "p"
-    ],
-    "be": [
       "p",
       "p"
     ],
@@ -406,14 +514,6 @@
     "recommended": [
       "p"
     ],
-    "for": [
-      "p",
-      "p",
-      "ul",
-      "li",
-      "p",
-      "p"
-    ],
     "production": [
       "p"
     ],
@@ -459,6 +559,16 @@
       "p"
     ],
     "test": [
+      "p"
+    ],
+    "only": [
+      "p",
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "locally": [
       "p"
     ],
     "client": [
@@ -536,12 +646,6 @@
       "ul",
       "li"
     ],
-    "only": [
-      "ul",
-      "li",
-      "ul",
-      "li"
-    ],
     "experimental": [
       "ul",
       "li"
@@ -592,9 +696,6 @@
     "back-end": [
       "p"
     ],
-    "administration": [
-      "p"
-    ],
     "editing": [
       "p"
     ]
@@ -605,7 +706,7 @@
     ],
     "p": [
       "The following hardware and software is required to run TEAM Mentor.",
-      "Please note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. Self-signed certificate may be used for test environments.",
+      "Please note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. Self-signed certificate may be used for test environments, with administration only available locally.",
       "Following browsers and platforms are supported:",
       "The full version of TEAM Mentor 4.0, code named Flare, supports:",
       "The fail safe TEAM Mentor 4.0, code named Jade, supports all browsers including IE8 and Lynx. \nMobile browsers for Android and iOS are also supported.",
@@ -616,7 +717,7 @@
       "Client Side Requirements"
     ],
     "ul": [
-      "Windows 2012 R2 (64 Bit) with IIS 8.0 or higher\n NET Framework 4.5.1 ( You can download this version from http://www.microsoft.com/en-us/download/details.aspx?id=40779 )\n Git Version Control with Tools ( Available at http://www.git-scm.com/download/win ) \n NodeJS ( Distributed with TEAM Mentor ZIP File  ) \n IIS AAR 3.0 Extension ( Distributed with TEAM Mentor ZIP File ) \n IIS URLRewrite2 Extension ( Distributed with TEAM Mentor ZIP File ) \n 4GB of RAM\n 4GB of Storage\n SSL Certificate",
+      "Windows 2012 R2 (64 Bit) with IIS 8.0 or higher\n NET Framework 4.5.1 ( You can download this version from http://www.microsoft.com/en-us/download/details.aspx?id=40779 )\n Git Version Control with Tools ( Available at http://www.git-scm.com/download/win ) \n NodeJS ( Distributed with TEAM Mentor ZIP File  ) \n IIS AAR 3.0 Extension ( Distributed with TEAM Mentor ZIP File ) \n IIS URLRewrite2 Extension ( Distributed with TEAM Mentor ZIP File ) \n 4GB of RAM\n 4GB of Storage\n 2 URLs. resolvable through DNS. One for administration the other for user access\n 2 SSL Certificates. One for each URL. Can be one wildcard or Subject Alternative Names certificate as well.",
       "IE 11\n Firefox 42 and above\n Chrome 46 and above\n Safari 9 and above  (on OSX only) \n Experimental support for iOS and Android mobile browsers",
       "IE 11\n Firefox 42 and above\n Chrome 46 and above\n Safari 9 and above  (on OSX only)"
     ],
@@ -629,7 +730,8 @@
       "IIS URLRewrite2 Extension ( Distributed with TEAM Mentor ZIP File )",
       "4GB of RAM",
       "4GB of Storage",
-      "SSL Certificate",
+      "2 URLs. resolvable through DNS. One for administration the other for user access",
+      "2 SSL Certificates. One for each URL. Can be one wildcard or Subject Alternative Names certificate as well.",
       "IE 11",
       "Firefox 42 and above",
       "Chrome 46 and above",
@@ -641,6 +743,7 @@
       "Safari 9 and above  (on OSX only)"
     ],
     "br": [
+      "",
       "",
       "",
       "",
@@ -678,5 +781,5 @@
       "text": "http://www.git-scm.com/download/win"
     }
   ],
-  "html": "<h3>Minimum Server Requirements</h3><p>The following hardware and software is required to run TEAM Mentor.\n</p><h4>Server Side Requirements</h4><ul><li> Windows 2012 R2 (64 Bit) with IIS 8.0 or higher<br></li>\n<li> NET Framework 4.5.1 ( You can download this version from <a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=40779\">http://www.microsoft.com/en-us/download/details.aspx?id=40779</a> )<br></li>\n<li> Git Version Control with Tools ( Available at <a href=\"http://www.git-scm.com/download/win\">http://www.git-scm.com/download/win</a> ) <br></li>\n<li> NodeJS ( Distributed with TEAM Mentor ZIP File  ) <br></li>\n<li> IIS AAR 3.0 Extension ( Distributed with TEAM Mentor ZIP File ) <br></li>\n<li> IIS URLRewrite2 Extension ( Distributed with TEAM Mentor ZIP File ) <br></li>\n<li> 4GB of RAM<br></li>\n<li> 4GB of Storage<br></li>\n<li> SSL Certificate<br></li>\n</ul><p>\nPlease note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. Self-signed certificate may be used for test environments.\n</p><h4>Client Side Requirements</h4><p>Following browsers and platforms are supported:\n</p><p>\nThe full version of TEAM Mentor 4.0, code named Flare, supports:<br></p><ul>\n<li> IE 11<br></li>\n<li> Firefox 42 and above<br></li>\n<li> Chrome 46 and above<br></li>\n<li> Safari 9 and above  (on OSX only) <br></li>\n<li> Experimental support for iOS and Android mobile browsers<br></li>\n</ul><p>\nThe fail safe TEAM Mentor 4.0, code named Jade, supports all browsers including IE8 and Lynx. <br>\nMobile browsers for Android and iOS are also supported. \n</p><p>\nTM 3.6 Back-end (used for Administration and Editing) supports the following browsers: <br></p><ul>\n<li> IE 11<br></li>\n<li> Firefox 42 and above<br></li>\n<li> Chrome 46 and above<br></li>\n<li> Safari 9 and above  (on OSX only) <br></li>\n</ul>\n\n\n\n"
+  "html": "<h3>Minimum Server Requirements</h3><p>The following hardware and software is required to run TEAM Mentor.\n</p><h4>Server Side Requirements</h4><ul><li> Windows 2012 R2 (64 Bit) with IIS 8.0 or higher<br></li>\n<li> NET Framework 4.5.1 ( You can download this version from <a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=40779\">http://www.microsoft.com/en-us/download/details.aspx?id=40779</a> )<br></li>\n<li> Git Version Control with Tools ( Available at <a href=\"http://www.git-scm.com/download/win\">http://www.git-scm.com/download/win</a> ) <br></li>\n<li> NodeJS ( Distributed with TEAM Mentor ZIP File  ) <br></li>\n<li> IIS AAR 3.0 Extension ( Distributed with TEAM Mentor ZIP File ) <br></li>\n<li> IIS URLRewrite2 Extension ( Distributed with TEAM Mentor ZIP File ) <br></li>\n<li> 4GB of RAM<br></li>\n<li> 4GB of Storage<br></li>\n<li> 2 URLs. resolvable through DNS. One for administration the other for user access<br></li>\n<li> 2 SSL Certificates. One for each URL. Can be one wildcard or Subject Alternative Names certificate as well.<br></li>\n</ul><p>\nPlease note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. Self-signed certificate may be used for test environments, with administration only available locally.\n</p><h4>Client Side Requirements</h4><p>Following browsers and platforms are supported:\n</p><p>\nThe full version of TEAM Mentor 4.0, code named Flare, supports:<br></p><ul>\n<li> IE 11<br></li>\n<li> Firefox 42 and above<br></li>\n<li> Chrome 46 and above<br></li>\n<li> Safari 9 and above  (on OSX only) <br></li>\n<li> Experimental support for iOS and Android mobile browsers<br></li>\n</ul><p>\nThe fail safe TEAM Mentor 4.0, code named Jade, supports all browsers including IE8 and Lynx. <br>\nMobile browsers for Android and iOS are also supported. \n</p><p>\nTM 3.6 Back-end (used for Administration and Editing) supports the following browsers: <br></p><ul>\n<li> IE 11<br></li>\n<li> Firefox 42 and above<br></li>\n<li> Chrome 46 and above<br></li>\n<li> Safari 9 and above  (on OSX only) <br></li>\n</ul>\n\n\n\n"
 }
