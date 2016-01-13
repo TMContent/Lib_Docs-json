@@ -1,6 +1,6 @@
 {
   "id": "00000000-0000-0000-0000-000000410a3a",
-  "checksum": "fb624add951121761060455b619ca86aa633389e",
+  "checksum": "eeccd120e408614a456f60376e6fe826323440b0",
   "words": {
     "2": [
       "ul",
@@ -71,6 +71,7 @@
       "li",
       "p",
       "p",
+      "p",
       "p"
     ],
     "following": [
@@ -120,6 +121,7 @@
       "p",
       "p",
       "p",
+      "p",
       "p"
     ],
     "run": [
@@ -137,6 +139,7 @@
       "p",
       "p",
       "p",
+      "p",
       "p"
     ],
     "mentor": [
@@ -147,6 +150,7 @@
       "li",
       "li",
       "li",
+      "p",
       "p",
       "p",
       "p",
@@ -214,7 +218,8 @@
     ],
     "you": [
       "ul",
-      "li"
+      "li",
+      "p"
     ],
     "can": [
       "ul",
@@ -246,6 +251,29 @@
       "li",
       "a"
     ],
+    "7-zip": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "available": [
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "p"
+    ],
+    "at": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "http//www.7-zip.org": [
+      "ul",
+      "li",
+      "a"
+    ],
     "git": [
       "ul",
       "li"
@@ -255,15 +283,6 @@
       "li"
     ],
     "tools": [
-      "ul",
-      "li"
-    ],
-    "available": [
-      "ul",
-      "li",
-      "p"
-    ],
-    "at": [
       "ul",
       "li"
     ],
@@ -447,13 +466,31 @@
       "li"
     ],
     "please": [
+      "p",
       "p"
     ],
     "note": [
       "p",
+      "p",
       "p"
     ],
     "that": [
+      "p",
+      "p"
+    ],
+    "will": [
+      "p"
+    ],
+    "need": [
+      "p"
+    ],
+    "application": [
+      "p"
+    ],
+    "unzip": [
+      "p"
+    ],
+    "package": [
       "p"
     ],
     "it": [
@@ -706,6 +743,7 @@
     ],
     "p": [
       "The following hardware and software is required to run TEAM Mentor.",
+      "Please note that you will need 7-Zip application to unzip the TEAM Mentor package.",
       "Please note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. Self-signed certificate may be used for test environments, with administration only available locally.",
       "Following browsers and platforms are supported:",
       "The full version of TEAM Mentor 4.0, code named Flare, supports:",
@@ -717,13 +755,14 @@
       "Client Side Requirements"
     ],
     "ul": [
-      "Windows 2012 R2 (64 Bit) with IIS 8.0 or higher\n NET Framework 4.5.1 ( You can download this version from http://www.microsoft.com/en-us/download/details.aspx?id=40779 )\n Git Version Control with Tools ( Available at http://www.git-scm.com/download/win ) \n NodeJS ( Distributed with TEAM Mentor ZIP File  ) \n IIS AAR 3.0 Extension ( Distributed with TEAM Mentor ZIP File ) \n IIS URLRewrite2 Extension ( Distributed with TEAM Mentor ZIP File ) \n 4GB of RAM\n 4GB of Storage\n 2 URLs. resolvable through DNS. One for administration the other for user access\n 2 SSL Certificates. One for each URL. Can be one wildcard or Subject Alternative Names certificate as well.",
+      "Windows 2012 R2 (64 Bit) with IIS 8.0 or higher\n NET Framework 4.5.1 ( You can download this version from http://www.microsoft.com/en-us/download/details.aspx?id=40779 )\n 7-Zip ( Available at http://www.7-zip.org ) \n Git Version Control with Tools ( Available at http://www.git-scm.com/download/win ) \n NodeJS ( Distributed with TEAM Mentor ZIP File  ) \n IIS AAR 3.0 Extension ( Distributed with TEAM Mentor ZIP File ) \n IIS URLRewrite2 Extension ( Distributed with TEAM Mentor ZIP File ) \n 4GB of RAM\n 4GB of Storage\n 2 URLs. resolvable through DNS. One for administration the other for user access\n 2 SSL Certificates. One for each URL. Can be one wildcard or Subject Alternative Names certificate as well.",
       "IE 11\n Firefox 42 and above\n Chrome 46 and above\n Safari 9 and above  (on OSX only) \n Experimental support for iOS and Android mobile browsers",
       "IE 11\n Firefox 42 and above\n Chrome 46 and above\n Safari 9 and above  (on OSX only)"
     ],
     "li": [
       "Windows 2012 R2 (64 Bit) with IIS 8.0 or higher",
       "NET Framework 4.5.1 ( You can download this version from http://www.microsoft.com/en-us/download/details.aspx?id=40779 )",
+      "7-Zip ( Available at http://www.7-zip.org )",
       "Git Version Control with Tools ( Available at http://www.git-scm.com/download/win )",
       "NodeJS ( Distributed with TEAM Mentor ZIP File  )",
       "IIS AAR 3.0 Extension ( Distributed with TEAM Mentor ZIP File )",
@@ -764,10 +803,12 @@
       "",
       "",
       "",
+      "",
       ""
     ],
     "a": [
       "http://www.microsoft.com/en-us/download/details.aspx?id=40779",
+      "http://www.7-zip.org",
       "http://www.git-scm.com/download/win"
     ]
   },
@@ -777,9 +818,13 @@
       "text": "http://www.microsoft.com/en-us/download/details.aspx?id=40779"
     },
     {
+      "href": "http://www.7-zip.org",
+      "text": "http://www.7-zip.org"
+    },
+    {
       "href": "http://www.git-scm.com/download/win",
       "text": "http://www.git-scm.com/download/win"
     }
   ],
-  "html": "<h3>Minimum Server Requirements</h3><p>The following hardware and software is required to run TEAM Mentor.\n</p><h4>Server Side Requirements</h4><ul><li> Windows 2012 R2 (64 Bit) with IIS 8.0 or higher<br></li>\n<li> NET Framework 4.5.1 ( You can download this version from <a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=40779\">http://www.microsoft.com/en-us/download/details.aspx?id=40779</a> )<br></li>\n<li> Git Version Control with Tools ( Available at <a href=\"http://www.git-scm.com/download/win\">http://www.git-scm.com/download/win</a> ) <br></li>\n<li> NodeJS ( Distributed with TEAM Mentor ZIP File  ) <br></li>\n<li> IIS AAR 3.0 Extension ( Distributed with TEAM Mentor ZIP File ) <br></li>\n<li> IIS URLRewrite2 Extension ( Distributed with TEAM Mentor ZIP File ) <br></li>\n<li> 4GB of RAM<br></li>\n<li> 4GB of Storage<br></li>\n<li> 2 URLs. resolvable through DNS. One for administration the other for user access<br></li>\n<li> 2 SSL Certificates. One for each URL. Can be one wildcard or Subject Alternative Names certificate as well.<br></li>\n</ul><p>\nPlease note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. Self-signed certificate may be used for test environments, with administration only available locally.\n</p><h4>Client Side Requirements</h4><p>Following browsers and platforms are supported:\n</p><p>\nThe full version of TEAM Mentor 4.0, code named Flare, supports:<br></p><ul>\n<li> IE 11<br></li>\n<li> Firefox 42 and above<br></li>\n<li> Chrome 46 and above<br></li>\n<li> Safari 9 and above  (on OSX only) <br></li>\n<li> Experimental support for iOS and Android mobile browsers<br></li>\n</ul><p>\nThe fail safe TEAM Mentor 4.0, code named Jade, supports all browsers including IE8 and Lynx. <br>\nMobile browsers for Android and iOS are also supported. \n</p><p>\nTM 3.6 Back-end (used for Administration and Editing) supports the following browsers: <br></p><ul>\n<li> IE 11<br></li>\n<li> Firefox 42 and above<br></li>\n<li> Chrome 46 and above<br></li>\n<li> Safari 9 and above  (on OSX only) <br></li>\n</ul>\n\n\n\n"
+  "html": "<h3>Minimum Server Requirements</h3><p>The following hardware and software is required to run TEAM Mentor.\n</p><h4>Server Side Requirements</h4><ul><li> Windows 2012 R2 (64 Bit) with IIS 8.0 or higher<br></li>\n<li> NET Framework 4.5.1 ( You can download this version from <a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=40779\">http://www.microsoft.com/en-us/download/details.aspx?id=40779</a> )<br></li>\n<li> 7-Zip ( Available at <a href=\"http://www.7-zip.org\">http://www.7-zip.org</a> ) <br></li>\n<li> Git Version Control with Tools ( Available at <a href=\"http://www.git-scm.com/download/win\">http://www.git-scm.com/download/win</a> ) <br></li>\n<li> NodeJS ( Distributed with TEAM Mentor ZIP File  ) <br></li>\n<li> IIS AAR 3.0 Extension ( Distributed with TEAM Mentor ZIP File ) <br></li>\n<li> IIS URLRewrite2 Extension ( Distributed with TEAM Mentor ZIP File ) <br></li>\n<li> 4GB of RAM<br></li>\n<li> 4GB of Storage<br></li>\n<li> 2 URLs. resolvable through DNS. One for administration the other for user access<br></li>\n<li> 2 SSL Certificates. One for each URL. Can be one wildcard or Subject Alternative Names certificate as well.<br></li>\n</ul>\n<p>\nPlease note that you will need 7-Zip application to unzip the TEAM Mentor package. \n</p><p>\nPlease note that it may be possible to run TEAM Mentor with less RAM and Storage. However performance does degrade under load and minimal configuration listed above is recommended for production environments. Also note, when connecting to TEAM Mentor on local machine (connecting to \"localhost\") SSL certificate is not required. Self-signed certificate may be used for test environments, with administration only available locally.\n</p><h4>Client Side Requirements</h4><p>Following browsers and platforms are supported:\n</p><p>\nThe full version of TEAM Mentor 4.0, code named Flare, supports:<br></p><ul>\n<li> IE 11<br></li>\n<li> Firefox 42 and above<br></li>\n<li> Chrome 46 and above<br></li>\n<li> Safari 9 and above  (on OSX only) <br></li>\n<li> Experimental support for iOS and Android mobile browsers<br></li>\n</ul><p>\nThe fail safe TEAM Mentor 4.0, code named Jade, supports all browsers including IE8 and Lynx. <br>\nMobile browsers for Android and iOS are also supported. \n</p><p>\nTM 3.6 Back-end (used for Administration and Editing) supports the following browsers: <br></p><ul>\n<li> IE 11<br></li>\n<li> Firefox 42 and above<br></li>\n<li> Chrome 46 and above<br></li>\n<li> Safari 9 and above  (on OSX only) <br></li>\n</ul>\n\n\n\n"
 }
