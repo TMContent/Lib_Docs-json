@@ -1,0 +1,662 @@
+{
+  "id": "1eda3d77-43e0-474b-be99-9ba118408dd3",
+  "checksum": "7d1e73fc0265a94c21e6e6d1f91c1edf",
+  "words": {
+    "team": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "title"
+    ],
+    "mentor": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "title"
+    ],
+    "is": [
+      "p",
+      "p"
+    ],
+    "an": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "interactive": [
+      "p"
+    ],
+    "application": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "security": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "library": [
+      "p"
+    ],
+    "also": [
+      "p"
+    ],
+    "referred": [
+      "p"
+    ],
+    "to": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "title"
+    ],
+    "as": [
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "a": [
+      "p",
+      "ul",
+      "li",
+      "p"
+    ],
+    "knowledge": [
+      "p"
+    ],
+    "base": [
+      "p"
+    ],
+    "or": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "kb": [
+      "p"
+    ],
+    "that": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "provides": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "answers": [
+      "p"
+    ],
+    "your": [
+      "p",
+      "p"
+    ],
+    "questions": [
+      "p"
+    ],
+    "contains": [
+      "p"
+    ],
+    "thousands": [
+      "p"
+    ],
+    "of": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "articles": [
+      "p"
+    ],
+    "describe": [
+      "p"
+    ],
+    "how": [
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "implement": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "controls": [
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "and": [
+      "p",
+      "p",
+      "p"
+    ],
+    "prevent": [
+      "p",
+      "p"
+    ],
+    "vulnerabilities": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "throughout": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "life": [
+      "p"
+    ],
+    "cycle": [
+      "p"
+    ],
+    "preventing": [
+      "p"
+    ],
+    "during": [
+      "p",
+      "p"
+    ],
+    "development": [
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "the": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "most": [
+      "p"
+    ],
+    "cost": [
+      "p"
+    ],
+    "effective": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "way": [
+      "p"
+    ],
+    "deal": [
+      "p"
+    ],
+    "with": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "defects": [
+      "p"
+    ],
+    "–": [
+      "p"
+    ],
+    "by": [
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "not": [
+      "p"
+    ],
+    "having": [
+      "p"
+    ],
+    "them": [
+      "p"
+    ],
+    "in": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "first": [
+      "p"
+    ],
+    "place": [
+      "p"
+    ],
+    "reduce": [
+      "p"
+    ],
+    "risk": [
+      "p"
+    ],
+    "introducing": [
+      "p"
+    ],
+    "software": [
+      "p"
+    ],
+    "use": [
+      "p",
+      "p",
+      "p"
+    ],
+    "for": [
+      "p",
+      "p"
+    ],
+    "reference": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "identify": [
+      "p"
+    ],
+    "relevant": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "just": [
+      "p"
+    ],
+    "time": [
+      "p"
+    ],
+    "prescriptions": [
+      "p"
+    ],
+    "guide": [
+      "p",
+      "p",
+      "a"
+    ],
+    "their": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "implementation": [
+      "p"
+    ],
+    "increase": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "level": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "assurance": [
+      "p"
+    ],
+    "look": [
+      "p",
+      "p"
+    ],
+    "at": [
+      "p",
+      "p"
+    ],
+    "list": [
+      "p"
+    ],
+    "common": [
+      "p"
+    ],
+    "review": [
+      "p"
+    ],
+    "guidance": [
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "describes": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "these": [
+      "p"
+    ],
+    "then": [
+      "p"
+    ],
+    "verify": [
+      "p"
+    ],
+    "described": [
+      "p"
+    ],
+    "have": [
+      "p"
+    ],
+    "been": [
+      "p"
+    ],
+    "implemented": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "successfully": [
+      "p"
+    ],
+    "can": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "be": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "used": [
+      "p"
+    ],
+    "multiple": [
+      "p"
+    ],
+    "ways": [
+      "p"
+    ],
+    "lifecycle": [
+      "ul",
+      "li"
+    ],
+    "are": [
+      "ul",
+      "li"
+    ],
+    "being": [
+      "ul",
+      "li"
+    ],
+    "applied": [
+      "ul",
+      "li"
+    ],
+    "effectively": [
+      "ul",
+      "li"
+    ],
+    "integrated": [
+      "ul",
+      "li"
+    ],
+    "hp": [
+      "ul",
+      "li"
+    ],
+    "fortify": [
+      "ul",
+      "li"
+    ],
+    "checkmarx": [
+      "ul",
+      "li"
+    ],
+    "static": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "code": [
+      "ul",
+      "li"
+    ],
+    "analysis": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "tools": [
+      "ul",
+      "li"
+    ],
+    "this": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "scenario": [
+      "ul",
+      "li"
+    ],
+    "report": [
+      "ul",
+      "li"
+    ],
+    "produced": [
+      "ul",
+      "li"
+    ],
+    "tool": [
+      "ul",
+      "li"
+    ],
+    "links": [
+      "ul",
+      "li"
+    ],
+    "remove": [
+      "ul",
+      "li"
+    ],
+    "vulnerability": [
+      "ul",
+      "li"
+    ],
+    "browsing": [
+      "ul",
+      "li"
+    ],
+    "content": [
+      "ul",
+      "li"
+    ],
+    "skill": [
+      "ul",
+      "li"
+    ],
+    "developers": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "libraries": [
+      "ul",
+      "li"
+    ],
+    "offer": [
+      "ul",
+      "li"
+    ],
+    "overview": [
+      "ul",
+      "li"
+    ],
+    "currently": [
+      "ul",
+      "li"
+    ],
+    "available": [
+      "ul",
+      "li"
+    ],
+    "information": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "view": [
+      "ul",
+      "li"
+    ],
+    "overall": [
+      "ul",
+      "li"
+    ],
+    "understanding": [
+      "ul",
+      "li"
+    ],
+    "increases": [
+      "ul",
+      "li"
+    ],
+    "please": [
+      "p"
+    ],
+    "take": [
+      "p"
+    ],
+    "our": [
+      "p"
+    ],
+    "quick": [
+      "p",
+      "p",
+      "a"
+    ],
+    "start": [
+      "p",
+      "a"
+    ],
+    "tips": [
+      "p"
+    ],
+    "on": [
+      "p"
+    ],
+    "getting": [
+      "p"
+    ],
+    "started": [
+      "p"
+    ],
+    "introduction": [
+      "title"
+    ]
+  },
+  "tags": {},
+  "links": [
+    {
+      "href": "0bfb008b-49c8-4526-bb6a-0a21d01eeb0e",
+      "text": "Quick Start Guide"
+    }
+  ]
+}

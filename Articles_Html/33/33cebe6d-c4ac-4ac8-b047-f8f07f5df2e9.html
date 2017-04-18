@@ -1,0 +1,52 @@
+<h4>Edit Configuration</h4>
+<p>In the \TM40-PXY directory edit the <em>web.config</em> file using the notepad editor</p>
+<p><img src="/Image/install08.png" alt=""></p>
+<ol>
+<li>
+<p>Change the line:</p>
+<p><code>&lt;action type=&quot;Rewrite&quot; value=&quot;http{R:1}://www.teammentor.net/{R:2}&quot; /&gt;</code></p>
+<p>Replacing <em>www.teammentor.net</em> with the URL  of your site. For example <em>beta.teammentor.net</em></p>
+</li>
+<li>
+<p>Change the lines for custom errors.</p>
+<p>Replacing <em>www.teammentor.net</em> with the URL for your site. Make sure to leave the last /error as is and only change the first part of the URL. For example replace with <em>beta.teammentor.net</em> .</p>
+<p>This is with the exception of the line.</p>
+<p><code>&lt;error statusCode=&quot;403&quot; subStatusCode=&quot;4&quot; path=&quot;https://www.teammentor.net&quot; responseMode=&quot;Redirect&quot; /&gt;</code></p>
+<p>This should have no <em>/error</em> at the end.</p>
+</li>
+<li>
+<p>Change the default error to the correct URL.</p>
+<p><code>&lt;customErrors mode=&quot;RemoteOnly&quot; defaultRedirect=&quot;https://www.teammentor.net/error&quot; /&gt;</code></p>
+</li>
+<li>
+<p>Replace <code>1337</code> in the file with the port value you entered in<code>tm_design</code> in TM40 configuration</p>
+</li>
+</ol>
+<h4>Configure IIS Site.</h4>
+<ul>
+<li>Open IIS and choose to “Add Site”</li>
+<li>Give the site a name. Point the physical path to the TM40-PXY directory.</li>
+<li>Enter the hostname of your TM40 site. This will be the URL most users will be accessing at all times.</li>
+</ul>
+<p><img src="/Image/install09.png" alt=""></p>
+<p>Edit bindings and add the SSL version of the site.</p>
+<h4>Force SSL</h4>
+<ul>
+<li>In the Proxy site you’ve just configured open SSL Settings</li>
+<li>Click on “Require SSL”</li>
+</ul>
+<p><img src="/Image/install10.png" alt=""></p>
+<h4>Enable URL Rewrite</h4>
+<ul>
+<li>In the server node configuration, select Application Request Routing</li>
+<li>Select “Server Proxy Settings” On the right hand side</li>
+<li>Click “Enable Proxy”</li>
+</ul>
+<p><img src="/Image/install11.png" alt=""></p>
+<h4>Disable Unnecessary AAR Header</h4>
+<ul>
+<li>Open command prompt as &quot;Administrator&quot;</li>
+<li>Run the following command</li>
+</ul>
+<pre><code>%windir%\system32\inetsrv\appcmd set config  -section:system.webServer/proxy /arrResponseHeader:&quot;False&quot;  /commit:apphost
+</code></pre>

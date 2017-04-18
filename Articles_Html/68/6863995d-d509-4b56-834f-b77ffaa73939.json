@@ -1,0 +1,116 @@
+{
+  "id": "6863995d-d509-4b56-834f-b77ffaa73939",
+  "checksum": "34d4768a0a7c21964fd76d809d2197b0",
+  "words": {
+    "unfortunately": [
+      "p"
+    ],
+    "hp": [
+      "p"
+    ],
+    "fortify": [
+      "p"
+    ],
+    "does": [
+      "p"
+    ],
+    "not": [
+      "p"
+    ],
+    "provide": [
+      "p"
+    ],
+    "an": [
+      "p"
+    ],
+    "interface": [
+      "p"
+    ],
+    "to": [
+      "p",
+      "p"
+    ],
+    "update": [
+      "p",
+      "p"
+    ],
+    "the": [
+      "p",
+      "p"
+    ],
+    "custom": [
+      "p",
+      "p",
+      "p",
+      "title"
+    ],
+    "rulepacks": [
+      "p"
+    ],
+    "team": [
+      "p",
+      "title"
+    ],
+    "mentor": [
+      "p",
+      "title"
+    ],
+    "rulepack": [
+      "p",
+      "p",
+      "title"
+    ],
+    "you": [
+      "p"
+    ],
+    "must": [
+      "p"
+    ],
+    "manually": [
+      "p"
+    ],
+    "remove": [
+      "p"
+    ],
+    "it": [
+      "p"
+    ],
+    "from": [
+      "p"
+    ],
+    "directory": [
+      "p"
+    ],
+    "%programfiles%\\hp_fortify\\hp_fortify_sca_and_apps_400\\core\\config\\customrules": [
+      "p",
+      "em"
+    ],
+    "by": [
+      "p"
+    ],
+    "deleting": [
+      "p"
+    ],
+    "teammentorrulepackxml": [
+      "p",
+      "strong"
+    ],
+    "file": [
+      "p"
+    ],
+    "and": [
+      "p"
+    ],
+    "installing": [
+      "p"
+    ],
+    "again": [
+      "p"
+    ],
+    "updating": [
+      "title"
+    ]
+  },
+  "tags": {},
+  "links": []
+}

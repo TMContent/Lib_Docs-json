@@ -1,0 +1,13 @@
+<h1>Unzip of the install file requires a passwrd</h1><p>Paid content of TEAM Mentor is distributed via a zip file. However, users can sometimes see this error. This error will be shown by Microsoft unzip program if the destination path is greater then 260 characters. This is the limit in most Windows APIs. To fix, unzip the files into c:\tmp or similar directory with a short name. This will shorten the destination path and allow the unzip operation. Note that other unzip programs such as WinRar will show correct error message, reflecting the file path limit being exceeded.
+</p>
+<h1>IIS Gives "The requested page cannot be accessed because the related configuration data for the page is invalid"</h1><p><img src="/Image/IIS75err1.jpg" alt="">
+</p><p>
+This is caused by the application pool in IIS to be set to the 2.0 CLR. The fix it to make it 4.0
+</p><h2>Application Logs</h2><p> <em>Library\Library_Data\XmlDatabase\Application_Logs</em> directory  contains system logs that are periodically written by TEAM Mentor. Please note that the logs are not written real time, however they are written when an error is detected. 
+</p><p>
+TEAM Mentor 4.0 Logs are written in two places. They are written in real time.
+</p><p>
+<em>TM40\TM_4_0_GraphDB\.logs</em>
+</p><p>
+<em>TM40\TM_4_0_Design\.logs</em>
+</p>

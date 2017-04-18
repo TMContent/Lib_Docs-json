@@ -1,0 +1,840 @@
+{
+  "id": "33cebe6d-c4ac-4ac8-b047-f8f07f5df2e9",
+  "checksum": "ee5a4fe90959620cc263999959267f98",
+  "words": {
+    "1337": [
+      "ol",
+      "li",
+      "p",
+      "code"
+    ],
+    "edit": [
+      "h4",
+      "p",
+      "p"
+    ],
+    "configuration": [
+      "h4",
+      "ol",
+      "li",
+      "p",
+      "ul",
+      "li"
+    ],
+    "in": [
+      "p",
+      "ol",
+      "ol",
+      "li",
+      "li",
+      "p",
+      "p",
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "the": [
+      "p",
+      "p",
+      "p",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "li",
+      "p",
+      "p",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "li",
+      "li",
+      "p",
+      "p",
+      "li",
+      "li",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p",
+      "ul",
+      "li",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "ul",
+      "li"
+    ],
+    "\\tm40": [
+      "p"
+    ],
+    "pxy": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "directory": [
+      "p",
+      "ul",
+      "li"
+    ],
+    "webconfig": [
+      "p",
+      "em"
+    ],
+    "file": [
+      "p",
+      "ol",
+      "li",
+      "p"
+    ],
+    "using": [
+      "p"
+    ],
+    "notepad": [
+      "p"
+    ],
+    "editor": [
+      "p"
+    ],
+    "change": [
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "p",
+      "li",
+      "li",
+      "p",
+      "p",
+      "li",
+      "p"
+    ],
+    "line": [
+      "ol",
+      "ol",
+      "li",
+      "p",
+      "li",
+      "p"
+    ],
+    "action": [
+      "ol",
+      "li",
+      "p",
+      "code"
+    ],
+    "type=rewrite": [
+      "ol",
+      "li",
+      "p",
+      "code"
+    ],
+    "value=http{r1}//wwwteammentornet/{r2}": [
+      "ol",
+      "li",
+      "p",
+      "code"
+    ],
+    "/": [
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "p",
+      "code",
+      "li",
+      "p",
+      "code",
+      "li",
+      "p",
+      "code"
+    ],
+    "replacing": [
+      "ol",
+      "ol",
+      "li",
+      "p",
+      "li",
+      "p"
+    ],
+    "wwwteammentornet": [
+      "ol",
+      "ol",
+      "li",
+      "p",
+      "em",
+      "li",
+      "p",
+      "em"
+    ],
+    "with": [
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "p",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p",
+      "p",
+      "li",
+      "p"
+    ],
+    "url": [
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "p",
+      "li",
+      "li",
+      "p",
+      "p",
+      "li",
+      "p",
+      "ul",
+      "li",
+      "h4"
+    ],
+    "of": [
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "p",
+      "li",
+      "li",
+      "p",
+      "p",
+      "ul",
+      "li",
+      "p"
+    ],
+    "your": [
+      "ol",
+      "ol",
+      "li",
+      "p",
+      "li",
+      "p",
+      "ul",
+      "li"
+    ],
+    "site": [
+      "ol",
+      "ol",
+      "li",
+      "p",
+      "li",
+      "p",
+      "h4",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "p",
+      "ul",
+      "li"
+    ],
+    "for": [
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "p",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p",
+      "p"
+    ],
+    "example": [
+      "ol",
+      "ol",
+      "li",
+      "p",
+      "li",
+      "p"
+    ],
+    "betateammentornet": [
+      "ol",
+      "ol",
+      "li",
+      "p",
+      "em",
+      "li",
+      "p",
+      "em"
+    ],
+    "lines": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "custom": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "errors": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "make": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "sure": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "to": [
+      "ol",
+      "ol",
+      "li",
+      "p",
+      "li",
+      "p",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "leave": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "last": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "/error": [
+      "ol",
+      "ol",
+      "li",
+      "li",
+      "p",
+      "p",
+      "em"
+    ],
+    "as": [
+      "ol",
+      "li",
+      "p",
+      "ul",
+      "li"
+    ],
+    "is": [
+      "ol",
+      "ol",
+      "li",
+      "li",
+      "p",
+      "p"
+    ],
+    "and": [
+      "ol",
+      "li",
+      "p",
+      "ul",
+      "li",
+      "p"
+    ],
+    "only": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "first": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "part": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "replace": [
+      "ol",
+      "ol",
+      "li",
+      "p",
+      "li",
+      "p"
+    ],
+    "this": [
+      "ol",
+      "ol",
+      "li",
+      "li",
+      "p",
+      "p",
+      "ul",
+      "li"
+    ],
+    "exception": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "error": [
+      "ol",
+      "ol",
+      "li",
+      "p",
+      "code",
+      "li",
+      "p"
+    ],
+    "statuscode=403": [
+      "ol",
+      "li",
+      "p",
+      "code"
+    ],
+    "substatuscode=4": [
+      "ol",
+      "li",
+      "p",
+      "code"
+    ],
+    "path=https//wwwteammentornet": [
+      "ol",
+      "li",
+      "p",
+      "code"
+    ],
+    "responsemode=redirect": [
+      "ol",
+      "li",
+      "p",
+      "code"
+    ],
+    "should": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "have": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "no": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "at": [
+      "ol",
+      "li",
+      "p",
+      "ul",
+      "li"
+    ],
+    "end": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "default": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "correct": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "customerrors": [
+      "ol",
+      "li",
+      "p",
+      "code"
+    ],
+    "mode=remoteonly": [
+      "ol",
+      "li",
+      "p",
+      "code"
+    ],
+    "defaultredirect=https//wwwteammentornet/error": [
+      "ol",
+      "li",
+      "p",
+      "code"
+    ],
+    "port": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "value": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "you": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "entered": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "intm_design": [
+      "ol",
+      "li",
+      "p"
+    ],
+    "tm40": [
+      "ol",
+      "li",
+      "p",
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "tm_design": [
+      "code"
+    ],
+    "configure": [
+      "h4"
+    ],
+    "iis": [
+      "h4",
+      "ul",
+      "li"
+    ],
+    "open": [
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "choose": [
+      "ul",
+      "li"
+    ],
+    "“add": [
+      "ul",
+      "li"
+    ],
+    "site”": [
+      "ul",
+      "li"
+    ],
+    "give": [
+      "ul",
+      "li"
+    ],
+    "a": [
+      "ul",
+      "li"
+    ],
+    "name": [
+      "ul",
+      "li"
+    ],
+    "point": [
+      "ul",
+      "li"
+    ],
+    "physical": [
+      "ul",
+      "li"
+    ],
+    "path": [
+      "ul",
+      "li"
+    ],
+    "enter": [
+      "ul",
+      "li"
+    ],
+    "hostname": [
+      "ul",
+      "li"
+    ],
+    "will": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "be": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "most": [
+      "ul",
+      "li"
+    ],
+    "users": [
+      "ul",
+      "li"
+    ],
+    "accessing": [
+      "ul",
+      "li"
+    ],
+    "all": [
+      "ul",
+      "li"
+    ],
+    "times": [
+      "ul",
+      "li"
+    ],
+    "bindings": [
+      "p"
+    ],
+    "add": [
+      "p"
+    ],
+    "ssl": [
+      "p",
+      "h4",
+      "ul",
+      "li"
+    ],
+    "version": [
+      "p"
+    ],
+    "force": [
+      "h4"
+    ],
+    "proxy": [
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "title"
+    ],
+    "you’ve": [
+      "ul",
+      "li"
+    ],
+    "just": [
+      "ul",
+      "li"
+    ],
+    "configured": [
+      "ul",
+      "li"
+    ],
+    "settings": [
+      "ul",
+      "li"
+    ],
+    "click": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "on": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "“require": [
+      "ul",
+      "li"
+    ],
+    "ssl”": [
+      "ul",
+      "li"
+    ],
+    "enable": [
+      "h4"
+    ],
+    "rewrite": [
+      "h4"
+    ],
+    "server": [
+      "ul",
+      "li"
+    ],
+    "node": [
+      "ul",
+      "li"
+    ],
+    "select": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "application": [
+      "ul",
+      "li"
+    ],
+    "request": [
+      "ul",
+      "li"
+    ],
+    "routing": [
+      "ul",
+      "li"
+    ],
+    "“server": [
+      "ul",
+      "li"
+    ],
+    "settings”": [
+      "ul",
+      "li"
+    ],
+    "right": [
+      "ul",
+      "li"
+    ],
+    "hand": [
+      "ul",
+      "li"
+    ],
+    "side": [
+      "ul",
+      "li"
+    ],
+    "“enable": [
+      "ul",
+      "li"
+    ],
+    "proxy”": [
+      "ul",
+      "li"
+    ],
+    "disable": [
+      "h4"
+    ],
+    "unnecessary": [
+      "h4"
+    ],
+    "aar": [
+      "h4"
+    ],
+    "header": [
+      "h4"
+    ],
+    "command": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "prompt": [
+      "ul",
+      "li"
+    ],
+    "administrator": [
+      "ul",
+      "li"
+    ],
+    "run": [
+      "ul",
+      "li"
+    ],
+    "following": [
+      "ul",
+      "li"
+    ],
+    "%windir%\\system32\\inetsrv\\appcmd": [
+      "pre",
+      "code"
+    ],
+    "set": [
+      "pre",
+      "code"
+    ],
+    "config": [
+      "pre",
+      "code"
+    ],
+    "": [
+      "pre",
+      "code"
+    ],
+    "sectionsystemwebserver/proxy": [
+      "pre",
+      "code"
+    ],
+    "/arrresponseheaderfalse": [
+      "pre",
+      "code"
+    ],
+    "/commitapphost": [
+      "pre",
+      "code"
+    ],
+    "installing": [
+      "title"
+    ],
+    "reverse": [
+      "title"
+    ]
+  },
+  "tags": {},
+  "links": []
+}

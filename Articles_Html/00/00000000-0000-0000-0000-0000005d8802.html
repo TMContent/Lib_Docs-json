@@ -1,0 +1,77 @@
+
+<h2>Configuration File</h2><p>To edit TEAM Mentor 3.6 Back-end configuration, go to TBot screen from the main Admin menu and select <em>Edit TMConfig</em> from the <em>Admin - Config</em> row.
+</p><p>
+The interface will show you various configurable options broken down by specific areas.
+</p><p>
+The following are some of the settings available in the TM Security section. Settings not mentioned below should not be changed without contacting SI support. Default values of the settings are provided in ():
+</p><p>
+<img src="/Image/tmcfg01.jpg" alt="">
+</p><p>
+<strong>Show Content to Anonymous Users</strong> (true)-  (depreciated, should always be set to false) This setting defines whether or not full articles will be displayed to unauthenticated users.<br>
+<strong>Show Library to Anonymous Users</strong>(true) - (depreciated, should always be set to false) This setting defines whether or not library structure is displayed to unauthenticated users. In case this is unchecked and  "Show Content to Anonymous Users" is disabled, all the user will see is a login screen when accessing TEAM Mentor<br>
+<strong>SSL Redirect Http to Https</strong> (true)- This setting redirects all non SSL traffic, except for traffic coming from localhost, to SSL port. This ensures all TEAM Mentor traffic is protected using SSL.<br>
+<strong>New Accounts Enabled</strong> (true)- Activates / Deactivates the user approval workflow. If this is unchecked, all users that sign up will have to be approved by the administrator. See <a href="00000000-0000-0000-0000-0000001c8add">Managing Users</a><br>
+<strong>New Accounts Don't Expire</strong>(false) - Specifies if new accounts created by users signing up have an expiration date<br>
+<strong>Eval Accounts Enabled</strong> (true)- This setting specifies if unauthenticated users will be able to create accounts on the system for Evaluation purposes (only works if ShowContentToAnonymousUsers=false) (note: due to current limitation, if set to "false" users are still able to create accounts on the system which will not expire, see <a href="00000000-0000-0000-0000-0000005d8802">Managing Users for workaround</a>)<br>
+<strong>Eval Accounts Days</strong> (15) - This specifies the duration, in days, that self-created account will have read access to the content (only works if ShowContentToAnonymousUsers=false and NewAccountsDon'tExpire=false ). <br>
+<strong>Default Admin: UserName</strong>(admin)  -  Set this option to define the default administrator user name. This user name will be used to manage TEAM Mentor in the early stages of using it.<br>
+<strong>Default Admin: Password</strong> (!!tmadmin) -  Set this option to define the default administrator password. This password, together with the default administrator user name, will be used to manage TEAM Mentor in the initial setup stage. It is highly recommended to change the administrator password, using the <em>"Change Password"</em> link on the UI, right after TEAM Mentor had started for the first time.<br>
+<strong>Default Admin: Email</strong>( TM_alerts@securityinnovation.com) - Specifies the email address of the "admin" account.<br>
+</p> <p>
+<br>
+</p><p>
+The following are some of the settings available in the TM Setup section. Settings not mentioned below should not be changed without contacting SI support. Default values of the settings are provided in ():
+</p><p>
+<img src="/Image/tmcfg02.jpg" alt="">
+</p>
+<p>
+<strong>Xml Libraries Path</strong>(TM_Libraries) This is the path to the library files. This is the location of Lib_UNO library. The value of this property can be either an absolute path or a path relative to the <em>"\Library_Data\XmlDatabase"</em> folder. <br>
+<strong>EnableGZipForWebServices</strong>(true) - This option enables or disables GZip compression for WebService interaction with TEAM Mentor. GZip compression generally increases performance.<br>
+</p><p>
+<br>
+</p><p>
+The following are some of the settings available in the Git section. Settings not mentioned below should not be changed without contacting SI support. Default values of the settings are provided in ():
+</p><p>
+<img src="/Image/tmcfg03.jpg" alt="">
+</p><p>
+<strong>Auto Commit UserData</strong>(false) - Specifies if any changes to <em>User_Data</em> directory (including the configuration file) will be automatically saved and versioned using built in Git auto-commit mechanism
+<strong>Auto Commit LibraryData</strong>(false) - Specifies if any changes to the content of the library will be automatically save and versioned using built in Git auto-commit mechanism. 
+</p><p>
+<br>
+</p><p>
+For information on Windows Authentication section see <a href="6e3221bf-08b8-4de1-bb3b-4edacc85fab6">Active Directory Support</a>
+</p><p>
+<img src="/Image/tmcfg04.jpg" alt="">
+</p><p>
+<br>
+</p><p>
+All settings not otherwise available via the GUI are available using the Config File Content Editor, which is displayed at the bottom of the configuration page. Note that the content editor is not synchronized with the GUI and vice versa. Save the settings and reload the page in order for changes to be reflected in both sections.
+</p><p>
+<img src="/Image/tmcfg05.jpg" alt="">
+</p><p>
+<br>
+</p>
+<h2>Secret Configuration File</h2><p>To edit TEAM Mentor Secret configuration, go to TBot screen from the main Admin menu and select Edit Secret Data from the Admin - Config row. This configuration contains parameters that are sensitive in nature. These include SMTP user accounts and passwords, Git repository user names, and others. These, with the exception of SMTP parameters, should not be edited unless following specific instructions for enabling a feature, or unless directed by SI support staff. 
+</p><p>
+<img src="/Image/tmcfg06.jpg" alt="">
+</p><p>
+<strong> Libraries Git</strong> - This is a full git path to a library repository<br>
+<strong>Rijndael_IV</strong> and <strong>Rijndael_Key</strong> - Are used for encryption technology in TEAM Mentor<br>
+</p><p>
+Firebase Config is to be used under supervision of support staff only.
+</p><p>
+<img src="/Image/tmcfg07.jpg" alt="">
+</p>
+<p>
+For SMTP Configuration see <a href="d0b2bade-6d25-4c61-8ae3-94ae0110f959">Configuring Email</a>
+</p><p>
+<img src="/Image/tmcfg08.jpg" alt="">
+</p>
+<p>
+All settings not otherwise available via the GUI are available using the Config File Content Editor, which is displayed at the bottom of the configuration page. Note that the content editor is not synchronized with the GUI and vice versa. Save the settings and reload the page in order for changes to be reflected in both sections.
+The configuration file is physically located under /\Library_Data\XmlDatabase\User_Data\TMSecretData.config<em>  it can be edited by hand if necessary.
+</em></p><p>
+<img src="/Image/tmcfg09.jpg" alt="">
+</p>
+
+

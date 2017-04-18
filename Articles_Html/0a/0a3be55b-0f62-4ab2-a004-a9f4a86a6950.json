@@ -1,0 +1,221 @@
+{
+  "id": "0a3be55b-0f62-4ab2-a004-a9f4a86a6950",
+  "checksum": "f62e6d36ab8e33854c996bb87adf2db8",
+  "words": {
+    "36": [
+      "ol",
+      "li",
+      "a",
+      "p",
+      "a"
+    ],
+    "40": [
+      "p",
+      "ol",
+      "li",
+      "a"
+    ],
+    "installation": [
+      "p",
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "p",
+      "p",
+      "title"
+    ],
+    "of": [
+      "p",
+      "p",
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "a",
+      "li",
+      "a",
+      "li",
+      "a",
+      "p"
+    ],
+    "team": [
+      "p",
+      "ol",
+      "ol",
+      "li",
+      "a",
+      "li",
+      "a",
+      "p",
+      "a"
+    ],
+    "mentor": [
+      "p",
+      "ol",
+      "ol",
+      "li",
+      "a",
+      "li",
+      "a",
+      "p",
+      "a"
+    ],
+    "consists": [
+      "p"
+    ],
+    "three": [
+      "p"
+    ],
+    "major": [
+      "p"
+    ],
+    "steps": [
+      "p"
+    ],
+    "back": [
+      "ol",
+      "li",
+      "a"
+    ],
+    "end": [
+      "ol",
+      "ol",
+      "li",
+      "a",
+      "li",
+      "a"
+    ],
+    "front": [
+      "ol",
+      "li",
+      "a"
+    ],
+    "and": [
+      "ol",
+      "li",
+      "a"
+    ],
+    "configuration": [
+      "ol",
+      "li",
+      "a"
+    ],
+    "iis": [
+      "ol",
+      "li",
+      "a"
+    ],
+    "reverse": [
+      "ol",
+      "li",
+      "a"
+    ],
+    "proxy": [
+      "ol",
+      "li",
+      "a"
+    ],
+    "first": [
+      "p"
+    ],
+    "start": [
+      "p"
+    ],
+    "by": [
+      "p",
+      "p"
+    ],
+    "unzipping": [
+      "p"
+    ],
+    "the": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "file": [
+      "p"
+    ],
+    "you": [
+      "p"
+    ],
+    "should": [
+      "p"
+    ],
+    "have": [
+      "p"
+    ],
+    "following": [
+      "p",
+      "p"
+    ],
+    "directory": [
+      "p"
+    ],
+    "structure": [
+      "p"
+    ],
+    "install": [
+      "p",
+      "p"
+    ],
+    "all": [
+      "p",
+      "p"
+    ],
+    "components": [
+      "p"
+    ],
+    "in": [
+      "p"
+    ],
+    "dependencies": [
+      "p"
+    ],
+    "folder": [
+      "p"
+    ],
+    "using": [
+      "p"
+    ],
+    "defaults": [
+      "p"
+    ],
+    "continue": [
+      "p"
+    ],
+    "instructions": [
+      "p",
+      "a"
+    ],
+    "preparation": [
+      "title"
+    ]
+  },
+  "tags": {},
+  "links": [
+    {
+      "href": "article/fa3888bd-c6d0-4f51-a4d1-0470794140b2",
+      "text": "Installation of TEAM Mentor 3.6 Back-end "
+    },
+    {
+      "href": "article/0a27b133-4b24-40ed-98b1-6ac7f35da716",
+      "text": "Installation  of TEAM Mentor 4.0 Front-end"
+    },
+    {
+      "href": "article/33cebe6d-c4ac-4ac8-b047-f8f07f5df2e9",
+      "text": "Installation and configuration of IIS Reverse Proxy"
+    },
+    {
+      "href": "article/fa3888bd-c6d0-4f51-a4d1-0470794140b2",
+      "text": "TEAM Mentor 3.6 instructions."
+    }
+  ]
+}

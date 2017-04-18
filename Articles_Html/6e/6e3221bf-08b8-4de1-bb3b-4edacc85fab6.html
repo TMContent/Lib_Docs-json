@@ -1,0 +1,110 @@
+<p><strong>This is configured on the TEAM Mentor 3.6 Backend.</strong>
+</p><p>
+By default TEAM Mentor uses its Xml-based User Store, however Active Directory integration is also supported.  TEAM Mentor can use AD to authenticate and authorize users.
+</p><h3>Set-up</h3><p>These are the steps required to set it up
+</p><p>
+<strong>Step 1: Configure web.config file </strong>
+</p><p>
+In this file which you will find in the Web Root  <em>\Web Applications\TM_Website</em> you need to make the following changes:
+</p><p>
+In the system.web identity element:
+</p><p>
+Set the impersonate value to <em>true</em>, by default it is set to <em>false</em>, <br>
+<em>&lt;identity impersonate="<strong>true</strong>"&gt;&lt;/identity&gt;</em>
+</p><p>
+Set the authentication mode to <em>Windows</em>, by default it is set to <em>None</em><br>
+<em>&lt;authentication mode="<strong>Windows</strong>"&gt;&lt;/authentication&gt;</em>
+</p><p>
+Your new &lt;system.web&gt; properties should have these values:
+</p><pre>    &lt;system.web&gt;
+    ...
+    &lt;identity impersonate="true"&gt;&lt;/identity&gt;
+    &lt;authentication mode="Windows"&gt;&lt;/authentication&gt;
+    ... 
+    &lt;/system.web&gt;
+</pre><p>
+<br>
+</p><p>
+In system.webServer section:
+</p><p>
+Add the this tag:
+<em>&lt;validation validateintegratedmodeconfiguration="false"&gt;&lt;/validation&gt;</em>
+</p><p>
+Set the modules runAllManagedModulesForAllRequest to <em>true</em>
+<em>&lt;modules runallmanagedmodulesforallrequest="true"&gt;&lt;/modules&gt;</em>
+</p><p>
+Your new &lt;system.webserver&gt; should have these values:
+</p><pre>   &lt;system.webserver&gt;
+    ...
+    &lt;validation validateintegratedmodeconfiguration="false"&gt;&lt;/validation&gt;
+    &lt;modules runallmanagedmodulesforallrequest="true"&gt;&lt;/modules&gt;    
+    ...	
+    &lt;/system.webserver&gt;
+</pre>
+<p>
+<br>
+</p><p>
+<strong>Step 2: Configure TMConfig.Config file </strong>
+</p><p>
+Open the TMConfig editor by clicking on <em>Tbot</em> in the <em>Admin</em> menu and selecting <em>Edit TMConfig</em> from the <em>Admin - Config </em> row. In the Windows Authentication section you need to Enable Windows Authentication and set the relevant security groups. By default Windows Authentication is set to false, so you will need to set the Enabled element to true and change the ReaderGroup, EditorGroup, AdminGroup values to match your Active Directory security group names. Your Windows Authentication section should look something similar to this.
+</p><p>
+<img src="/Image/tmcfg10.jpg" alt="">
+</p><p>
+<br>
+</p><p>
+Alternatively you can make the same changes in the actual TMConfig.Config xml file if necessary. This file you will find in the <em>Library_Data\XmlDatabase\User_Data</em> or an alternative location if you have set one. Make sure that the Active Directory groups names are correct. You can verify this information by following the instructions in Step 4: Security settings.
+</p>
+<p>
+Your TMConfig file Windows Authentication section should look similar to the below. 
+</p><pre>		&lt;windowsauthentication&gt;
+			&lt;enabled&gt;true&lt;/enabled&gt;
+			&lt;readergroup&gt;TMREAD&lt;/readergroup&gt;
+			&lt;editorgroup&gt;TMEDIT&lt;/editorgroup&gt;
+			&lt;admingroup&gt;TMADMIN&lt;/admingroup&gt;
+		&lt;/windowsauthentication&gt;
+	
+</pre><p>
+<br>
+</p><p>
+<strong>Step 3: Disabling IIS Anonymous access  and Enabling Windows Authentication </strong>
+</p><p>
+Make sure you have already installed Windows Authentication in the server where you are configuring TEAM Mentor to use Active Directory.   Windows Authentication can be installed from the Add Roles and Features from the Server Manager Dashboard. You can read more about how to install Windows Authentication here <a href="http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication">http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication</a>
+</p><p>
+This is the server roles screen that shows how to install Windows Authentication:
+<img src="/Image/adins1.png" alt="">
+</p><p>
+<br>
+</p><p>
+Once Windows Authentication has been installed, then it's necessary to enable it for the current Web site and then disable Anonymous access. 
+In order to to that, you need to select the TEAM Mentor Web site and then select the Authentication feature from the IIS group. Make sure Anonymous access is disabled and Windows Authentication is enabled for this Web site.
+<img src="/Image/adins2.png" alt="">
+</p><p>
+<br>
+</p><p>
+<strong>Step 4: IIS Application Pool configuration </strong>
+</p><p>
+When configuring TEAM Mentor Web site in the Internet Information Services (IIS), you need to create a new Application Pool or assign it to an existing Application Pool. In any of those cases, this pool needs to be configured to always use the Microsoft .NET framework  4.0 or higher. Also the Managed pipeline mode needs to be <strong>Integrated</strong>.
+</p><p>
+<strong>Step 5: Security settings </strong>
+</p><p>
+Now that you have created the Web site, you need to assign security permissions. First you need grant the application pool identity with permissions on the Web Site. When discovering the user, you will need to use the format <strong>IIS AppPool\[Name of the Application Pool]</strong>.You need to find this user at the server level and not at the domain level.
+</p><p>
+Then you need to grant the Active Directory groups with permissions in the TEAM Mentor Web application. If there is an Active Directory group called TeamMentorReader for instance, which should be used just for readers, then you need to grant this group with permissions in the TEAM Mentor site. You need to select the Web site, right click on it, and select the Edit Permissions option from the contextual menu, from there you need to enter the group name.
+</p><p>
+<img src="/Image/adins3.png" alt="">
+</p><p>
+Make sure that the Active Directory groups have access to the TEAM Mentor Web Application by adding them to the target folder and grant them with read and write permissions.
+<br>
+</p>
+<h2>Troubleshoot</h2><p><strong>Q: You get a 401 error when connecting to the IIS server from a remote computer, but it works locally</strong>
+</p><p>
+<strong>A: </strong> See this Microsoft KB for a workaround <a href="http://support.microsoft.com/kb/871179">http://support.microsoft.com/kb/871179</a>
+</p><p>
+<strong>Q: You get this error when running TEAM Mentor on a fresh IIS installation: <em>"Handler'"WebServiceHandlerFactory-Integrated' has a bad module 'ManagedPipelineHandler' in its module list."</em></strong>
+</p><p>
+<strong>A: </strong> Try running <em>aspnet_regiis.exe -i</em> from the .Net 4.0 folder. See this post for more details: <a href="http://forums.iis.net/p/1149449/1869918.aspx">http://forums.iis.net/p/1149449/1869918.aspx</a>
+</p>
+<h2>References</h2><ul><li> on why need to set validateIntegratedModeConfiguration=false<ul>
+<li> <a href="http://forums.iis.net/t/1187993.aspx">http://forums.iis.net/t/1187993.aspx</a></li></ul></li>
+<li> Installing Windows Authentication<ul>
+<li> <a href="http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication/providers/add">http://www.iis.net/configreference/system.webserver/security/authentication/windowsauthentication/providers/add</a>&lt;/system.webserver&gt;&lt;/system.web&gt;</li></ul></li></ul>

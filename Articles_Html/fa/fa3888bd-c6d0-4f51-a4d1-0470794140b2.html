@@ -1,0 +1,89 @@
+<h4>Install and configure IIS (if not already installed)</h4>
+<ul>
+<li>Use the Windows Role Manager to install the HTTPS Server role.</li>
+<li>Select ASP.NET 4.5 as an additional feature under .NET 4.5 Framework.</li>
+</ul>
+<p><img src="/Image/install02.png" alt=""></p>
+<p><img src="/Image/install03.png" alt=""></p>
+<h4>Edit the TEAM Mentor 3.6 Configuration file</h4>
+<ul>
+<li>In notepad open &quot;\TM36\Library_Data\XmlDatabase\User_Data\TMConfig.config&quot;</li>
+<li>Edit the following two lines and provide the correct pull path for the TM40 directory</li>
+</ul>
+<pre><code>&lt;TMReloadDataScriptPath&gt;C:\TEAM Mentor\TM01-Site_www.teammentor.net\TM40\TM\bin\reload_data.bat&lt;/TMReloadDataScriptPath&gt;
+
+&lt;XmlLibrariesPath&gt;C:\TEAM Mentor\TM01-Site_www.teammentor.net\TM40\TM\data&lt;/XmlLibrariesPath&gt;
+</code></pre>
+<h4>Add TEAM Mentor as a site in IIS.</h4>
+<ul>
+<li>Open the &quot;Internet Information Services (IIS) Manager&quot;.</li>
+<li>Navigate to the &quot;Sites&quot; folder in the &quot;Connections&quot; tree on the left.</li>
+<li>Right click on the &quot;Sites&quot; folder.</li>
+<li>Select &quot;Add Web Site...” An &quot;Add Web Site&quot; window should appear.</li>
+<li>Enter a name for the site in the &quot;Site name:&quot; text box.</li>
+<li>Click the &quot;...&quot; next to the &quot;Physical path:&quot; text box to set the root of the web site. A &quot;Browse for Folder&quot; window should appear.</li>
+<li>Select to the &quot;TM36\TeamMentor\Publish\Website.3.5&quot; folder inside the TEAM Mentor root folder you unzipped</li>
+<li>Enter the hostname that TM36 will be accessible as.</li>
+<li>Click &quot;Ok&quot;. Set the port in the &quot;Port:&quot; text box, if necessary.</li>
+<li>Click &quot;OK&quot;.</li>
+<li>The &quot;Add Web Site&quot; window should close and a new web site should appear in the &quot;Sites&quot; folder in the tree on the left of the &quot;Internet Information Services (IIS) Manager&quot; window.</li>
+<li>A new web site should appear in the tree structure on the left of the &quot;Internet Information Services (IIS) Manager&quot; window.</li>
+</ul>
+<h4>Set up SSL.</h4>
+<p>SSL is enabled by default for TEAM Mentor. Therefore it is necessary to set up SSL certificate. (Note: It is possible to disable SSL configuration)</p>
+<p>First generate a CSR</p>
+<ul>
+<li>Open the &quot;Internet Information Services (IIS) Manager&quot;.</li>
+<li>Double click on the &quot;Server Certificates&quot; menu in the &quot;Security&quot; section</li>
+<li>From the &quot;Actions&quot; menu click on &quot;Create Certificate Request.&quot;</li>
+<li>Follow the Wizzard to create the CSR</li>
+<li>Send the CSR to your Certificate Authority for Signing</li>
+</ul>
+<p>Install your certificate</p>
+<ul>
+<li>Open the &quot;Internet Information Services (IIS) Manager&quot;.</li>
+<li>Double click on the &quot;Server Certificates&quot; menu in the &quot;Security&quot; section</li>
+<li>From the &quot;Actions&quot; menu click on &quot;Complete Certificate Request.</li>
+<li>&quot;Browse&quot; for your SSL Certificate file received from the Certificate Authority, then Click Next. Follow the rest of the wizard steps until finished.</li>
+<li>Now assign the certificate to the newly created web site. Under &quot;Sites&quot; Select the web site</li>
+<li>From the &quot;action menu&quot; click on &quot;Bindings&quot;</li>
+<li>Click &quot;Add&quot; in the window that just poped up</li>
+<li>Under &quot;type&quot; choose 'https’</li>
+<li>Select the certificate you just imported.</li>
+<li>Under “hostname” type the name URL that this site will be accessible as using HTTPS. (Note that TM40 will connect to TM36 via this URL)</li>
+<li>The SSL Certificate should be the certificate you just installed.</li>
+<li>Click OK</li>
+</ul>
+<h4>Set up Permissions</h4>
+<p>Find the account used by IIS needs to have full control privileges to the TEAM Mentor Library_Data folder</p>
+<p>On IIS 8 the application account name is the same as Application Pool name. This is the Windows user account used by the IIS Application Pool configured on the TEAM Mentor website.</p>
+<ul>
+<li>On the &quot;Internet Information Services (IIS) Manager&quot;.</li>
+<li>Navigate to &quot;Application Pools&quot; in the tree on the left</li>
+<li>Find the Application Pool name, it will be the same as the &quot;Site Name&quot; you have created in step 3 above.</li>
+<li>Make sure that the .NET Framework version is set to v4.0. Otherwise double click on the Application Pool and set the correct version</li>
+<li>Take a note of the Application Pool name.</li>
+<li>Adjust the file-system permissions. Give full control permissions for the following folders to the Windows user account that is used to run TEAM Mentor. This is the username that has been discovered in the previous step.</li>
+</ul>
+<ul>
+<li>“\TM36\Library_Data”</li>
+<li>&quot;\TM40\TM\data&quot;</li>
+<li>&quot;\TM40\TM\code\TM_Graph\.tmCache&quot;</li>
+<li>&quot;\TM40\TM\build\TM_4_0_JSON_Data&quot;</li>
+</ul>
+<p>To do this, for each of the folders</p>
+<pre><code>- Right click on the folder
+- Select &quot;Properties&quot;. A &quot;Properties&quot; window should appear. 
+- Select the &quot;Security&quot; tab in the &quot;Properties&quot; window..
+- Give &quot;Full Control&quot; to the account IIS AppPool\&lt;AppPoolName&gt; where the AppPoolName is the name identified above.
+- Click &quot;OK&quot;
+</code></pre>
+<h4>Configure the TM36 Backend</h4>
+<p>Login to TM36 Backend using the URL you’ve specified in the installation step. (Make sure the URL resolves via DNS). Use an account with admin privileges. Refer to release notes for default admin account information.</p>
+<ul>
+<li>Click on <code>Tbot</code> in the upper right corner.</li>
+<li>Select <code>Edit Secret Data</code></li>
+<li>Enter your SMPT Server information in the appropriate field.</li>
+<li>Enter the URL of your <em>TM40</em> installation in “TEAM Mentor Server URL”</li>
+</ul>
+<p>Continue by going through <a href="0a27b133-4b24-40ed-98b1-6ac7f35da716">Installation of TEAM Mentor 4.0</a></p>

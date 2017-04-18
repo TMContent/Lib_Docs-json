@@ -1,0 +1,221 @@
+{
+  "id": "39274045-7359-4ed4-9be8-b92232b7bbbf",
+  "checksum": "365b7c715c8e47d0a6d4d500e3f1d80c",
+  "words": {
+    "32": [
+      "ul",
+      "li"
+    ],
+    "64": [
+      "ul",
+      "li"
+    ],
+    "371": [
+      "p",
+      "em"
+    ],
+    "372": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "422": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "431": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "2008": [
+      "ul",
+      "li"
+    ],
+    "osx/windows": [
+      "ul",
+      "li"
+    ],
+    "xp/windows": [
+      "ul",
+      "li"
+    ],
+    "7/windows": [
+      "ul",
+      "li"
+    ],
+    "server": [
+      "ul",
+      "li"
+    ],
+    "any": [
+      "ul",
+      "li"
+    ],
+    "os": [
+      "ul",
+      "li"
+    ],
+    "that": [
+      "ul",
+      "li",
+      "p",
+      "em"
+    ],
+    "runs": [
+      "ul",
+      "li"
+    ],
+    "eclipse": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "would": [
+      "ul",
+      "li"
+    ],
+    "work": [
+      "ul",
+      "li"
+    ],
+    "and": [
+      "ul",
+      "li"
+    ],
+    "bit": [
+      "ul",
+      "li"
+    ],
+    "versions": [
+      "ul",
+      "li",
+      "p",
+      "em",
+      "ul",
+      "li"
+    ],
+    "are": [
+      "ul",
+      "li",
+      "p",
+      "em",
+      "ul",
+      "li"
+    ],
+    "supported": [
+      "ul",
+      "li",
+      "p",
+      "em",
+      "ul",
+      "li"
+    ],
+    "kepler": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "juno": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "indigo": [
+      "ul",
+      "li",
+      "ul",
+      "li",
+      "p",
+      "em"
+    ],
+    "note": [
+      "p",
+      "em"
+    ],
+    "other": [
+      "p",
+      "em"
+    ],
+    "variations": [
+      "p",
+      "em"
+    ],
+    "of": [
+      "p",
+      "em"
+    ],
+    "these": [
+      "p",
+      "em"
+    ],
+    "such": [
+      "p",
+      "em"
+    ],
+    "as": [
+      "p",
+      "em"
+    ],
+    "also": [
+      "p",
+      "em"
+    ],
+    "however": [
+      "p",
+      "em"
+    ],
+    "they": [
+      "p",
+      "em"
+    ],
+    "have": [
+      "p",
+      "em"
+    ],
+    "not": [
+      "p",
+      "em"
+    ],
+    "been": [
+      "p",
+      "em"
+    ],
+    "extensively": [
+      "p",
+      "em"
+    ],
+    "tested": [
+      "p",
+      "em"
+    ],
+    "java": [
+      "ul",
+      "li"
+    ],
+    "17x": [
+      "ul",
+      "li"
+    ],
+    "fortify": [
+      "ul",
+      "li"
+    ],
+    "plugin": [
+      "ul",
+      "li"
+    ],
+    "requirements": [
+      "title"
+    ]
+  },
+  "tags": {},
+  "links": []
+}

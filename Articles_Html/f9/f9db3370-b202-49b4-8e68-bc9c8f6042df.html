@@ -1,0 +1,23 @@
+<p>To see the TEAM Mentor Eclipse Plugin for Fortify at work you can scan a sample, purposely vulnerable application. For this we have chosen “BodgeIt Store” – A vulnerable web application aimed at people new to pen testing.  You can read more about the application here:
+</p><p>
+	<a href="https://code.google.com/p/bodgeit/">https://code.google.com/p/bodgeit/</a>
+</p><p>
+<br>
+Follow these steps to download, import and scan the application:
+</p><ol>
+<li>We use SVN to checkout the latest source code version of the application. TortoiseSVN provides a nice graphical interface. The SVN source code repository is found here:<br> <br>
+<a href="http://bodgeit.googlecode.com/svn/trunk/">http://bodgeit.googlecode.com/svn/trunk/</a> <br> <br>
+<img src="/Image/ftsmp1.jpg" alt=""> <br> <br> <br></li>
+<li>TortoiseSVN will download the source code <br> <br>
+<img src="/Image/ftsmp2.jpg" alt=""> <br> <br> <br></li>
+<li>Open HP Fortify Audit Workbench.  Choose File-&gt;Scan Java Project. Now open the directory where you have stored the source code.  Choose Java Version to be 1.5. And take all the default scan settings. Then click on “Run Scan” <br> <br>
+<img src="/Image/ftsmp3.jpg" alt=""> <br> <br> <br></li>
+<li>Once the scan completes, you will see the findings on the left pane. <br> <br>
+<img src="/Image/ftsmp4.jpg" alt=""> <br> <br> <br></li>
+<li>Expand “Cross-Site Scripting: Persistent” folder in the category list on the right pane. Click on one of the findings.  Click on the Details tab on the bottom. You will see TEAM Mentor guidance show up in the “Custom Explanation” Field <br> <br>
+<img src="/Image/ftsmp5.jpg" alt=""> <br> <br> <br>
+You will also see further TEAM Mentor guidance on the “Recommendations” Tab <br> <br>
+<img src="/Image/ftsmp5-1.jpg" alt=""> <br> <br> <br></li>
+<li>Expand the “Race Condition: Singleton Member Field” in the category on the right pane. Click on one finding. You will notice that there is no TEAM Mentor guidance available for this finding. You may use regular Fortify guidance available on the bottom pane.  <br> <br>
+<img src="/Image/ftsmp6.jpg" alt=""> <br> <br>
+<img src="/Image/ftsmp6-1.jpg" alt=""> <br> <br></li></ol>

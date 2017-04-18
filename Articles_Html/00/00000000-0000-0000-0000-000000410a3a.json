@@ -1,0 +1,779 @@
+{
+  "id": "00000000-0000-0000-0000-000000410a3a",
+  "checksum": "b26db6f34c309b47b2bc3d7a0b0cf369",
+  "words": {
+    "2": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "7": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "9": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "11": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "30": [
+      "ul",
+      "li"
+    ],
+    "36": [
+      "p"
+    ],
+    "40": [
+      "p",
+      "p"
+    ],
+    "42": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "46": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "64": [
+      "ul",
+      "li"
+    ],
+    "80": [
+      "ul",
+      "li"
+    ],
+    "451": [
+      "ul",
+      "li"
+    ],
+    "2012": [
+      "ul",
+      "li"
+    ],
+    "minimum": [
+      "h3",
+      "title"
+    ],
+    "server": [
+      "h3",
+      "h4"
+    ],
+    "requirements": [
+      "h3",
+      "h4",
+      "h4",
+      "title"
+    ],
+    "the": [
+      "p",
+      "ul",
+      "li",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "following": [
+      "p",
+      "p",
+      "p"
+    ],
+    "hardware": [
+      "p"
+    ],
+    "and": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "software": [
+      "p"
+    ],
+    "is": [
+      "p",
+      "p",
+      "p"
+    ],
+    "required": [
+      "p",
+      "p"
+    ],
+    "to": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "run": [
+      "p",
+      "p"
+    ],
+    "team": [
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "mentor": [
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "side": [
+      "h4",
+      "h4"
+    ],
+    "windows": [
+      "ul",
+      "li"
+    ],
+    "r2": [
+      "ul",
+      "li"
+    ],
+    "bit": [
+      "ul",
+      "li"
+    ],
+    "with": [
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p"
+    ],
+    "iis": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "or": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "higher": [
+      "ul",
+      "li"
+    ],
+    "net": [
+      "ul",
+      "li"
+    ],
+    "framework": [
+      "ul",
+      "li"
+    ],
+    "you": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "can": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "download": [
+      "ul",
+      "li"
+    ],
+    "this": [
+      "ul",
+      "li"
+    ],
+    "version": [
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "p"
+    ],
+    "from": [
+      "ul",
+      "li"
+    ],
+    "http//wwwmicrosoftcom/en": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "us/download/detailsaspx?id=40779": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "zip": [
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p"
+    ],
+    "available": [
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "p"
+    ],
+    "at": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "http//www7": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "ziporg": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "git": [
+      "ul",
+      "li"
+    ],
+    "control": [
+      "ul",
+      "li"
+    ],
+    "tools": [
+      "ul",
+      "li"
+    ],
+    "http//wwwgit": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "scmcom/download/win": [
+      "ul",
+      "li",
+      "a"
+    ],
+    "nodejs": [
+      "ul",
+      "li"
+    ],
+    "distributed": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "file": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "aar": [
+      "ul",
+      "li"
+    ],
+    "extension": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "urlrewrite2": [
+      "ul",
+      "li"
+    ],
+    "4gb": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "of": [
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "p"
+    ],
+    "ram": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "storage": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "urls": [
+      "ul",
+      "li"
+    ],
+    "resolvable": [
+      "ul",
+      "li"
+    ],
+    "through": [
+      "ul",
+      "li"
+    ],
+    "dns": [
+      "ul",
+      "li"
+    ],
+    "one": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "for": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p",
+      "ul",
+      "li",
+      "p",
+      "p"
+    ],
+    "administration": [
+      "ul",
+      "li",
+      "p",
+      "p"
+    ],
+    "other": [
+      "ul",
+      "li"
+    ],
+    "user": [
+      "ul",
+      "li"
+    ],
+    "access": [
+      "ul",
+      "li"
+    ],
+    "ssl": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "certificates": [
+      "ul",
+      "li"
+    ],
+    "each": [
+      "ul",
+      "li"
+    ],
+    "url": [
+      "ul",
+      "li"
+    ],
+    "be": [
+      "ul",
+      "li",
+      "p",
+      "p"
+    ],
+    "wildcard": [
+      "ul",
+      "li"
+    ],
+    "subject": [
+      "ul",
+      "li"
+    ],
+    "alternative": [
+      "ul",
+      "li"
+    ],
+    "names": [
+      "ul",
+      "li"
+    ],
+    "certificate": [
+      "ul",
+      "li",
+      "p",
+      "p"
+    ],
+    "as": [
+      "ul",
+      "li"
+    ],
+    "well": [
+      "ul",
+      "li"
+    ],
+    "please": [
+      "p",
+      "p"
+    ],
+    "note": [
+      "p",
+      "p",
+      "p"
+    ],
+    "that": [
+      "p",
+      "p"
+    ],
+    "will": [
+      "p"
+    ],
+    "need": [
+      "p"
+    ],
+    "application": [
+      "p"
+    ],
+    "unzip": [
+      "p"
+    ],
+    "package": [
+      "p"
+    ],
+    "it": [
+      "p"
+    ],
+    "may": [
+      "p",
+      "p"
+    ],
+    "possible": [
+      "p"
+    ],
+    "less": [
+      "p"
+    ],
+    "however": [
+      "p"
+    ],
+    "performance": [
+      "p"
+    ],
+    "does": [
+      "p"
+    ],
+    "degrade": [
+      "p"
+    ],
+    "under": [
+      "p"
+    ],
+    "load": [
+      "p"
+    ],
+    "minimal": [
+      "p"
+    ],
+    "configuration": [
+      "p"
+    ],
+    "listed": [
+      "p"
+    ],
+    "above": [
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li"
+    ],
+    "recommended": [
+      "p"
+    ],
+    "production": [
+      "p"
+    ],
+    "environments": [
+      "p",
+      "p"
+    ],
+    "also": [
+      "p",
+      "p"
+    ],
+    "when": [
+      "p"
+    ],
+    "connecting": [
+      "p",
+      "p"
+    ],
+    "on": [
+      "p",
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "local": [
+      "p"
+    ],
+    "machine": [
+      "p"
+    ],
+    "localhost": [
+      "p"
+    ],
+    "not": [
+      "p"
+    ],
+    "self": [
+      "p"
+    ],
+    "signed": [
+      "p"
+    ],
+    "used": [
+      "p",
+      "p"
+    ],
+    "test": [
+      "p"
+    ],
+    "only": [
+      "p",
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "locally": [
+      "p"
+    ],
+    "client": [
+      "h4"
+    ],
+    "browsers": [
+      "p",
+      "ul",
+      "li",
+      "p",
+      "p",
+      "p"
+    ],
+    "platforms": [
+      "p"
+    ],
+    "are": [
+      "p",
+      "p"
+    ],
+    "supported": [
+      "p",
+      "p"
+    ],
+    "full": [
+      "p"
+    ],
+    "code": [
+      "p",
+      "p"
+    ],
+    "named": [
+      "p",
+      "p"
+    ],
+    "flare": [
+      "p"
+    ],
+    "supports": [
+      "p",
+      "p",
+      "p"
+    ],
+    "ie": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "firefox": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "chrome": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "safari": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "osx": [
+      "ul",
+      "li",
+      "ul",
+      "li"
+    ],
+    "experimental": [
+      "ul",
+      "li"
+    ],
+    "support": [
+      "ul",
+      "li"
+    ],
+    "ios": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "android": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "mobile": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "fail": [
+      "p"
+    ],
+    "safe": [
+      "p"
+    ],
+    "jade": [
+      "p"
+    ],
+    "all": [
+      "p"
+    ],
+    "including": [
+      "p"
+    ],
+    "ie8": [
+      "p"
+    ],
+    "lynx": [
+      "p"
+    ],
+    "tm": [
+      "p"
+    ],
+    "back": [
+      "p"
+    ],
+    "end": [
+      "p"
+    ],
+    "editing": [
+      "p"
+    ]
+  },
+  "tags": {},
+  "links": [
+    {
+      "href": "http://www.microsoft.com/en-us/download/details.aspx?id=40779",
+      "text": "http://www.microsoft.com/en-us/download/details.aspx?id=40779"
+    },
+    {
+      "href": "http://www.7-zip.org",
+      "text": "http://www.7-zip.org"
+    },
+    {
+      "href": "http://www.git-scm.com/download/win",
+      "text": "http://www.git-scm.com/download/win"
+    }
+  ]
+}

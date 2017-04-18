@@ -1,0 +1,434 @@
+{
+  "id": "00000000-0000-0000-0000-0000002df883",
+  "checksum": "8a1b0875a0fad83f6e2926ab6ac620c0",
+  "words": {
+    "editing": [
+      "h1",
+      "p",
+      "p",
+      "a",
+      "p",
+      "p",
+      "a"
+    ],
+    "article": [
+      "h1",
+      "p",
+      "strong",
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p",
+      "p",
+      "a",
+      "title"
+    ],
+    "metadata": [
+      "h1",
+      "p",
+      "strong",
+      "p",
+      "p",
+      "p",
+      "a",
+      "title"
+    ],
+    "guidance": [
+      "p",
+      "strong"
+    ],
+    "item": [
+      "p",
+      "strong"
+    ],
+    "each": [
+      "p"
+    ],
+    "has": [
+      "p"
+    ],
+    "the": [
+      "p",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "following": [
+      "p"
+    ],
+    "meta": [
+      "p"
+    ],
+    "data": [
+      "p"
+    ],
+    "title": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "strong"
+    ],
+    "is": [
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "that": [
+      "ul",
+      "li"
+    ],
+    "displayed": [
+      "ul",
+      "li"
+    ],
+    "in": [
+      "ul",
+      "li",
+      "p",
+      "p",
+      "p"
+    ],
+    "list": [
+      "ul",
+      "li",
+      "p"
+    ],
+    "technology": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "strong"
+    ],
+    "tag": [
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p"
+    ],
+    "reflects": [
+      "ul",
+      "li"
+    ],
+    "what": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "applies": [
+      "ul",
+      "li"
+    ],
+    "to": [
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "p",
+      "p"
+    ],
+    "phase": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "strong"
+    ],
+    "signifies": [
+      "ul",
+      "li"
+    ],
+    "which": [
+      "ul",
+      "li"
+    ],
+    "of": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "p",
+      "p"
+    ],
+    "software": [
+      "ul",
+      "li"
+    ],
+    "development": [
+      "ul",
+      "li"
+    ],
+    "life": [
+      "ul",
+      "li"
+    ],
+    "cycle": [
+      "ul",
+      "li"
+    ],
+    "relevant": [
+      "ul",
+      "li"
+    ],
+    "type": [
+      "ul",
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "li",
+      "strong"
+    ],
+    "describes": [
+      "ul",
+      "ul",
+      "li",
+      "li"
+    ],
+    "category": [
+      "ul",
+      "ul",
+      "li",
+      "li",
+      "strong"
+    ],
+    "kind": [
+      "ul",
+      "li"
+    ],
+    "security": [
+      "ul",
+      "li"
+    ],
+    "control": [
+      "ul",
+      "li"
+    ],
+    "about": [
+      "ul",
+      "li"
+    ],
+    "values": [
+      "p",
+      "p"
+    ],
+    "these": [
+      "p",
+      "p"
+    ],
+    "fields": [
+      "p"
+    ],
+    "create": [
+      "p"
+    ],
+    "filters": [
+      "p"
+    ],
+    "and": [
+      "p",
+      "p"
+    ],
+    "a": [
+      "p",
+      "p"
+    ],
+    "drop": [
+      "p",
+      "p",
+      "p"
+    ],
+    "down": [
+      "p",
+      "p"
+    ],
+    "items": [
+      "p",
+      "h1"
+    ],
+    "editor": [
+      "p",
+      "p"
+    ],
+    "can": [
+      "p"
+    ],
+    "be": [
+      "p"
+    ],
+    "changed": [
+      "p"
+    ],
+    "wysiwyg": [
+      "p"
+    ],
+    "window": [
+      "p"
+    ],
+    "use": [
+      "p"
+    ],
+    "downs": [
+      "p"
+    ],
+    "change": [
+      "p"
+    ],
+    "articles": [
+      "p",
+      "p",
+      "p",
+      "a",
+      "p",
+      "p",
+      "a"
+    ],
+    "add": [
+      "p"
+    ],
+    "new": [
+      "p"
+    ],
+    "enter": [
+      "p"
+    ],
+    "field": [
+      "p"
+    ],
+    "click": [
+      "p"
+    ],
+    "“save": [
+      "p"
+    ],
+    "changes”": [
+      "p"
+    ],
+    "related": [
+      "h1"
+    ],
+    "for": [
+      "p",
+      "p",
+      "p"
+    ],
+    "more": [
+      "p"
+    ],
+    "information": [
+      "p",
+      "p",
+      "p"
+    ],
+    "on": [
+      "p",
+      "p",
+      "p"
+    ],
+    "see": [
+      "p",
+      "p",
+      "p"
+    ],
+    "edit": [
+      "p",
+      "a",
+      "title"
+    ],
+    "html": [
+      "p",
+      "p",
+      "a"
+    ],
+    "wikitext": [
+      "p",
+      "p",
+      "a"
+    ]
+  },
+  "tags": {},
+  "links": [
+    {
+      "href": "00000000-0000-0000-0000-0000002df883",
+      "text": "Edit Article Metadata"
+    },
+    {
+      "href": "00000000-0000-0000-0000-0000003ea057",
+      "text": "Editing HTML Articles"
+    },
+    {
+      "href": "00000000-0000-0000-0000-00000079da36",
+      "text": "Editing WikiText Articles"
+    }
+  ]
+}

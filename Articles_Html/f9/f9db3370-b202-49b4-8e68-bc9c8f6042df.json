@@ -1,0 +1,697 @@
+{
+  "id": "f9db3370-b202-49b4-8e68-bc9c8f6042df",
+  "checksum": "9789d244ef69faa7f19d57a6960caac9",
+  "words": {
+    "15": [
+      "ol",
+      "li"
+    ],
+    "to": [
+      "p",
+      "p",
+      "p",
+      "ol",
+      "ol",
+      "li",
+      "li"
+    ],
+    "see": [
+      "p",
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "li",
+      "li"
+    ],
+    "the": [
+      "p",
+      "p",
+      "p",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "team": [
+      "p",
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "li",
+      "li"
+    ],
+    "mentor": [
+      "p",
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "li",
+      "li"
+    ],
+    "eclipse": [
+      "p"
+    ],
+    "plugin": [
+      "p"
+    ],
+    "for": [
+      "p",
+      "p",
+      "ol",
+      "li"
+    ],
+    "fortify": [
+      "p",
+      "ol",
+      "ol",
+      "li",
+      "li"
+    ],
+    "at": [
+      "p",
+      "p"
+    ],
+    "work": [
+      "p"
+    ],
+    "you": [
+      "p",
+      "p",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "can": [
+      "p",
+      "p"
+    ],
+    "scan": [
+      "p",
+      "p",
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "li",
+      "li"
+    ],
+    "a": [
+      "p",
+      "p",
+      "ol",
+      "li",
+      "title"
+    ],
+    "sample": [
+      "p",
+      "title"
+    ],
+    "purposely": [
+      "p"
+    ],
+    "vulnerable": [
+      "p",
+      "p",
+      "title"
+    ],
+    "application": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "ol",
+      "li",
+      "title"
+    ],
+    "this": [
+      "p",
+      "ol",
+      "li"
+    ],
+    "we": [
+      "p",
+      "ol",
+      "li"
+    ],
+    "have": [
+      "p",
+      "ol",
+      "li"
+    ],
+    "chosen": [
+      "p"
+    ],
+    "“bodgeit": [
+      "p"
+    ],
+    "store”": [
+      "p"
+    ],
+    "–": [
+      "p"
+    ],
+    "web": [
+      "p"
+    ],
+    "aimed": [
+      "p"
+    ],
+    "people": [
+      "p"
+    ],
+    "new": [
+      "p"
+    ],
+    "pen": [
+      "p"
+    ],
+    "testing": [
+      "p"
+    ],
+    "read": [
+      "p"
+    ],
+    "more": [
+      "p"
+    ],
+    "about": [
+      "p"
+    ],
+    "here": [
+      "p",
+      "ol",
+      "li"
+    ],
+    "https//codegooglecom/p/bodgeit/": [
+      "p",
+      "a"
+    ],
+    "follow": [
+      "p"
+    ],
+    "these": [
+      "p"
+    ],
+    "steps": [
+      "p"
+    ],
+    "download": [
+      "p",
+      "ol",
+      "li"
+    ],
+    "import": [
+      "p"
+    ],
+    "and": [
+      "p",
+      "ol",
+      "li"
+    ],
+    "use": [
+      "ol",
+      "ol",
+      "li",
+      "li"
+    ],
+    "svn": [
+      "ol",
+      "ol",
+      "li",
+      "li"
+    ],
+    "checkout": [
+      "ol",
+      "li"
+    ],
+    "latest": [
+      "ol",
+      "li"
+    ],
+    "source": [
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "code": [
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "version": [
+      "ol",
+      "ol",
+      "li",
+      "li"
+    ],
+    "of": [
+      "ol",
+      "ol",
+      "li",
+      "li"
+    ],
+    "tortoisesvn": [
+      "ol",
+      "ol",
+      "li",
+      "li"
+    ],
+    "provides": [
+      "ol",
+      "li"
+    ],
+    "nice": [
+      "ol",
+      "li"
+    ],
+    "graphical": [
+      "ol",
+      "li"
+    ],
+    "interface": [
+      "ol",
+      "li"
+    ],
+    "repository": [
+      "ol",
+      "li"
+    ],
+    "is": [
+      "ol",
+      "ol",
+      "li",
+      "li"
+    ],
+    "found": [
+      "ol",
+      "li"
+    ],
+    "http//bodgeitgooglecodecom/svn/trunk/": [
+      "ol",
+      "li",
+      "a"
+    ],
+    "will": [
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "open": [
+      "ol",
+      "ol",
+      "li",
+      "li"
+    ],
+    "hp": [
+      "ol",
+      "li"
+    ],
+    "audit": [
+      "ol",
+      "li"
+    ],
+    "workbench": [
+      "ol",
+      "li"
+    ],
+    "choose": [
+      "ol",
+      "ol",
+      "li",
+      "li"
+    ],
+    "file": [
+      "ol",
+      "li"
+    ],
+    "java": [
+      "ol",
+      "ol",
+      "li",
+      "li"
+    ],
+    "project": [
+      "ol",
+      "li"
+    ],
+    "now": [
+      "ol",
+      "li"
+    ],
+    "directory": [
+      "ol",
+      "li"
+    ],
+    "where": [
+      "ol",
+      "li"
+    ],
+    "stored": [
+      "ol",
+      "li"
+    ],
+    "be": [
+      "ol",
+      "li"
+    ],
+    "take": [
+      "ol",
+      "li"
+    ],
+    "all": [
+      "ol",
+      "li"
+    ],
+    "default": [
+      "ol",
+      "li"
+    ],
+    "settings": [
+      "ol",
+      "li"
+    ],
+    "then": [
+      "ol",
+      "li"
+    ],
+    "click": [
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "on": [
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "“run": [
+      "ol",
+      "li"
+    ],
+    "scan”": [
+      "ol",
+      "li"
+    ],
+    "once": [
+      "ol",
+      "li"
+    ],
+    "completes": [
+      "ol",
+      "li"
+    ],
+    "findings": [
+      "ol",
+      "ol",
+      "li",
+      "li"
+    ],
+    "left": [
+      "ol",
+      "li"
+    ],
+    "pane": [
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "expand": [
+      "ol",
+      "ol",
+      "li",
+      "li"
+    ],
+    "“cross": [
+      "ol",
+      "li"
+    ],
+    "site": [
+      "ol",
+      "li"
+    ],
+    "scripting": [
+      "ol",
+      "li"
+    ],
+    "persistent”": [
+      "ol",
+      "li"
+    ],
+    "folder": [
+      "ol",
+      "li"
+    ],
+    "in": [
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "li",
+      "li"
+    ],
+    "category": [
+      "ol",
+      "ol",
+      "li",
+      "li"
+    ],
+    "list": [
+      "ol",
+      "li"
+    ],
+    "right": [
+      "ol",
+      "ol",
+      "li",
+      "li"
+    ],
+    "one": [
+      "ol",
+      "ol",
+      "li",
+      "li"
+    ],
+    "details": [
+      "ol",
+      "li"
+    ],
+    "tab": [
+      "ol",
+      "ol",
+      "li",
+      "li"
+    ],
+    "bottom": [
+      "ol",
+      "ol",
+      "li",
+      "li"
+    ],
+    "guidance": [
+      "ol",
+      "ol",
+      "ol",
+      "ol",
+      "li",
+      "li",
+      "li",
+      "li"
+    ],
+    "show": [
+      "ol",
+      "li"
+    ],
+    "up": [
+      "ol",
+      "li"
+    ],
+    "“custom": [
+      "ol",
+      "li"
+    ],
+    "explanation”": [
+      "ol",
+      "li"
+    ],
+    "field": [
+      "ol",
+      "li"
+    ],
+    "also": [
+      "ol",
+      "li"
+    ],
+    "further": [
+      "ol",
+      "li"
+    ],
+    "“recommendations”": [
+      "ol",
+      "li"
+    ],
+    "“race": [
+      "ol",
+      "li"
+    ],
+    "condition": [
+      "ol",
+      "li"
+    ],
+    "singleton": [
+      "ol",
+      "li"
+    ],
+    "member": [
+      "ol",
+      "li"
+    ],
+    "field”": [
+      "ol",
+      "li"
+    ],
+    "finding": [
+      "ol",
+      "ol",
+      "li",
+      "li"
+    ],
+    "notice": [
+      "ol",
+      "li"
+    ],
+    "that": [
+      "ol",
+      "li"
+    ],
+    "there": [
+      "ol",
+      "li"
+    ],
+    "no": [
+      "ol",
+      "li"
+    ],
+    "available": [
+      "ol",
+      "ol",
+      "li",
+      "li"
+    ],
+    "may": [
+      "ol",
+      "li"
+    ],
+    "regular": [
+      "ol",
+      "li"
+    ],
+    "using": [
+      "title"
+    ]
+  },
+  "tags": {},
+  "links": [
+    {
+      "href": "https://code.google.com/p/bodgeit/",
+      "text": "https://code.google.com/p/bodgeit/"
+    },
+    {
+      "href": "http://bodgeit.googlecode.com/svn/trunk/",
+      "text": "http://bodgeit.googlecode.com/svn/trunk/"
+    }
+  ]
+}

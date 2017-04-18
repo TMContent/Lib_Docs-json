@@ -1,0 +1,451 @@
+{
+  "id": "00000000-0000-0000-0000-0000003ea057",
+  "checksum": "0a6e8fe65e4033b81da1ab703b0cb0ca",
+  "words": {
+    "editing": [
+      "h1",
+      "h1",
+      "p",
+      "p",
+      "p",
+      "p",
+      "a",
+      "p",
+      "p",
+      "a",
+      "title"
+    ],
+    "html": [
+      "h1",
+      "p",
+      "p",
+      "p",
+      "h1",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "a",
+      "title"
+    ],
+    "articles": [
+      "h1",
+      "h1",
+      "p",
+      "p",
+      "a",
+      "p",
+      "p",
+      "a",
+      "title"
+    ],
+    "in": [
+      "h1",
+      "p",
+      "p",
+      "p",
+      "h1",
+      "p",
+      "p",
+      "p"
+    ],
+    "edit": [
+      "h1",
+      "p",
+      "p",
+      "p",
+      "a"
+    ],
+    "mode": [
+      "h1",
+      "p"
+    ],
+    "double": [
+      "p"
+    ],
+    "clicking": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "on": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "an": [
+      "p"
+    ],
+    "article": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "a"
+    ],
+    "“edit": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "mode”": [
+      "p",
+      "h1",
+      "p"
+    ],
+    "brings": [
+      "p"
+    ],
+    "up": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "the": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "built": [
+      "p"
+    ],
+    "wysiwyg": [
+      "p",
+      "p"
+    ],
+    "editor": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "you": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "can": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "click": [
+      "p",
+      "p",
+      "p"
+    ],
+    "“view": [
+      "p",
+      "h1",
+      "p",
+      "p",
+      "p"
+    ],
+    "source": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "icon”": [
+      "p",
+      "p"
+    ],
+    "to": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "code": [
+      "p",
+      "p"
+    ],
+    "metadata": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "a"
+    ],
+    "such": [
+      "p",
+      "p"
+    ],
+    "as": [
+      "p",
+      "p"
+    ],
+    "title": [
+      "p",
+      "p"
+    ],
+    "technology": [
+      "p",
+      "p"
+    ],
+    "phase": [
+      "p",
+      "p"
+    ],
+    "type": [
+      "p",
+      "p",
+      "p"
+    ],
+    "and": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "category": [
+      "p",
+      "p"
+    ],
+    "etc": [
+      "p",
+      "p"
+    ],
+    "also": [
+      "p",
+      "p"
+    ],
+    "be": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "modified": [
+      "p",
+      "p"
+    ],
+    "this": [
+      "p",
+      "p"
+    ],
+    "see": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "related": [
+      "p",
+      "p",
+      "h1"
+    ],
+    "items": [
+      "p",
+      "p",
+      "h1"
+    ],
+    "for": [
+      "p",
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "more": [
+      "p",
+      "p"
+    ],
+    "details": [
+      "p",
+      "p"
+    ],
+    "accomplished": [
+      "p"
+    ],
+    "by": [
+      "p",
+      "p"
+    ],
+    "ether": [
+      "p"
+    ],
+    "wysiwyg”": [
+      "p"
+    ],
+    "or": [
+      "p"
+    ],
+    "source”": [
+      "p",
+      "p"
+    ],
+    "buttons": [
+      "p"
+    ],
+    "wysiwing”": [
+      "p"
+    ],
+    "will": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ],
+    "bring": [
+      "p",
+      "p",
+      "p"
+    ],
+    "already": [
+      "p"
+    ],
+    "familiar": [
+      "p"
+    ],
+    "window": [
+      "p"
+    ],
+    "further": [
+      "p"
+    ],
+    "save": [
+      "p"
+    ],
+    "changes": [
+      "p",
+      "p"
+    ],
+    "your": [
+      "p",
+      "p"
+    ],
+    "edits": [
+      "p"
+    ],
+    "“save": [
+      "p",
+      "p"
+    ],
+    "changes”": [
+      "p",
+      "p"
+    ],
+    "button": [
+      "p"
+    ],
+    "article”": [
+      "p"
+    ],
+    "view": [
+      "p",
+      "p"
+    ],
+    "however": [
+      "p"
+    ],
+    "not": [
+      "p"
+    ],
+    "saved": [
+      "p"
+    ],
+    "unless": [
+      "p"
+    ],
+    "go": [
+      "p"
+    ],
+    "back": [
+      "p"
+    ],
+    "a": [
+      "p"
+    ],
+    "different": [
+      "p"
+    ],
+    "here": [
+      "p"
+    ],
+    "modify": [
+      "p"
+    ],
+    "change": [
+      "p"
+    ],
+    "data": [
+      "p",
+      "p"
+    ],
+    "currently": [
+      "p"
+    ],
+    "wikitext": [
+      "p",
+      "p",
+      "p",
+      "a"
+    ],
+    "types": [
+      "p"
+    ],
+    "are": [
+      "p"
+    ],
+    "supported": [
+      "p"
+    ],
+    "information": [
+      "p",
+      "p",
+      "p"
+    ]
+  },
+  "tags": {},
+  "links": [
+    {
+      "href": "00000000-0000-0000-0000-0000002df883",
+      "text": "Edit Article Metadata"
+    },
+    {
+      "href": "00000000-0000-0000-0000-0000003ea057",
+      "text": "Editing HTML Articles"
+    },
+    {
+      "href": "00000000-0000-0000-0000-00000079da36",
+      "text": "Editing WikiText Articles"
+    }
+  ]
+}
